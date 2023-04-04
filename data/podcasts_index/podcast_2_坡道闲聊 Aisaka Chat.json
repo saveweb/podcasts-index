@@ -1,0 +1,24 @@
+{
+    "id": 2,
+    "enabled": true,
+    "title": "坡道闲聊 Aisaka Chat",
+    "link": "https://podcast.aisaka.cc/",
+    "feed_url": "https://podcast.aisaka.cc/feed/podcast",
+    "summary": "一档十分不专业的播客节目？",
+    "language": "zh-CN",
+    "saveweb": {
+        "created_timestamp": 1680624909,
+        "last_success_timestamp": 1680629274,
+        "last_checked_timestamp": 1680629274,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

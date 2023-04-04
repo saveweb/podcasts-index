@@ -1,0 +1,24 @@
+{
+    "id": 3,
+    "enabled": true,
+    "title": "Anyway.FM 设计杂谈",
+    "link": "https://anyway.fm",
+    "feed_url": "https://anyway.fm/rss.xml",
+    "summary": null,
+    "language": "zh-CN",
+    "saveweb": {
+        "created_timestamp": 1680626500,
+        "last_success_timestamp": 1680629287,
+        "last_checked_timestamp": 1680629287,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

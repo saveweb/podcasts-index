@@ -1,0 +1,24 @@
+{
+    "id": 6,
+    "enabled": true,
+    "title": "Echo.js",
+    "link": "https://www.echojspodcast.com",
+    "feed_url": "https://feeds.fireside.fm/echojs/rss",
+    "summary": "关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1680629896,
+        "last_success_timestamp": 1680630045,
+        "last_checked_timestamp": 1680630045,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

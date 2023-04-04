@@ -1,0 +1,24 @@
+{
+    "id": 5,
+    "enabled": true,
+    "title": "Casticle",
+    "link": "https://casticle.fm",
+    "feed_url": "https://feeds.fireside.fm/casticle/rss",
+    "summary": "Casticle由「podcast」与「listicle」合成而来，是一档以推荐单集英文播客为节目形式的中文播客。每集节目将为你推荐三集各有特色的英文播客，评述它们的精彩之处，整理相关的内容资源与知识脉络。通过我们的筛选与策划，希望能帮助你直接获取一手信息，接触英文原生内容，享受随之而来的快乐与启发。",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1680629330,
+        "last_success_timestamp": 1680629547,
+        "last_checked_timestamp": 1680629547,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

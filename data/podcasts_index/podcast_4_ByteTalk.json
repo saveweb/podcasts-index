@@ -1,0 +1,24 @@
+{
+    "id": 4,
+    "enabled": true,
+    "title": "ByteTalk",
+    "link": "https://bytetalk.fm",
+    "feed_url": "https://bytetalk.fm/index.xml",
+    "summary": "聊聊程序员的故事",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680629043,
+        "last_success_timestamp": 1680629290,
+        "last_checked_timestamp": 1680629290,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}
