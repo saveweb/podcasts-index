@@ -1,15 +1,15 @@
 {
-    "id": 3,
+    "id": 8,
     "enabled": true,
-    "title": "Anyway.FM 设计杂谈",
-    "link": "https://anyway.fm",
-    "feed_url": "https://anyway.fm/rss.xml",
+    "title": "EmacsTalk",
+    "link": "https://emacstalk.codeberg.page/podcast/",
+    "feed_url": "https://emacstalk.codeberg.page/podcast/index.xml",
     "summary": null,
-    "language": "zh-CN",
+    "language": "zh-cn",
     "saveweb": {
-        "created_timestamp": 1680626500,
-        "last_success_timestamp": 1680706249,
-        "last_checked_timestamp": 1680706249,
+        "created_timestamp": 1680707026,
+        "last_success_timestamp": 1680707175,
+        "last_checked_timestamp": 1680707175,
         "last_checked_status": "success"
     },
     "ids": {

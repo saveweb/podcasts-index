@@ -1,0 +1,24 @@
+{
+    "id": 10,
+    "enabled": true,
+    "title": "Full of Mind",
+    "link": "http://fom.fm",
+    "feed_url": "https://fom.fm/rss",
+    "summary": "Full of Mind, aka 福乐满。这是一档主播与嘉宾1v1的茶话会。每一期我会邀请一位好友做跨界访谈。在挖掘嘉宾们擅长领域的同时，我会加入一些心理方面的现象解释，或者认知神经科学的小科普。欢迎大家订阅收听。\nTelegram交流群：https://bit.ly/38yl201\n<a href=\"https://mastodon.social/@iJoy\" rel=\"me\">Mastodon</a>",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1680708205,
+        "last_success_timestamp": 1680708508,
+        "last_checked_timestamp": 1680708508,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": 12,
+    "enabled": true,
+    "title": "NickTalk",
+    "link": "https://nicktalk.com",
+    "feed_url": "http://nicktalk.com/feed/audio.xml",
+    "summary": "格物致知，興趣相投。紀錄關於政治、科技和文化的奇思妙想。",
+    "language": "zh-hant",
+    "saveweb": {
+        "created_timestamp": 1680709852,
+        "last_success_timestamp": 1680710738,
+        "last_checked_timestamp": 1680710738,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

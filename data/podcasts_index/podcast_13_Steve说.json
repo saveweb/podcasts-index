@@ -1,0 +1,24 @@
+{
+    "id": 13,
+    "enabled": true,
+    "title": "Steve说",
+    "link": "http://steveshuo.com",
+    "feed_url": "http://steveshuo.com/rss",
+    "summary": "“Steve说”被评为2019苹果最佳播客，这是一个基于泛心理学视角，通过深度交流拓展意识边界，探索个人成长之道，加深对自我和世界理解的谈话类节目。主播史秀雄是独立心理咨询师，译有现象级心理学著作《人生十二法则》，著有畅销书《假性亲密关系》，国内首档男性气质主题播客《Man立》的主播，心理学讲师，2017年中国最具影响力的50位心理学者，巴西柔术蓝带，哈雷骑手。微博@Steve说，公众号/知乎@史秀雄Steve，微信：stevesfk。",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1680710886,
+        "last_success_timestamp": 1680716362,
+        "last_checked_timestamp": 1680716362,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}
