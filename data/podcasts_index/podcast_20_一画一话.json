@@ -1,0 +1,24 @@
+{
+    "id": 20,
+    "enabled": true,
+    "title": "一画一话",
+    "link": "https://www.theviewtalk.com",
+    "feed_url": "https://www.theviewtalk.com/rss",
+    "summary": "都市文化有声杂志，编辑部在上海。\n中文播客界第一个专注现当代艺术的节目。\n​给您进阶一点点的文艺分享。",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1680887424,
+        "last_success_timestamp": 1680887908,
+        "last_checked_timestamp": 1680887908,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}
