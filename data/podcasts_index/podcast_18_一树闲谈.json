@@ -1,0 +1,24 @@
+{
+    "id": 18,
+    "enabled": true,
+    "title": "一树闲谈",
+    "link": "https://www.arbretalk.com",
+    "feed_url": "https://www.arbretalk.com/rss",
+    "summary": "一档艺术类跑题闲聊节目\n邮箱：arbretalk@outlook.com\n微信公号：一树arbre\n地址：深圳市福田区园岭新村74号楼103",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1680852180,
+        "last_success_timestamp": 1680853737,
+        "last_checked_timestamp": 1680853737,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

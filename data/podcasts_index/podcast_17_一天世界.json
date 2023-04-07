@@ -1,0 +1,24 @@
+{
+    "id": 17,
+    "enabled": true,
+    "title": "一天世界",
+    "link": "https://yitianshijie.net",
+    "feed_url": "https://yitianshijie.net/feed/audio.xml",
+    "summary": "一天世界，昆乱不挡。不鳥萬如一主理。IPN 出品。\n\n《一天世界》博客：http://blog.yitianshijie.net",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680833353,
+        "last_success_timestamp": 1680834413,
+        "last_checked_timestamp": 1680834413,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}
