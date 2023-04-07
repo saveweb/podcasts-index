@@ -1,0 +1,24 @@
+{
+    "id": 14,
+    "enabled": true,
+    "title": "UX Coffee 设计咖",
+    "link": "https://uxcoffee.com/",
+    "feed_url": "https://uxcoffee.com/feed/audio.xml",
+    "summary": "我们试图通过和设计这个世界的人们交谈，探寻创造的过程。\n\n合作：uxcoffee123@gmail.com",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680718432,
+        "last_success_timestamp": 1680719397,
+        "last_checked_timestamp": 1680719397,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": 15,
+    "enabled": true,
+    "title": "播客 – WEB VIEW",
+    "link": "https://webview.tech",
+    "feed_url": "https://webview.tech/category/podcast/feed/",
+    "summary": "不囿于 WEB，不止于 VIEW，WEB VIEW 是由王隐、洋葱、敬礼主持的一档泛科技播客。节目中我们谨慎考量技术进步所带来的优缺点，提倡用「人治」的方法重新审视我们的日常生活。",
+    "language": "zh-CN",
+    "saveweb": {
+        "created_timestamp": 1680721317,
+        "last_success_timestamp": 1680722108,
+        "last_checked_timestamp": 1680722108,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

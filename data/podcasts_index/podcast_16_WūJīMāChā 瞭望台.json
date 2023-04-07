@@ -1,0 +1,24 @@
+{
+    "id": 16,
+    "enabled": true,
+    "title": "WūJīMāChā 瞭望台",
+    "link": "https://www.wujimacha.com/podcast",
+    "feed_url": "https://zizhengw.github.io/wujimacha-outreach/rss.xml",
+    "summary": "<p>\n        Architectural Observation, Art &amp; Philosophy, Field Recording, Life &amp; Work. WūJīMāChā Podcast documents observations and reflections to inspire and promote actions. Updates monthly.\n        <br />\n        建築性觀察、藝術 &amp; 哲學、環境錄音、生活 &amp; 工作。「WūJīMāChā 瞭望台」記錄觀察和思考，從而啓發和推動行動。每月更新。\n      </p>\n      <p>\n        Visit WūJīMāChā to discover more: <a class=\"url\" href=\"https://www.wujimacha.com/\" target=\"_blank\">https://www.wujimacha.com/</a>\n        <br />\n        訪問 WūJīMāChā 以探索更多：<a class=\"url\" href=\"https://www.wujimacha.com/\" target=\"_blank\">https://www.wujimacha.com/</a>\n      </p>\n      <p>\n        Happy listening :)\n        <br />\n        收聽愉快：）\n      </p>",
+    "language": "zh-tw",
+    "saveweb": {
+        "created_timestamp": 1680739931,
+        "last_success_timestamp": 1680740320,
+        "last_checked_timestamp": 1680740320,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}
