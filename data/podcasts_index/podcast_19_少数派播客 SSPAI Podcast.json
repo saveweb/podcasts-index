@@ -1,0 +1,24 @@
+{
+    "id": 19,
+    "enabled": true,
+    "title": "少数派播客 SSPAI Podcast",
+    "link": "https://www.sspai.com",
+    "feed_url": "https://sspai.typlog.io/feed/audio.xml",
+    "summary": "少数派旗下播客节目，高效工作，品质生活。欢迎访问 SSPAI.com 了解更多精彩内容。",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680863331,
+        "last_success_timestamp": 1680865727,
+        "last_checked_timestamp": 1680865727,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}
