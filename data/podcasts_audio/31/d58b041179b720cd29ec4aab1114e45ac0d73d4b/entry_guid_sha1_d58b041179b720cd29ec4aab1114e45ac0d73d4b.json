@@ -1,0 +1,56 @@
+{
+    "title": "56. Get a NAS",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "56. Get a NAS"
+    },
+    "itunes_episode": "56",
+    "itunes_title": "Get a NAS",
+    "summary": "<p>2019年最后一期节目我们讨论了夏令时（again），马达加斯加，Google Stadia，自制 NAS（Network Attached Storage）与数据备份。</p>\n\n<hr />\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/\">STORING UTC IS NOT A SILVER BULLET</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Swatch_Internet_Time\">Swatch Internet Time</a></li>\n<li><a href=\"https://store.google.com/product/stadia\">Google Stadia</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Round-trip_delay_time\">Round-trip delay time</a></li>\n<li><a href=\"https://www.engadget.com/2019/10/10/google-stadia-negative-latency/\">Negative latency</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Network-attached_storage\">Network-Attached Storage</a></li>\n<li><a href=\"https://btrfs.wiki.kernel.org/\">Btrfs</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/RAID\">RAID</a></li>\n<li><a href=\"http://open-zfs.org/\">OpenZFS</a></li>\n<li><a href=\"https://www.freenas.org\">FreeNAS</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/AirPort_Time_Capsule\">AirPort Time Capsule</a></li>\n<li><a href=\"https://wiki.samba.org/index.php/Configure_Samba_to_Work_Better_with_Mac_OS_X\">Time Machine on Samba</a></li>\n<li><a href=\"https://www.borgbackup.org\">BorgBackup</a></li>\n<li><a href=\"https://git-lfs.github.com\">Git Large File Storage</a></li>\n<li><a href=\"https://duplicacy.com\">Duplicacy</a>: <a href=\"https://github.com/gilbertchen/duplicacy/wiki/Lock-Free-Deduplication\">Lock-Free Deduplication</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intel_SHA_extensions\">Intel SHA extensions</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>2019年最后一期节目我们讨论了夏令时（again），马达加斯加，Google Stadia，自制 NAS（Network Attached Storage）与数据备份。</p>\n\n<hr />\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/\">STORING UTC IS NOT A SILVER BULLET</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Swatch_Internet_Time\">Swatch Internet Time</a></li>\n<li><a href=\"https://store.google.com/product/stadia\">Google Stadia</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Round-trip_delay_time\">Round-trip delay time</a></li>\n<li><a href=\"https://www.engadget.com/2019/10/10/google-stadia-negative-latency/\">Negative latency</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Network-attached_storage\">Network-Attached Storage</a></li>\n<li><a href=\"https://btrfs.wiki.kernel.org/\">Btrfs</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/RAID\">RAID</a></li>\n<li><a href=\"http://open-zfs.org/\">OpenZFS</a></li>\n<li><a href=\"https://www.freenas.org\">FreeNAS</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/AirPort_Time_Capsule\">AirPort Time Capsule</a></li>\n<li><a href=\"https://wiki.samba.org/index.php/Configure_Samba_to_Work_Better_with_Mac_OS_X\">Time Machine on Samba</a></li>\n<li><a href=\"https://www.borgbackup.org\">BorgBackup</a></li>\n<li><a href=\"https://git-lfs.github.com\">Git Large File Storage</a></li>\n<li><a href=\"https://duplicacy.com\">Duplicacy</a>: <a href=\"https://github.com/gilbertchen/duplicacy/wiki/Lock-Free-Deduplication\">Lock-Free Deduplication</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intel_SHA_extensions\">Intel SHA extensions</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/56"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "51874714",
+            "href": "https://pan.icu/56/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/56",
+    "id": "https://pan.icu/56",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Mon, 16 Dec 2019 12:00:00 +0000",
+    "published_parsed": [
+        2019,
+        12,
+        16,
+        12,
+        0,
+        0,
+        0,
+        350,
+        0
+    ],
+    "itunes_duration": "6483"
+}

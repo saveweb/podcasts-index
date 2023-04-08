@@ -1,0 +1,48 @@
+{
+    "http-content-length": 3795720,
+    "http-etag": "3242a2814f5b3ce32094bbe391c211cd",
+    "http-last-modified": "Tue, 01 Mar 2022 07:26:55 GMT",
+    "http-last-modified-float": 1646090815.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 3795720,
+    "actual-duration": null,
+    "sha1": "7e2fa287bf0be771b4dff1548aaac281ff54fa26",
+    "md5": "3242a2814f5b3ce32094bbe391c211cd",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_043._Very_Disapointed.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:38:45 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/a/6/c/a6cbe53a1007e66b/Yeyuwanjia_043._Very_Disapointed.mp3?c_id=107082905&cs_id=107082905&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936508&Signature=dSwjy0cX2q2SaeqnL2EEa9678bicVntk4v~-jLQu1OabN9dXQLeh~X~cgCzbUMHnHMpkxUYtEKCuvj1wnDkWRrPCa~jLJKBMkMAtEmlyI4BJlzwalD1T4qlUCtHlxMGLoVQeMIl7tmqs0u71lwUWU-dWcL2U2YhrdTBStRBGev-Phof3s7moZ-y0PzMl7bbZkGpqPV4YgPbAnwbB6fndibkBxjSI8Gwm-~omOpAtSML0Wnpn1i~4SPm~1AN92tdTkrxMrAb2SpLLLxI~2yeoOdKvAYUEpw20QwSnbRqfKNOvh~eFXWaXnlXnduc9zL8nM4~86n9KBzVS5sURAAebpQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t4",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/a/6/c/a6cbe53a1007e66b/Yeyuwanjia_043._Very_Disapointed.mp3?c_id=107082905&cs_id=107082905&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936508&Signature=dSwjy0cX2q2SaeqnL2EEa9678bicVntk4v~-jLQu1OabN9dXQLeh~X~cgCzbUMHnHMpkxUYtEKCuvj1wnDkWRrPCa~jLJKBMkMAtEmlyI4BJlzwalD1T4qlUCtHlxMGLoVQeMIl7tmqs0u71lwUWU-dWcL2U2YhrdTBStRBGev-Phof3s7moZ-y0PzMl7bbZkGpqPV4YgPbAnwbB6fndibkBxjSI8Gwm-~omOpAtSML0Wnpn1i~4SPm~1AN92tdTkrxMrAb2SpLLLxI~2yeoOdKvAYUEpw20QwSnbRqfKNOvh~eFXWaXnlXnduc9zL8nM4~86n9KBzVS5sURAAebpQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "3795720",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:38:47 GMT",
+                "Last-Modified": "Tue, 01 Mar 2022 07:26:55 GMT",
+                "ETag": "\"3242a2814f5b3ce32094bbe391c211cd\"",
+                "x-amz-version-id": "JVdYQFvpq2I1UJq7y4.ltAOhPx0u6GXM",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "vWkXslh-CDk_3gGQ7PgnyP7rgmUV7gLq4ScbLPpMtpTL5CFP69praw==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "57353953",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MjY3NCwicCI6MiwidSI6IjQ1ODYubXAzIn0.YqF2qVKMCUgPA1OtQmgAqcM3o2I/zaizuozuoma/8332929447_94586.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/032"
+        }
+    ],
+    "title": "苹果手表治好了我的健身焦虑｜再坐坐嘛 Vol. 032",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "苹果手表治好了我的健身焦虑｜再坐坐嘛 Vol. 032"
+    },
+    "id": "https://zaizuozuoma.com/episodes/032",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/032",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "29:34",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "32",
+    "podcast_episode": "32",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "这一期绝对不是软广，单纯只是有感而发。（苹果公司也不可能给我们广告费的） 几位好友共享了苹果手表 (Apple Watch) 的健身数据之后，大家对于坚持健身锻炼，就变得积极有热情了。神奇的效果~",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "这一期绝对不是软广，单纯只是有感而发。（苹果公司也不可能给我们广告费的） 几位好友共享了苹果手表 (Apple Watch) 的健身数据之后，大家对于坚持健身锻炼，就变得积极有热情了。神奇的效果~"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>这一期<strong>绝对不是软广</strong>，单纯只是有感而发。（苹果公司也不可能给我们广告费的）</p>\n<p>几位好友共享了苹果手表 (Apple Watch) 的健身数据之后，大家对于坚持健身锻炼，就变得积极有热情了。神奇的效果~</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>这一期<strong>绝对不是软广</strong>，单纯只是有感而发。（苹果公司也不可能给我们广告费的）</p>\n<p>几位好友共享了苹果手表 (Apple Watch) 的健身数据之后，大家对于坚持健身锻炼，就变得积极有热情了。神奇的效果~</p>"
+        }
+    ],
+    "published": "Sun, 30 Oct 2022 08:26:06 +0000",
+    "published_parsed": [
+        2022,
+        10,
+        30,
+        8,
+        26,
+        6,
+        6,
+        303,
+        0
+    ]
+}

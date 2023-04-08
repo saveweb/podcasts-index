@@ -1,0 +1,56 @@
+{
+    "title": "49. Kerning Panic·字谈字串（六）Emoji（再次）拯救世界",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "49. Kerning Panic·字谈字串（六）Emoji（再次）拯救世界"
+    },
+    "itunes_episode": "49",
+    "itunes_title": "Kerning Panic·字谈字串（六）Emoji（再次）拯救世界",
+    "summary": "<p>Emoji 自进入 Unicode 字符集，持续扩增着图标的数量，关注及争议随之而来。Emoji 的普及当然也离不开软件对其的支持。今天，我们与《内核恐慌》的两位主播久别重聚，从字符集、编码技术、字体、应用软件等多个视角，不中立、不全面、不深刻地（再次）闲聊绘文字。</p>\n\n<h2>参考链接</h2>\n\n<ul>\n<li><a href=\"https://www.fontshop.com/designers/gudrun-zapf-von-hesse\">Gudrun Zapf-von Hesse</a>（古德龙·察普夫-冯·哈塞）的经典作品 <a href=\"https://www.fontshop.com/content/hesse-antiqua\">Hesse Antiqua</a> 发布数码版本，由 Gudrun Zapf 及 <a href=\"https://www.fontshop.com/designers/ferdinand-ulrich\">Ferdinand Ulrich</a> 合作设计，Monotpye 出品</li>\n<li>国际标准 <a href=\"https://www.iso.org/standard/69119.html\">ISO/IEC 10646:2017</a> 发布，与 Unicode 10.0 进行同步</li>\n<li><a href=\"https://kernelpanic.fm/45\">Kerning Panic·字谈字串（三）🎙😂🤓🤑😌</a></li>\n<li><a href=\"http://unicode.org/faq/utf_bom.html#utf16-1\">UTF-16</a> 和 <a href=\"http://unicode.org/faq/utf_bom.html#utf16-2\">surrogates</a>；Unicode FAQ <a href=\"http://unicode.org/faq/utf_bom.html#UTF16\">关于 UTF-16 的其他释疑</a>，亦可供参考</li>\n<li><a href=\"https://docs.microsoft.com/en-us/cpp/c-runtime-library/unicode-the-wide-character-set\">Wide character（宽字节）</a></li>\n<li>Unicode FAQ 关于 <a href=\"http://unicode.org/faq/utf_bom.html#UTF8\">UTF-8</a> 和 <a href=\"http://unicode.org/faq/utf_bom.html#UTF32\">UTF-32</a> 的释疑</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Plane_%28Unicode%29\">Unicode plane</a>（平面）</li>\n<li>Colin M. Ford 在 Medium 上撰文介绍 <a href=\"https://medium.com/making-faces-and-other-emoji/emoji-fonts-technically-40f3fdc0869e\">emoji 字体的常见格式及相关技术信息</a>\n\n<ul>\n<li>Google/FreeType 基于 OpenType 的 <a href=\"https://www.microsoft.com/typography/otspec/cbdt.htm\">CBDT</a> 和 <a href=\"https://www.microsoft.com/typography/otspec/cblc.htm\">CBLC</a> 实现</li>\n<li>Apple 基于 TrueType 的私有扩展 <a href=\"https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6sbix.html\">sbix</a> 实现</li>\n<li>Microsoft 基于 OpenType 的 <a href=\"https://www.microsoft.com/typography/otspec/colr.htm\">COLR</a> 和 <a href=\"https://www.microsoft.com/typography/otspec/cpal.htm\">CPAL</a> 实现</li>\n<li>Adobe/Firefox <a href=\"https://www.microsoft.com/typography/otspec/svg.htm\">基于 OpenType 的 SVG 实现</a></li>\n</ul></li>\n<li>区分特定符号的文本形态和 emoji 形态\n\n<ul>\n<li><a href=\"http://unicode.org/iso15924/iso15924-codes.html\">ISO 15924 四字母文种代码定义</a>了「Zsym」和「Zsye」</li>\n<li><a href=\"http://unicode.org/reports/tr51/#Emoji_Locale_Extension\">Unicode Emoji Locale Extension</a> 定义了「-em」扩展代码</li>\n<li><a href=\"http://unicode.org/emoji/charts/emoji-variants.html\">Unicode Emoji Presentation Sequences</a> 定义了两个变体选择器 VS-15 (U+FE0E) 和 VS-16 (U+FE0F)</li>\n</ul></li>\n<li>Unicode FAQ 关于 <a href=\"http://unicode.org/faq/vs.html#General\">VS（变体序列）</a> 及 <a href=\"http://unicode.org/faq/vs.html#IVS\">IVS（表意字符变体序列）</a>的释疑</li>\n<li><a href=\"http://unicode.org/emoji/charts/emoji-sequences.html\">Unicode Emoji Sequences</a>N</li>\n<li><a href=\"http://www.unicode.org/reports/tr52/tr52-1.html\">UTS #52: Unicode Emoji Mechanisms</a>，其中包含 emoji tag sequence 的提案</li>\n<li><a href=\"http://unicode.org/reports/tr29/\">UAX #29: Unicode Text Segmentation</a></li>\n<li>Twitter 在去年 9 月<a href=\"https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html\">部分地升高了单条 tweet 的字符上限</a></li>\n<li>《洛杉矶时报》曾报道<a href=\"http://latimesblogs.latimes.com/technology/2009/05/invented-text-messaging.html\">短信字符数上限值的来源</a></li>\n</ul>\n\n<h2>主播</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://kernelpanic.fm/\">内核恐慌</a>》主播</li>\n<li>吴涛：<a href=\"https://www.typeisbeautiful.com/\">Type is Beautiful</a> 程序员，《<a href=\"https://kernelpanic.fm/\">内核恐慌</a>》主播</li>\n<li>Eric：字体排印研究者，译者，<a href=\"https://www.typeisbeautiful.com/\">Type is Beautiful</a> 编辑</li>\n<li>蒸鱼：设计师，<a href=\"https://www.typeisbeautiful.com/\">Type is Beautiful</a> 编辑</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>Emoji 自进入 Unicode 字符集，持续扩增着图标的数量，关注及争议随之而来。Emoji 的普及当然也离不开软件对其的支持。今天，我们与《内核恐慌》的两位主播久别重聚，从字符集、编码技术、字体、应用软件等多个视角，不中立、不全面、不深刻地（再次）闲聊绘文字。</p>\n\n<h2>参考链接</h2>\n\n<ul>\n<li><a href=\"https://www.fontshop.com/designers/gudrun-zapf-von-hesse\">Gudrun Zapf-von Hesse</a>（古德龙·察普夫-冯·哈塞）的经典作品 <a href=\"https://www.fontshop.com/content/hesse-antiqua\">Hesse Antiqua</a> 发布数码版本，由 Gudrun Zapf 及 <a href=\"https://www.fontshop.com/designers/ferdinand-ulrich\">Ferdinand Ulrich</a> 合作设计，Monotpye 出品</li>\n<li>国际标准 <a href=\"https://www.iso.org/standard/69119.html\">ISO/IEC 10646:2017</a> 发布，与 Unicode 10.0 进行同步</li>\n<li><a href=\"https://kernelpanic.fm/45\">Kerning Panic·字谈字串（三）🎙😂🤓🤑😌</a></li>\n<li><a href=\"http://unicode.org/faq/utf_bom.html#utf16-1\">UTF-16</a> 和 <a href=\"http://unicode.org/faq/utf_bom.html#utf16-2\">surrogates</a>；Unicode FAQ <a href=\"http://unicode.org/faq/utf_bom.html#UTF16\">关于 UTF-16 的其他释疑</a>，亦可供参考</li>\n<li><a href=\"https://docs.microsoft.com/en-us/cpp/c-runtime-library/unicode-the-wide-character-set\">Wide character（宽字节）</a></li>\n<li>Unicode FAQ 关于 <a href=\"http://unicode.org/faq/utf_bom.html#UTF8\">UTF-8</a> 和 <a href=\"http://unicode.org/faq/utf_bom.html#UTF32\">UTF-32</a> 的释疑</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Plane_%28Unicode%29\">Unicode plane</a>（平面）</li>\n<li>Colin M. Ford 在 Medium 上撰文介绍 <a href=\"https://medium.com/making-faces-and-other-emoji/emoji-fonts-technically-40f3fdc0869e\">emoji 字体的常见格式及相关技术信息</a>\n\n<ul>\n<li>Google/FreeType 基于 OpenType 的 <a href=\"https://www.microsoft.com/typography/otspec/cbdt.htm\">CBDT</a> 和 <a href=\"https://www.microsoft.com/typography/otspec/cblc.htm\">CBLC</a> 实现</li>\n<li>Apple 基于 TrueType 的私有扩展 <a href=\"https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6sbix.html\">sbix</a> 实现</li>\n<li>Microsoft 基于 OpenType 的 <a href=\"https://www.microsoft.com/typography/otspec/colr.htm\">COLR</a> 和 <a href=\"https://www.microsoft.com/typography/otspec/cpal.htm\">CPAL</a> 实现</li>\n<li>Adobe/Firefox <a href=\"https://www.microsoft.com/typography/otspec/svg.htm\">基于 OpenType 的 SVG 实现</a></li>\n</ul></li>\n<li>区分特定符号的文本形态和 emoji 形态\n\n<ul>\n<li><a href=\"http://unicode.org/iso15924/iso15924-codes.html\">ISO 15924 四字母文种代码定义</a>了「Zsym」和「Zsye」</li>\n<li><a href=\"http://unicode.org/reports/tr51/#Emoji_Locale_Extension\">Unicode Emoji Locale Extension</a> 定义了「-em」扩展代码</li>\n<li><a href=\"http://unicode.org/emoji/charts/emoji-variants.html\">Unicode Emoji Presentation Sequences</a> 定义了两个变体选择器 VS-15 (U+FE0E) 和 VS-16 (U+FE0F)</li>\n</ul></li>\n<li>Unicode FAQ 关于 <a href=\"http://unicode.org/faq/vs.html#General\">VS（变体序列）</a> 及 <a href=\"http://unicode.org/faq/vs.html#IVS\">IVS（表意字符变体序列）</a>的释疑</li>\n<li><a href=\"http://unicode.org/emoji/charts/emoji-sequences.html\">Unicode Emoji Sequences</a>N</li>\n<li><a href=\"http://www.unicode.org/reports/tr52/tr52-1.html\">UTS #52: Unicode Emoji Mechanisms</a>，其中包含 emoji tag sequence 的提案</li>\n<li><a href=\"http://unicode.org/reports/tr29/\">UAX #29: Unicode Text Segmentation</a></li>\n<li>Twitter 在去年 9 月<a href=\"https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html\">部分地升高了单条 tweet 的字符上限</a></li>\n<li>《洛杉矶时报》曾报道<a href=\"http://latimesblogs.latimes.com/technology/2009/05/invented-text-messaging.html\">短信字符数上限值的来源</a></li>\n</ul>\n\n<h2>主播</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://kernelpanic.fm/\">内核恐慌</a>》主播</li>\n<li>吴涛：<a href=\"https://www.typeisbeautiful.com/\">Type is Beautiful</a> 程序员，《<a href=\"https://kernelpanic.fm/\">内核恐慌</a>》主播</li>\n<li>Eric：字体排印研究者，译者，<a href=\"https://www.typeisbeautiful.com/\">Type is Beautiful</a> 编辑</li>\n<li>蒸鱼：设计师，<a href=\"https://www.typeisbeautiful.com/\">Type is Beautiful</a> 编辑</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/49"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "44403937",
+            "href": "https://pan.icu/49/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/49",
+    "id": "https://pan.icu/49",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛、Eric、蒸鱼"
+        }
+    ],
+    "author": "Rio、吴涛、Eric、蒸鱼",
+    "author_detail": {
+        "name": "Rio、吴涛、Eric、蒸鱼"
+    },
+    "published": "Tue, 09 Jan 2018 00:00:00 +0000",
+    "published_parsed": [
+        2018,
+        1,
+        9,
+        0,
+        0,
+        0,
+        1,
+        9,
+        0
+    ],
+    "itunes_duration": "5531"
+}

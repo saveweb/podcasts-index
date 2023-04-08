@@ -1,0 +1,49 @@
+{
+    "http-content-length": 4638389,
+    "http-etag": "79b0b2388abf3b1f7553325bd6ec0d90",
+    "http-last-modified": "Fri, 25 Feb 2022 22:32:03 GMT",
+    "http-last-modified-float": 1645799523.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 4638389,
+    "actual-duration": null,
+    "sha1": "c418d8d7d443a293c309681fe2faffc62297099a",
+    "md5": "79b0b2388abf3b1f7553325bd6ec0d90",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_008_Quick_Oscars_-_Once_Upon_A_Time_In_Hollywood.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:41:57 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/9/e/a/9eaa6f26e5ea9073/Yeyuwanjia_008_Quick_Oscars_-_Once_Upon_A_Time_In_Hollywood.mp3?c_id=63936176&cs_id=63936176&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936853&Signature=XXEbP9Z0QTFUQzBFsB4GPvi5xovrtc5t0W4FLrNP1jFEK1ndwCp6Tn82zGVrMz~Eg5phb6oDEIm-D-~~mWEvoQm7~ZWxMWmc4uLoy8B7NbW~TMTfXNjbSV5960NdTUikpw6zuS6VcySAJTyDGkYRQqCHJeZP8mVmR6~ACVaJzqo3lU3OPKq1lstdYcJ42Pc1rIVX9iTP2u8AO-cKQlWb32O-o7iGpG3sW-zln6LdZSC4YV-Tvv0EbAn7nY2A-1N4YS1h1vRL7wdB34NQQi0fMhPLYhMjPmdg2XcSn1LXXnGji3j~gXge6t9cn31dE5wXxP8THTyPED866p1e0OkXfQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t3",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/9/e/a/9eaa6f26e5ea9073/Yeyuwanjia_008_Quick_Oscars_-_Once_Upon_A_Time_In_Hollywood.mp3?c_id=63936176&cs_id=63936176&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936853&Signature=XXEbP9Z0QTFUQzBFsB4GPvi5xovrtc5t0W4FLrNP1jFEK1ndwCp6Tn82zGVrMz~Eg5phb6oDEIm-D-~~mWEvoQm7~ZWxMWmc4uLoy8B7NbW~TMTfXNjbSV5960NdTUikpw6zuS6VcySAJTyDGkYRQqCHJeZP8mVmR6~ACVaJzqo3lU3OPKq1lstdYcJ42Pc1rIVX9iTP2u8AO-cKQlWb32O-o7iGpG3sW-zln6LdZSC4YV-Tvv0EbAn7nY2A-1N4YS1h1vRL7wdB34NQQi0fMhPLYhMjPmdg2XcSn1LXXnGji3j~gXge6t9cn31dE5wXxP8THTyPED866p1e0OkXfQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "4638389",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:41:58 GMT",
+                "Last-Modified": "Fri, 25 Feb 2022 22:32:03 GMT",
+                "ETag": "\"79b0b2388abf3b1f7553325bd6ec0d90\"",
+                "x-amz-meta-mtime": "1580692344",
+                "x-amz-version-id": "aWtwfo1MynxQb0VjMimm7_UdG.X.sBOP",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "nZMdXcY029XSmfW5D-dj8RJFFUPnmo3U_Ja2u1XU4kZcHuqlZIZe6Q==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

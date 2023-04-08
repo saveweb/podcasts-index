@@ -1,0 +1,56 @@
+{
+    "title": "13. 并发与异步",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "13. 并发与异步"
+    },
+    "itunes_episode": "13",
+    "itunes_title": "并发与异步",
+    "summary": "<p>《内核恐慌》开放了<a href=\"https://kernelpanic.fm/donate\">捐款页面</a>。吴涛和 Rio 先是回味了<a href=\"https://kernelpanic.fm/12\">上一期</a>的辉煌（如果还没有听请赶紧先去听），然后聊了包括新 MacBook 在内的其它一些事情，最后讨论了编程之中并发和并行的概念，相关的几种处理模型，以及异步模式。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=ab8GtuPdrUQ\">The IT Crowd | 0118 999 881 999 119 7253</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop\">REPL</a></li>\n<li><a href=\"http://ipython.org/\">iPython</a></li>\n<li><a href=\"http://pryrepl.org/\">Pry</a></li>\n<li><a href=\"http://www.squeak.org/\">Smalltalk 开发环境 Squeak</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Ternary_computer\">三进制计算机</a></li>\n<li><a href=\"http://nim-lang.org/\">Nim</a></li>\n<li><a href=\"http://www.usbtypewriter.com/\">USB Typewriter</a></li>\n<li><a href=\"http://concur.rspace.googlecode.com/hg/talk/concur.html\">Rob Pike 关于并发的演讲幻灯片：Concurrency is not Parallelism</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Windows_3.1x#Windows_3.2\">Windows 3.2</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Dining_philosophers_problem\">Dining philosophers problem</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Actor_model\">Actor Model</a></li>\n<li><a href=\"http://programmers.stackexchange.com/questions/40297/what-is-a-side-effect\">编程中的「副作用」</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Communicating_sequential_processes\">Communicating Sequential Processes</a></li>\n<li><a href=\"http://docs.libuv.org/en/v1.x/\">libuv</a></li>\n<li><a href=\"https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks\">Seven Concurrency Models in Seven Weeks</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Coroutine\">协程</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=xrIjfIjssLE\">Erlang: The Movie</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=rRbY3TMUcgQ\">Erlang: The Movie II</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>《内核恐慌》开放了<a href=\"https://kernelpanic.fm/donate\">捐款页面</a>。吴涛和 Rio 先是回味了<a href=\"https://kernelpanic.fm/12\">上一期</a>的辉煌（如果还没有听请赶紧先去听），然后聊了包括新 MacBook 在内的其它一些事情，最后讨论了编程之中并发和并行的概念，相关的几种处理模型，以及异步模式。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=ab8GtuPdrUQ\">The IT Crowd | 0118 999 881 999 119 7253</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop\">REPL</a></li>\n<li><a href=\"http://ipython.org/\">iPython</a></li>\n<li><a href=\"http://pryrepl.org/\">Pry</a></li>\n<li><a href=\"http://www.squeak.org/\">Smalltalk 开发环境 Squeak</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Ternary_computer\">三进制计算机</a></li>\n<li><a href=\"http://nim-lang.org/\">Nim</a></li>\n<li><a href=\"http://www.usbtypewriter.com/\">USB Typewriter</a></li>\n<li><a href=\"http://concur.rspace.googlecode.com/hg/talk/concur.html\">Rob Pike 关于并发的演讲幻灯片：Concurrency is not Parallelism</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Windows_3.1x#Windows_3.2\">Windows 3.2</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Dining_philosophers_problem\">Dining philosophers problem</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Actor_model\">Actor Model</a></li>\n<li><a href=\"http://programmers.stackexchange.com/questions/40297/what-is-a-side-effect\">编程中的「副作用」</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Communicating_sequential_processes\">Communicating Sequential Processes</a></li>\n<li><a href=\"http://docs.libuv.org/en/v1.x/\">libuv</a></li>\n<li><a href=\"https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks\">Seven Concurrency Models in Seven Weeks</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Coroutine\">协程</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=xrIjfIjssLE\">Erlang: The Movie</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=rRbY3TMUcgQ\">Erlang: The Movie II</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/13"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "45789666",
+            "href": "https://pan.icu/13/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/13",
+    "id": "https://pan.icu/13",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sat, 21 Mar 2015 22:46:04 +0000",
+    "published_parsed": [
+        2015,
+        3,
+        21,
+        22,
+        46,
+        4,
+        5,
+        80,
+        0
+    ],
+    "itunes_duration": "7164"
+}

@@ -1,0 +1,75 @@
+{
+    "links": [
+        {
+            "length": "7905955",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2NjkwMywicCI6MiwidSI6IjM5MjIubXAzIn0.bZ_63GynPDe2721fNETN4kGLWhE/zaizuozuoma/8320854168_363922.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/mini-005"
+        }
+    ],
+    "title": "Mini 005｜先别担心 AI 会抢工作",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "Mini 005｜先别担心 AI 会抢工作"
+    },
+    "id": "https://zaizuozuoma.com/episodes/mini-005",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/mini-005",
+    "authors": [
+        {
+            "name": "面包"
+        }
+    ],
+    "author": "面包",
+    "author_detail": {
+        "name": "面包"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Bread/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275500_074273.png"
+    },
+    "itunes_duration": "09:24",
+    "itunes_explicit": null,
+    "itunes_episodetype": "full",
+    "summary": "三位主播积极备战，准备录一期非常热门的AI工具的话题。主播面包在准备提纲的时候，表达欲过剩，就先录了一期短的mini集，热热身。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "三位主播积极备战，准备录一期非常热门的AI工具的话题。主播面包在准备提纲的时候，表达欲过剩，就先录了一期短的mini集，热热身。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>三位主播积极备战，准备录一期非常热门的AI工具的话题。主播面包在准备提纲的时候，表达欲过剩，就先录了一期短的mini集，热热身。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>三位主播积极备战，准备录一期非常热门的AI工具的话题。主播面包在准备提纲的时候，表达欲过剩，就先录了一期短的mini集，热热身。</p>"
+        }
+    ],
+    "published": "Sat, 18 Mar 2023 13:25:01 +0000",
+    "published_parsed": [
+        2023,
+        3,
+        18,
+        13,
+        25,
+        1,
+        5,
+        77,
+        0
+    ]
+}

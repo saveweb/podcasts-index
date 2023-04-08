@@ -1,0 +1,56 @@
+{
+    "title": "60. A very late episode about WWDC 2020",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "60. A very late episode about WWDC 2020"
+    },
+    "itunes_episode": "60",
+    "itunes_title": "A very late episode about WWDC 2020",
+    "summary": "<p>Rio七月消失去哪了、吴涛买了他的第一个NAS、整盘加密的性能问题、叠瓦式（SMR）机械硬盘、macOS 的 SMB 相关 bug、如何备份超过 8TB 的照片、以及迟到的 WWDC2020 评论。搭载 Apple Silicon 的 MacBook 会不会是触摸屏呢？</p>\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://zh.wikipedia.org/wiki/铜奔马\">铜奔马（马踏飞燕）</a></li>\n<li><a href=\"https://www.synology.com/\">群晖 Synology</a></li>\n<li><a href=\"https://www.qnap.com\">威联通 QNAP</a></li>\n<li>吴涛买的 NAS 型号是 <a href=\"https://www.synology.com/zh-cn/products/DS220j\">Synology DS220j</a></li>\n<li>Rio 朋友送的 NAS 型号是 <a href=\"https://www.qnap.com/zh-cn/product/ts-451\">QNAP TS451</a><br />\n</li>\n<li><a href=\"https://en.wikipedia.org/wiki/RAID\">独立磁盘冗余整列 RAID</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/PowerPC\">PowerPC</a> 架构</li>\n<li><a href=\"https://en.wikipedia.org/wiki/AES_instruction_set\">AES</a> 指令集</li>\n<li>Linux 内核磁盘加密子系统 <a href=\"https://en.wikipedia.org/wiki/Dm-crypt\">dm-crypt</a></li>\n<li>Google 针对低端系统设计的 <a href=\"https://security.googleblog.com/2019/02/introducing-adiantum-encryption-for.html\">Adiantum</a> 加密方式</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Shingled_magnetic_recording\">叠瓦磁记录（Shingled Magnetic Recording）</a></li>\n<li><a href=\"https://blocksandfiles.com/2020/04/14/wd-red-nas-drives-shingled-magnetic-recording/\">Western Digital admits 2TB-6TB WD Red NAS drives use shingled magnetic recording</a></li>\n<li><a href=\"https://www.anandtech.com/show/15878/western-digital-cleans-up-the-red-smr-nas-hdd-mess\">Western Digital Announces Red Plus HDDs, Cleans Up Red SMR Mess with Plus Branding</a></li>\n<li><a href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/tech-brief/tech-brief-western-digital-power-disable-pin.pdf\">SATA Power Disable Feature</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Server_Message_Block\">SMB: Server Message Block</a></li>\n<li><a href=\"https://www.samba.org\">Samba</a></li>\n<li><a href=\"https://discussions.apple.com/thread/250794335?answerId=251959648022#251959648022\">macOS Catalina SMB bug</a></li>\n<li>iPad 上录制、剪辑播客的专用工具 <a href=\"https://www.wooji-juice.com/products/ferrite/\">Ferrite Recording Studio</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>Rio七月消失去哪了、吴涛买了他的第一个NAS、整盘加密的性能问题、叠瓦式（SMR）机械硬盘、macOS 的 SMB 相关 bug、如何备份超过 8TB 的照片、以及迟到的 WWDC2020 评论。搭载 Apple Silicon 的 MacBook 会不会是触摸屏呢？</p>\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://zh.wikipedia.org/wiki/铜奔马\">铜奔马（马踏飞燕）</a></li>\n<li><a href=\"https://www.synology.com/\">群晖 Synology</a></li>\n<li><a href=\"https://www.qnap.com\">威联通 QNAP</a></li>\n<li>吴涛买的 NAS 型号是 <a href=\"https://www.synology.com/zh-cn/products/DS220j\">Synology DS220j</a></li>\n<li>Rio 朋友送的 NAS 型号是 <a href=\"https://www.qnap.com/zh-cn/product/ts-451\">QNAP TS451</a><br />\n</li>\n<li><a href=\"https://en.wikipedia.org/wiki/RAID\">独立磁盘冗余整列 RAID</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/PowerPC\">PowerPC</a> 架构</li>\n<li><a href=\"https://en.wikipedia.org/wiki/AES_instruction_set\">AES</a> 指令集</li>\n<li>Linux 内核磁盘加密子系统 <a href=\"https://en.wikipedia.org/wiki/Dm-crypt\">dm-crypt</a></li>\n<li>Google 针对低端系统设计的 <a href=\"https://security.googleblog.com/2019/02/introducing-adiantum-encryption-for.html\">Adiantum</a> 加密方式</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Shingled_magnetic_recording\">叠瓦磁记录（Shingled Magnetic Recording）</a></li>\n<li><a href=\"https://blocksandfiles.com/2020/04/14/wd-red-nas-drives-shingled-magnetic-recording/\">Western Digital admits 2TB-6TB WD Red NAS drives use shingled magnetic recording</a></li>\n<li><a href=\"https://www.anandtech.com/show/15878/western-digital-cleans-up-the-red-smr-nas-hdd-mess\">Western Digital Announces Red Plus HDDs, Cleans Up Red SMR Mess with Plus Branding</a></li>\n<li><a href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/tech-brief/tech-brief-western-digital-power-disable-pin.pdf\">SATA Power Disable Feature</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Server_Message_Block\">SMB: Server Message Block</a></li>\n<li><a href=\"https://www.samba.org\">Samba</a></li>\n<li><a href=\"https://discussions.apple.com/thread/250794335?answerId=251959648022#251959648022\">macOS Catalina SMB bug</a></li>\n<li>iPad 上录制、剪辑播客的专用工具 <a href=\"https://www.wooji-juice.com/products/ferrite/\">Ferrite Recording Studio</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/60"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "70873483",
+            "href": "https://pan.icu/60/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/60",
+    "id": "https://pan.icu/60",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Thu, 17 Sep 2020 15:00:00 +0000",
+    "published_parsed": [
+        2020,
+        9,
+        17,
+        15,
+        0,
+        0,
+        3,
+        261,
+        0
+    ],
+    "itunes_duration": "8859"
+}

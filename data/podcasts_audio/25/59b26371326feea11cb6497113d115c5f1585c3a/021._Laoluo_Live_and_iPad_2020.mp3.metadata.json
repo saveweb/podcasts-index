@@ -1,0 +1,49 @@
+{
+    "http-content-length": 19967757,
+    "http-etag": "f35920b73db71a47f30fba3d84b955d4",
+    "http-last-modified": "Sun, 20 Feb 2022 15:00:41 GMT",
+    "http-last-modified-float": 1645340441.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 19967757,
+    "actual-duration": 2459,
+    "sha1": "148e26e012be71854071edd2e2e72d43c50a4324",
+    "md5": "f35920b73db71a47f30fba3d84b955d4",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/021._Laoluo_Live_and_iPad_2020.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:40:50 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/5/6/a/56afc5eb95d8eb5f/021._Laoluo_Live_and_iPad_2020.mp3?c_id=69810089&cs_id=69810089&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680939321&Signature=Zt4TeYu54zoO9AXExzawOFJggDAW3OSy3ejyzCwYI1Ln7SORY42KP87jUrZqDssjyZokFrXYezwYF9wgo7X5itG8HYdzc6O8jzBbl~keUIgN7kmcW7Hj8tSWJ-eFo2Nr33e-z-Oi6ZshV8UumbfXozmQsYBLvVoN3FO6Q43Fcqc~9PZ-2IOAYzX2v~CDGvbEhGdQCBH90x1NA6Kk5lXnsAaE~2bf4jc2YqLxaMVst1MJ4b35h3so8GBKeqddPmVrgXYPCkxeJKv7B6RKcDHrIDrAbuYFabxkq59RxRy1DABQgsnV2OHDS6GsRaxjJ8ulOQAHirnMmXw-4n4bIv9ykQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t1",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/5/6/a/56afc5eb95d8eb5f/021._Laoluo_Live_and_iPad_2020.mp3?c_id=69810089&cs_id=69810089&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680939321&Signature=Zt4TeYu54zoO9AXExzawOFJggDAW3OSy3ejyzCwYI1Ln7SORY42KP87jUrZqDssjyZokFrXYezwYF9wgo7X5itG8HYdzc6O8jzBbl~keUIgN7kmcW7Hj8tSWJ-eFo2Nr33e-z-Oi6ZshV8UumbfXozmQsYBLvVoN3FO6Q43Fcqc~9PZ-2IOAYzX2v~CDGvbEhGdQCBH90x1NA6Kk5lXnsAaE~2bf4jc2YqLxaMVst1MJ4b35h3so8GBKeqddPmVrgXYPCkxeJKv7B6RKcDHrIDrAbuYFabxkq59RxRy1DABQgsnV2OHDS6GsRaxjJ8ulOQAHirnMmXw-4n4bIv9ykQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "19967757",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:40:52 GMT",
+                "Last-Modified": "Sun, 20 Feb 2022 15:00:41 GMT",
+                "ETag": "\"f35920b73db71a47f30fba3d84b955d4\"",
+                "x-amz-meta-mtime": "1586782252",
+                "x-amz-version-id": "5F0jDqnOQkTHozOdZeiJNTFIknPXiiSF",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "XKkKe_ZQtrs9Z2IOCSjOAYIlPmsry8zMdOJORUXXuHVz6fdjUFqf6A==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

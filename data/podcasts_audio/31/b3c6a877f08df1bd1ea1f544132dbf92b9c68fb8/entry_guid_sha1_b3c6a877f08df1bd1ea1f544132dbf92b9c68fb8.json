@@ -1,0 +1,56 @@
+{
+    "title": "29. Terminal Emulators",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "29. Terminal Emulators"
+    },
+    "itunes_episode": "29",
+    "itunes_title": "Terminal Emulators",
+    "summary": "<p>本期补充了上期未能涉及的终端仿真器（terminal emulator），然后讨论了几则新闻。</p>\n\n<p>本期的口号是：<em>Everything is theoretically impossible, until it is done.</em></p>\n\n<p>Rio 开始提供双向求职服务啦，欢迎求职者及应聘公司发信到 talent@riobard.com</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://github.com/elves/elvish\">Elvish shell</a></li>\n<li><a href=\"http://www.linusakesson.net/programming/tty/index.php\">TTY demystified</a></li>\n<li><a href=\"http://sourceforge.net/projects/rxvt/\">RXVT</a></li>\n<li><a href=\"http://gnometerminator.blogspot.com/p/introduction.html\">Terminator</a></li>\n<li><a href=\"https://github.com/Guake/guake\">Guake</a></li>\n<li><a href=\"https://www.iterm2.com/\">iTerm</a></li>\n<li><a href=\"http://www.dalverson.com/zterm/\">ZTerm</a></li>\n<li><a href=\"http://www.mingw.org/\">MinGW</a></li>\n<li><a href=\"https://www.cygwin.com/\">Cygwin</a></li>\n<li><a href=\"https://github.com/microsoft/vscode\">Visual Studio Code repository on GitHub</a></li>\n<li><a href=\"https://developer.wordpress.com/2015/11/23/the-story-behind-the-new-wordpress-com/\">The Story behind the new wordpress.com</a></li>\n<li><a href=\"https://www.raspberrypi.org/blog/raspberry-pi-zero/\">Raspberry Pi Zero</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>本期补充了上期未能涉及的终端仿真器（terminal emulator），然后讨论了几则新闻。</p>\n\n<p>本期的口号是：<em>Everything is theoretically impossible, until it is done.</em></p>\n\n<p>Rio 开始提供双向求职服务啦，欢迎求职者及应聘公司发信到 talent@riobard.com</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://github.com/elves/elvish\">Elvish shell</a></li>\n<li><a href=\"http://www.linusakesson.net/programming/tty/index.php\">TTY demystified</a></li>\n<li><a href=\"http://sourceforge.net/projects/rxvt/\">RXVT</a></li>\n<li><a href=\"http://gnometerminator.blogspot.com/p/introduction.html\">Terminator</a></li>\n<li><a href=\"https://github.com/Guake/guake\">Guake</a></li>\n<li><a href=\"https://www.iterm2.com/\">iTerm</a></li>\n<li><a href=\"http://www.dalverson.com/zterm/\">ZTerm</a></li>\n<li><a href=\"http://www.mingw.org/\">MinGW</a></li>\n<li><a href=\"https://www.cygwin.com/\">Cygwin</a></li>\n<li><a href=\"https://github.com/microsoft/vscode\">Visual Studio Code repository on GitHub</a></li>\n<li><a href=\"https://developer.wordpress.com/2015/11/23/the-story-behind-the-new-wordpress-com/\">The Story behind the new wordpress.com</a></li>\n<li><a href=\"https://www.raspberrypi.org/blog/raspberry-pi-zero/\">Raspberry Pi Zero</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/29"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "79167324",
+            "href": "https://pan.icu/29/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/29",
+    "id": "https://pan.icu/29",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Sun, 29 Nov 2015 03:11:57 +0000",
+    "published_parsed": [
+        2015,
+        11,
+        29,
+        3,
+        11,
+        57,
+        6,
+        333,
+        0
+    ],
+    "itunes_duration": "6586"
+}

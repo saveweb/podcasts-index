@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "35625993",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MzI0MiwicCI6MiwidSI6IjYzMzIubXAzIn0.swphAf4qxNzg7y-R37FzJIUYSSo/zaizuozuoma/8331753967_56332.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/033"
+        }
+    ],
+    "title": "网络热门流媒体影片鉴定 <04>｜再坐坐嘛 Vol. 033",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "网络热门流媒体影片鉴定 <04>｜再坐坐嘛 Vol. 033"
+    },
+    "id": "https://zaizuozuoma.com/episodes/033",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/033",
+    "authors": [
+        {
+            "name": "面包,阿宗"
+        }
+    ],
+    "author": "面包,阿宗",
+    "author_detail": {
+        "name": "面包,阿宗"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Zong/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275492_709579.png"
+    },
+    "itunes_duration": "17:52",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "33",
+    "podcast_episode": "33",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8357866382_1161995.jpg?x-oss-process=style/sl"
+    },
+    "summary": "00:26｜韩剧《争锋相辩》 02:50｜英剧《伦敦黑帮》第二季 03:58｜港剧《法证先锋5》 04:15｜电影《良心护士》 05:22｜韩剧《旧案寻凶》 11:16｜华语剧《我们这十年》 15:20｜恐怖剧《好奇心柜》",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "00:26｜韩剧《争锋相辩》 02:50｜英剧《伦敦黑帮》第二季 03:58｜港剧《法证先锋5》 04:15｜电影《良心护士》 05:22｜韩剧《旧案寻凶》 11:16｜华语剧《我们这十年》 15:20｜恐怖剧《好奇心柜》"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<ul>\n<li>00:26｜韩剧<a href=\"https://movie.douban.com/subject/35688033/\">《争锋相辩》</a></li>\n<li>02:50｜英剧<a href=\"https://movie.douban.com/subject/35117544/\">《伦敦黑帮》第二季</a></li>\n<li>03:58｜港剧<a href=\"https://movie.douban.com/subject/35390918/\">《法证先锋5》</a></li>\n<li>04:15｜电影<a href=\"https://movie.douban.com/subject/26641055/\">《良心护士》</a></li>\n<li>05:22｜韩剧<a href=\"https://movie.douban.com/subject/35604148/\">《旧案寻凶》</a></li>\n<li>11:16｜华语剧<a href=\"https://movie.douban.com/subject/35679767/\">《我们这十年》</a></li>\n<li>15:20｜恐怖剧<a href=\"https://movie.douban.com/subject/30222734/\">《好奇心柜》</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<ul>\n<li>00:26｜韩剧<a href=\"https://movie.douban.com/subject/35688033/\">《争锋相辩》</a></li>\n<li>02:50｜英剧<a href=\"https://movie.douban.com/subject/35117544/\">《伦敦黑帮》第二季</a></li>\n<li>03:58｜港剧<a href=\"https://movie.douban.com/subject/35390918/\">《法证先锋5》</a></li>\n<li>04:15｜电影<a href=\"https://movie.douban.com/subject/26641055/\">《良心护士》</a></li>\n<li>05:22｜韩剧<a href=\"https://movie.douban.com/subject/35604148/\">《旧案寻凶》</a></li>\n<li>11:16｜华语剧<a href=\"https://movie.douban.com/subject/35679767/\">《我们这十年》</a></li>\n<li>15:20｜恐怖剧<a href=\"https://movie.douban.com/subject/30222734/\">《好奇心柜》</a></li>\n</ul>"
+        }
+    ],
+    "published": "Sat, 12 Nov 2022 10:00:00 +0000",
+    "published_parsed": [
+        2022,
+        11,
+        12,
+        10,
+        0,
+        0,
+        5,
+        316,
+        0
+    ]
+}

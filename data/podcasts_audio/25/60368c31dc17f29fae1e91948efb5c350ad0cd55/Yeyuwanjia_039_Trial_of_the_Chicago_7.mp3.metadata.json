@@ -1,0 +1,48 @@
+{
+    "http-content-length": 6521340,
+    "http-etag": "5553a3b2c7b2925836099e7b0f063a54",
+    "http-last-modified": "Sun, 27 Feb 2022 04:17:34 GMT",
+    "http-last-modified-float": 1645906654.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 6521340,
+    "actual-duration": null,
+    "sha1": "85edf1ea7faa75777dbf04c8d02570a7790364d2",
+    "md5": "5553a3b2c7b2925836099e7b0f063a54",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_039_Trial_of_the_Chicago_7.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:39:01 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/c/1/c/c1c6f7ed05b220ba/Yeyuwanjia_039_Trial_of_the_Chicago_7.mp3?c_id=101548784&cs_id=101548784&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936978&Signature=F065TnUVHL0hkDjZw0JBF7wteFHCvfMpA6uramigt9FGqcOfaEwBOgrH0Qt7etWMR9vbw5xVVpeEaOMwzXkzPQBhkxXJzZvLrwtsSNUrf1FfoScyJ6SB~OY1cVxDrJdUzp~uUe885yjK-LoMwr4UKJL9SfDDRelLlQquFZySqDs5Gq7WPY1KojYRA4Ed1RSe6~xnV6wqF6hsUGpIHaM5srwcCklHIFQPlnN6S5gutJF3VQP5~pk5Ul7pgQuNHsHBf-6Cxb3dDgO9EqIDCcs7e8il3AG5edqkzi3QvcyI-tyqAssgMJDVFv7zHNk4M8ZZmpUEqwTVmxbppCsqUO4zoQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t6",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/c/1/c/c1c6f7ed05b220ba/Yeyuwanjia_039_Trial_of_the_Chicago_7.mp3?c_id=101548784&cs_id=101548784&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936978&Signature=F065TnUVHL0hkDjZw0JBF7wteFHCvfMpA6uramigt9FGqcOfaEwBOgrH0Qt7etWMR9vbw5xVVpeEaOMwzXkzPQBhkxXJzZvLrwtsSNUrf1FfoScyJ6SB~OY1cVxDrJdUzp~uUe885yjK-LoMwr4UKJL9SfDDRelLlQquFZySqDs5Gq7WPY1KojYRA4Ed1RSe6~xnV6wqF6hsUGpIHaM5srwcCklHIFQPlnN6S5gutJF3VQP5~pk5Ul7pgQuNHsHBf-6Cxb3dDgO9EqIDCcs7e8il3AG5edqkzi3QvcyI-tyqAssgMJDVFv7zHNk4M8ZZmpUEqwTVmxbppCsqUO4zoQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "6521340",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:39:03 GMT",
+                "Last-Modified": "Sun, 27 Feb 2022 04:17:34 GMT",
+                "ETag": "\"5553a3b2c7b2925836099e7b0f063a54\"",
+                "x-amz-version-id": "4FLJzfq6muhQrhJjmsT50OFf4Sp_l4bV",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "trelXZeqR9_8jRhBJlx6ubUVpDLBwmuOjly8h9oyxjxhErNvpQdZcA==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

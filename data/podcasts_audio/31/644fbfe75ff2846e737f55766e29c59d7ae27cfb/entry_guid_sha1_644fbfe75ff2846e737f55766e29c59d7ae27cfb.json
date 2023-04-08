@@ -1,0 +1,56 @@
+{
+    "title": "48. Kerning Panic·字谈字串（五）规范化有四样形式，你知道么？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "48. Kerning Panic·字谈字串（五）规范化有四样形式，你知道么？"
+    },
+    "itunes_episode": "48",
+    "itunes_title": "Kerning Panic·字谈字串（五）规范化有四样形式，你知道么？",
+    "summary": "<p>今日「字谈字串」，谈谈如何判断两个 Unicode 字串是否等价，以及其中必不可少的流程——规范化（normalization）。</p>\n\n<h2>参考链接</h2>\n\n<ul>\n<li><a href=\"https://www.typeisbeautiful.com/10/\">Type is Beautiful 十周年专页</a></li>\n<li><a href=\"https://mp.weixin.qq.com/s/6-_4jL3RgOti-U9-sZ5kjw\">TypeSchool 中文设计课</a>，8 月 4 至 9 日将在北京开办；8 月 1 日前可报名</li>\n<li>京都汉字博物馆内展出的一台<a href=\"http://weibo.com/1689625063/F6298udsI\">日文打字机</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/IBM_Selectric_typewriter\">IBM Selectric 打字机</a>，以 typeball（字球）结构实现字体的存放和打印</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Courier_(typeface\">Courier</a>) 字体，用于 IBM Selectric 打字机</li>\n<li>7 月 17 日是<a href=\"http://worldemojiday.com/\">「世界 Emoji 日」</a>，Apple 在今年当日分享了<a href=\"https://www.apple.com/cn/newsroom/2017/07/apple-previews-new-emoji-coming-later-this-year/\">即将发布的新 emoji 设计</a></li>\n<li><a href=\"https://github.com/jjgod/apn\">AssignPhoneticName.py</a>，江疆编写的 Python 脚本，可为 Mac 通讯录的中文姓名自动加注汉语拼音</li>\n<li><a href=\"http://www.unicode.org/versions/Unicode10.0.0/ch02.pdf\">Unicode 标准 2.12 节</a>，叙述了等价序列（equivalent sequences）及规范化（normalization）的相关概念；<a href=\"http://unicode.org/faq/normalization.html\">另有 FAQ 可供参考</a></li>\n<li><a href=\"http://unicode.org/reports/tr15/\">UAX #15: Unicode Normalization Forms</a></li>\n<li><a href=\"http://www.unicode.org/charts/normalization/\">Unicode Normalization Charts</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Apple_File_System\">APFS (Apple File System)</a>，Apple 推出的新文件系统；<a href=\"https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/APFS_Guide/FAQ/FAQ.html#//apple_ref/doc/uid/TP40016999-CH6-DontLinkElementID_17\">另有 FAQ 可供参考</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/HFS_Plus\">HFS+</a>，Apple 开发的文件系统</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Idempotence\">Idempotence</a>（冪等性）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Hash_table\">Hash map</a>（哈希映射）</li>\n<li><a href=\"https://www.apple.com/macos/high-sierra-preview/\">macOS High Sierra</a>，下一代 Mac 操作系统，将搭载 APFS</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Internationalized_domain_name\">IDN</a>（Internationalized Domain Dame，国际化域名）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Punycode\">Punycode</a></li>\n<li>W3C 关于 normalization 的规范可参考工作草案 <a href=\"https://www.w3.org/TR/charmod-norm/\"><em>Character Model for the World Wide Web: String Matching and Searching</em></a>；<a href=\"https://www.w3.org/International/questions/qa-html-css-normalization\">另有一则 Q&amp;A 可供参考</a></li>\n<li><a href=\"https://github.com/realfish/typedraw/blob/master/README.md#typedraw-12\">《字谈字畅》第十二轮抽奖结果</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li>\n<li>吴涛：<a href=\"https://www.typeisbeautiful.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li>\n<li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li>\n<li>蒸鱼：设计师，Type is Beautiful 编辑</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>今日「字谈字串」，谈谈如何判断两个 Unicode 字串是否等价，以及其中必不可少的流程——规范化（normalization）。</p>\n\n<h2>参考链接</h2>\n\n<ul>\n<li><a href=\"https://www.typeisbeautiful.com/10/\">Type is Beautiful 十周年专页</a></li>\n<li><a href=\"https://mp.weixin.qq.com/s/6-_4jL3RgOti-U9-sZ5kjw\">TypeSchool 中文设计课</a>，8 月 4 至 9 日将在北京开办；8 月 1 日前可报名</li>\n<li>京都汉字博物馆内展出的一台<a href=\"http://weibo.com/1689625063/F6298udsI\">日文打字机</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/IBM_Selectric_typewriter\">IBM Selectric 打字机</a>，以 typeball（字球）结构实现字体的存放和打印</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Courier_(typeface\">Courier</a>) 字体，用于 IBM Selectric 打字机</li>\n<li>7 月 17 日是<a href=\"http://worldemojiday.com/\">「世界 Emoji 日」</a>，Apple 在今年当日分享了<a href=\"https://www.apple.com/cn/newsroom/2017/07/apple-previews-new-emoji-coming-later-this-year/\">即将发布的新 emoji 设计</a></li>\n<li><a href=\"https://github.com/jjgod/apn\">AssignPhoneticName.py</a>，江疆编写的 Python 脚本，可为 Mac 通讯录的中文姓名自动加注汉语拼音</li>\n<li><a href=\"http://www.unicode.org/versions/Unicode10.0.0/ch02.pdf\">Unicode 标准 2.12 节</a>，叙述了等价序列（equivalent sequences）及规范化（normalization）的相关概念；<a href=\"http://unicode.org/faq/normalization.html\">另有 FAQ 可供参考</a></li>\n<li><a href=\"http://unicode.org/reports/tr15/\">UAX #15: Unicode Normalization Forms</a></li>\n<li><a href=\"http://www.unicode.org/charts/normalization/\">Unicode Normalization Charts</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Apple_File_System\">APFS (Apple File System)</a>，Apple 推出的新文件系统；<a href=\"https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/APFS_Guide/FAQ/FAQ.html#//apple_ref/doc/uid/TP40016999-CH6-DontLinkElementID_17\">另有 FAQ 可供参考</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/HFS_Plus\">HFS+</a>，Apple 开发的文件系统</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Idempotence\">Idempotence</a>（冪等性）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Hash_table\">Hash map</a>（哈希映射）</li>\n<li><a href=\"https://www.apple.com/macos/high-sierra-preview/\">macOS High Sierra</a>，下一代 Mac 操作系统，将搭载 APFS</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Internationalized_domain_name\">IDN</a>（Internationalized Domain Dame，国际化域名）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Punycode\">Punycode</a></li>\n<li>W3C 关于 normalization 的规范可参考工作草案 <a href=\"https://www.w3.org/TR/charmod-norm/\"><em>Character Model for the World Wide Web: String Matching and Searching</em></a>；<a href=\"https://www.w3.org/International/questions/qa-html-css-normalization\">另有一则 Q&amp;A 可供参考</a></li>\n<li><a href=\"https://github.com/realfish/typedraw/blob/master/README.md#typedraw-12\">《字谈字畅》第十二轮抽奖结果</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li>\n<li>吴涛：<a href=\"https://www.typeisbeautiful.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li>\n<li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li>\n<li>蒸鱼：设计师，Type is Beautiful 编辑</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/48"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "62105456",
+            "href": "https://pan.icu/48/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/48",
+    "id": "https://pan.icu/48",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛、Eric、蒸鱼"
+        }
+    ],
+    "author": "Rio、吴涛、Eric、蒸鱼",
+    "author_detail": {
+        "name": "Rio、吴涛、Eric、蒸鱼"
+    },
+    "published": "Tue, 25 Jul 2017 01:45:13 +0000",
+    "published_parsed": [
+        2017,
+        7,
+        25,
+        1,
+        45,
+        13,
+        1,
+        206,
+        0
+    ],
+    "itunes_duration": "7744"
+}

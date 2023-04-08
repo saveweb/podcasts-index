@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "32491876",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MjUwOSwicCI6MiwidSI6IjEzODYubXAzIn0.mfucG5zoEvCsN0f2kRQ-EYbWUJw/zaizuozuoma/8333741729_481386.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/031"
+        }
+    ],
+    "title": "《女浩克》大结局干啥了，这么招人讨厌？｜再坐坐嘛 Vol. 031",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "《女浩克》大结局干啥了，这么招人讨厌？｜再坐坐嘛 Vol. 031"
+    },
+    "id": "https://zaizuozuoma.com/episodes/031",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/031",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "22:33",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "31",
+    "podcast_episode": "31",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "原本低调（默默无闻）的漫威剧集《女浩克》，在最后一集大结局搞了一个花活，惹得大量的观众很不爽。三位主播探讨了一下，为啥这个花活很招人厌。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "原本低调（默默无闻）的漫威剧集《女浩克》，在最后一集大结局搞了一个花活，惹得大量的观众很不爽。三位主播探讨了一下，为啥这个花活很招人厌。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>原本低调（默默无闻）的漫威剧集<a href=\"https://movie.douban.com/subject/34803800/\">《女浩克》</a>，在最后一集大结局搞了一个花活，惹得大量的观众很不爽。三位主播探讨了一下，为啥这个花活很招人厌。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>原本低调（默默无闻）的漫威剧集<a href=\"https://movie.douban.com/subject/34803800/\">《女浩克》</a>，在最后一集大结局搞了一个花活，惹得大量的观众很不爽。三位主播探讨了一下，为啥这个花活很招人厌。</p>"
+        }
+    ],
+    "published": "Thu, 20 Oct 2022 09:32:51 +0000",
+    "published_parsed": [
+        2022,
+        10,
+        20,
+        9,
+        32,
+        51,
+        3,
+        293,
+        0
+    ]
+}

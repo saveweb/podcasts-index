@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "65334793",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo1OTIwMywicCI6MiwidSI6IjcwODIubXAzIn0.MGhZagRrEIU24L2AeMH9uIvu5o0/zaizuozuoma/8344560826_157082.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/014"
+        }
+    ],
+    "title": "「旅游是个好东西」旅游能长见识吗？｜再坐坐嘛 Vol. 014",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "「旅游是个好东西」旅游能长见识吗？｜再坐坐嘛 Vol. 014"
+    },
+    "id": "https://zaizuozuoma.com/episodes/014",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/014",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "33:35",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "14",
+    "podcast_episode": "14",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8357866382_1161995.jpg?x-oss-process=style/sl"
+    },
+    "summary": "客观条件限制，不能畅畅快快出去玩，但是轻轻松松聊旅游，云旅游，总是可以的。第二个话题，聊聊旅游的意义，能长见识吗？ 两位新中年主播面包和阿宗，年轻时代特别在意旅游能帮助自己提高见识，年轻主播小卡在旅游时完全不在意这个事儿。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "客观条件限制，不能畅畅快快出去玩，但是轻轻松松聊旅游，云旅游，总是可以的。第二个话题，聊聊旅游的意义，能长见识吗？ 两位新中年主播面包和阿宗，年轻时代特别在意旅游能帮助自己提高见识，年轻主播小卡在旅游时完全不在意这个事儿。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>客观条件限制，不能畅畅快快出去玩，但是轻轻松松聊旅游，云旅游，总是可以的。第二个话题，聊聊旅游的意义，能长见识吗？</p>\n<p>两位新中年主播面包和阿宗，年轻时代特别在意旅游能帮助自己提高见识，年轻主播小卡在旅游时完全不在意这个事儿。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>客观条件限制，不能畅畅快快出去玩，但是轻轻松松聊旅游，云旅游，总是可以的。第二个话题，聊聊旅游的意义，能长见识吗？</p>\n<p>两位新中年主播面包和阿宗，年轻时代特别在意旅游能帮助自己提高见识，年轻主播小卡在旅游时完全不在意这个事儿。</p>"
+        }
+    ],
+    "published": "Fri, 17 Jun 2022 04:41:09 +0000",
+    "published_parsed": [
+        2022,
+        6,
+        17,
+        4,
+        41,
+        9,
+        4,
+        168,
+        0
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "22. 开发板",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "22. 开发板"
+    },
+    "itunes_episode": "22",
+    "itunes_title": "开发板",
+    "summary": "<p>两位主持人对 web 开发的态度；新闻是 Jeep 车被黑事件（更新：克莱斯勒已经宣布召回一百五十万辆汽车修复漏洞）；主题是微处理器开发板。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/\">Jeep 汽车被黑</a></li>\n<li><a href=\"https://www.arduino.cc/\">Arduino</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=aBhF_qfG4Qc\">Detect Train and Close Window with Arduino and Webcam</a> (YouTube 视频。吴涛的记忆有误，此处并未采用声音探测器，而是摄像头)</li>\n<li><a href=\"https://www.raspberrypi.org/\">Raspberry Pi</a></li>\n<li><a href=\"http://beagleboard.org/\">BeagleBoard</a></li>\n<li><a href=\"http://www.bananapi.org/\">Banana Pi</a></li>\n<li><a href=\"http://segmentfault.com/a/1190000000451314\">Raspberry Pi “树莓派”: 概述与优势(上)</a>、<a href=\"http://segmentfault.com/a/1190000000465449\">(下)</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>两位主持人对 web 开发的态度；新闻是 Jeep 车被黑事件（更新：克莱斯勒已经宣布召回一百五十万辆汽车修复漏洞）；主题是微处理器开发板。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/\">Jeep 汽车被黑</a></li>\n<li><a href=\"https://www.arduino.cc/\">Arduino</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=aBhF_qfG4Qc\">Detect Train and Close Window with Arduino and Webcam</a> (YouTube 视频。吴涛的记忆有误，此处并未采用声音探测器，而是摄像头)</li>\n<li><a href=\"https://www.raspberrypi.org/\">Raspberry Pi</a></li>\n<li><a href=\"http://beagleboard.org/\">BeagleBoard</a></li>\n<li><a href=\"http://www.bananapi.org/\">Banana Pi</a></li>\n<li><a href=\"http://segmentfault.com/a/1190000000451314\">Raspberry Pi “树莓派”: 概述与优势(上)</a>、<a href=\"http://segmentfault.com/a/1190000000465449\">(下)</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/22"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "47306394",
+            "href": "https://pan.icu/22/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/22",
+    "id": "https://pan.icu/22",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sun, 26 Jul 2015 00:54:46 +0000",
+    "published_parsed": [
+        2015,
+        7,
+        26,
+        0,
+        54,
+        46,
+        6,
+        207,
+        0
+    ],
+    "itunes_duration": "7369"
+}

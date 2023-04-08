@@ -1,0 +1,56 @@
+{
+    "title": "11. 从 Backbone 到 React",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "11. 从 Backbone 到 React"
+    },
+    "itunes_episode": "11",
+    "itunes_title": "从 Backbone 到 React",
+    "summary": "<p>（Pocket Casts 用户如果最近无法下载 IPN 的节目请退订再重新订阅试试。谢谢。）</p>\n\n<p>Willow 给大家介绍了工作中编写基于 Backbone 的应用遇到的种种困难、小团队如何做技术选型、以及如何逐步将一个大型的 Backbone 应用以 React 重写。在节目后半段，Rio 和吴涛聊了聊 OS X 上的 .NET CoreCLR，还有窗口管理器 i3。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://backbonejs.org/\">Backbone</a></li>\n<li><a href=\"http://underscorejs.org/\">Underscore</a></li>\n<li><a href=\"http://facebook.github.io/react/\">React</a></li>\n<li><a href=\"https://angularjs.org/\">AngularJS</a></li>\n<li><a href=\"http://praeclarum.org/post/110552954728/building-and-running-nets-coreclr-on-os-x\">Building and Running .NET’s CoreCLR on OS X</a></li>\n<li><a href=\"http://www.elementscompiler.com/elements/silver/\">可在 Visual Studio 中编译 Swift 的 Silver</a></li>\n<li><a href=\"https://i3wm.org/\">i3 窗口管理器</a></li>\n<li><a href=\"http://mizage.com/divvy/\">Divvy 窗口管理器</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。<br />\n</li>\n<li>Willow: <a href=\"http://www.thebackplane.com/\">Backplane</a> 前端工程师。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>（Pocket Casts 用户如果最近无法下载 IPN 的节目请退订再重新订阅试试。谢谢。）</p>\n\n<p>Willow 给大家介绍了工作中编写基于 Backbone 的应用遇到的种种困难、小团队如何做技术选型、以及如何逐步将一个大型的 Backbone 应用以 React 重写。在节目后半段，Rio 和吴涛聊了聊 OS X 上的 .NET CoreCLR，还有窗口管理器 i3。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://backbonejs.org/\">Backbone</a></li>\n<li><a href=\"http://underscorejs.org/\">Underscore</a></li>\n<li><a href=\"http://facebook.github.io/react/\">React</a></li>\n<li><a href=\"https://angularjs.org/\">AngularJS</a></li>\n<li><a href=\"http://praeclarum.org/post/110552954728/building-and-running-nets-coreclr-on-os-x\">Building and Running .NET’s CoreCLR on OS X</a></li>\n<li><a href=\"http://www.elementscompiler.com/elements/silver/\">可在 Visual Studio 中编译 Swift 的 Silver</a></li>\n<li><a href=\"https://i3wm.org/\">i3 窗口管理器</a></li>\n<li><a href=\"http://mizage.com/divvy/\">Divvy 窗口管理器</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。<br />\n</li>\n<li>Willow: <a href=\"http://www.thebackplane.com/\">Backplane</a> 前端工程师。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/11"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "97713427",
+            "href": "https://pan.icu/11/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/11",
+    "id": "https://pan.icu/11",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio、Willow"
+        }
+    ],
+    "author": "吴涛、Rio、Willow",
+    "author_detail": {
+        "name": "吴涛、Rio、Willow"
+    },
+    "published": "Sun, 22 Feb 2015 22:46:18 +0000",
+    "published_parsed": [
+        2015,
+        2,
+        22,
+        22,
+        46,
+        18,
+        6,
+        53,
+        0
+    ],
+    "itunes_duration": "8132"
+}

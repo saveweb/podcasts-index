@@ -1,0 +1,53 @@
+{
+    "title": "读书人频道 #09 重新做一个诗人",
+    "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://media.rss.com/abecedarian/feed.xml",
+        "value": "读书人频道 #09 重新做一个诗人"
+    },
+    "itunes_title": "读书人频道 #09 重新做一个诗人",
+    "summary": "<p>一个人能够轻手轻脚</p><p>擦他的眼镜片</p><p>但是不能安慰天空</p><p>诗人永远毫无办法</p><p>我穿过秋天的软草</p><p>回去看锅下的火</p><p>王小妮</p><p>害怕：王小妮集 1988—2015</p><p>王小妮</p><p>标准诗丛/作家出版社</p><p>ISBN: 9787506391054</p><p>读书人：赵阿萌</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://media.rss.com/abecedarian/feed.xml",
+        "value": "<p>一个人能够轻手轻脚</p><p>擦他的眼镜片</p><p>但是不能安慰天空</p><p>诗人永远毫无办法</p><p>我穿过秋天的软草</p><p>回去看锅下的火</p><p>王小妮</p><p>害怕：王小妮集 1988—2015</p><p>王小妮</p><p>标准诗丛/作家出版社</p><p>ISBN: 9787506391054</p><p>读书人：赵阿萌</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://rss.com/podcasts/abecedarian/44842"
+        },
+        {
+            "length": "25271072",
+            "type": "audio/mpeg",
+            "href": "https://media.rss.com/abecedarian/20200524_104047_7cbcb1df76a3196d019a50efe28e53a8.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://rss.com/podcasts/abecedarian/44842",
+    "id": "35a8bdaa-fc61-1715-2305-fa687df3b8cb",
+    "guidislink": false,
+    "image": {
+        "href": "https://media.rss.com/abecedarian/20200229_133351_a45c34a4c98c0e7ad6cc66d14968d9b8.jpeg"
+    },
+    "itunes_duration": "632",
+    "itunes_episodetype": "full",
+    "itunes_episode": "28",
+    "itunes_season": "1",
+    "itunes_explicit": null,
+    "published": "Sun, 24 May 2020 10:40:47 GMT",
+    "published_parsed": [
+        2020,
+        5,
+        24,
+        10,
+        40,
+        47,
+        6,
+        145,
+        0
+    ]
+}

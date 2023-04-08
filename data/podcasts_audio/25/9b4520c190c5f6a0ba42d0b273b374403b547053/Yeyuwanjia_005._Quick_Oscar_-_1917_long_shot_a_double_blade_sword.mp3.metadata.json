@@ -1,0 +1,49 @@
+{
+    "http-content-length": 5141572,
+    "http-etag": "1c5415d6246fc86592332fe7d8f05ddb",
+    "http-last-modified": "Fri, 18 Feb 2022 04:58:09 GMT",
+    "http-last-modified-float": 1645131489.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 5141572,
+    "actual-duration": null,
+    "sha1": "75fce592004868e7ae5e377fcd4f2d0c75950b8c",
+    "md5": "1c5415d6246fc86592332fe7d8f05ddb",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_005._Quick_Oscar_-_1917_long_shot_a_double_blade_sword.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:42:05 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/8/2/1/82121b65f29bb29b/Yeyuwanjia_005._Quick_Oscar_-_1917_long_shot_a_double_blade_sword.mp3?c_id=63764399&cs_id=63764399&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936945&Signature=CjhduRCAN2NPGJVOBxetp8BQXm2~qgqIY-EORlJvQs~UcHn5NM76iVcoRU98dCmHUcJNt-VGZp3Bd9Nxko-H8UHz--99MBXJAC37CHHD-HiuC~47U8-VCFIWAbKIK7PqvrbtLyYQ1IdJP85BYtypR-aqtO-nZfk2y2AiOpdh4b7sjmn-npz-Oal2Spj2L-nERXuCSPAE8Dh~W0g5eLFOIJ2Pui2NrXt5jJkFMCyjXycRq93XIyPaYawkeR0QBXcZAMvTPeUPrmma8piS2EjFTUXrteLXv-EnpnQRWkXBhPJo5RnHsGpxUyajtK2FMHmEFfYsvwrhTHdWnD1xZ2Ziww__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t4",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/8/2/1/82121b65f29bb29b/Yeyuwanjia_005._Quick_Oscar_-_1917_long_shot_a_double_blade_sword.mp3?c_id=63764399&cs_id=63764399&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936945&Signature=CjhduRCAN2NPGJVOBxetp8BQXm2~qgqIY-EORlJvQs~UcHn5NM76iVcoRU98dCmHUcJNt-VGZp3Bd9Nxko-H8UHz--99MBXJAC37CHHD-HiuC~47U8-VCFIWAbKIK7PqvrbtLyYQ1IdJP85BYtypR-aqtO-nZfk2y2AiOpdh4b7sjmn-npz-Oal2Spj2L-nERXuCSPAE8Dh~W0g5eLFOIJ2Pui2NrXt5jJkFMCyjXycRq93XIyPaYawkeR0QBXcZAMvTPeUPrmma8piS2EjFTUXrteLXv-EnpnQRWkXBhPJo5RnHsGpxUyajtK2FMHmEFfYsvwrhTHdWnD1xZ2Ziww__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "5141572",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:42:07 GMT",
+                "Last-Modified": "Fri, 18 Feb 2022 04:58:09 GMT",
+                "ETag": "\"1c5415d6246fc86592332fe7d8f05ddb\"",
+                "x-amz-meta-mtime": "1580448838",
+                "x-amz-version-id": "vO2MqMRsNis2n8Z3HSkpt45zioCbEamo",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "Kf7dRZdawOwwojpygITpJeFpjsJwWBRwLW_g7KUD7vdSMOvaK0EjQg==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

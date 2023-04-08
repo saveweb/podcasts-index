@@ -1,0 +1,75 @@
+{
+    "links": [
+        {
+            "length": "76738062",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/15D3AF/r.typlog.com/eyJzIjoxODIzLCJlIjo2MjU0OCwicCI6MiwidSI6IjcyNzcubXAzIn0.TBn7CLXAZvmp_5cNzUBisMc0los/2bab/8333553777_607277.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://binary.2bab.me/episodes/017-tech-conf"
+        }
+    ],
+    "title": "#17 技术大会，为谁而开？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#17 技术大会，为谁而开？"
+    },
+    "id": "https://binary.2bab.me/episodes/017-tech-conf",
+    "guidislink": true,
+    "link": "https://binary.2bab.me/episodes/017-tech-conf",
+    "authors": [
+        {
+            "name": "2BAB"
+        }
+    ],
+    "author": "2BAB",
+    "author_detail": {
+        "name": "2BAB"
+    },
+    "itunes_duration": "1:19:55",
+    "itunes_explicit": null,
+    "itunes_episode": "17",
+    "podcast_episode": "17",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/2bab/8333553788_676725.png?x-oss-process=style/sl"
+    },
+    "summary": "#17 技术大会，为谁而开？ 本期人物：Jinjiang（勾股），AB 时隔半年，二分电台恢复更新！本期请到了 Vue.js 和 Weex 的核心贡献者 Jinjiang 老师，一起聊聊技术大会的方方面面。我们将从观众、讲师、会议组织者三个角度，分享各自经历过的几个技术大会。 欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~ 时间轴： 00:34 Jinjiang 老师自我介绍，两人如何认识 02:01 主题介绍 03:39 作为观众参加过那些技术会议，印象最好的 top3 会议 04:07 Jinjiang: W3CTech、VueFes JP、WebConfAsia 07:53 AB: AndroidWorld、DroidCon 09:52 如何判断会议质量？会议受众怎么划定？ 16:00 综合类会议 or 垂直类会议，如何选择？ 18:53 “官方”会议的价值，F8、Google IO 等？社区想讲、还是技术宣传方想讲？ 23:27 在技术大会上，聊源码分享类的话题合适吗？ 31:49 作为讲师，线上线下的分享体验有哪些不同？更多的分享小技巧公开 37:48 Q&amp;A 环节，线上线下的区别，以及主办方的“小心思”是否真的必要？ 46:10 讲师的主题、PPT 等分享内容一般会找谁 Review？ 50:19 两种不一样的主题演讲的准备方式 57:04 Community For Everyone：会议结束后的小圆桌问答 59:44 闪电分享 Lightning Talks 62:56 作为会议的组织者，有哪些心得？以 Weex Conf 为例，聊聊选题、选会议地址、讲师邀请等等细节 73:20 对于较小的社区群体，想要举办自己的技术分享，有哪些建议？ 76:46 总结 &amp; 彩蛋（哪家会议的餐食最好吃） 相关信息： 公众号：Android高效开发、南瓜饼日常 二分电台官网 关于和版权信息 我对技术会议的一些看法 - Jinjiang VueFes JP React Conferences Jinjiang 老师的联系方式: Zhao Jinjiang AB 的联系方式： 关于 AB",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#17 技术大会，为谁而开？ 本期人物：Jinjiang（勾股），AB 时隔半年，二分电台恢复更新！本期请到了 Vue.js 和 Weex 的核心贡献者 Jinjiang 老师，一起聊聊技术大会的方方面面。我们将从观众、讲师、会议组织者三个角度，分享各自经历过的几个技术大会。 欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~ 时间轴： 00:34 Jinjiang 老师自我介绍，两人如何认识 02:01 主题介绍 03:39 作为观众参加过那些技术会议，印象最好的 top3 会议 04:07 Jinjiang: W3CTech、VueFes JP、WebConfAsia 07:53 AB: AndroidWorld、DroidCon 09:52 如何判断会议质量？会议受众怎么划定？ 16:00 综合类会议 or 垂直类会议，如何选择？ 18:53 “官方”会议的价值，F8、Google IO 等？社区想讲、还是技术宣传方想讲？ 23:27 在技术大会上，聊源码分享类的话题合适吗？ 31:49 作为讲师，线上线下的分享体验有哪些不同？更多的分享小技巧公开 37:48 Q&amp;A 环节，线上线下的区别，以及主办方的“小心思”是否真的必要？ 46:10 讲师的主题、PPT 等分享内容一般会找谁 Review？ 50:19 两种不一样的主题演讲的准备方式 57:04 Community For Everyone：会议结束后的小圆桌问答 59:44 闪电分享 Lightning Talks 62:56 作为会议的组织者，有哪些心得？以 Weex Conf 为例，聊聊选题、选会议地址、讲师邀请等等细节 73:20 对于较小的社区群体，想要举办自己的技术分享，有哪些建议？ 76:46 总结 &amp; 彩蛋（哪家会议的餐食最好吃） 相关信息： 公众号：Android高效开发、南瓜饼日常 二分电台官网 关于和版权信息 我对技术会议的一些看法 - Jinjiang VueFes JP React Conferences Jinjiang 老师的联系方式: Zhao Jinjiang AB 的联系方式： 关于 AB"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#17 技术大会，为谁而开？</h2>\n<p>本期人物：Jinjiang（勾股），AB</p>\n<p>时隔半年，二分电台恢复更新！本期请到了 Vue.js 和 Weex 的核心贡献者 Jinjiang 老师，一起聊聊技术大会的方方面面。我们将从观众、讲师、会议组织者三个角度，分享各自经历过的几个技术大会。</p>\n<p>欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:34\">00:34</a> Jinjiang 老师自我介绍，两人如何认识</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=02:01\">02:01</a> 主题介绍</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=03:39\">03:39</a> 作为观众参加过那些技术会议，印象最好的 top3 会议</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=04:07\">04:07</a> Jinjiang: W3CTech、VueFes JP、WebConfAsia</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=07:53\">07:53</a> AB: AndroidWorld、DroidCon</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=09:52\">09:52</a> 如何判断会议质量？会议受众怎么划定？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=16:00\">16:00</a> 综合类会议 or 垂直类会议，如何选择？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=18:53\">18:53</a> “官方”会议的价值，F8、Google IO 等？社区想讲、还是技术宣传方想讲？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=23:27\">23:27</a> 在技术大会上，聊源码分享类的话题合适吗？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=31:49\">31:49</a> 作为讲师，线上线下的分享体验有哪些不同？更多的分享小技巧公开</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=37:48\">37:48</a> Q&amp;A 环节，线上线下的区别，以及主办方的“小心思”是否真的必要？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=46:10\">46:10</a> 讲师的主题、PPT 等分享内容一般会找谁 Review？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=50:19\">50:19</a> 两种不一样的主题演讲的准备方式</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=57:04\">57:04</a> Community For Everyone：会议结束后的小圆桌问答</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=59:44\">59:44</a> 闪电分享 Lightning Talks</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=62:56\">62:56</a> 作为会议的组织者，有哪些心得？以 Weex Conf 为例，聊聊选题、选会议地址、讲师邀请等等细节</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=73:20\">73:20</a> 对于较小的社区群体，想要举办自己的技术分享，有哪些建议？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=76:46\">76:46</a> 总结 &amp; 彩蛋（哪家会议的餐食最好吃）</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/about\">公众号：Android高效开发、南瓜饼日常</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n<li><a href=\"https://jiongks.name/blog/thoughts-about-tech-conf/\">我对技术会议的一些看法 - Jinjiang</a></li>\n<li><a href=\"https://vuefes.jp/2022/\">VueFes JP</a></li>\n<li><a href=\"https://reactjs.org/community/conferences.html\">React Conferences</a></li>\n</ul>\n<p>Jinjiang 老师的联系方式:</p>\n<ul>\n<li><a href=\"http://jinjiang.me/\">Zhao Jinjiang</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"https://2bab.me/about\">关于 AB</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#17 技术大会，为谁而开？</h2>\n<p>本期人物：Jinjiang（勾股），AB</p>\n<p>时隔半年，二分电台恢复更新！本期请到了 Vue.js 和 Weex 的核心贡献者 Jinjiang 老师，一起聊聊技术大会的方方面面。我们将从观众、讲师、会议组织者三个角度，分享各自经历过的几个技术大会。</p>\n<p>欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:34\">00:34</a> Jinjiang 老师自我介绍，两人如何认识</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=02:01\">02:01</a> 主题介绍</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=03:39\">03:39</a> 作为观众参加过那些技术会议，印象最好的 top3 会议</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=04:07\">04:07</a> Jinjiang: W3CTech、VueFes JP、WebConfAsia</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=07:53\">07:53</a> AB: AndroidWorld、DroidCon</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=09:52\">09:52</a> 如何判断会议质量？会议受众怎么划定？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=16:00\">16:00</a> 综合类会议 or 垂直类会议，如何选择？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=18:53\">18:53</a> “官方”会议的价值，F8、Google IO 等？社区想讲、还是技术宣传方想讲？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=23:27\">23:27</a> 在技术大会上，聊源码分享类的话题合适吗？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=31:49\">31:49</a> 作为讲师，线上线下的分享体验有哪些不同？更多的分享小技巧公开</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=37:48\">37:48</a> Q&amp;A 环节，线上线下的区别，以及主办方的“小心思”是否真的必要？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=46:10\">46:10</a> 讲师的主题、PPT 等分享内容一般会找谁 Review？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=50:19\">50:19</a> 两种不一样的主题演讲的准备方式</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=57:04\">57:04</a> Community For Everyone：会议结束后的小圆桌问答</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=59:44\">59:44</a> 闪电分享 Lightning Talks</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=62:56\">62:56</a> 作为会议的组织者，有哪些心得？以 Weex Conf 为例，聊聊选题、选会议地址、讲师邀请等等细节</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=73:20\">73:20</a> 对于较小的社区群体，想要举办自己的技术分享，有哪些建议？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=76:46\">76:46</a> 总结 &amp; 彩蛋（哪家会议的餐食最好吃）</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/about\">公众号：Android高效开发、南瓜饼日常</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n<li><a href=\"https://jiongks.name/blog/thoughts-about-tech-conf/\">我对技术会议的一些看法 - Jinjiang</a></li>\n<li><a href=\"https://vuefes.jp/2022/\">VueFes JP</a></li>\n<li><a href=\"https://reactjs.org/community/conferences.html\">React Conferences</a></li>\n</ul>\n<p>Jinjiang 老师的联系方式:</p>\n<ul>\n<li><a href=\"http://jinjiang.me/\">Zhao Jinjiang</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"https://2bab.me/about\">关于 AB</a></li>\n</ul>"
+        }
+    ],
+    "published": "Sun, 23 Oct 2022 02:42:37 +0000",
+    "published_parsed": [
+        2022,
+        10,
+        23,
+        2,
+        42,
+        37,
+        6,
+        296,
+        0
+    ]
+}

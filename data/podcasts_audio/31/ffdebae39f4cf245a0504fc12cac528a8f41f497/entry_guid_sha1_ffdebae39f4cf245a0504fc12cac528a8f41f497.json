@@ -1,0 +1,56 @@
+{
+    "title": "25. Hyper.sh",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "25. Hyper.sh"
+    },
+    "itunes_episode": "25",
+    "itunes_title": "Hyper.sh",
+    "summary": "<p><a href=\"https://hyper.sh/\">Hyper</a> 是一款基于虚拟机的 Docker 替代引擎。本期我们邀请到了 Hyper 项目的创始成员、前 SUN 工程师薛磊（Simon）来聊一聊这款新工具。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://hyper.sh\">Hyper.sh</a></li>\n<li><a href=\"https://github.com/hyperhq/hyper\">Hyper on GitHub</a></li>\n<li><a href=\"https://hyper.sh/jobs.html\">Jobs at Hyper</a></li>\n<li><a href=\"https://github.com/riobard/go-virtualbox\">Rio 写的 <code>go-virtualbox</code> 库</a></li>\n<li><a href=\"https://www.docker.com\">Docker</a></li>\n<li><a href=\"http://www.linux-kvm.org/\">KVM</a></li>\n<li><a href=\"http://www.xenproject.org\">Xen</a></li>\n<li><a href=\"https://coreos.com\">CoreOS</a></li>\n<li><a href=\"https://clearlinux.org\">Clear Linux</a></li>\n<li><a href=\"http://kubernetes.io\">Kubernetes</a></li>\n<li><a href=\"https://www.packet.net\">Packet</a></li>\n<li><a href=\"https://www.virtualbox.org\">VirtualBox</a></li>\n<li><a href=\"http://boot2docker.io\">boot2docker</a></li>\n<li><a href=\"https://github.com/boot2docker/boot2docker-cli\">Rio 写的 boot2docker 命令行工具（已 deprecated）</a></li>\n<li><a href=\"https://github.com/mist64/xhyve\">xhyve</a></li>\n<li><a href=\"https://www.v2ex.com\">V2EX</a></li>\n<li><a href=\"https://golang.org\">Go 语言</a></li>\n</ul>\n\n<h2>人物介绍</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>薛磊：前 SUN 工程师，HyperHQ 创始成员／软件工程师</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p><a href=\"https://hyper.sh/\">Hyper</a> 是一款基于虚拟机的 Docker 替代引擎。本期我们邀请到了 Hyper 项目的创始成员、前 SUN 工程师薛磊（Simon）来聊一聊这款新工具。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://hyper.sh\">Hyper.sh</a></li>\n<li><a href=\"https://github.com/hyperhq/hyper\">Hyper on GitHub</a></li>\n<li><a href=\"https://hyper.sh/jobs.html\">Jobs at Hyper</a></li>\n<li><a href=\"https://github.com/riobard/go-virtualbox\">Rio 写的 <code>go-virtualbox</code> 库</a></li>\n<li><a href=\"https://www.docker.com\">Docker</a></li>\n<li><a href=\"http://www.linux-kvm.org/\">KVM</a></li>\n<li><a href=\"http://www.xenproject.org\">Xen</a></li>\n<li><a href=\"https://coreos.com\">CoreOS</a></li>\n<li><a href=\"https://clearlinux.org\">Clear Linux</a></li>\n<li><a href=\"http://kubernetes.io\">Kubernetes</a></li>\n<li><a href=\"https://www.packet.net\">Packet</a></li>\n<li><a href=\"https://www.virtualbox.org\">VirtualBox</a></li>\n<li><a href=\"http://boot2docker.io\">boot2docker</a></li>\n<li><a href=\"https://github.com/boot2docker/boot2docker-cli\">Rio 写的 boot2docker 命令行工具（已 deprecated）</a></li>\n<li><a href=\"https://github.com/mist64/xhyve\">xhyve</a></li>\n<li><a href=\"https://www.v2ex.com\">V2EX</a></li>\n<li><a href=\"https://golang.org\">Go 语言</a></li>\n</ul>\n\n<h2>人物介绍</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>薛磊：前 SUN 工程师，HyperHQ 创始成员／软件工程师</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/25"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "58195909",
+            "href": "https://pan.icu/25/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/25",
+    "id": "https://pan.icu/25",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、薛磊"
+        }
+    ],
+    "author": "Rio、薛磊",
+    "author_detail": {
+        "name": "Rio、薛磊"
+    },
+    "published": "Sun, 04 Oct 2015 05:37:12 +0000",
+    "published_parsed": [
+        2015,
+        10,
+        4,
+        5,
+        37,
+        12,
+        6,
+        277,
+        0
+    ],
+    "itunes_duration": "4839"
+}

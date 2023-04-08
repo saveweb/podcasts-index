@@ -1,0 +1,24 @@
+{
+    "id": 31,
+    "enabled": true,
+    "title": "内核恐慌",
+    "link": "https://pan.icu",
+    "feed_url": "https://pan.icu/feed",
+    "summary": null,
+    "language": "zh-CN",
+    "saveweb": {
+        "created_timestamp": 1680940529,
+        "last_success_timestamp": 1680940534,
+        "last_checked_timestamp": 1680940534,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

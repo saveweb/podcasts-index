@@ -1,0 +1,56 @@
+{
+    "title": "10. React.js 研讨会专题",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "10. React.js 研讨会专题"
+    },
+    "itunes_episode": "10",
+    "itunes_title": "React.js 研讨会专题",
+    "summary": "<p>Willow（柳成荫）参加完两天的 React.js Conf 2015 回到家里，Rio 和吴涛邀请他一起来聊一聊相关话题：React.js, Flux, JSX, XHP, ES6, React Native, Flexbox Layout, REST, Relay, GraphQL, graph database 等。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://itgonglun.com/42/\">《IT 公论》 #42: 海外中国程序员系列之三：WhatFont 插件作者柳成荫（Willow）</a></li>\n<li><a href=\"https://itgonglun.com/121\">《IT 公论》 #121: WhatFont for iOS 开发者访谈</a></li>\n<li><a href=\"http://backbonejs.org\">Backbone.js</a></li>\n<li><a href=\"http://emberjs.com\">Ember.js</a></li>\n<li><a href=\"http://angularjs.org\">AngularJS</a></li>\n<li><a href=\"http://facebook.github.io/react/\">React</a></li>\n<li><a href=\"http://conf.reactjs.com/schedule.html\">React.js Conf 2015 议程及录像</a></li>\n<li><a href=\"http://facebook.github.io/react/docs/flux-overview.html\">Flux 应用架构</a></li>\n<li><a href=\"https://github.com/spoike/refluxjs\">Reflux</a></li>\n<li><a href=\"http://facebook.github.io/immutable-js/\">Immutable.js</a></li>\n<li><a href=\"http://facebook.github.io/jsx/\">JSX</a></li>\n<li><a href=\"https://github.com/facebook/css-layout\">CSS Flexbox Layout in JavaScript</a></li>\n<li><a href=\"http://jlongster.com/First-Impressions-using-React-Native\">React Native 初体验</a></li>\n<li><a href=\"http://www.appcelerator.com/blog/2013/10/introducing-hyperloop/\">Titanium Hyperloop</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Representational_state_transfer\">Representational State Transfer</a></li>\n<li><a href=\"https://www.ics.uci.edu/~taylor/documents/2002-REST-TOIT.pdf\">Principled Design of the Modern Web Architecture</a></li>\n<li><a href=\"https://gist.github.com/wincent/598fa75e22bdfa44cf47\">Unofficial Relay FAQ</a></li>\n<li><a href=\"https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920\">TAO: The power of the graph</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Graph_database\">Graph database</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n<li>柳成荫：<a href=\"http://chengyinliu.com/whatfont.html\">WhatFont</a> 开发者。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>Willow（柳成荫）参加完两天的 React.js Conf 2015 回到家里，Rio 和吴涛邀请他一起来聊一聊相关话题：React.js, Flux, JSX, XHP, ES6, React Native, Flexbox Layout, REST, Relay, GraphQL, graph database 等。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://itgonglun.com/42/\">《IT 公论》 #42: 海外中国程序员系列之三：WhatFont 插件作者柳成荫（Willow）</a></li>\n<li><a href=\"https://itgonglun.com/121\">《IT 公论》 #121: WhatFont for iOS 开发者访谈</a></li>\n<li><a href=\"http://backbonejs.org\">Backbone.js</a></li>\n<li><a href=\"http://emberjs.com\">Ember.js</a></li>\n<li><a href=\"http://angularjs.org\">AngularJS</a></li>\n<li><a href=\"http://facebook.github.io/react/\">React</a></li>\n<li><a href=\"http://conf.reactjs.com/schedule.html\">React.js Conf 2015 议程及录像</a></li>\n<li><a href=\"http://facebook.github.io/react/docs/flux-overview.html\">Flux 应用架构</a></li>\n<li><a href=\"https://github.com/spoike/refluxjs\">Reflux</a></li>\n<li><a href=\"http://facebook.github.io/immutable-js/\">Immutable.js</a></li>\n<li><a href=\"http://facebook.github.io/jsx/\">JSX</a></li>\n<li><a href=\"https://github.com/facebook/css-layout\">CSS Flexbox Layout in JavaScript</a></li>\n<li><a href=\"http://jlongster.com/First-Impressions-using-React-Native\">React Native 初体验</a></li>\n<li><a href=\"http://www.appcelerator.com/blog/2013/10/introducing-hyperloop/\">Titanium Hyperloop</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Representational_state_transfer\">Representational State Transfer</a></li>\n<li><a href=\"https://www.ics.uci.edu/~taylor/documents/2002-REST-TOIT.pdf\">Principled Design of the Modern Web Architecture</a></li>\n<li><a href=\"https://gist.github.com/wincent/598fa75e22bdfa44cf47\">Unofficial Relay FAQ</a></li>\n<li><a href=\"https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920\">TAO: The power of the graph</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Graph_database\">Graph database</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n<li>柳成荫：<a href=\"http://chengyinliu.com/whatfont.html\">WhatFont</a> 开发者。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/10"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "83607618",
+            "href": "https://pan.icu/10/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/10",
+    "id": "https://pan.icu/10",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio、Willow"
+        }
+    ],
+    "author": "吴涛、Rio、Willow",
+    "author_detail": {
+        "name": "吴涛、Rio、Willow"
+    },
+    "published": "Sun, 08 Feb 2015 07:15:30 +0000",
+    "published_parsed": [
+        2015,
+        2,
+        8,
+        7,
+        15,
+        30,
+        6,
+        39,
+        0
+    ],
+    "itunes_duration": "6956"
+}

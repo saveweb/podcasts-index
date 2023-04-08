@@ -1,0 +1,24 @@
+{
+    "id": 32,
+    "enabled": true,
+    "title": "再坐坐嘛",
+    "link": "https://zaizuozuoma.com",
+    "feed_url": "https://zaizuozuoma.com/feed/audio.xml",
+    "summary": "闲聊泛生活类的话题，文化、娱乐、影视、美食都会聊。多听一会儿，再坐坐嘛。",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680943066,
+        "last_success_timestamp": 1680943070,
+        "last_checked_timestamp": 1680943070,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

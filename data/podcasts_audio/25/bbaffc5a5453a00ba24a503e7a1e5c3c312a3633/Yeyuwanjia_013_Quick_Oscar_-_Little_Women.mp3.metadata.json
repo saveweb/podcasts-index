@@ -1,0 +1,49 @@
+{
+    "http-content-length": 11707498,
+    "http-etag": "e272f5663334ae3fe6c5c1edfc5c1a4c",
+    "http-last-modified": "Sat, 05 Mar 2022 23:31:46 GMT",
+    "http-last-modified-float": 1646494306.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 11707498,
+    "actual-duration": null,
+    "sha1": "0fb2a670e7d78f5b03cf3e35afdaa62571d65727",
+    "md5": "e272f5663334ae3fe6c5c1edfc5c1a4c",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_013_Quick_Oscar_-_Little_Women.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:41:39 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/c/e/7/ce77c0b27dfa3b71/Yeyuwanjia_013_Quick_Oscar_-_Little_Women.mp3?c_id=64392047&cs_id=64392047&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680938011&Signature=cAoHf92MPZ9l9w0ve11u4dK5EN7X9D~l3cC9ncFMB~FdKeIgtXDU1KQD1FkCeNMGSiaTJDFIAIgaKiV5HMcPcxnRiyku-WsRrVGX26uhGsV~V6HFityt4KBFBAWZ3Y4Tp9jAYLnWuTs3ySiHS-HL0Eu7F9jE8eVSyPvg2Aa-mpvo4qYhTYI~AiizFF4nYYN4CAiHE2pBuZorRfVvoyQDhDlkiKMVqBHReapFU0ozUgc8IZhQwIoblxz3zixIMZS4JlZsGKKSpI-9AhWhDMYkzfUeV1hgsSTyb6D1V0JLcrtN5YrI-fh0U5NYhX3~Hq2lLtMYa~31f0Kn9y9BJHWj4Q__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t1",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/c/e/7/ce77c0b27dfa3b71/Yeyuwanjia_013_Quick_Oscar_-_Little_Women.mp3?c_id=64392047&cs_id=64392047&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680938011&Signature=cAoHf92MPZ9l9w0ve11u4dK5EN7X9D~l3cC9ncFMB~FdKeIgtXDU1KQD1FkCeNMGSiaTJDFIAIgaKiV5HMcPcxnRiyku-WsRrVGX26uhGsV~V6HFityt4KBFBAWZ3Y4Tp9jAYLnWuTs3ySiHS-HL0Eu7F9jE8eVSyPvg2Aa-mpvo4qYhTYI~AiizFF4nYYN4CAiHE2pBuZorRfVvoyQDhDlkiKMVqBHReapFU0ozUgc8IZhQwIoblxz3zixIMZS4JlZsGKKSpI-9AhWhDMYkzfUeV1hgsSTyb6D1V0JLcrtN5YrI-fh0U5NYhX3~Hq2lLtMYa~31f0Kn9y9BJHWj4Q__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "11707498",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:41:40 GMT",
+                "Last-Modified": "Sat, 05 Mar 2022 23:31:46 GMT",
+                "ETag": "\"e272f5663334ae3fe6c5c1edfc5c1a4c\"",
+                "x-amz-meta-mtime": "1581126870",
+                "x-amz-version-id": "0AevX9iefGml9Y_ukVSG6wkj8c2X2OKx",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "b4HJSsfk5kyeuRdPIrSCfdHlUEAvCsW4jjbEJxI1WzCBIno8GX1CrQ==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

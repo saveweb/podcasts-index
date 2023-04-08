@@ -1,0 +1,58 @@
+{
+    "http-content-length": 28633186,
+    "http-etag": "3c37e6ce8ace1c9ac65bad8cf76bbb72",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "attachment; filename=\"047merry-lamb.mp3\"",
+    "http-content-disposition-filename": "047merry-lamb.mp3",
+    "actual-size": 28633186,
+    "actual-duration": 3579,
+    "sha1": "3888dec9c6e9d80133ac811dc99bc36739150b38",
+    "md5": "1f5528a06e63de41558d130ee33712a6",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/5e7cc4540de9b4742d501c9d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=DGufDLMTx_Ce7Jq8TjO6tU5kAxiGfwZgBC48XOdsflk",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:24:41 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/3c37e6ce8ace1c9ac65bad8cf76bbb72.mp3?aid=5e7cc4540de9b4742d501c9d&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=qMc9H12TtDdbp_cIQoGlY1WRH6tXlzlHa2_1evAO_k1MZXja3Sww-g%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=f2d1b9ebb43d0f14597573cee014a76f&Expires=1680957581767&Key-Pair-Id=K38CTQXUSD0VVB&Signature=g-0260uGL2qSd4pb2YBsTUym1PXkXkVq5AxEw36QO8VmbQ9nH1zusOAK3m6RZgKqC8OLvxzbiukBcfI0i6xvdRK4t03qLPOgmmgCuzX7ow77J0gSsSW-LlXWxKrJCYy8k7-Ons1g~lk9BNOTZymsZvBxoT2JJIV4OW40JO44gdLEtnEs2tTTPDyxIR0-WpW-pPgA2B-ZlE9P~y7sHYMTGcuSxAGk9Y0Ds-8UIwWsrfpTWi0KhRjpAQBFRIqLJZC3uDW~kvkfBaDVqLJAhVNgKB3sOas~LOahV6SdtBthgpiAZbTn-9RozkLId6Ox9uu1lRgqGzmZ33-7X35JdR8XfQ__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "qMc9H12TtDdbp_cIQoGlY1WRH6tXlzlHa2_1evAO_k1MZXja3Sww-g=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/3c37e6ce8ace1c9ac65bad8cf76bbb72.mp3?aid=5e7cc4540de9b4742d501c9d&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=qMc9H12TtDdbp_cIQoGlY1WRH6tXlzlHa2_1evAO_k1MZXja3Sww-g%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=f2d1b9ebb43d0f14597573cee014a76f&Expires=1680957581767&Key-Pair-Id=K38CTQXUSD0VVB&Signature=g-0260uGL2qSd4pb2YBsTUym1PXkXkVq5AxEw36QO8VmbQ9nH1zusOAK3m6RZgKqC8OLvxzbiukBcfI0i6xvdRK4t03qLPOgmmgCuzX7ow77J0gSsSW-LlXWxKrJCYy8k7-Ons1g~lk9BNOTZymsZvBxoT2JJIV4OW40JO44gdLEtnEs2tTTPDyxIR0-WpW-pPgA2B-ZlE9P~y7sHYMTGcuSxAGk9Y0Ds-8UIwWsrfpTWi0KhRjpAQBFRIqLJZC3uDW~kvkfBaDVqLJAhVNgKB3sOas~LOahV6SdtBthgpiAZbTn-9RozkLId6Ox9uu1lRgqGzmZ33-7X35JdR8XfQ__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "28633186",
+                "Connection": "keep-alive",
+                "Date": "Wed, 05 Apr 2023 05:00:30 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "attachment; filename=\"047merry-lamb.mp3\"",
+                "ETag": "\"3c37e6ce8ace1c9ac65bad8cf76bbb72\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "yvzrxSynM_Rv2tbPUgb9I6kEt6OL6-PXxv50XG-gr9lQ7RzDwTrjhQ==",
+                "Age": "275052"
+            }
+        }
+    }
+}

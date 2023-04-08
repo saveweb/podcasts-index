@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "18330475",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MTEzMCwicCI6MiwidSI6IjkyMjgubXAzIn0.V30ZwipmH_BiZLQB-TEq2vMZPps/zaizuozuoma/8339352419_539228.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/023"
+        }
+    ],
+    "title": "谈谈惊心动魄的交通故事｜再坐坐嘛 Vol. 023",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "谈谈惊心动魄的交通故事｜再坐坐嘛 Vol. 023"
+    },
+    "id": "https://zaizuozuoma.com/episodes/023",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/023",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "50:53",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "23",
+    "podcast_episode": "23",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "主播小卡骑车下班，经历了一场惊心动魄的小故事，还好没有引发什么人身安危。 另外两位主播日常开车，也遇到过不同类型的交通事故。三位坐下来，分析了这些经历，同时再次明确了那个真理：一定要遵守交通规则。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "主播小卡骑车下班，经历了一场惊心动魄的小故事，还好没有引发什么人身安危。 另外两位主播日常开车，也遇到过不同类型的交通事故。三位坐下来，分析了这些经历，同时再次明确了那个真理：一定要遵守交通规则。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>主播小卡骑车下班，经历了一场惊心动魄的小故事，还好没有引发什么人身安危。</p>\n<p>另外两位主播日常开车，也遇到过不同类型的交通事故。三位坐下来，分析了这些经历，同时再次明确了那个真理：<strong>一定要遵守交通规则</strong>。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>主播小卡骑车下班，经历了一场惊心动魄的小故事，还好没有引发什么人身安危。</p>\n<p>另外两位主播日常开车，也遇到过不同类型的交通事故。三位坐下来，分析了这些经历，同时再次明确了那个真理：<strong>一定要遵守交通规则</strong>。</p>"
+        }
+    ],
+    "published": "Tue, 16 Aug 2022 11:00:56 +0000",
+    "published_parsed": [
+        2022,
+        8,
+        16,
+        11,
+        0,
+        56,
+        1,
+        228,
+        0
+    ]
+}

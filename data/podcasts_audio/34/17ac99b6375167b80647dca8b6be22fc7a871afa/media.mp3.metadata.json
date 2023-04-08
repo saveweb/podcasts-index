@@ -1,0 +1,58 @@
+{
+    "http-content-length": 68593563,
+    "http-etag": "b94b9bc8081ce5e680d4f1f67f8a61ff",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "attachment; filename=\"062love-and-sex.mp3\"",
+    "http-content-disposition-filename": "062love-and-sex.mp3",
+    "actual-size": 68593563,
+    "actual-duration": 4287,
+    "sha1": "325a0b083a107bc7cbfdc79b434ff2421e6e8f52",
+    "md5": "3c3c792f6b370a9ef6de2e18e6afbce8",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/5f081c88ce937d366174c42d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=YfKDW6q8SkRCgAOxyT47cmSdcs4dwyKGS9jlYKVNaBA",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:22:42 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/b94b9bc8081ce5e680d4f1f67f8a61ff.mp3?aid=5f081c88ce937d366174c42d&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=YRHJc6e_45nFKfrkHGDS4quHZUCPj9ktehS2G7HOUjQNS2UUUJ_v7A%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=127789f97c7cb0d52b5784d04094fdd7&Expires=1680957462478&Key-Pair-Id=K38CTQXUSD0VVB&Signature=V5ZMHfTtG9g681b~fI0hNr0VLxG7WoNldJBLoEvnOb3ULreD31w56vc7ZG-H-P~3Vg8Pw0nfh4WnhVwvBgOEgPh3ffjtff3NcIT76RImu1x29~36ft9kr9NfxdBJosLNKvVcP~dVapafvL0mWoMiW2~sZPpN08EwMJ~W4Xd0qFJCbWdtU2BGJ2OMWAhRcZ~3g59zUHQywuLwGmQuclBE2fcOxJvS7wqt7bYCw8KRS-p7EhZaUiQMwEEW3d5NIgljha9lpYIh8D~QU~~o9qb4gBOPabomGS-8zItMi6PLFN-tBE1fB5EdpVutz4SwLxkyRJACVtqU1cz4OH18MPGPCw__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "YRHJc6e_45nFKfrkHGDS4quHZUCPj9ktehS2G7HOUjQNS2UUUJ_v7A=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/b94b9bc8081ce5e680d4f1f67f8a61ff.mp3?aid=5f081c88ce937d366174c42d&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=YRHJc6e_45nFKfrkHGDS4quHZUCPj9ktehS2G7HOUjQNS2UUUJ_v7A%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=127789f97c7cb0d52b5784d04094fdd7&Expires=1680957462478&Key-Pair-Id=K38CTQXUSD0VVB&Signature=V5ZMHfTtG9g681b~fI0hNr0VLxG7WoNldJBLoEvnOb3ULreD31w56vc7ZG-H-P~3Vg8Pw0nfh4WnhVwvBgOEgPh3ffjtff3NcIT76RImu1x29~36ft9kr9NfxdBJosLNKvVcP~dVapafvL0mWoMiW2~sZPpN08EwMJ~W4Xd0qFJCbWdtU2BGJ2OMWAhRcZ~3g59zUHQywuLwGmQuclBE2fcOxJvS7wqt7bYCw8KRS-p7EhZaUiQMwEEW3d5NIgljha9lpYIh8D~QU~~o9qb4gBOPabomGS-8zItMi6PLFN-tBE1fB5EdpVutz4SwLxkyRJACVtqU1cz4OH18MPGPCw__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "68593563",
+                "Connection": "keep-alive",
+                "Date": "Wed, 15 Mar 2023 09:42:00 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "attachment; filename=\"062love-and-sex.mp3\"",
+                "ETag": "\"b94b9bc8081ce5e680d4f1f67f8a61ff\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "WuZo5wnf_nBthdsWql-KAjZxyEB6m-fcJHxfnpU5mmpId7iCzrbQJw==",
+                "Age": "2072442"
+            }
+        }
+    }
+}

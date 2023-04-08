@@ -1,0 +1,56 @@
+{
+    "title": "34. 本有主题但后来不得不变成没有主题的闲聊",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "34. 本有主题但后来不得不变成没有主题的闲聊"
+    },
+    "itunes_episode": "34",
+    "itunes_title": "本有主题但后来不得不变成没有主题的闲聊",
+    "summary": "<p>这一期本来的主题是「文件系统」。但是由于两位主持人无数次把自己绕进去，无法顺利地推进话题，不得不将录音剪辑成仅剩闲聊的部分。下一次一定录好。</p>\n\n<p>本期的口号是：<em>It only takes a single line of code to bring a system to its knees</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Computer_forensics\">Computer forensics</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/GIMPshop\">GIMPshop</a></li>\n<li><a href=\"https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.1iy0palsr\">Mike Hearn 的文章「The resolution of the Bitcoin experiment」</a></li>\n<li><a href=\"https://medium.com/@bramcohen/whiny-ragequitting-cab164b1e88#.z5zbvk6ui\">Bram Cohen 批评 Mike Hearn 的文章「Whiny Ragequitting」</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>这一期本来的主题是「文件系统」。但是由于两位主持人无数次把自己绕进去，无法顺利地推进话题，不得不将录音剪辑成仅剩闲聊的部分。下一次一定录好。</p>\n\n<p>本期的口号是：<em>It only takes a single line of code to bring a system to its knees</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Computer_forensics\">Computer forensics</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/GIMPshop\">GIMPshop</a></li>\n<li><a href=\"https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.1iy0palsr\">Mike Hearn 的文章「The resolution of the Bitcoin experiment」</a></li>\n<li><a href=\"https://medium.com/@bramcohen/whiny-ragequitting-cab164b1e88#.z5zbvk6ui\">Bram Cohen 批评 Mike Hearn 的文章「Whiny Ragequitting」</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/34"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "40777355",
+            "href": "https://pan.icu/34/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/34",
+    "id": "https://pan.icu/34",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Tue, 26 Jan 2016 12:08:47 +0000",
+    "published_parsed": [
+        2016,
+        1,
+        26,
+        12,
+        8,
+        47,
+        1,
+        26,
+        0
+    ],
+    "itunes_duration": "3387"
+}

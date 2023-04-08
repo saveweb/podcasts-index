@@ -1,0 +1,41 @@
+{
+    "http-content-length": 46462080,
+    "http-etag": "bb4347a8c87bb27f6adb3e8313e544fa",
+    "http-last-modified": "Wed, 05 Oct 2022 07:17:03 GMT",
+    "http-last-modified-float": 1664925423.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 46462080,
+    "actual-duration": 5807,
+    "sha1": "1b68f3b49d33a7fe9ebff0f13bc164854a701bc6",
+    "md5": "bb4347a8c87bb27f6adb3e8313e544fa",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo2MjA1OSwicCI6MiwidSI6Ijc0MjcubXAzIn0.ZOU9cTWTVzuZoCL0lpUZV3jf-UQ/bowuzhi/8335045807_817427.mp3",
+            "headers": {
+                "Date": "Sat, 08 Apr 2023 09:47:12 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "46462080",
+                "Connection": "keep-alive",
+                "CF-Ray": "7b4996684eeb80e3-NRT",
+                "Accept-Ranges": "bytes",
+                "Age": "1183480",
+                "Cache-Control": "max-age=604800",
+                "ETag": "\"bb4347a8c87bb27f6adb3e8313e544fa\"",
+                "Last-Modified": "Wed, 05 Oct 2022 07:17:03 GMT",
+                "Strict-Transport-Security": "max-age=2592000; preload",
+                "Vary": "Accept-Encoding",
+                "CF-Cache-Status": "HIT",
+                "x-amz-id-2": "aNt41imbTZWxjdGEcNBUwfGYMM1U4Djmr",
+                "x-amz-request-id": "d3dae320422029fd",
+                "x-amz-version-id": "4_zc655df7e5c1a24307f330819_f105394512d426eec_d20221005_m071703_c000_v0001078_t0057_u01664954223413",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=DonTX40ylDkjlh1GEMHHYFuM0K3KZe0dsUBU6%2Be5OmzeXISOREjWnVwvD3FVSDUJBUVKwO6fUEQw6x2KOP7O50iol%2FxX7vcg7yXmEl8rC%2BHO%2FwwO0fpoXUrtPsa%2Bqw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Server": "cloudflare",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        }
+    }
+}

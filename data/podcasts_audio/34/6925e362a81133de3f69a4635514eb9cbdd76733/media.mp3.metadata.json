@@ -1,0 +1,58 @@
+{
+    "http-content-length": 98550383,
+    "http-etag": "2f3dc698c65aea83135c4778b42ad7ce",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "attachment; filename=\"090homelessness.mp3\"",
+    "http-content-disposition-filename": "090homelessness.mp3",
+    "actual-size": 98550383,
+    "actual-duration": 6159,
+    "sha1": "3c6c814c6f9410dceeb4e4975de17cfadc45da40",
+    "md5": "cf96025ccff0f97bbf5b6e8e4005c8d2",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/60e7e6c088b69a001452e9b5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=l-pzgtP6lsoxnPAUVi1NbEdn5GCzwjtnUWW42oMuOgE",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:17:41 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/2f3dc698c65aea83135c4778b42ad7ce.mp3?aid=60e7e6c088b69a001452e9b5&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=SPJaaVUhsxdYsktn2gTg9XX2_U3QIvDAbXGCo2RxX2Mu-VOE90250Q%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=a1839f208612da50fe863e50081024c1&Expires=1680957161180&Key-Pair-Id=K38CTQXUSD0VVB&Signature=ZNRxlOszuFmOUGQVfOqxL0CGDdb5aSn1kyXqEw4vY51skeATwDp9JkbHD1QrQd4XMtBS19WfTJiotXCHjFSKCeO7YkdMGdn-QP9QaXVEKw0P~QgwRRrqmSAeia7EjPlS8LeW3ydCe~kXTGbgmLUHhQALfEfbfUOxCOeLD4TDsMa6ZszAlpsU3v~hMiKhN5tF8JSyz4zveYri53RyGz8eQf742JfOu8bAic3Aamh5rS9wHdwK9VIBU42aLHB0XbXDr0wnHLiIYweFGeOGoi7gsIQwCUSYm4Dw~zdZlNqn8jZIAhGtrLm35c9oln5cVuViezmiSmg7dVjzATZme1DdqQ__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "SPJaaVUhsxdYsktn2gTg9XX2_U3QIvDAbXGCo2RxX2Mu-VOE90250Q=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/2f3dc698c65aea83135c4778b42ad7ce.mp3?aid=60e7e6c088b69a001452e9b5&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=SPJaaVUhsxdYsktn2gTg9XX2_U3QIvDAbXGCo2RxX2Mu-VOE90250Q%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=a1839f208612da50fe863e50081024c1&Expires=1680957161180&Key-Pair-Id=K38CTQXUSD0VVB&Signature=ZNRxlOszuFmOUGQVfOqxL0CGDdb5aSn1kyXqEw4vY51skeATwDp9JkbHD1QrQd4XMtBS19WfTJiotXCHjFSKCeO7YkdMGdn-QP9QaXVEKw0P~QgwRRrqmSAeia7EjPlS8LeW3ydCe~kXTGbgmLUHhQALfEfbfUOxCOeLD4TDsMa6ZszAlpsU3v~hMiKhN5tF8JSyz4zveYri53RyGz8eQf742JfOu8bAic3Aamh5rS9wHdwK9VIBU42aLHB0XbXDr0wnHLiIYweFGeOGoi7gsIQwCUSYm4Dw~zdZlNqn8jZIAhGtrLm35c9oln5cVuViezmiSmg7dVjzATZme1DdqQ__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "98550383",
+                "Connection": "keep-alive",
+                "Date": "Thu, 09 Mar 2023 02:02:56 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "attachment; filename=\"090homelessness.mp3\"",
+                "ETag": "\"2f3dc698c65aea83135c4778b42ad7ce\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "o3jkSW4FWUKKNpe6euQsXuj4fF4Pc6vPXYQadeu4nG3Y89VyRNWCKw==",
+                "Age": "2618085"
+            }
+        }
+    }
+}

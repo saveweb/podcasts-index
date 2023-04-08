@@ -1,0 +1,56 @@
+{
+    "title": "24. XcodeGhost",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "24. XcodeGhost"
+    },
+    "itunes_episode": "24",
+    "itunes_title": "XcodeGhost",
+    "summary": "<p>过了一个月两个人都不太记得上次说过些什么了。听众反馈与业界新闻评论之后讨论了此次 XcodeGhost 事件。</p>\n\n<p>本期的口号是：<em>Trust no one. Even your compiler.</em></p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://root.cern.ch/\">CERN Root</a></li>\n<li><a href=\"http://www.1k3c.com\">Ryan Carmack 主页</a></li>\n<li><a href=\"https://twitter.com/mxcl/status/633297285296754689\">Max Howell 在苹果公司门前的自拍</a></li>\n<li><a href=\"https://facebook.github.io/react-native/\">React Native</a></li>\n<li><a href=\"http://ihnatko.com/2015/09/16/im-achmed-except-im-not-brown/\">Achmed 的故事</a></li>\n<li><a href=\"https://nakedsecurity.sophos.com/2009/08/18/compileavirus/\">Delphi 7 的病毒</a></li>\n<li><a href=\"http://www.cnbeta.com/articles/171116.htm\">PuTTY 中文版后门</a></li>\n<li><a href=\"http://cr.yp.to/qmail/qmailsec-20071101.pdf\">Daniel J. Bernstein &ldquo;Some thoughts on security after ten years of qmail 1.0&rdquo;</a></li>\n<li><a href=\"https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf\">Ken Thompson &ldquo;Reflections on Trusting Trust</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>过了一个月两个人都不太记得上次说过些什么了。听众反馈与业界新闻评论之后讨论了此次 XcodeGhost 事件。</p>\n\n<p>本期的口号是：<em>Trust no one. Even your compiler.</em></p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://root.cern.ch/\">CERN Root</a></li>\n<li><a href=\"http://www.1k3c.com\">Ryan Carmack 主页</a></li>\n<li><a href=\"https://twitter.com/mxcl/status/633297285296754689\">Max Howell 在苹果公司门前的自拍</a></li>\n<li><a href=\"https://facebook.github.io/react-native/\">React Native</a></li>\n<li><a href=\"http://ihnatko.com/2015/09/16/im-achmed-except-im-not-brown/\">Achmed 的故事</a></li>\n<li><a href=\"https://nakedsecurity.sophos.com/2009/08/18/compileavirus/\">Delphi 7 的病毒</a></li>\n<li><a href=\"http://www.cnbeta.com/articles/171116.htm\">PuTTY 中文版后门</a></li>\n<li><a href=\"http://cr.yp.to/qmail/qmailsec-20071101.pdf\">Daniel J. Bernstein &ldquo;Some thoughts on security after ten years of qmail 1.0&rdquo;</a></li>\n<li><a href=\"https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf\">Ken Thompson &ldquo;Reflections on Trusting Trust</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/24"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "82876607",
+            "href": "https://pan.icu/24/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/24",
+    "id": "https://pan.icu/24",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Mon, 21 Sep 2015 13:41:45 +0000",
+    "published_parsed": [
+        2015,
+        9,
+        21,
+        13,
+        41,
+        45,
+        0,
+        264,
+        0
+    ],
+    "itunes_duration": "6895"
+}

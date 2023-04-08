@@ -1,0 +1,77 @@
+{
+    "links": [
+        {
+            "length": "16731448",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo0MDc2LCJwIjoyLCJ1IjoiZDU0Mi5tcDMifQ.G2-Ab_KnaKXEVhRVMKEYCatOIgc/bowuzhi/z_924a00ee98f97c5046c033abea11d542.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://bowuzhi.fm/episodes/bushishang10"
+        }
+    ],
+    "title": "《不时尚》第十期：「我不要钻戒。」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "《不时尚》第十期：「我不要钻戒。」"
+    },
+    "id": "http://bowuzhi.fm/episodes/bushishang10",
+    "guidislink": true,
+    "link": "http://bowuzhi.fm/episodes/bushishang10",
+    "authors": [
+        {
+            "name": "bowuzhi"
+        }
+    ],
+    "author": "bowuzhi",
+    "author_detail": {
+        "name": "bowuzhi"
+    },
+    "subtitle": "看到某明星手表一样大的钻戒之后觉得很漫画，就有了这期话题。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "看到某明星手表一样大的钻戒之后觉得很漫画，就有了这期话题。"
+    },
+    "itunes_duration": "34:25",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "summary": "看到某明星手表一样大的钻戒之后觉得很漫画，就有了这期话题。Support 博物志",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "看到某明星手表一样大的钻戒之后觉得很漫画，就有了这期话题。Support 博物志"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p>看到某明星手表一样大的钻戒之后觉得很漫画，就有了这期话题。</p><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p>看到某明星手表一样大的钻戒之后觉得很漫画，就有了这期话题。</p><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p><hr /><p><a href=\"https://afdian.net/@bowuzhi\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Thu, 28 Sep 2017 17:00:00 +0000",
+    "published_parsed": [
+        2017,
+        9,
+        28,
+        17,
+        0,
+        0,
+        3,
+        271,
+        0
+    ]
+}

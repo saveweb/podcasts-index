@@ -1,0 +1,36 @@
+{
+    "http-content-length": 41332916,
+    "http-etag": "0203f588bb9b47822fc5b4f3a2c65403",
+    "http-last-modified": "Sat, 04 Apr 2020 16:03:09 GMT",
+    "http-last-modified-float": 1585987389.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 41332916,
+    "actual-duration": 1033,
+    "sha1": "82498c14e3d23a58014ca227072155cbe359dcd9",
+    "md5": "0203f588bb9b47822fc5b4f3a2c65403",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://media.rss.com/abecedarian/20200404_160259_5cfdc9f225f82fa05a5b09a22abca80f.mp3",
+            "headers": {
+                "Content-Type": "audio/mp3",
+                "Content-Length": "41332916",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:01:18 GMT",
+                "x-amz-replication-status": "COMPLETED",
+                "Last-Modified": "Sat, 04 Apr 2020 16:03:09 GMT",
+                "ETag": "\"0203f588bb9b47822fc5b4f3a2c65403\"",
+                "Content-Encoding": "base64",
+                "x-amz-version-id": "kIxFygAktwuYvZjFlz.hlcon52i16Bm7",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 c9203ba15af2ae82294719bd8bb5fcce.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P2",
+                "X-Amz-Cf-Id": "ROiwF10Pqh0sGashcPI52k37GUFXcgU6-HpgQ5jtxTa0rHgylp-qJA=="
+            }
+        }
+    }
+}

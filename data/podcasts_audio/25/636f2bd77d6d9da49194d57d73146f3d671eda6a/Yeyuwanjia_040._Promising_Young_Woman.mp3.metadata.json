@@ -1,0 +1,48 @@
+{
+    "http-content-length": 7001597,
+    "http-etag": "461b457bf829264fe73894c998378b29",
+    "http-last-modified": "Tue, 01 Mar 2022 06:04:55 GMT",
+    "http-last-modified-float": 1646085895.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 7001597,
+    "actual-duration": null,
+    "sha1": "ed9a7b3e72a4e112f647dbda096baf6a3a8412fa",
+    "md5": "461b457bf829264fe73894c998378b29",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_040._Promising_Young_Woman.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:38:58 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/e/5/e/e5e24c4e378bbb01/Yeyuwanjia_040._Promising_Young_Woman.mp3?c_id=101612000&cs_id=101612000&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680937055&Signature=at9kGXq7IbfQhiGWqDxxFc~maeB7O-5fwogQxiHqwkJM7ZASKbN9Kmhbiq6pXGePDDwWPq7Hmr9UlBnHAbFSXA9S0cBZTUhMli2k4Fs82AAj07bqm70QatxVcKEcf7saqcaAcQRrDAXXTjT5CuBtyvqFF95I-55TySJ4zL-tr1lGLRDDGHQrwq8y2shC0Q3UKD3gQq91Hp0HxCG2nyQ5xB3~GtFY4PhR~CBnONM2~g5F-ElEHSjttqX1Si0oku4pKJllkj1JESL5bbmYZ6DNGOfbncKSWrnP1VNXgNOdXAG3Q1Q0XbrKA4XF6uIly~M9G2omdfsfhJRYjmoyxEkX9Q__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t1",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/e/5/e/e5e24c4e378bbb01/Yeyuwanjia_040._Promising_Young_Woman.mp3?c_id=101612000&cs_id=101612000&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680937055&Signature=at9kGXq7IbfQhiGWqDxxFc~maeB7O-5fwogQxiHqwkJM7ZASKbN9Kmhbiq6pXGePDDwWPq7Hmr9UlBnHAbFSXA9S0cBZTUhMli2k4Fs82AAj07bqm70QatxVcKEcf7saqcaAcQRrDAXXTjT5CuBtyvqFF95I-55TySJ4zL-tr1lGLRDDGHQrwq8y2shC0Q3UKD3gQq91Hp0HxCG2nyQ5xB3~GtFY4PhR~CBnONM2~g5F-ElEHSjttqX1Si0oku4pKJllkj1JESL5bbmYZ6DNGOfbncKSWrnP1VNXgNOdXAG3Q1Q0XbrKA4XF6uIly~M9G2omdfsfhJRYjmoyxEkX9Q__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "7001597",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:38:59 GMT",
+                "Last-Modified": "Tue, 01 Mar 2022 06:04:55 GMT",
+                "ETag": "\"461b457bf829264fe73894c998378b29\"",
+                "x-amz-version-id": "uqWvGtWgI_MAHzEQv8BMgZwmM8C7G1JD",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "t7kndLjD2-68Fl9q6bIItznQCcQKp-jMrgaUjoeARVm3Ys5zbHTi6A==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

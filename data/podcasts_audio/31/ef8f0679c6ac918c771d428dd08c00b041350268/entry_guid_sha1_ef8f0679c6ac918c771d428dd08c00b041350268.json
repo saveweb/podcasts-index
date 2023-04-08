@@ -1,0 +1,56 @@
+{
+    "title": "59. Nook Panic",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "59. Nook Panic"
+    },
+    "itunes_episode": "59",
+    "itunes_title": "Nook Panic",
+    "summary": "<p>从一封即将转行的游戏开发者来信说起，我们聊了动物森友会以及中国游戏业因为某些众所周知的原因而失去的往昔。</p>\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://nautil.us/\">科普杂志 Nautilus</a></li>\n<li><a href=\"https://villagerdb.com/\">动森数据库</a></li>\n<li><a href=\"https://mynintendonews.com/2020/05/04/nintendo-leak-reveals-why-company-opted-for-friend-codes/\">Nintendo opted for Friend Codes rather than username</a></li>\n<li><a href=\"https://www.youtube.com/channel/UCDoKh1xoqKDfUr3YxQBs_1w\">讨论动森音效的 Scruffy</a></li>\n<li><a href=\"https://www.gcores.com/articles/122163\">从沙盒和开放世界谈起，说说日本的箱庭设计理念</a></li>\n<li><a href=\"https://www.unrealengine.com/en-US/blog/a-first-look-at-unreal-engine-5\">A first look at Unreal Engine 5</a></li>\n<li><a href=\"https://a16z.com/2020/04/09/gaming-changing-media/\">How Gaming is Changing the Media Landscape</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>从一封即将转行的游戏开发者来信说起，我们聊了动物森友会以及中国游戏业因为某些众所周知的原因而失去的往昔。</p>\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://nautil.us/\">科普杂志 Nautilus</a></li>\n<li><a href=\"https://villagerdb.com/\">动森数据库</a></li>\n<li><a href=\"https://mynintendonews.com/2020/05/04/nintendo-leak-reveals-why-company-opted-for-friend-codes/\">Nintendo opted for Friend Codes rather than username</a></li>\n<li><a href=\"https://www.youtube.com/channel/UCDoKh1xoqKDfUr3YxQBs_1w\">讨论动森音效的 Scruffy</a></li>\n<li><a href=\"https://www.gcores.com/articles/122163\">从沙盒和开放世界谈起，说说日本的箱庭设计理念</a></li>\n<li><a href=\"https://www.unrealengine.com/en-US/blog/a-first-look-at-unreal-engine-5\">A first look at Unreal Engine 5</a></li>\n<li><a href=\"https://a16z.com/2020/04/09/gaming-changing-media/\">How Gaming is Changing the Media Landscape</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/59"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "59866335",
+            "href": "https://pan.icu/59/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/59",
+    "id": "https://pan.icu/59",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Tue, 07 Jul 2020 12:00:00 +0000",
+    "published_parsed": [
+        2020,
+        7,
+        7,
+        12,
+        0,
+        0,
+        1,
+        189,
+        0
+    ],
+    "itunes_duration": "7483"
+}

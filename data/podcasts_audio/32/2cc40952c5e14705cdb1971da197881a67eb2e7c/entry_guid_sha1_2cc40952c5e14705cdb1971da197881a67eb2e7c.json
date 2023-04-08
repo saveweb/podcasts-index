@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "74174268",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MjIxNSwicCI6MiwidSI6IjMyMjIubXAzIn0.PYxKY8JzOVcnK7WUg_uC0bMRt7U/zaizuozuoma/8334247612_353222.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/029"
+        }
+    ],
+    "title": "相声、脱口秀，谁吊打谁啊｜再坐坐嘛 Vol. 029",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "相声、脱口秀，谁吊打谁啊｜再坐坐嘛 Vol. 029"
+    },
+    "id": "https://zaizuozuoma.com/episodes/029",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/029",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "51:29",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "29",
+    "podcast_episode": "29",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "最近《脱口秀大会 第五季》热播，主播面包在知乎上看到一个相关的问题「为啥没有相声演员降维打击去说脱口秀的？」，觉得下面的回答把脱口秀捧得太高了。于是三位主播就此事友好热烈交换了意见，本期播客就这样诞生了。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "最近《脱口秀大会 第五季》热播，主播面包在知乎上看到一个相关的问题「为啥没有相声演员降维打击去说脱口秀的？」，觉得下面的回答把脱口秀捧得太高了。于是三位主播就此事友好热烈交换了意见，本期播客就这样诞生了。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>最近《脱口秀大会 第五季》热播，主播面包在知乎上看到一个相关的问题「<a href=\"https://www.zhihu.com/question/554782730\">为啥没有相声演员降维打击去说脱口秀的？</a>」，觉得下面的回答把脱口秀捧得太高了。于是三位主播就此事友好热烈交换了意见，本期播客就这样诞生了。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>最近《脱口秀大会 第五季》热播，主播面包在知乎上看到一个相关的问题「<a href=\"https://www.zhihu.com/question/554782730\">为啥没有相声演员降维打击去说脱口秀的？</a>」，觉得下面的回答把脱口秀捧得太高了。于是三位主播就此事友好热烈交换了意见，本期播客就这样诞生了。</p>"
+        }
+    ],
+    "published": "Fri, 14 Oct 2022 13:05:33 +0000",
+    "published_parsed": [
+        2022,
+        10,
+        14,
+        13,
+        5,
+        33,
+        4,
+        287,
+        0
+    ]
+}

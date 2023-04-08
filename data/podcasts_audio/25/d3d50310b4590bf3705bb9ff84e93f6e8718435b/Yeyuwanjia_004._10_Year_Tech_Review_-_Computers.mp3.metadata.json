@@ -1,0 +1,49 @@
+{
+    "http-content-length": 18744920,
+    "http-etag": "25b9420aeff8701b79a04a2ceb889a82",
+    "http-last-modified": "Wed, 02 Mar 2022 19:17:30 GMT",
+    "http-last-modified-float": 1646219850.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 18744920,
+    "actual-duration": null,
+    "sha1": "6b61c938eb2665803a0b088651aa57cb5f40454f",
+    "md5": "25b9420aeff8701b79a04a2ceb889a82",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_004._10_Year_Tech_Review_-_Computers.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:42:09 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/a/9/6/a964f2b091869eae/Yeyuwanjia_004._10_Year_Tech_Review_-_Computers.mp3?c_id=63345593&cs_id=63345593&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680939058&Signature=TSel~J950nQs0U-qpQyIpHnhxVTGrFnLX2o1gkvjTyX4Gs43pR5uY6dqMgCKQkIDlr2Fxq8OMFThpKQFeI2qQwq~Z8jue4ReOUWr6Uh9r78VfoY6ZIMoytk5dZaRNisbxIVN6s3z9-aUZ7yKTx2wD580iPmAnwhL1PZsw6CwH7nLTULxdIj2aDgwixxJpweJFbg-L1Z2dKoIFR4Chvo0ADXzI-hfeqxwVdfeLC0SdKj3rhWwywfVLJslNuJBKJpGFSvBj-2PxLVU9m1VsS4C70d4otyASGl27qHQc7~8LA5kR2~UB5OimxKMUuD7PHn94EFIzYo5Sf6DZjbDFyg6Vw__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t6",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/a/9/6/a964f2b091869eae/Yeyuwanjia_004._10_Year_Tech_Review_-_Computers.mp3?c_id=63345593&cs_id=63345593&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680939058&Signature=TSel~J950nQs0U-qpQyIpHnhxVTGrFnLX2o1gkvjTyX4Gs43pR5uY6dqMgCKQkIDlr2Fxq8OMFThpKQFeI2qQwq~Z8jue4ReOUWr6Uh9r78VfoY6ZIMoytk5dZaRNisbxIVN6s3z9-aUZ7yKTx2wD580iPmAnwhL1PZsw6CwH7nLTULxdIj2aDgwixxJpweJFbg-L1Z2dKoIFR4Chvo0ADXzI-hfeqxwVdfeLC0SdKj3rhWwywfVLJslNuJBKJpGFSvBj-2PxLVU9m1VsS4C70d4otyASGl27qHQc7~8LA5kR2~UB5OimxKMUuD7PHn94EFIzYo5Sf6DZjbDFyg6Vw__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "18744920",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:42:10 GMT",
+                "Last-Modified": "Wed, 02 Mar 2022 19:17:30 GMT",
+                "ETag": "\"25b9420aeff8701b79a04a2ceb889a82\"",
+                "x-amz-meta-mtime": "1580021246",
+                "x-amz-version-id": "5n89fVM1P0Nhla7U0H8I.a.a7Jm3RWf6",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "6huM4C3PAvbi-Cp8S35MMtBSPtxibbg9bO5qVqgAfbQxmP_IJCXj5w==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

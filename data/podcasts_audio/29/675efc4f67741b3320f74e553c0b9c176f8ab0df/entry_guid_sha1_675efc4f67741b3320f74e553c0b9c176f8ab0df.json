@@ -1,0 +1,53 @@
+{
+    "title": "第十六期：如何体验长沙",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "第十六期：如何体验长沙"
+    },
+    "summary": "<p>本期非普通话节目，内容是两位在长沙长大的少年对长沙的观察。长沙不是一个适合旅游的城市，别去。</p>\n\n                <p>推荐本期节目嘉宾昆弟的播客：<a href=\"https://zhiyi.life\">执异</a></p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb，昆弟</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "<p>本期非普通话节目，内容是两位在长沙长大的少年对长沙的观察。长沙不是一个适合旅游的城市，别去。</p>\n\n                <p>推荐本期节目嘉宾昆弟的播客：<a href=\"https://zhiyi.life\">执异</a></p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb，昆弟</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://renjianzhinan.xyz/#ep016"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://renjianzhinan.xyz/ep/rjzn_ep016.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://renjianzhinan.xyz/#ep016",
+    "id": "http://renjianzhinan.xyz/#ep016",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "hb"
+        }
+    ],
+    "author": "hb",
+    "author_detail": {
+        "name": "hb"
+    },
+    "published": "MON, 29 SEP 2018 08:00:00 GMT",
+    "published_parsed": [
+        2018,
+        9,
+        29,
+        8,
+        0,
+        0,
+        5,
+        272,
+        0
+    ],
+    "itunes_duration": "00:53:00"
+}

@@ -1,0 +1,56 @@
+{
+    "title": "37. 没有主题的闲聊",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "37. 没有主题的闲聊"
+    },
+    "itunes_episode": "37",
+    "itunes_title": "没有主题的闲聊",
+    "summary": "<p>Rio 买了他的 scooter computer；几条新闻；AlphaGo。</p>\n\n<p>本期的口号是：<em>to iterate is human, to recurse divine</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/L_Peter_Deutsch\">Laurence Peter Deutsch</a></li>\n<li><a href=\"http://www.asrock.com/microsite/beebox/\">BeeBox</a></li>\n<li><a href=\"http://arstechnica.com/gadgets/2016/03/western-digital-makes-a-46-314gb-hard-drive-just-for-the-raspberry-pi/\">Western Digital Makes A $46, 314 GB Hard Drive Just fot the Raspberry Pi</a></li>\n<li><a href=\"https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/\">SQL Server on Linux</a></li>\n<li><a href=\"http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire\">The Epic Story of Dropbox’s Exodus From the Amazon Cloud Empire</a></li>\n<li><a href=\"https://news.ycombinator.com/item?id=11283958\">atYevP 在 Hacker News 上面对于 Rio 评论的回复</a></li>\n<li><a href=\"http://www.adultswim.com/videos/rick-and-morty/\">Rick and Morty</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>Rio 买了他的 scooter computer；几条新闻；AlphaGo。</p>\n\n<p>本期的口号是：<em>to iterate is human, to recurse divine</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/L_Peter_Deutsch\">Laurence Peter Deutsch</a></li>\n<li><a href=\"http://www.asrock.com/microsite/beebox/\">BeeBox</a></li>\n<li><a href=\"http://arstechnica.com/gadgets/2016/03/western-digital-makes-a-46-314gb-hard-drive-just-for-the-raspberry-pi/\">Western Digital Makes A $46, 314 GB Hard Drive Just fot the Raspberry Pi</a></li>\n<li><a href=\"https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/\">SQL Server on Linux</a></li>\n<li><a href=\"http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire\">The Epic Story of Dropbox’s Exodus From the Amazon Cloud Empire</a></li>\n<li><a href=\"https://news.ycombinator.com/item?id=11283958\">atYevP 在 Hacker News 上面对于 Rio 评论的回复</a></li>\n<li><a href=\"http://www.adultswim.com/videos/rick-and-morty/\">Rick and Morty</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/37"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "74043122",
+            "href": "https://pan.icu/37/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/37",
+    "id": "https://pan.icu/37",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Tue, 22 Mar 2016 01:38:14 +0000",
+    "published_parsed": [
+        2016,
+        3,
+        22,
+        1,
+        38,
+        14,
+        1,
+        82,
+        0
+    ],
+    "itunes_duration": "6170"
+}

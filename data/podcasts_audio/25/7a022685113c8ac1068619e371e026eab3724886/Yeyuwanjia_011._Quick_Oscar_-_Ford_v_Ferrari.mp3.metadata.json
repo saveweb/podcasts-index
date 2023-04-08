@@ -1,0 +1,49 @@
+{
+    "http-content-length": 8783424,
+    "http-etag": "383b68cda306eefe67bd02f31ffd529d",
+    "http-last-modified": "Tue, 22 Feb 2022 23:23:58 GMT",
+    "http-last-modified-float": 1645543438.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 8783424,
+    "actual-duration": null,
+    "sha1": "d87c61eeb646ccba792b8360cef4d04dc5c60a58",
+    "md5": "383b68cda306eefe67bd02f31ffd529d",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_011._Quick_Oscar_-_Ford_v_Ferrari.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:41:46 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/4/b/2/4b2eacc4694434f5/Yeyuwanjia_011._Quick_Oscar_-_Ford_v_Ferrari.mp3?c_id=64221398&cs_id=64221398&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680937533&Signature=WIo0htKgDBXzTX03Za4lvjvTXqPgwmtT29rh1gZjixTB3y4qvwKMEJwxcJBM1TIZEbb~AnFSPI9OsDIVqLlqSWBQQQGYpTp4sFwEfOH-X32qyPaqaYBcydU4HrKvPinx~-rzdogvsES6z~vsAYDUhQC7b~pCQ4CX5kQAdqcZyb2m2insfPxyU8IBBwYVKXISWqaebUUfAiFHczavb3-yYmnwhfNlz77Gw-WoEX1byaEeAU1nJn1dsv4BgvwwSkTpYLZ8eTT3JDdKtVblguKQ23r8LORVFxX3tzfq6weZmuvLO2m5djRAT0ztbW-CbCeictydNDjX7NF2Q0KP8CdRCg__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t1",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/4/b/2/4b2eacc4694434f5/Yeyuwanjia_011._Quick_Oscar_-_Ford_v_Ferrari.mp3?c_id=64221398&cs_id=64221398&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680937533&Signature=WIo0htKgDBXzTX03Za4lvjvTXqPgwmtT29rh1gZjixTB3y4qvwKMEJwxcJBM1TIZEbb~AnFSPI9OsDIVqLlqSWBQQQGYpTp4sFwEfOH-X32qyPaqaYBcydU4HrKvPinx~-rzdogvsES6z~vsAYDUhQC7b~pCQ4CX5kQAdqcZyb2m2insfPxyU8IBBwYVKXISWqaebUUfAiFHczavb3-yYmnwhfNlz77Gw-WoEX1byaEeAU1nJn1dsv4BgvwwSkTpYLZ8eTT3JDdKtVblguKQ23r8LORVFxX3tzfq6weZmuvLO2m5djRAT0ztbW-CbCeictydNDjX7NF2Q0KP8CdRCg__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "8783424",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:41:47 GMT",
+                "Last-Modified": "Tue, 22 Feb 2022 23:23:58 GMT",
+                "ETag": "\"383b68cda306eefe67bd02f31ffd529d\"",
+                "x-amz-meta-mtime": "1580951046",
+                "x-amz-version-id": "AWMT9Jx6rGNm.8JKR40JBXiy8VphaQrL",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "P94v-kVIqo39fVgclnLS-H-9_6TDfKpDtWqb8uekRDPJIWVVoQTbKg==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

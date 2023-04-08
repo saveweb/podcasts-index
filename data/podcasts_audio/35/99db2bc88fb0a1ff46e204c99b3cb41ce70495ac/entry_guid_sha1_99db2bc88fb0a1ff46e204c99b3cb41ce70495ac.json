@@ -1,0 +1,70 @@
+{
+    "links": [
+        {
+            "length": "39445324",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo0MDMxLCJwIjoyLCJ1IjoiMWNiNy5tcDMifQ.c23hUCVlWovIPMVJdZwvfNxtLQk/bowuzhi/z_cc309244a2c3798d0f13f93da53f1cb7.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://bowuzhi.fm/episodes/48"
+        }
+    ],
+    "title": "#48:",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "#48:"
+    },
+    "id": "http://bowuzhi.fm/episodes/48",
+    "guidislink": true,
+    "link": "http://bowuzhi.fm/episodes/48",
+    "authors": [
+        {
+            "name": "bowuzhi"
+        }
+    ],
+    "author": "bowuzhi",
+    "author_detail": {
+        "name": "bowuzhi"
+    },
+    "itunes_duration": "54:38",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "summary": "&lt;p&gt;《博物志》网站：&lt;a href=&quot;http://bowuzhi.fm&quot;&gt;http://bowuzhi.fm&lt;/a&gt;&lt;/p&gt; 如果您喜欢《博物志》，请考虑成为《博物志》的会员支持婉莹和大黄。会员有机会收到购自世界各地博物馆的精美礼品：http://bowuzhi.fm/member 相关链接 人物简介 婉莹：博物馆观察者Support 博物志",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "&lt;p&gt;《博物志》网站：&lt;a href=&quot;http://bowuzhi.fm&quot;&gt;http://bowuzhi.fm&lt;/a&gt;&lt;/p&gt; 如果您喜欢《博物志》，请考虑成为《博物志》的会员支持婉莹和大黄。会员有机会收到购自世界各地博物馆的精美礼品：http://bowuzhi.fm/member 相关链接 人物简介 婉莹：博物馆观察者Support 博物志"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<pre><code>            &lt;p&gt;《博物志》网站：&lt;a href=&quot;http://bowuzhi.fm&quot;&gt;http://bowuzhi.fm&lt;/a&gt;&lt;/p&gt;\n</code></pre>\n\n<p>如果您喜欢《博物志》，请考虑成为《博物志》的会员支持婉莹和大黄。会员有机会收到购自世界各地博物馆的精美礼品：<a href=\"http://bowuzhi.fm/member\">http://bowuzhi.fm/member</a></p>\n\n<h2>相关链接</h2>\n\n<h2>人物简介</h2>\n\n<p>婉莹：博物馆观察者</p><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<pre><code>            &lt;p&gt;《博物志》网站：&lt;a href=&quot;http://bowuzhi.fm&quot;&gt;http://bowuzhi.fm&lt;/a&gt;&lt;/p&gt;\n</code></pre>\n\n<p>如果您喜欢《博物志》，请考虑成为《博物志》的会员支持婉莹和大黄。会员有机会收到购自世界各地博物馆的精美礼品：<a href=\"http://bowuzhi.fm/member\">http://bowuzhi.fm/member</a></p>\n\n<h2>相关链接</h2>\n\n<h2>人物简介</h2>\n\n<p>婉莹：博物馆观察者</p><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p><hr /><p><a href=\"https://afdian.net/@bowuzhi\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Sun, 31 Jul 2016 05:00:00 +0000",
+    "published_parsed": [
+        2016,
+        7,
+        31,
+        5,
+        0,
+        0,
+        6,
+        213,
+        0
+    ]
+}

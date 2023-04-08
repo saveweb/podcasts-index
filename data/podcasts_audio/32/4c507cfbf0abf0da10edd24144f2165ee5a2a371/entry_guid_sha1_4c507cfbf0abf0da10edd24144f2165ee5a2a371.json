@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "51849403",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MzQ0OCwicCI6MiwidSI6IjUyMTgubXAzIn0.lmpeeK9T6OAitS-fMnimW_RnL2c/zaizuozuoma/8331399227_085218.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/034"
+        }
+    ],
+    "title": "诚心推荐星战剧《安多》｜再坐坐嘛 Vol. 034",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "诚心推荐星战剧《安多》｜再坐坐嘛 Vol. 034"
+    },
+    "id": "https://zaizuozuoma.com/episodes/034",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/034",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "26:15",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "34",
+    "podcast_episode": "34",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "这是一部零门槛的星战剧，观众不需要了解任何星战的人物和背景故事。三位主播，两位是星战粉丝，一位是普通剧迷，都非常喜欢《安多》。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "这是一部零门槛的星战剧，观众不需要了解任何星战的人物和背景故事。三位主播，两位是星战粉丝，一位是普通剧迷，都非常喜欢《安多》。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>这是一部零门槛的星战剧，观众不需要了解任何星战的人物和背景故事。三位主播，两位是星战粉丝，一位是普通剧迷，都非常喜欢<a href=\"https://movie.douban.com/subject/30376895/\">《安多》</a>。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>这是一部零门槛的星战剧，观众不需要了解任何星战的人物和背景故事。三位主播，两位是星战粉丝，一位是普通剧迷，都非常喜欢<a href=\"https://movie.douban.com/subject/30376895/\">《安多》</a>。</p>"
+        }
+    ],
+    "published": "Wed, 16 Nov 2022 12:18:12 +0000",
+    "published_parsed": [
+        2022,
+        11,
+        16,
+        12,
+        18,
+        12,
+        2,
+        320,
+        0
+    ]
+}

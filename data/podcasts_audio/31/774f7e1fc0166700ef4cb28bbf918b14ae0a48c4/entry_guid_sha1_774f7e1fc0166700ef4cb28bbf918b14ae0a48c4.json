@@ -1,0 +1,56 @@
+{
+    "title": "19. 测试",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "19. 测试"
+    },
+    "itunes_episode": "19",
+    "itunes_title": "测试",
+    "summary": "<p>Rio 使用 HHKB 的感想；读者来信；WWDC 短评；主题是软件测试。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.pfu.fujitsu.com/hhkeyboard/\">PFU HHKB 日文版网站</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Reverse_Polish_notation\">Reverse Polish notation（逆波兰表示法）</a></li>\n<li><a href=\"https://riobard.com/2012/03/23/unicode-note/\">Rio 关于 Unicode 的笔记</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/ISO/IEC_2022\">ISO/IEC 2022 编码</a></li>\n<li><a href=\"http://unicodebook.readthedocs.org/en/latest/operating_systems.html\">对于 Windows 字符串操作的简单介绍</a></li>\n<li><a href=\"http://www.webmd.com/allergies/guide/nickel-jewelry-allergy\">镍过敏</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/WebObjects\">WebObjects</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Penetration_test\">Penetration test（穿透测试）</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Smoke_testing_(software)\">Smoke testing（发烟测试）</a></li>\n<li><a href=\"http://www.iso.org/iso/iso_9000\">ISO 9000</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Waterfall_model\">瀑布模型</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Agile_software_development\">敏捷软件开发</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Test-driven_development\">测试驱动开发（TDD）</a></li>\n<li><a href=\"https://cucumber.io/\">Cucumber</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%81%90%E6%80%96%E8%B0%B7%E7%90%86%E8%AE%BA\">恐怖谷理论</a></li>\n<li><a href=\"http://senseis.xmp.net/?ZenGoProgram\">使用蒙特卡洛算法的 Zen 围棋程序</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Kent_Beck\">Kent Beck</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/List_of_unit_testing_frameworks\">单元测试框架列表</a></li>\n<li><a href=\"https://docs.python.org/2/library/doctest.html\">Doctest</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>Rio 使用 HHKB 的感想；读者来信；WWDC 短评；主题是软件测试。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.pfu.fujitsu.com/hhkeyboard/\">PFU HHKB 日文版网站</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Reverse_Polish_notation\">Reverse Polish notation（逆波兰表示法）</a></li>\n<li><a href=\"https://riobard.com/2012/03/23/unicode-note/\">Rio 关于 Unicode 的笔记</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/ISO/IEC_2022\">ISO/IEC 2022 编码</a></li>\n<li><a href=\"http://unicodebook.readthedocs.org/en/latest/operating_systems.html\">对于 Windows 字符串操作的简单介绍</a></li>\n<li><a href=\"http://www.webmd.com/allergies/guide/nickel-jewelry-allergy\">镍过敏</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/WebObjects\">WebObjects</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Penetration_test\">Penetration test（穿透测试）</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Smoke_testing_(software)\">Smoke testing（发烟测试）</a></li>\n<li><a href=\"http://www.iso.org/iso/iso_9000\">ISO 9000</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Waterfall_model\">瀑布模型</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Agile_software_development\">敏捷软件开发</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Test-driven_development\">测试驱动开发（TDD）</a></li>\n<li><a href=\"https://cucumber.io/\">Cucumber</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%81%90%E6%80%96%E8%B0%B7%E7%90%86%E8%AE%BA\">恐怖谷理论</a></li>\n<li><a href=\"http://senseis.xmp.net/?ZenGoProgram\">使用蒙特卡洛算法的 Zen 围棋程序</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Kent_Beck\">Kent Beck</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/List_of_unit_testing_frameworks\">单元测试框架列表</a></li>\n<li><a href=\"https://docs.python.org/2/library/doctest.html\">Doctest</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/19"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "57932874",
+            "href": "https://pan.icu/19/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/19",
+    "id": "https://pan.icu/19",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Mon, 15 Jun 2015 05:49:36 +0000",
+    "published_parsed": [
+        2015,
+        6,
+        15,
+        5,
+        49,
+        36,
+        0,
+        166,
+        0
+    ],
+    "itunes_duration": "9212"
+}

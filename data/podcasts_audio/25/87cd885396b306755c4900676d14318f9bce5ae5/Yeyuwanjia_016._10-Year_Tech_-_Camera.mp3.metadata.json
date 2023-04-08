@@ -1,0 +1,49 @@
+{
+    "http-content-length": 21526181,
+    "http-etag": "1a1c7d8f3ab768c0c7d66fc77d5a122c",
+    "http-last-modified": "Sun, 27 Feb 2022 00:21:19 GMT",
+    "http-last-modified-float": 1645892479.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 21526181,
+    "actual-duration": 2430,
+    "sha1": "dd66f472469659c2b3b1a5d97da47d4d1b6bb3f1",
+    "md5": "1a1c7d8f3ab768c0c7d66fc77d5a122c",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_016._10-Year_Tech_-_Camera.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:41:22 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/b/2/d/b2dd760ae1bb76ac/Yeyuwanjia_016._10-Year_Tech_-_Camera.mp3?c_id=65073809&cs_id=65073809&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680939315&Signature=flAjGvtrR3FUNUouzHgX~I3KFEpXjgh4NJrZDfCJSSevVmdf0JGR9OsN7GAnDvnR-9D5C4xYW6mMdJMfYk111taNVJ0KNmy2sZ-SQbkXSP6ZdSMELLXY6rjrc7tZSylSe8IB1-KhDCpiw11-~MMxFHpFnxKZL6Xo1XCqDnOtTTN1wYVBMybcN6Pelh0aQ9oPVTmDPiAXqiH5Uoxf8A6IuqtFho3CiNX0UDC3EvXEfRM8ow92~TUfLIrxmtmip18NdeJ68r2BLndDCdhi5XgrB5HmiF5noyoDI0t1GwGPhIK6g5ihbvwhpFkAd6ujRNraFWTte6HI1otaygoy~Neulg__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t6",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/b/2/d/b2dd760ae1bb76ac/Yeyuwanjia_016._10-Year_Tech_-_Camera.mp3?c_id=65073809&cs_id=65073809&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680939315&Signature=flAjGvtrR3FUNUouzHgX~I3KFEpXjgh4NJrZDfCJSSevVmdf0JGR9OsN7GAnDvnR-9D5C4xYW6mMdJMfYk111taNVJ0KNmy2sZ-SQbkXSP6ZdSMELLXY6rjrc7tZSylSe8IB1-KhDCpiw11-~MMxFHpFnxKZL6Xo1XCqDnOtTTN1wYVBMybcN6Pelh0aQ9oPVTmDPiAXqiH5Uoxf8A6IuqtFho3CiNX0UDC3EvXEfRM8ow92~TUfLIrxmtmip18NdeJ68r2BLndDCdhi5XgrB5HmiF5noyoDI0t1GwGPhIK6g5ihbvwhpFkAd6ujRNraFWTte6HI1otaygoy~Neulg__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "21526181",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:41:23 GMT",
+                "Last-Modified": "Sun, 27 Feb 2022 00:21:19 GMT",
+                "ETag": "\"1a1c7d8f3ab768c0c7d66fc77d5a122c\"",
+                "x-amz-meta-mtime": "1581942149",
+                "x-amz-version-id": "uvvFn7wLVGIZ68xuQO263ZaS5V4x6NGm",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "Uj-caH0WUUufOQ8w5GsXO15JK87ILiQj6b1IjG61u76QPfLsQ-JCng==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "title": "1. 内核恐慌开播！",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "1. 内核恐慌开播！"
+    },
+    "itunes_episode": "1",
+    "itunes_title": "内核恐慌开播！",
+    "summary": "<p>《内核恐慌》节目初始化，主持人是 Rio 和吴涛，内容基本上是从 kernel panic 说到程序的异常处理机制，中间穿插着人机交互、NAS、社会工程学、报税、输入法、行车记录仪和 systemd，顺便黑了黑法国和 Java。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://en.wikipedia.org/wiki/Kernel_panic\">Kernel Panic</a><br />\n</li>\n<li><a href=\"https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/pmset.1.html\">pmset</a></li>\n<li><a href=\"https://news.ycombinator.com/item?id=8402079\">「The car guy」相关新闻及评论</a></li>\n<li><a href=\"http://i3wm.org/\">i3</a></li>\n<li><a href=\"http://awesome.naquadah.org/\">Awesome</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Informatics_(academic_field)\">Informatics</a></li>\n<li><a href=\"https://www.youtube.com/user/Russiandashcamvideos\">Youtube 上面俄国行车记录仪影片集锦</a></li>\n<li><a href=\"http://web.eecs.utk.edu/~huangj/cs360/360/notes/Setjmp/lecture.html\">C setjmp / longjmp</a></li>\n<li><a href=\"http://blog.golang.org/defer-panic-and-recover\">Defer, Panic, and Recover</a></li>\n<li><a href=\"http://www.zhihu.com/question/24261295/answer/27299162\">Swift 为什么没有异常处理？</a></li>\n<li><a href=\"https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd\">Systemd 作者对于来自开源社区攻击的评论</a></li>\n<li><a href=\"http://boycottsystemd.org\">抵制 systemd 的网站 boycottsystemd.org</a></li>\n<li><a href=\"https://code.google.com/p/rimeime/wiki/Downloads\">鼠须管</a></li>\n<li><a href=\"https://bintray.com/lotem/rime/Squirrel\">鼠须管 GUI 配置工具</a></li>\n<li><a href=\"http://www.zdic.net/c/b/158/347541.htm\">戛然而止</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>《内核恐慌》节目初始化，主持人是 Rio 和吴涛，内容基本上是从 kernel panic 说到程序的异常处理机制，中间穿插着人机交互、NAS、社会工程学、报税、输入法、行车记录仪和 systemd，顺便黑了黑法国和 Java。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://en.wikipedia.org/wiki/Kernel_panic\">Kernel Panic</a><br />\n</li>\n<li><a href=\"https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/pmset.1.html\">pmset</a></li>\n<li><a href=\"https://news.ycombinator.com/item?id=8402079\">「The car guy」相关新闻及评论</a></li>\n<li><a href=\"http://i3wm.org/\">i3</a></li>\n<li><a href=\"http://awesome.naquadah.org/\">Awesome</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Informatics_(academic_field)\">Informatics</a></li>\n<li><a href=\"https://www.youtube.com/user/Russiandashcamvideos\">Youtube 上面俄国行车记录仪影片集锦</a></li>\n<li><a href=\"http://web.eecs.utk.edu/~huangj/cs360/360/notes/Setjmp/lecture.html\">C setjmp / longjmp</a></li>\n<li><a href=\"http://blog.golang.org/defer-panic-and-recover\">Defer, Panic, and Recover</a></li>\n<li><a href=\"http://www.zhihu.com/question/24261295/answer/27299162\">Swift 为什么没有异常处理？</a></li>\n<li><a href=\"https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd\">Systemd 作者对于来自开源社区攻击的评论</a></li>\n<li><a href=\"http://boycottsystemd.org\">抵制 systemd 的网站 boycottsystemd.org</a></li>\n<li><a href=\"https://code.google.com/p/rimeime/wiki/Downloads\">鼠须管</a></li>\n<li><a href=\"https://bintray.com/lotem/rime/Squirrel\">鼠须管 GUI 配置工具</a></li>\n<li><a href=\"http://www.zdic.net/c/b/158/347541.htm\">戛然而止</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/1"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "41791715",
+            "href": "https://pan.icu/1/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/1",
+    "id": "https://pan.icu/1",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sun, 12 Oct 2014 04:40:08 +0000",
+    "published_parsed": [
+        2014,
+        10,
+        12,
+        4,
+        40,
+        8,
+        6,
+        285,
+        0
+    ],
+    "itunes_duration": "3464"
+}

@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "4428403",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/15D3AF/r.typlog.com/eyJzIjoxODIzLCJlIjo2MDQ5LCJwIjoyLCJ1IjoiODUzMS5tcDMifQ.hUryz0ICadietcsTBZZLjzfx5X4/2bab/8387828347_498531.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://binary.2bab.me/episodes/001-introduction"
+        }
+    ],
+    "title": "#1 二分电台开播啦",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#1 二分电台开播啦"
+    },
+    "id": "https://binary.2bab.me/episodes/001-introduction",
+    "guidislink": true,
+    "link": "https://binary.2bab.me/episodes/001-introduction",
+    "authors": [
+        {
+            "name": "2BAB"
+        }
+    ],
+    "author": "2BAB",
+    "author_detail": {
+        "name": "2BAB"
+    },
+    "subtitle": "介绍二分电台和未来主题策划。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "介绍二分电台和未来主题策划。"
+    },
+    "itunes_duration": "03:04",
+    "itunes_explicit": null,
+    "itunes_episode": "1",
+    "podcast_episode": "1",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/2bab/8387464993_964531.png?x-oss-process=style/sl"
+    },
+    "summary": "#1 二分电台开播啦 本期人物：2BAB（叫我 AB 就好啦） 时间轴： 00:00 节目介绍 00:48 二分的含义 01:52 后续主题策划 02:39 结语和预告 相关信息： 二分电台官网 微博：2BAB 公众号：二分创作室",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#1 二分电台开播啦 本期人物：2BAB（叫我 AB 就好啦） 时间轴： 00:00 节目介绍 00:48 二分的含义 01:52 后续主题策划 02:39 结语和预告 相关信息： 二分电台官网 微博：2BAB 公众号：二分创作室"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#1 二分电台开播啦</h2>\n<p>本期人物：2BAB（叫我 AB 就好啦）</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:00\">00:00</a> 节目介绍</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:48\">00:48</a> 二分的含义</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=01:52\">01:52</a> 后续主题策划</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=02:39\">02:39</a> 结语和预告</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://weibo.com/2bab/\">微博：2BAB</a></li>\n<li><a href=\"https://2bab.me/about\">公众号：二分创作室</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#1 二分电台开播啦</h2>\n<p>本期人物：2BAB（叫我 AB 就好啦）</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:00\">00:00</a> 节目介绍</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:48\">00:48</a> 二分的含义</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=01:52\">01:52</a> 后续主题策划</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=02:39\">02:39</a> 结语和预告</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://weibo.com/2bab/\">微博：2BAB</a></li>\n<li><a href=\"https://2bab.me/about\">公众号：二分创作室</a></li>\n</ul>"
+        }
+    ],
+    "published": "Mon, 01 Feb 2021 10:01:12 +0000",
+    "published_parsed": [
+        2021,
+        2,
+        1,
+        10,
+        1,
+        12,
+        0,
+        32,
+        0
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "17370348",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo1OTQxMiwicCI6MiwidSI6IjYwODQubXAzIn0.YoAozcALb2ADDaOYj1HsuLR5ZVU/zaizuozuoma/8343684989_996084.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/016"
+        }
+    ],
+    "title": "「回忆高考」志愿咋填？｜再坐坐嘛 Vol. 016",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "「回忆高考」志愿咋填？｜再坐坐嘛 Vol. 016"
+    },
+    "id": "https://zaizuozuoma.com/episodes/016",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/016",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "48:12",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "16",
+    "podcast_episode": "16",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8357866382_1161995.jpg?x-oss-process=style/sl"
+    },
+    "summary": "三位主播回顾了选大学、选专业和填报志愿的一些趣事，也分享了一点心得。 当然了，每个人面对的情况不一样，也不会有适用于所有人的填报志愿准则。只能说，如果你读大学的目的是为了提升自己的能力，是为了以后在社会上打拼时能混得不错，那主编们觉得，还是尽量去大城市读书。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "三位主播回顾了选大学、选专业和填报志愿的一些趣事，也分享了一点心得。 当然了，每个人面对的情况不一样，也不会有适用于所有人的填报志愿准则。只能说，如果你读大学的目的是为了提升自己的能力，是为了以后在社会上打拼时能混得不错，那主编们觉得，还是尽量去大城市读书。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>三位主播回顾了选大学、选专业和填报志愿的一些趣事，也分享了一点心得。</p>\n<p>当然了，每个人面对的情况不一样，也不会有适用于所有人的填报志愿准则。只能说，如果你读大学的目的是为了提升自己的能力，是为了以后在社会上打拼时能混得不错，那主编们觉得，还是尽量去大城市读书。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>三位主播回顾了选大学、选专业和填报志愿的一些趣事，也分享了一点心得。</p>\n<p>当然了，每个人面对的情况不一样，也不会有适用于所有人的填报志愿准则。只能说，如果你读大学的目的是为了提升自己的能力，是为了以后在社会上打拼时能混得不错，那主编们觉得，还是尽量去大城市读书。</p>"
+        }
+    ],
+    "published": "Mon, 27 Jun 2022 07:35:11 +0000",
+    "published_parsed": [
+        2022,
+        6,
+        27,
+        7,
+        35,
+        11,
+        0,
+        178,
+        0
+    ]
+}

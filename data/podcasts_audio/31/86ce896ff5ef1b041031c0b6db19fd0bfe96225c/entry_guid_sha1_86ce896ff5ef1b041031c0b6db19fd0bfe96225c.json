@@ -1,0 +1,56 @@
+{
+    "title": "44. 发布会太无聊了，我们来聊聊 SHENZHEN I/O",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "44. 发布会太无聊了，我们来聊聊 SHENZHEN I/O"
+    },
+    "itunes_episode": "44",
+    "itunes_title": "发布会太无聊了，我们来聊聊 SHENZHEN I/O",
+    "summary": "<p>两人评论但并不仅评论了十月廿七的苹果发布会，之后介绍了两款编程游戏。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3/\">Total Nightmare: USB-C and Thunderbolt 3</a></li>\n<li><a href=\"https://twitter.com/JamieSkella/status/787043558410813440\">ChatbotConf 2016 烧香袋</a></li>\n<li><a href=\"http://www.zachtronics.com/shenzhen-io/\">SHENZHEN I/O</a></li>\n<li><a href=\"http://www.zachtronics.com/tis-100/\">TIS-100</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>两人评论但并不仅评论了十月廿七的苹果发布会，之后介绍了两款编程游戏。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3/\">Total Nightmare: USB-C and Thunderbolt 3</a></li>\n<li><a href=\"https://twitter.com/JamieSkella/status/787043558410813440\">ChatbotConf 2016 烧香袋</a></li>\n<li><a href=\"http://www.zachtronics.com/shenzhen-io/\">SHENZHEN I/O</a></li>\n<li><a href=\"http://www.zachtronics.com/tis-100/\">TIS-100</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/44"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "69103431",
+            "href": "https://pan.icu/44/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/44",
+    "id": "https://pan.icu/44",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Sun, 06 Nov 2016 14:34:00 +0000",
+    "published_parsed": [
+        2016,
+        11,
+        6,
+        14,
+        34,
+        0,
+        6,
+        311,
+        0
+    ],
+    "itunes_duration": "5759"
+}

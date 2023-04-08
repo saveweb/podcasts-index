@@ -1,0 +1,56 @@
+{
+    "title": "47. Do You WannaCry?",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "47. Do You WannaCry?"
+    },
+    "itunes_episode": "47",
+    "itunes_title": "Do You WannaCry?",
+    "summary": "<p>在祝贺大家新年好之后两人讨论了五月十二日的勒索软件大爆发。</p>\n\n<p>（录音时有原因未知的随机噪声掺入，当时并未察觉，后期已尽力去除，但与人声混合部分仍有残留，见谅。）</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.visualstudio.com/vs/visual-studio-mac/\">Visual Studio 2017 for Mac</a></li>\n<li><a href=\"https://www.jetbrains.com/objc/\">AppCode - Smart IDE for iOS/macOS development</a></li>\n<li><a href=\"https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html\">How to Accidentally Stop a Global Cyber Attacks</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%86%8A%E7%8C%AB%E7%83%A7%E9%A6%99\">熊猫烧香</a></li>\n<li><a href=\"https://www.backblaze.com/\">BackBlaze</a></li>\n<li><a href=\"https://btrfs.wiki.kernel.org\">Btrfs</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/ZFS\">ZFS</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/RAID\">RAID</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Copy-on-write\">Copy-on-Write</a></li>\n<li><a href=\"https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html\">APFS</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"http://ipn.li/itgonglun/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"http://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《<a href=\"http://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>在祝贺大家新年好之后两人讨论了五月十二日的勒索软件大爆发。</p>\n\n<p>（录音时有原因未知的随机噪声掺入，当时并未察觉，后期已尽力去除，但与人声混合部分仍有残留，见谅。）</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.visualstudio.com/vs/visual-studio-mac/\">Visual Studio 2017 for Mac</a></li>\n<li><a href=\"https://www.jetbrains.com/objc/\">AppCode - Smart IDE for iOS/macOS development</a></li>\n<li><a href=\"https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html\">How to Accidentally Stop a Global Cyber Attacks</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%86%8A%E7%8C%AB%E7%83%A7%E9%A6%99\">熊猫烧香</a></li>\n<li><a href=\"https://www.backblaze.com/\">BackBlaze</a></li>\n<li><a href=\"https://btrfs.wiki.kernel.org\">Btrfs</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/ZFS\">ZFS</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/RAID\">RAID</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Copy-on-write\">Copy-on-Write</a></li>\n<li><a href=\"https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html\">APFS</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"http://ipn.li/itgonglun/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"http://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《<a href=\"http://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/47"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "46146972",
+            "href": "https://pan.icu/47/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/47",
+    "id": "https://pan.icu/47",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Fri, 19 May 2017 12:41:04 +0000",
+    "published_parsed": [
+        2017,
+        5,
+        19,
+        12,
+        41,
+        4,
+        4,
+        139,
+        0
+    ],
+    "itunes_duration": "5768"
+}

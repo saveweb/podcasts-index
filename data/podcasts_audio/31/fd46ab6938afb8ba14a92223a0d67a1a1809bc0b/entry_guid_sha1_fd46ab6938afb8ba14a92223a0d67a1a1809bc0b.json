@@ -1,0 +1,56 @@
+{
+    "title": "21. Debugging",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "21. Debugging"
+    },
+    "itunes_episode": "21",
+    "itunes_title": "Debugging",
+    "summary": "<p>就着听众反馈，两位主持人介绍了自己管理密码的习惯；新闻包括 Hacking Team 的大泄密、Atom 1.0、以及卡马克在 VR 世界里跑 Racket 的野心。主题是 debugging——程序除错与调试。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://lucida.me/blog/whiteboard-coding-demystified/\">Lucida 「白板编程浅谈——Why, What, How」</a></li>\n<li><a href=\"http://www.wired.com/2015/07/hacking-team-shows-world-not-stockpile-exploits/\">Wired 杂志对于 Hacking Team 泄密案的报道</a></li>\n<li><a href=\"http://www.redmondpie.com/disable-flash-in-chrome-firefox-safari-other-web-browsers-to-keep-your-pc-safe-from-vulnerabilities/\">在浏览器中禁用 Flash 的方法</a></li>\n<li><a href=\"http://blog.atom.io/2015/06/25/atom-1-0.html\">Atom Editor 1.0</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=jFWLkthDvuc\">Prediction of the Home Computer (1960&rsquo;s)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Debugging#Origin\">维基百科对于 Debug 一词由来的解释</a></li>\n<li><a href=\"http://www.quora.com/Whats-the-hardest-bug-youve-debugged\">Quora 上的问题「遇到过最难解的 bug」</a></li>\n<li><a href=\"http://valgrind.org/\">Valgrind</a></li>\n<li><a href=\"https://www.jetbrains.com/pycharm/help/stepping-through-the-program.html\">PyCharm</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>就着听众反馈，两位主持人介绍了自己管理密码的习惯；新闻包括 Hacking Team 的大泄密、Atom 1.0、以及卡马克在 VR 世界里跑 Racket 的野心。主题是 debugging——程序除错与调试。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://lucida.me/blog/whiteboard-coding-demystified/\">Lucida 「白板编程浅谈——Why, What, How」</a></li>\n<li><a href=\"http://www.wired.com/2015/07/hacking-team-shows-world-not-stockpile-exploits/\">Wired 杂志对于 Hacking Team 泄密案的报道</a></li>\n<li><a href=\"http://www.redmondpie.com/disable-flash-in-chrome-firefox-safari-other-web-browsers-to-keep-your-pc-safe-from-vulnerabilities/\">在浏览器中禁用 Flash 的方法</a></li>\n<li><a href=\"http://blog.atom.io/2015/06/25/atom-1-0.html\">Atom Editor 1.0</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=jFWLkthDvuc\">Prediction of the Home Computer (1960&rsquo;s)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Debugging#Origin\">维基百科对于 Debug 一词由来的解释</a></li>\n<li><a href=\"http://www.quora.com/Whats-the-hardest-bug-youve-debugged\">Quora 上的问题「遇到过最难解的 bug」</a></li>\n<li><a href=\"http://valgrind.org/\">Valgrind</a></li>\n<li><a href=\"https://www.jetbrains.com/pycharm/help/stepping-through-the-program.html\">PyCharm</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/21"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "53768682",
+            "href": "https://pan.icu/21/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/21",
+    "id": "https://pan.icu/21",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sun, 12 Jul 2015 19:22:46 +0000",
+    "published_parsed": [
+        2015,
+        7,
+        12,
+        19,
+        22,
+        46,
+        6,
+        193,
+        0
+    ],
+    "itunes_duration": "8498"
+}

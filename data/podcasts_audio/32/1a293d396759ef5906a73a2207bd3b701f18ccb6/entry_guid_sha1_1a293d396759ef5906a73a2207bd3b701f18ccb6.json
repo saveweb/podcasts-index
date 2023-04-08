@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "43827228",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MTI2MywicCI6MiwidSI6Ijc0MzYubXAzIn0.EpZeSXgHV9c9erR9jzW4U2jvhUo/zaizuozuoma/8338841019_407436.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/024"
+        }
+    ],
+    "title": "要不要给孩子用数码产品 这是伪问题｜再坐坐嘛 Vol. 024",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "要不要给孩子用数码产品 这是伪问题｜再坐坐嘛 Vol. 024"
+    },
+    "id": "https://zaizuozuoma.com/episodes/024",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/024",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "22:12",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "24",
+    "podcast_episode": "24",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8361275359_689997.jpg?x-oss-process=style/sl"
+    },
+    "summary": "小朋友该不该过早接触数码设备？家长要怎么控制他们的使用？两位有孩子的年长主播，跟没孩子的年轻主播，交换了自己的意见。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "小朋友该不该过早接触数码设备？家长要怎么控制他们的使用？两位有孩子的年长主播，跟没孩子的年轻主播，交换了自己的意见。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>小朋友该不该过早接触数码设备？家长要怎么控制他们的使用？两位有孩子的年长主播，跟没孩子的年轻主播，交换了自己的意见。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>小朋友该不该过早接触数码设备？家长要怎么控制他们的使用？两位有孩子的年长主播，跟没孩子的年轻主播，交换了自己的意见。</p>"
+        }
+    ],
+    "published": "Mon, 22 Aug 2022 09:05:43 +0000",
+    "published_parsed": [
+        2022,
+        8,
+        22,
+        9,
+        5,
+        43,
+        0,
+        234,
+        0
+    ]
+}

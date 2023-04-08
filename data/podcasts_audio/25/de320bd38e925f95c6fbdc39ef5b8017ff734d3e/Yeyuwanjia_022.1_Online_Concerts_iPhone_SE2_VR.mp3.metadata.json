@@ -1,0 +1,49 @@
+{
+    "http-content-length": 23626649,
+    "http-etag": "c044b23ac99b0f4656dbec05a793c60d",
+    "http-last-modified": "Mon, 21 Feb 2022 15:06:37 GMT",
+    "http-last-modified-float": 1645427197.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 23626649,
+    "actual-duration": null,
+    "sha1": "6b98bff4d75f6e5e510ab1aedf44dce87d3f8120",
+    "md5": "c044b23ac99b0f4656dbec05a793c60d",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_022.1_Online_Concerts_iPhone_SE2_VR.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:40:40 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/2/f/c/2fc22d00968b706f/Yeyuwanjia_022.1_Online_Concerts_iPhone_SE2_VR.mp3?c_id=77098271&cs_id=77098271&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680939920&Signature=JGivAe0cSLHthbIsobyCMfRaECABXqRkOtt2MbwBoh8xuu9LpDfw1ANYbjHaLZXkncZjzayJcHPfcAtTz3cwjcCSJV3oZlKBN5-O90VucqcE4Tmhxk4i9IQCPxoe9QK8aUYOn3S6fPEmYcFAE-Y546Ys4xKP7bvEIyII4Ya4nKQKyXwHFI~F-gF2ZvPM501xpVNTBYhMKA6vUVMm0hUR~r3psfllWVISWvoGs10CrFoTvkTuvVFzg7wIBDOi3rDmPck5EHd2ND4jY~3XE7P~lycYiYC1ewqBq8f9ml2k07lD7q~k2MvWwmXu7uUJz1Dwmb3oomBec4mXXYsnfr4V3g__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t6",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/2/f/c/2fc22d00968b706f/Yeyuwanjia_022.1_Online_Concerts_iPhone_SE2_VR.mp3?c_id=77098271&cs_id=77098271&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680939920&Signature=JGivAe0cSLHthbIsobyCMfRaECABXqRkOtt2MbwBoh8xuu9LpDfw1ANYbjHaLZXkncZjzayJcHPfcAtTz3cwjcCSJV3oZlKBN5-O90VucqcE4Tmhxk4i9IQCPxoe9QK8aUYOn3S6fPEmYcFAE-Y546Ys4xKP7bvEIyII4Ya4nKQKyXwHFI~F-gF2ZvPM501xpVNTBYhMKA6vUVMm0hUR~r3psfllWVISWvoGs10CrFoTvkTuvVFzg7wIBDOi3rDmPck5EHd2ND4jY~3XE7P~lycYiYC1ewqBq8f9ml2k07lD7q~k2MvWwmXu7uUJz1Dwmb3oomBec4mXXYsnfr4V3g__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "23626649",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:40:41 GMT",
+                "Last-Modified": "Mon, 21 Feb 2022 15:06:37 GMT",
+                "ETag": "\"c044b23ac99b0f4656dbec05a793c60d\"",
+                "x-amz-meta-mtime": "1593530957",
+                "x-amz-version-id": "NUJPu7mH5Kj7e2dFgMQlFQ5QfdT2Wnae",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "XFJw4pNEZuZrLCo5gonXQE-V3Bsn5QKcbZ45fGDb56CKvp65CsM2qA==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

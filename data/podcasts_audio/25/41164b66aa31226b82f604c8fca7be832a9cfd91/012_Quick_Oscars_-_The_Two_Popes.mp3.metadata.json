@@ -1,0 +1,49 @@
+{
+    "http-content-length": 8070847,
+    "http-etag": "55f66314450c3dec49b1cb6ab2ac12d3",
+    "http-last-modified": "Tue, 01 Mar 2022 08:24:15 GMT",
+    "http-last-modified-float": 1646094255.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 8070847,
+    "actual-duration": null,
+    "sha1": "1f0cf83b9ef3b61ae7f97713955eb7412c64bdd0",
+    "md5": "55f66314450c3dec49b1cb6ab2ac12d3",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/012_Quick_Oscars_-_The_Two_Popes.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:41:43 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/f/6/1/f6104c5906d1fe2a/012_Quick_Oscars_-_The_Two_Popes.mp3?c_id=64308014&cs_id=64308014&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680937410&Signature=IcATNnyFcyq9O6yqU5SZgdaD-NidpRl7zy7NECe11LGm3pzwMU2K5RTe-LJiol8HHS2qToshYZ1BKDx8Dlx9gyaL0iBzD9f8TsMGEGA7W2lobLhMTt4-X2-rIN3hPygpfv0zHrQuYGmVVm127QHtVrfz6HH093IsUiRCu1sWdKD7ORSA9EL-s5~WKZM5PLKxnXX0xaQ~TOIpHVPmfQqRiZGIF8aF7WM82VGzLO2xdU7rRu67bcykSeuqsQtVROa4Tr7f~oIihk8~rX52zjHRw8GQlz7xvv2f-OYMd2~6rf8p6MiMvQ7XrfoUWJEndAHeAFAxZ9AmVcJ1pYRmcCnW9g__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t2",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/f/6/1/f6104c5906d1fe2a/012_Quick_Oscars_-_The_Two_Popes.mp3?c_id=64308014&cs_id=64308014&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680937410&Signature=IcATNnyFcyq9O6yqU5SZgdaD-NidpRl7zy7NECe11LGm3pzwMU2K5RTe-LJiol8HHS2qToshYZ1BKDx8Dlx9gyaL0iBzD9f8TsMGEGA7W2lobLhMTt4-X2-rIN3hPygpfv0zHrQuYGmVVm127QHtVrfz6HH093IsUiRCu1sWdKD7ORSA9EL-s5~WKZM5PLKxnXX0xaQ~TOIpHVPmfQqRiZGIF8aF7WM82VGzLO2xdU7rRu67bcykSeuqsQtVROa4Tr7f~oIihk8~rX52zjHRw8GQlz7xvv2f-OYMd2~6rf8p6MiMvQ7XrfoUWJEndAHeAFAxZ9AmVcJ1pYRmcCnW9g__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "8070847",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:41:44 GMT",
+                "Last-Modified": "Tue, 01 Mar 2022 08:24:15 GMT",
+                "ETag": "\"55f66314450c3dec49b1cb6ab2ac12d3\"",
+                "x-amz-meta-mtime": "1581039392",
+                "x-amz-version-id": "ovPG4rIS_tBhrwEwoZ_J1CgsABEJ8GKG",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "4d2Bg_xsT_0truTtSXnSO3wNDRGcg9yTdkK3jg-ALrLG7haK83NGqA==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

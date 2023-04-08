@@ -1,0 +1,53 @@
+{
+    "title": "第廿一期：如何赛博休闲",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "第廿一期：如何赛博休闲"
+    },
+    "summary": "<p>本期我们请到了中文播坛常青树大西瓜老师和中文播坛新星甜食老师来聊聊最近的休闲生活。</p>\n\n                <p>\n                补充材料：<br />\n                - <a href=\"https://zh.wikipedia.org/wiki/動物森友會系列\">《动物森友会》系列作品</a><br /> \n                - <a href=\"https://zh.wikipedia.org/wiki/一千五百万点\">《黑镜》S01E02</a><br />\n                - 被誉为开放世界游戏代表作的<a href=\"https://zh.wikipedia.org/wiki/俠盜獵車手系列\">《侠盗猎车（GTA）》</a>系列游戏<br />\n                - <a href=\"https://en.wikipedia.org/wiki/Mother_(video_game)\">《Mother》</a><br />\n                - 作为 GameBoy 扩展附件的<a href=\"https://shonumi.github.io/articles/art13.html\">声纳</a><br />\n                - <a href=\"https://zh.wikipedia.org/wiki/宝可梦系列\">《精灵宝可梦》</a><br />\n                </p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：大西瓜，甜食，hb</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "<p>本期我们请到了中文播坛常青树大西瓜老师和中文播坛新星甜食老师来聊聊最近的休闲生活。</p>\n\n                <p>\n                补充材料：<br />\n                - <a href=\"https://zh.wikipedia.org/wiki/動物森友會系列\">《动物森友会》系列作品</a><br /> \n                - <a href=\"https://zh.wikipedia.org/wiki/一千五百万点\">《黑镜》S01E02</a><br />\n                - 被誉为开放世界游戏代表作的<a href=\"https://zh.wikipedia.org/wiki/俠盜獵車手系列\">《侠盗猎车（GTA）》</a>系列游戏<br />\n                - <a href=\"https://en.wikipedia.org/wiki/Mother_(video_game)\">《Mother》</a><br />\n                - 作为 GameBoy 扩展附件的<a href=\"https://shonumi.github.io/articles/art13.html\">声纳</a><br />\n                - <a href=\"https://zh.wikipedia.org/wiki/宝可梦系列\">《精灵宝可梦》</a><br />\n                </p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：大西瓜，甜食，hb</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://renjianzhinan.xyz/#ep021"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://renjianzhinan.xyz/ep/rjzn_ep021.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://renjianzhinan.xyz/#ep021",
+    "id": "http://renjianzhinan.xyz/#ep021",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "hb"
+        }
+    ],
+    "author": "hb",
+    "author_detail": {
+        "name": "hb"
+    },
+    "published": "THU, 16 APR 2020 10:00:00 GMT",
+    "published_parsed": [
+        2020,
+        4,
+        16,
+        10,
+        0,
+        0,
+        3,
+        107,
+        0
+    ],
+    "itunes_duration": "01:06:59"
+}

@@ -1,0 +1,70 @@
+{
+    "links": [
+        {
+            "length": "1031961",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo2Mjk3LCJwIjoyLCJ1IjoiNzAyNS5tcDMifQ.RSS6WGXGFfejR9Hye64Ogn4hre0/bowuzhi/8387413069_977025.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://bowuzhi.fm/episodes/0206"
+        }
+    ],
+    "title": "",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": ""
+    },
+    "id": "http://bowuzhi.fm/episodes/0206",
+    "guidislink": true,
+    "link": "http://bowuzhi.fm/episodes/0206",
+    "authors": [
+        {
+            "name": "小黄鱼播客"
+        }
+    ],
+    "author": "小黄鱼播客",
+    "author_detail": {
+        "name": "小黄鱼播客"
+    },
+    "itunes_duration": "01:04",
+    "itunes_explicit": true,
+    "itunes_episodetype": "None",
+    "summary": "",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": ""
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": ""
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<hr /><p><a href=\"https://afdian.net/@bowuzhi\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Sat, 06 Feb 2021 13:00:00 +0000",
+    "published_parsed": [
+        2021,
+        2,
+        6,
+        13,
+        0,
+        0,
+        5,
+        37,
+        0
+    ]
+}

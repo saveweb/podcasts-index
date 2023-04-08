@@ -1,0 +1,75 @@
+{
+    "links": [
+        {
+            "length": "58473245",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/15D3AF/r.typlog.com/eyJzIjoxODIzLCJlIjo2MjY1NywicCI6MiwidSI6IjkyMTMubXAzIn0.0qAtvJq9SJbAh77bnUTROK_ZI50/2bab/8333051516_89213.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://binary.2bab.me/episodes/kotlin-fireside-chat-with-ab"
+        }
+    ],
+    "title": "#18 串台“Kotlin 炉边漫谈”",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#18 串台“Kotlin 炉边漫谈”"
+    },
+    "id": "https://binary.2bab.me/episodes/kotlin-fireside-chat-with-ab",
+    "guidislink": true,
+    "link": "https://binary.2bab.me/episodes/kotlin-fireside-chat-with-ab",
+    "authors": [
+        {
+            "name": "2BAB"
+        }
+    ],
+    "author": "2BAB",
+    "author_detail": {
+        "name": "2BAB"
+    },
+    "itunes_duration": "1:00:54",
+    "itunes_explicit": null,
+    "itunes_episode": "18",
+    "podcast_episode": "18",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/2bab/8333051723_033106.png?x-oss-process=style/sl"
+    },
+    "summary": "#18 串台“Kotlin 炉边漫谈” 本期人物：Maggie，圣佑，禹昂，AB 本期是和“Kotlin 炉边漫谈”的串台节目，我也难得去当了一期嘉宾，聊了聊来到新加坡后学习 Kotlin、融入当地工作生活环境的一些故事。 欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~ 时间轴： 00:00: 開場 01:25: 怎麼知道 Kotlin 的？為什麼會想學習Kotlin 這個語言？ 04:15: 最初怎麼學習Kotlin？給初學Kotlin 開發者的建議 07:25: 踩坑的經驗 11:10: 怎麼會到國外工作？為什麼會選擇到新加坡？ 16:15: 不同工作模式和體驗 20:10: 開發無障礙應用程式要注意的事項 25:15: 到異國工作如何排解寂寞？假日聯誼竟然是...吃榴槤？ 31:25: 到新加坡工作的管道，會面臨哪些不同工作或技術上的挑戰？ 36:40: 如何準備英語發表？ 41:30: 如何提升英語技能？ 46:20: 多工的AB 為什麼會開始Podcast？ 51:50: 對Kotlin未來的看法 56:40: 幕後花絮 相关信息： 公众号：Android高效开发、南瓜饼日常 二分电台官网 关于和版权信息 《Android 国际化与设计》 Cambly “Kotlin 炉边漫谈”的收听方式: Kotlin 炉边漫谈-小宇宙 AB 的联系方式： 关于 AB",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#18 串台“Kotlin 炉边漫谈” 本期人物：Maggie，圣佑，禹昂，AB 本期是和“Kotlin 炉边漫谈”的串台节目，我也难得去当了一期嘉宾，聊了聊来到新加坡后学习 Kotlin、融入当地工作生活环境的一些故事。 欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~ 时间轴： 00:00: 開場 01:25: 怎麼知道 Kotlin 的？為什麼會想學習Kotlin 這個語言？ 04:15: 最初怎麼學習Kotlin？給初學Kotlin 開發者的建議 07:25: 踩坑的經驗 11:10: 怎麼會到國外工作？為什麼會選擇到新加坡？ 16:15: 不同工作模式和體驗 20:10: 開發無障礙應用程式要注意的事項 25:15: 到異國工作如何排解寂寞？假日聯誼竟然是...吃榴槤？ 31:25: 到新加坡工作的管道，會面臨哪些不同工作或技術上的挑戰？ 36:40: 如何準備英語發表？ 41:30: 如何提升英語技能？ 46:20: 多工的AB 為什麼會開始Podcast？ 51:50: 對Kotlin未來的看法 56:40: 幕後花絮 相关信息： 公众号：Android高效开发、南瓜饼日常 二分电台官网 关于和版权信息 《Android 国际化与设计》 Cambly “Kotlin 炉边漫谈”的收听方式: Kotlin 炉边漫谈-小宇宙 AB 的联系方式： 关于 AB"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#18 串台“Kotlin 炉边漫谈”</h2>\n<p>本期人物：Maggie，圣佑，禹昂，AB</p>\n<p>本期是和“Kotlin 炉边漫谈”的串台节目，我也难得去当了一期嘉宾，聊了聊来到新加坡后学习 Kotlin、融入当地工作生活环境的一些故事。</p>\n<p>欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~</p>\n<p>时间轴：</p>\n<ul>\n<li>00:00: 開場</li>\n<li>01:25: 怎麼知道 Kotlin 的？為什麼會想學習Kotlin 這個語言？</li>\n<li>04:15: 最初怎麼學習Kotlin？給初學Kotlin 開發者的建議</li>\n<li>07:25: 踩坑的經驗</li>\n<li>11:10: 怎麼會到國外工作？為什麼會選擇到新加坡？</li>\n<li>16:15: 不同工作模式和體驗</li>\n<li>20:10: 開發無障礙應用程式要注意的事項</li>\n<li>25:15: 到異國工作如何排解寂寞？假日聯誼竟然是...吃榴槤？</li>\n<li>31:25: 到新加坡工作的管道，會面臨哪些不同工作或技術上的挑戰？</li>\n<li>36:40: 如何準備英語發表？</li>\n<li>41:30: 如何提升英語技能？</li>\n<li>46:20: 多工的AB 為什麼會開始Podcast？</li>\n<li>51:50: 對Kotlin未來的看法</li>\n<li>56:40: 幕後花絮</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/about\">公众号：Android高效开发、南瓜饼日常</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n<li><a href=\"https://ctalks.gdgcn.net/?p=666\">《Android 国际化与设计》</a></li>\n<li><a href=\"https://www.cambly.com/\">Cambly</a></li>\n</ul>\n<p>“Kotlin 炉边漫谈”的收听方式:</p>\n<ul>\n<li><a href=\"https://www.xiaoyuzhoufm.com/podcast/629e06e3d02ea2b34ca88754\">Kotlin 炉边漫谈-小宇宙</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"https://2bab.me/about\">关于 AB</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#18 串台“Kotlin 炉边漫谈”</h2>\n<p>本期人物：Maggie，圣佑，禹昂，AB</p>\n<p>本期是和“Kotlin 炉边漫谈”的串台节目，我也难得去当了一期嘉宾，聊了聊来到新加坡后学习 Kotlin、融入当地工作生活环境的一些故事。</p>\n<p>欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~</p>\n<p>时间轴：</p>\n<ul>\n<li>00:00: 開場</li>\n<li>01:25: 怎麼知道 Kotlin 的？為什麼會想學習Kotlin 這個語言？</li>\n<li>04:15: 最初怎麼學習Kotlin？給初學Kotlin 開發者的建議</li>\n<li>07:25: 踩坑的經驗</li>\n<li>11:10: 怎麼會到國外工作？為什麼會選擇到新加坡？</li>\n<li>16:15: 不同工作模式和體驗</li>\n<li>20:10: 開發無障礙應用程式要注意的事項</li>\n<li>25:15: 到異國工作如何排解寂寞？假日聯誼竟然是...吃榴槤？</li>\n<li>31:25: 到新加坡工作的管道，會面臨哪些不同工作或技術上的挑戰？</li>\n<li>36:40: 如何準備英語發表？</li>\n<li>41:30: 如何提升英語技能？</li>\n<li>46:20: 多工的AB 為什麼會開始Podcast？</li>\n<li>51:50: 對Kotlin未來的看法</li>\n<li>56:40: 幕後花絮</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/about\">公众号：Android高效开发、南瓜饼日常</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n<li><a href=\"https://ctalks.gdgcn.net/?p=666\">《Android 国际化与设计》</a></li>\n<li><a href=\"https://www.cambly.com/\">Cambly</a></li>\n</ul>\n<p>“Kotlin 炉边漫谈”的收听方式:</p>\n<ul>\n<li><a href=\"https://www.xiaoyuzhoufm.com/podcast/629e06e3d02ea2b34ca88754\">Kotlin 炉边漫谈-小宇宙</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"https://2bab.me/about\">关于 AB</a></li>\n</ul>"
+        }
+    ],
+    "published": "Mon, 31 Oct 2022 12:49:02 +0000",
+    "published_parsed": [
+        2022,
+        10,
+        31,
+        12,
+        49,
+        2,
+        0,
+        304,
+        0
+    ]
+}

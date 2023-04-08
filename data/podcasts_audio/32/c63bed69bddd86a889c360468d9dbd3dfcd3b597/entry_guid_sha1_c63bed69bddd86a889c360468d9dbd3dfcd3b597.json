@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "57611871",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2NTgzMywicCI6MiwidSI6IjUwMTYubXAzIn0.kD3wPQPFr7YbKEWdKdiA-4UOZFM/zaizuozuoma/8324754574_955016.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/037"
+        }
+    ],
+    "title": "打第一份工是怎样的体验？｜再坐坐嘛 Vol. 037",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "打第一份工是怎样的体验？｜再坐坐嘛 Vol. 037"
+    },
+    "id": "https://zaizuozuoma.com/episodes/037",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/037",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "39:59",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "37",
+    "podcast_episode": "37",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "主播们分享了各自的首次打工体验。赚到钱了吗？收获是啥？犯过啥错？请听职场老人忆当年。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "主播们分享了各自的首次打工体验。赚到钱了吗？收获是啥？犯过啥错？请听职场老人忆当年。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>主播们分享了各自的首次打工体验。赚到钱了吗？收获是啥？犯过啥错？请听职场老人忆当年。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>主播们分享了各自的首次打工体验。赚到钱了吗？收获是啥？犯过啥错？请听职场老人忆当年。</p>"
+        }
+    ],
+    "published": "Wed, 01 Feb 2023 09:57:44 +0000",
+    "published_parsed": [
+        2023,
+        2,
+        1,
+        9,
+        57,
+        44,
+        2,
+        32,
+        0
+    ]
+}

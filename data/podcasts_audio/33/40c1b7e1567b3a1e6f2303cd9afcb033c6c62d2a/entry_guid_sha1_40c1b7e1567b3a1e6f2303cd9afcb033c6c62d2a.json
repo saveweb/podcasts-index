@@ -1,0 +1,53 @@
+{
+    "title": "读书人频道 #04 - 一本逛书店逛出来的书",
+    "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://media.rss.com/abecedarian/feed.xml",
+        "value": "读书人频道 #04 - 一本逛书店逛出来的书"
+    },
+    "itunes_title": "读书人频道 #04 - 一本逛书店逛出来的书",
+    "summary": "<p>「一个人悠然自在地在书海里自由漫步，这其中的愉悦，才真正是我想和诸位读者分享的。」 ——寺山修司</p><p><strong>[本期书目]</strong></p><p>不思议图书馆</p><p>著 寺山修司</p><p>浦睿文化/湖南人民出版</p><p><a href=\"https://book.douban.com/subject/27026325/\" rel=\"noopener noreferrer nofollow\">https://book.douban.com/subject/27026325/</a></p><p><strong>[本期读书人]</strong></p><p>赵阿萌</p><p></p><p><strong>[本期音乐]</strong></p><p>寺原孝明 - 空気女の呗</p><p></p><p><strong>[后期]</strong></p><p>小阳蛋子</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://media.rss.com/abecedarian/feed.xml",
+        "value": "<p>「一个人悠然自在地在书海里自由漫步，这其中的愉悦，才真正是我想和诸位读者分享的。」 ——寺山修司</p><p><strong>[本期书目]</strong></p><p>不思议图书馆</p><p>著 寺山修司</p><p>浦睿文化/湖南人民出版</p><p><a href=\"https://book.douban.com/subject/27026325/\" rel=\"noopener noreferrer nofollow\">https://book.douban.com/subject/27026325/</a></p><p><strong>[本期读书人]</strong></p><p>赵阿萌</p><p></p><p><strong>[本期音乐]</strong></p><p>寺原孝明 - 空気女の呗</p><p></p><p><strong>[后期]</strong></p><p>小阳蛋子</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://rss.com/podcasts/abecedarian/32785"
+        },
+        {
+            "length": "41332916",
+            "type": "audio/mpeg",
+            "href": "https://media.rss.com/abecedarian/20200404_160259_5cfdc9f225f82fa05a5b09a22abca80f.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://rss.com/podcasts/abecedarian/32785",
+    "id": "f568196f-a9a3-636c-41de-781bddc642c6",
+    "guidislink": false,
+    "image": {
+        "href": "https://media.rss.com/abecedarian/20200229_133351_a45c34a4c98c0e7ad6cc66d14968d9b8.jpeg"
+    },
+    "itunes_duration": "1034",
+    "itunes_episodetype": "full",
+    "itunes_episode": "15",
+    "itunes_season": "1",
+    "itunes_explicit": null,
+    "published": "Sat, 04 Apr 2020 16:02:55 GMT",
+    "published_parsed": [
+        2020,
+        4,
+        4,
+        16,
+        2,
+        55,
+        5,
+        95,
+        0
+    ]
+}

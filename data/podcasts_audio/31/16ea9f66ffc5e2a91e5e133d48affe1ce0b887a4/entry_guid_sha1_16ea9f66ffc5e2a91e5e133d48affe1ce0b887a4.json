@@ -1,0 +1,56 @@
+{
+    "title": "50. 「更年期程序员夜话又与您见面了！」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "50. 「更年期程序员夜话又与您见面了！」"
+    },
+    "itunes_episode": "50",
+    "itunes_title": "「更年期程序员夜话又与您见面了！」",
+    "summary": "<p>很长时间没有更新了，停更期间吴涛换了工作搬了家。开场吴涛介绍了他在「德国版金蝶」的新工作，过渡到正题关于近期三个安全漏洞（Meltdown, Spectre, KRACK）的讨论。结尾是两个根本不需要 iMac Pro 的人对当前 Mac 产品线的吐槽、论游戏 Factorio 与编程的关系、以及在 Mac 上玩游戏的尴尬。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/\">Why is Raspberry Pi not affected?</a></li>\n<li><a href=\"https://www.krackattacks.com\">KRACK</a></li>\n<li><a href=\"https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/\">Falling through the KRACKs</a></li>\n<li><a href=\"https://arstechnica.com/gadgets/2018/01/kaby-lake-g-unveiled-intel-cpu-amd-gpu-nvidia-beating-performance/\">Intel CPU + AMD GPU</a></li>\n<li><a href=\"https://www.factorio.com/\">Factorio</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>很长时间没有更新了，停更期间吴涛换了工作搬了家。开场吴涛介绍了他在「德国版金蝶」的新工作，过渡到正题关于近期三个安全漏洞（Meltdown, Spectre, KRACK）的讨论。结尾是两个根本不需要 iMac Pro 的人对当前 Mac 产品线的吐槽、论游戏 Factorio 与编程的关系、以及在 Mac 上玩游戏的尴尬。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/\">Why is Raspberry Pi not affected?</a></li>\n<li><a href=\"https://www.krackattacks.com\">KRACK</a></li>\n<li><a href=\"https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/\">Falling through the KRACKs</a></li>\n<li><a href=\"https://arstechnica.com/gadgets/2018/01/kaby-lake-g-unveiled-intel-cpu-amd-gpu-nvidia-beating-performance/\">Intel CPU + AMD GPU</a></li>\n<li><a href=\"https://www.factorio.com/\">Factorio</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/50"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "41504042",
+            "href": "https://pan.icu/50/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/50",
+    "id": "https://pan.icu/50",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Wed, 07 Feb 2018 00:00:00 +0000",
+    "published_parsed": [
+        2018,
+        2,
+        7,
+        0,
+        0,
+        0,
+        2,
+        38,
+        0
+    ],
+    "itunes_duration": "5188"
+}

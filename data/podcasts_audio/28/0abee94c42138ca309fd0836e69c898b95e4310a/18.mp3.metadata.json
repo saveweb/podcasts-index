@@ -1,0 +1,52 @@
+{
+    "http-content-length": 47972857,
+    "http-etag": "5c725584-2dc01f9",
+    "http-last-modified": "Sun, 24 Feb 2019 08:27:48 GMT",
+    "http-last-modified-float": 1550968068.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 47972857,
+    "actual-duration": 2985,
+    "sha1": "ce9321254e2731e50a3e6bf1244723b4a6799463",
+    "md5": "ce3c0e447873a9e9e73324a30f49e627",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://dts.podtrac.com/redirect.mp3/jiaocha.io/assets/podcasts/18.mp3",
+            "headers": {
+                "Date": "Sat, 08 Apr 2023 07:24:24 GMT",
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "237",
+                "Connection": "keep-alive",
+                "Cache-Control": "no-cache, no-store, must-revalidate",
+                "Pragma": "no-cache",
+                "Expires": "-1",
+                "Location": "https://sample.podtrac.com/45d530bd2b294f059d9ab7806ca43d60/jiaocha.io/assets/podcasts/18.mp3",
+                "Server": "Microsoft-IIS/10.0",
+                "X-AspNetMvc-Version": "4.0",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Headers": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "X-AspNet-Version": "4.0.30319",
+                "X-Machine": "WEST1",
+                "X-Powered-By": "ASP.NET"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://sample.podtrac.com/45d530bd2b294f059d9ab7806ca43d60/jiaocha.io/assets/podcasts/18.mp3",
+            "headers": {
+                "Date": "Sat, 08 Apr 2023 07:24:26 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "47972857",
+                "Connection": "keep-alive",
+                "Last-Modified": "Sun, 24 Feb 2019 08:27:48 GMT",
+                "ETag": "\"5c725584-2dc01f9\"",
+                "Server": "Caddy, nginx",
+                "X-UA-Compatible": "IE=Edge",
+                "X-Powered-By": "ASP.NET"
+            }
+        }
+    }
+}

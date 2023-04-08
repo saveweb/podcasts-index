@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "44236563",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2Njc5MywicCI6MiwidSI6IjkyMTIubXAzIn0.OvDNPxYnGSt8jxxUwN1RyCB7weY/zaizuozuoma/8321467737_399212.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/041"
+        }
+    ],
+    "title": "小朋友会被烂梗带坏吗｜再坐坐嘛 Vol. 041",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "小朋友会被烂梗带坏吗｜再坐坐嘛 Vol. 041"
+    },
+    "id": "https://zaizuozuoma.com/episodes/041",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/041",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "22:20",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "41",
+    "podcast_episode": "41",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8360258205_7670355.jpg?x-oss-process=style/sl"
+    },
+    "summary": "「烂梗」话题最近连续上了好几次热搜，各路自媒体也加入讨论的大战。有些很激进的观点认为，烂梗会毁掉孩子的成长。不至于不至于，谁从小到大没遇到过一些恶俗玩笑啊，也没说人生就此毁掉。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "「烂梗」话题最近连续上了好几次热搜，各路自媒体也加入讨论的大战。有些很激进的观点认为，烂梗会毁掉孩子的成长。不至于不至于，谁从小到大没遇到过一些恶俗玩笑啊，也没说人生就此毁掉。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>「烂梗」话题最近连续上了好几次热搜，各路自媒体也加入讨论的大战。有些很激进的观点认为，烂梗会毁掉孩子的成长。不至于不至于，谁从小到大没遇到过一些恶俗玩笑啊，也没说人生就此毁掉。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>「烂梗」话题最近连续上了好几次热搜，各路自媒体也加入讨论的大战。有些很激进的观点认为，烂梗会毁掉孩子的成长。不至于不至于，谁从小到大没遇到过一些恶俗玩笑啊，也没说人生就此毁掉。</p>"
+        }
+    ],
+    "published": "Sat, 11 Mar 2023 10:58:16 +0000",
+    "published_parsed": [
+        2023,
+        3,
+        11,
+        10,
+        58,
+        16,
+        5,
+        70,
+        0
+    ]
+}

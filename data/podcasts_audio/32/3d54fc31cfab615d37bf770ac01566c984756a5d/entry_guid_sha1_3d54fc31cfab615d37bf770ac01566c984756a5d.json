@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "35533674",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MjI1MiwicCI6MiwidSI6IjYwMDQubXAzIn0.jWAovudMfAiZTs5q-R0FWqV1fxw/zaizuozuoma/8334020725_506004.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/030"
+        }
+    ],
+    "title": "在影院看完演职员表，是尊重问题吗？｜再坐坐嘛 Vol. 030",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "在影院看完演职员表，是尊重问题吗？｜再坐坐嘛 Vol. 030"
+    },
+    "id": "https://zaizuozuoma.com/episodes/030",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/030",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "18:07",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "30",
+    "podcast_episode": "30",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8360258205_7670355.jpg?x-oss-process=style/sl"
+    },
+    "summary": "",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": ""
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": ""
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": ""
+        }
+    ],
+    "published": "Mon, 17 Oct 2022 04:03:16 +0000",
+    "published_parsed": [
+        2022,
+        10,
+        17,
+        4,
+        3,
+        16,
+        0,
+        290,
+        0
+    ]
+}

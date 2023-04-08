@@ -1,0 +1,53 @@
+{
+    "title": "第十七期：如何体验北京",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "第十七期：如何体验北京"
+    },
+    "summary": "<p>本期在一家居酒屋录音，环境非常嘈杂，录音质量很差。与一位土著和一位北漂一起简单聊了聊北京。北京最美的风景或许是人。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb，大熊，南番</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "<p>本期在一家居酒屋录音，环境非常嘈杂，录音质量很差。与一位土著和一位北漂一起简单聊了聊北京。北京最美的风景或许是人。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb，大熊，南番</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://renjianzhinan.xyz/#ep017"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://renjianzhinan.xyz/ep/rjzn_ep017.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://renjianzhinan.xyz/#ep017",
+    "id": "http://renjianzhinan.xyz/#ep017",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "hb"
+        }
+    ],
+    "author": "hb",
+    "author_detail": {
+        "name": "hb"
+    },
+    "published": "SAT, 22 DEC 2018 11:00:00 GMT",
+    "published_parsed": [
+        2018,
+        12,
+        22,
+        11,
+        0,
+        0,
+        5,
+        356,
+        0
+    ],
+    "itunes_duration": "00:43:37"
+}

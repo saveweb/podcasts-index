@@ -1,0 +1,73 @@
+{
+    "links": [
+        {
+            "length": "13787904",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo0ODcyMiwicCI6MiwidSI6Ijc3ODUubXAzIn0.AWaIGUry8gFLZS7DSRwIQfvYwZk/bowuzhi/8366756206_937785.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://bowuzhi.fm/episodes/changchun"
+        }
+    ],
+    "title": "【即兴】在长春电影制片厂博物馆感受行业碾压",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "【即兴】在长春电影制片厂博物馆感受行业碾压"
+    },
+    "id": "http://bowuzhi.fm/episodes/changchun",
+    "guidislink": true,
+    "link": "http://bowuzhi.fm/episodes/changchun",
+    "authors": [
+        {
+            "name": "小黄鱼播客"
+        }
+    ],
+    "author": "小黄鱼播客",
+    "author_detail": {
+        "name": "小黄鱼播客"
+    },
+    "itunes_duration": "28:43",
+    "itunes_explicit": null,
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/bowuzhi/8366756270_76391.jpg?x-oss-process=style/sl"
+    },
+    "summary": "来不及了，回去再改。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "来不及了，回去再改。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p>来不及了，回去再改。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p>来不及了，回去再改。</p>\n<hr /><p><a href=\"https://afdian.net/@bowuzhi\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Sun, 03 Oct 2021 06:52:25 +0000",
+    "published_parsed": [
+        2021,
+        10,
+        3,
+        6,
+        52,
+        25,
+        6,
+        276,
+        0
+    ]
+}

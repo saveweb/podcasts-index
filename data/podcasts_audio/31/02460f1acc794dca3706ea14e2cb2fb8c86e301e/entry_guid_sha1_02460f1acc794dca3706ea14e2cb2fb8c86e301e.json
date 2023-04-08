@@ -1,0 +1,56 @@
+{
+    "title": "30. 没有主题的闲聊",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "30. 没有主题的闲聊"
+    },
+    "itunes_episode": "30",
+    "itunes_title": "没有主题的闲聊",
+    "summary": "<p>关于 MinGW 和 Wi-Fi 的听众反馈，然后讨论了初学者如何面对 Linux 操作系统，最后讨论了几条新闻。</p>\n\n<p>本期的口号是：<em>Show me a pull request, or STFU.</em></p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://twitter.com/karliekloss/status/668803565213851648\">Karlie Kloss 在 SpaceX 的照片</a></li>\n<li><a href=\"https://github.com/apple/swift\">GitHub 上的苹果 Swift 项目</a></li>\n<li><a href=\"https://letsencrypt.org/2015/12/03/entering-public-beta.html\">Let&rsquo;s Encrypt 公测</a></li>\n<li><a href=\"http://www.internetnews.com/blog/skerner/is-php-6-or-php-7-next.html\">Is PHP 6 or PHP 7 Next?</a></li>\n<li><a href=\"https://philsturgeon.uk/php/2013/01/26/php-6-pissing-in-the-wind/\">PHP6: Pissing in the Wind</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Benevolent_dictator_for_life\">BDFL</a></li>\n<li><a href=\"http://news.php.net/php.internals/64770\">PHP 邮件组里的一封信</a></li>\n<li><a href=\"http://php.net/manual/en/migration70.new-features.php\">PHP 7 新特性</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>关于 MinGW 和 Wi-Fi 的听众反馈，然后讨论了初学者如何面对 Linux 操作系统，最后讨论了几条新闻。</p>\n\n<p>本期的口号是：<em>Show me a pull request, or STFU.</em></p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://twitter.com/karliekloss/status/668803565213851648\">Karlie Kloss 在 SpaceX 的照片</a></li>\n<li><a href=\"https://github.com/apple/swift\">GitHub 上的苹果 Swift 项目</a></li>\n<li><a href=\"https://letsencrypt.org/2015/12/03/entering-public-beta.html\">Let&rsquo;s Encrypt 公测</a></li>\n<li><a href=\"http://www.internetnews.com/blog/skerner/is-php-6-or-php-7-next.html\">Is PHP 6 or PHP 7 Next?</a></li>\n<li><a href=\"https://philsturgeon.uk/php/2013/01/26/php-6-pissing-in-the-wind/\">PHP6: Pissing in the Wind</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Benevolent_dictator_for_life\">BDFL</a></li>\n<li><a href=\"http://news.php.net/php.internals/64770\">PHP 邮件组里的一封信</a></li>\n<li><a href=\"http://php.net/manual/en/migration70.new-features.php\">PHP 7 新特性</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/30"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "75796901",
+            "href": "https://pan.icu/30/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/30",
+    "id": "https://pan.icu/30",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Sat, 12 Dec 2015 14:17:20 +0000",
+    "published_parsed": [
+        2015,
+        12,
+        12,
+        14,
+        17,
+        20,
+        5,
+        346,
+        0
+    ],
+    "itunes_duration": "6305"
+}

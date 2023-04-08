@@ -1,0 +1,49 @@
+{
+    "http-content-length": 5283134,
+    "http-etag": "9664217229e097f94732c41d035c256c",
+    "http-last-modified": "Sun, 06 Feb 2022 11:37:14 GMT",
+    "http-last-modified-float": 1644118634.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 5283134,
+    "actual-duration": null,
+    "sha1": "30586593ea1dd4b46b5bee9a4de0d39ec1974294",
+    "md5": "9664217229e097f94732c41d035c256c",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_007._Quick_Oscars_-_Marriage_Story.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:42:00 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/1/6/3/16365043055fd10c/Yeyuwanjia_007._Quick_Oscars_-_Marriage_Story.mp3?c_id=63877160&cs_id=63877160&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936964&Signature=SlNNPqWQKUTryo3yUTOaRs8M3CjVRh4NLcBuoyMGneWQ9xBD7io5PT-0vsPoaB1uWCPg8aQM0mDH5FejbHWHKQFrYg6WGgzbAqHuXkqeCqbDV6UXX1COzdtBMMMno3-LXBAJ1vuuGps-V-wKK891KXqPnLc2SvrgofGh8~ZGyu-WHUGm2eAD0TE8Ia~ghqNtIo1fvbyShnJc3wgRBWfsp~9LLBGGF-57I8Q2y~6buS2InFPXgVv19eCDndWyjJCQyQVDK-D3ZSiox~4inkGUD5EeF6D-naS8dVDV0RyVcOEYanINTDLYijmzDu2IVzOAbxz6gZzugJncrObXgIcxlg__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t2",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/1/6/3/16365043055fd10c/Yeyuwanjia_007._Quick_Oscars_-_Marriage_Story.mp3?c_id=63877160&cs_id=63877160&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936964&Signature=SlNNPqWQKUTryo3yUTOaRs8M3CjVRh4NLcBuoyMGneWQ9xBD7io5PT-0vsPoaB1uWCPg8aQM0mDH5FejbHWHKQFrYg6WGgzbAqHuXkqeCqbDV6UXX1COzdtBMMMno3-LXBAJ1vuuGps-V-wKK891KXqPnLc2SvrgofGh8~ZGyu-WHUGm2eAD0TE8Ia~ghqNtIo1fvbyShnJc3wgRBWfsp~9LLBGGF-57I8Q2y~6buS2InFPXgVv19eCDndWyjJCQyQVDK-D3ZSiox~4inkGUD5EeF6D-naS8dVDV0RyVcOEYanINTDLYijmzDu2IVzOAbxz6gZzugJncrObXgIcxlg__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "5283134",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:42:01 GMT",
+                "Last-Modified": "Sun, 06 Feb 2022 11:37:14 GMT",
+                "ETag": "\"9664217229e097f94732c41d035c256c\"",
+                "x-amz-meta-mtime": "1580607108",
+                "x-amz-version-id": "K0rprVgj5CT09IkJozKP9en43PKA0C8G",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "OCyBxPV9vcnuLBGnSM2IDljHE8pPaZxbrnUlFdYcxWUqiItKc7RfXQ==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

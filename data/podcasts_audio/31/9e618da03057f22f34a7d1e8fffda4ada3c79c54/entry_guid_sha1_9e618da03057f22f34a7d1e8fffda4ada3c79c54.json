@@ -1,0 +1,56 @@
+{
+    "title": "28. In the Beginning was the Command Line",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "28. In the Beginning was the Command Line"
+    },
+    "itunes_episode": "28",
+    "itunes_title": "In the Beginning was the Command Line",
+    "summary": "<p>简短的读者反馈和新闻之后两人花费了大量时间来回顾 command line/shell 的历史，以及讨论它为什么重要。</p>\n\n<p>本期的口号是：<em>It is easier to port a shell than a shell script.</em></p>\n\n<p>本期节目的剪辑在 iPad Air 2 上使用 Ferrite Recording Studio 完成。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/\">Programmers Should Not Call Themselves Engineers</a></li>\n<li><a href=\"http://flutter.io/faq/\">Flutter</a></li>\n<li><a href=\"http://0.30000000000000004.com/\">0.30000000000000004.com</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Teleprinter\">Teletype</a>、<a href=\"https://en.wikipedia.org/wiki/Teletype_Model_33\">Teletype Model 33</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Acoustic_coupler\">Acoustic Coupler</a></li>\n<li><a href=\"http://www.multicians.org/history.html\">Multics</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bourne_shell\">sh</a>、<a href=\"https://en.wikipedia.org/wiki/C_shell\">csh</a>、<a href=\"https://en.wikipedia.org/wiki/Korn_shell\">ksh</a>、<a href=\"https://en.wikipedia.org/wiki/Bash_(Unix_shell)\">bash</a>、<a href=\"https://en.wikipedia.org/wiki/Almquist_shell\">ash / dash</a>、<a href=\"https://en.wikipedia.org/wiki/Z_shell\">zsh</a>、<a href=\"https://gnp.github.io/psh/\">psh</a>、<a href=\"http://yash.osdn.jp/\">yash</a>、<a href=\"http://fishshell.com/\">fish</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Unix_wars\">Unix Wars</a></li>\n<li><a href=\"http://unix.stackexchange.com/questions/145522/what-does-it-mean-to-be-sh-compatible\">What does it mean to be sh compatible?</a></li>\n<li><a href=\"https://github.com/robbyrussell/oh-my-zsh\">Oh My Zsh</a></li>\n<li><a href=\"https://wiki.ubuntu.com/DashAsBinSh\">Dash as /bin/sh</a></li>\n<li><a href=\"http://brew.sh/\">Homebrew</a></li>\n<li><a href=\"https://github.com/busyloop/lolcat\">lolcat</a></li>\n<li><a href=\"http://jonas.nitro.dk/tig/\">tig: text-mode interface for Git</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Cowsay\">cowsay</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Fortune_cookie\">Fortune cookie</a></li>\n<li><a href=\"http://ipython.org/\">IPython</a></li>\n<li><a href=\"http://bpython-interpreter.org/\">bpython</a></li>\n<li><a href=\"http://pryrepl.org/\">pry</a></li>\n<li><a href=\"http://mama.indstate.edu/users/ice/tree/\">tree</a></li>\n<li><a href=\"https://tmux.github.io/\">tmux</a></li>\n<li><a href=\"http://hisham.hm/htop/\">htop</a></li>\n<li><a href=\"https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/pbcopy.1.html\">pbcopy, pbpaste</a>、<a href=\"https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/open.1.html\">open</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>简短的读者反馈和新闻之后两人花费了大量时间来回顾 command line/shell 的历史，以及讨论它为什么重要。</p>\n\n<p>本期的口号是：<em>It is easier to port a shell than a shell script.</em></p>\n\n<p>本期节目的剪辑在 iPad Air 2 上使用 Ferrite Recording Studio 完成。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/\">Programmers Should Not Call Themselves Engineers</a></li>\n<li><a href=\"http://flutter.io/faq/\">Flutter</a></li>\n<li><a href=\"http://0.30000000000000004.com/\">0.30000000000000004.com</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Teleprinter\">Teletype</a>、<a href=\"https://en.wikipedia.org/wiki/Teletype_Model_33\">Teletype Model 33</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Acoustic_coupler\">Acoustic Coupler</a></li>\n<li><a href=\"http://www.multicians.org/history.html\">Multics</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bourne_shell\">sh</a>、<a href=\"https://en.wikipedia.org/wiki/C_shell\">csh</a>、<a href=\"https://en.wikipedia.org/wiki/Korn_shell\">ksh</a>、<a href=\"https://en.wikipedia.org/wiki/Bash_(Unix_shell)\">bash</a>、<a href=\"https://en.wikipedia.org/wiki/Almquist_shell\">ash / dash</a>、<a href=\"https://en.wikipedia.org/wiki/Z_shell\">zsh</a>、<a href=\"https://gnp.github.io/psh/\">psh</a>、<a href=\"http://yash.osdn.jp/\">yash</a>、<a href=\"http://fishshell.com/\">fish</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Unix_wars\">Unix Wars</a></li>\n<li><a href=\"http://unix.stackexchange.com/questions/145522/what-does-it-mean-to-be-sh-compatible\">What does it mean to be sh compatible?</a></li>\n<li><a href=\"https://github.com/robbyrussell/oh-my-zsh\">Oh My Zsh</a></li>\n<li><a href=\"https://wiki.ubuntu.com/DashAsBinSh\">Dash as /bin/sh</a></li>\n<li><a href=\"http://brew.sh/\">Homebrew</a></li>\n<li><a href=\"https://github.com/busyloop/lolcat\">lolcat</a></li>\n<li><a href=\"http://jonas.nitro.dk/tig/\">tig: text-mode interface for Git</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Cowsay\">cowsay</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Fortune_cookie\">Fortune cookie</a></li>\n<li><a href=\"http://ipython.org/\">IPython</a></li>\n<li><a href=\"http://bpython-interpreter.org/\">bpython</a></li>\n<li><a href=\"http://pryrepl.org/\">pry</a></li>\n<li><a href=\"http://mama.indstate.edu/users/ice/tree/\">tree</a></li>\n<li><a href=\"https://tmux.github.io/\">tmux</a></li>\n<li><a href=\"http://hisham.hm/htop/\">htop</a></li>\n<li><a href=\"https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/pbcopy.1.html\">pbcopy, pbpaste</a>、<a href=\"https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/open.1.html\">open</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/28"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "100557242",
+            "href": "https://pan.icu/28/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/28",
+    "id": "https://pan.icu/28",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Sat, 14 Nov 2015 22:47:30 +0000",
+    "published_parsed": [
+        2015,
+        11,
+        14,
+        22,
+        47,
+        30,
+        5,
+        318,
+        0
+    ],
+    "itunes_duration": "8369"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "第九期：如何传播谣言",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "第九期：如何传播谣言"
+    },
+    "summary": "<p>针对最近听到的一些关于阻碍信息获取自由的流言的呓语。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>补充材料：<br />\n                - <a href=\"http://www.haring.com/!/art-work/253\">Keith Haring: Ignorance = Fear (1989)</a><br />\n\n                <p>登场人物：hb</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "<p>针对最近听到的一些关于阻碍信息获取自由的流言的呓语。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>补充材料：<br />\n                - <a href=\"http://www.haring.com/!/art-work/253\">Keith Haring: Ignorance = Fear (1989)</a><br />\n\n                <p>登场人物：hb</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://renjianzhinan.xyz/#ep009"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://renjianzhinan.xyz/ep/rjzn_ep009.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://renjianzhinan.xyz/#ep009",
+    "id": "http://renjianzhinan.xyz/#ep009",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "hb"
+        }
+    ],
+    "author": "hb",
+    "author_detail": {
+        "name": "hb"
+    },
+    "published": "Sat, 22 Jul 2017 20:00:00 GMT",
+    "published_parsed": [
+        2017,
+        7,
+        22,
+        20,
+        0,
+        0,
+        5,
+        203,
+        0
+    ],
+    "itunes_duration": "1839"
+}

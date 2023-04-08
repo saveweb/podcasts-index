@@ -1,0 +1,70 @@
+{
+    "links": [
+        {
+            "length": "43711728",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo0MDYzLCJwIjoyLCJ1IjoiYmU2NC5tcDMifQ.A4ny0t3a0LeszhekpGYwfg5XYsM/bowuzhi/z_f29da10b44aeefc5146b17c23bc8be64.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://bowuzhi.fm/episodes/80"
+        }
+    ],
+    "title": "#80：[番外]《不时尚》第七期：「Welcome to My Fortress of Shame.」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "#80：[番外]《不时尚》第七期：「Welcome to My Fortress of Shame.」"
+    },
+    "id": "http://bowuzhi.fm/episodes/80",
+    "guidislink": true,
+    "link": "http://bowuzhi.fm/episodes/80",
+    "authors": [
+        {
+            "name": "bowuzhi"
+        }
+    ],
+    "author": "bowuzhi",
+    "author_detail": {
+        "name": "bowuzhi"
+    },
+    "itunes_duration": "1:00:33",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "summary": "Support 博物志",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "Support 博物志"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p><hr /><p><a href=\"https://afdian.net/@bowuzhi\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Mon, 12 Jun 2017 00:00:00 +0000",
+    "published_parsed": [
+        2017,
+        6,
+        12,
+        0,
+        0,
+        0,
+        0,
+        163,
+        0
+    ]
+}

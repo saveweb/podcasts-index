@@ -1,0 +1,56 @@
+{
+    "title": "52. Get a PC",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "52. Get a PC"
+    },
+    "itunes_episode": "52",
+    "itunes_title": "Get a PC",
+    "summary": "<p>时隔多年，主播二人不约而同的各自装了台 PC 机。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://weblog.rogueamoeba.com/2018/06/14/on-the-sad-state-of-macintosh-hardware/\">On The Sad State of Macintosh Hardware</a></li>\n<li><a href=\"https://tp69.blog/2018/04/17/completely-silent-computer/\">Completely Silent Computer</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Chroma_subsampling\">Chroma Subsampling</a></li>\n<li><a href=\"https://newsroom.intel.com/editorials/re-architecting-data-center-memory-storage-hierarchy/\">Intel Optane DC Persistent Memory</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/DIMM\">DIMM</a></li>\n<li><a href=\"https://www.raspberrypi.org/products/compute-module-3/\">Raspberry Pi Compute Module 3</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Remote_direct_memory_access\">Remote Direct Memory Access</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Northbridge_%28computing%29\">Northbridge</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Southbridge_%28computing%29\">Southbridge</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Power_supply_unit_%28computer%29#Modular_power_supplies\">模块化电源</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/KVM_switch\">KVM Switch</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Display_Data_Channel\">Display Data Channel (DCC/CI)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux\">Windows Subsystem for Linux</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>时隔多年，主播二人不约而同的各自装了台 PC 机。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://weblog.rogueamoeba.com/2018/06/14/on-the-sad-state-of-macintosh-hardware/\">On The Sad State of Macintosh Hardware</a></li>\n<li><a href=\"https://tp69.blog/2018/04/17/completely-silent-computer/\">Completely Silent Computer</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Chroma_subsampling\">Chroma Subsampling</a></li>\n<li><a href=\"https://newsroom.intel.com/editorials/re-architecting-data-center-memory-storage-hierarchy/\">Intel Optane DC Persistent Memory</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/DIMM\">DIMM</a></li>\n<li><a href=\"https://www.raspberrypi.org/products/compute-module-3/\">Raspberry Pi Compute Module 3</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Remote_direct_memory_access\">Remote Direct Memory Access</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Northbridge_%28computing%29\">Northbridge</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Southbridge_%28computing%29\">Southbridge</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Power_supply_unit_%28computer%29#Modular_power_supplies\">模块化电源</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/KVM_switch\">KVM Switch</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Display_Data_Channel\">Display Data Channel (DCC/CI)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux\">Windows Subsystem for Linux</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/52"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "59301576",
+            "href": "https://pan.icu/52/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/52",
+    "id": "https://pan.icu/52",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Sun, 24 Jun 2018 00:00:00 +0000",
+    "published_parsed": [
+        2018,
+        6,
+        24,
+        0,
+        0,
+        0,
+        6,
+        175,
+        0
+    ],
+    "itunes_duration": "7413"
+}

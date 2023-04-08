@@ -1,0 +1,56 @@
+{
+    "title": "20. 设计模式",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "20. 设计模式"
+    },
+    "itunes_episode": "20",
+    "itunes_title": "设计模式",
+    "summary": "<p>「串台」故障的原因终于揭晓；吴涛的莫尔斯码 app 主意看来目前不可行；三封很长的读者反馈；主题是设计模式。两位主持人不约而同地病了，所以没有讲新闻。</p>\n\n<p>节目中提及的读者 Haozhong Zhang 来信节选：</p>\n\n<blockquote>\n<p>相对的，在 Formal Verification 中，举个例子，我们可以把每条指令的执行形式化表示成 {P}C{Q}，其中 C 是这条指令，P 称为前条件 (Pre-condition) 描述了 C 执行之前机器的状态 (例如某个寄存器的值是什么，某个内存单元的值是什么，通常不需要覆盖所有的寄存器和内存单元，仅需要根据验证的 Specification 选取我们关心的部分), Q 称为后条件 (Post-condition) 描述了 C 执行后的机器状态。注意，这里 Q 同时描述 C 被中断和不被中断的执行后的机器状态。非形式化的，{P}C{Q} 表示在满足前条件 P 的机器上执行指令 C 得到的机器状态满足后条件 Q。这样，对于上述的一个代码片段  C<sub>1</sub>; C<sub>2</sub>; …; C<sub>N</sub> 我们有  {P<sub>1</sub>}C<sub>1</sub>{Q<sub>1</sub>}，{P<sub>2</sub>}C<sub>2</sub>{Q<sub>2</sub>}, …, {P<sub>N</sub>}C<sub>N</sub>{Q<sub>N</sub>}。然后，我们证明 Q<sub>1</sub> ⇒ P<sub>2</sub>, …, Q<sub>N-1</sub> ⇒ P<sub>N</sub>，\n从而可以证明\n   {P<sub>1</sub>}C<sub>1</sub>; C<sub>2</sub>; …; C<sub>N</sub>{Q<sub>N</sub>}。\n同样的，如果这个代码片段的 Specification 也可以写成，例如，\n   {P}C<sub>1</sub>; C<sub>2</sub>; …; C<sub>N</sub>{Q}，\n我们只需要再证明\n   P ⇒ P<sub>1</sub> 和 Q<sub>N</sub> ⇒ Q，\n即可以证明这个代码片段的确满足了给定的 Specification。因为这里的 P，Q，P<sub>i</sub>, Q<sub>i</sub> 等描述了所有的可能情况，并且只需描述 Specification 关心的部分，所以这里的 Formal Verification 比测试更加完备和简洁。在实际工作中，我们往往会针对验证的程序的特点，设计特定的逻辑系统，以进一步的降低证明的难度和复杂度。</p>\n</blockquote>\n\n<h2>相关链接</h2>\n\n<ul>\n<li>读者 Wang Jian 发来的 TDD 实践视频：<a href=\"https://youtu.be/HPYUi_wWsM4\">YouTube</a>、<a href=\"http://v.youku.com/v_show/id_XMTI2Njk1MzM1Ng==.html\">优酷</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Design_Patterns\"><em>Design Patterns: Elements of Reusable Object-Oriented Software</em></a></li>\n<li><a href=\"http://www.mcescher.com/gallery/wood-engraving/swans/\">艾舍尔《天鹅》</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Erich_Gamma\">Erich Gamma</a></li>\n<li><a href=\"http://www.informit.com/articles/article.aspx?p=1404056\">Design Patterns 15 Years Later: An Interview with Erich Gamma, Richard Helm, and Ralph Johnson</a></li>\n<li><a href=\"http://www.hackersdelight.org/\"><em>Hacker&rsquo;s Delight</em></a></li>\n<li><a href=\"http://book.douban.com/subject/3227098/\">《编程珠玑》</a></li>\n<li><a href=\"http://book.douban.com/subject/1177968/\">《建筑的永恒之道》</a></li>\n<li><a href=\"http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022\"><em>Cocoa Design Patterns</em></a></li>\n<li><a href=\"https://goo.gl/XVvZb9\">C# Delegate/Event</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Patrick_Naughton\">Patrick Naughton</a></li>\n<li><a href=\"https://github.com/faif/python-patterns/blob/master/borg.py\">Python Pattern: &ldquo;Borg&rdquo;</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/God_object\">God Object</a></li>\n<li><a href=\"http://c2.com/cgi/wiki?GoldenHammer\">Golden Hammer</a></li>\n<li><a href=\"http://www.imdb.com/title/tt1210819/\">The Lone Ranger</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>「串台」故障的原因终于揭晓；吴涛的莫尔斯码 app 主意看来目前不可行；三封很长的读者反馈；主题是设计模式。两位主持人不约而同地病了，所以没有讲新闻。</p>\n\n<p>节目中提及的读者 Haozhong Zhang 来信节选：</p>\n\n<blockquote>\n<p>相对的，在 Formal Verification 中，举个例子，我们可以把每条指令的执行形式化表示成 {P}C{Q}，其中 C 是这条指令，P 称为前条件 (Pre-condition) 描述了 C 执行之前机器的状态 (例如某个寄存器的值是什么，某个内存单元的值是什么，通常不需要覆盖所有的寄存器和内存单元，仅需要根据验证的 Specification 选取我们关心的部分), Q 称为后条件 (Post-condition) 描述了 C 执行后的机器状态。注意，这里 Q 同时描述 C 被中断和不被中断的执行后的机器状态。非形式化的，{P}C{Q} 表示在满足前条件 P 的机器上执行指令 C 得到的机器状态满足后条件 Q。这样，对于上述的一个代码片段  C<sub>1</sub>; C<sub>2</sub>; …; C<sub>N</sub> 我们有  {P<sub>1</sub>}C<sub>1</sub>{Q<sub>1</sub>}，{P<sub>2</sub>}C<sub>2</sub>{Q<sub>2</sub>}, …, {P<sub>N</sub>}C<sub>N</sub>{Q<sub>N</sub>}。然后，我们证明 Q<sub>1</sub> ⇒ P<sub>2</sub>, …, Q<sub>N-1</sub> ⇒ P<sub>N</sub>，\n从而可以证明\n   {P<sub>1</sub>}C<sub>1</sub>; C<sub>2</sub>; …; C<sub>N</sub>{Q<sub>N</sub>}。\n同样的，如果这个代码片段的 Specification 也可以写成，例如，\n   {P}C<sub>1</sub>; C<sub>2</sub>; …; C<sub>N</sub>{Q}，\n我们只需要再证明\n   P ⇒ P<sub>1</sub> 和 Q<sub>N</sub> ⇒ Q，\n即可以证明这个代码片段的确满足了给定的 Specification。因为这里的 P，Q，P<sub>i</sub>, Q<sub>i</sub> 等描述了所有的可能情况，并且只需描述 Specification 关心的部分，所以这里的 Formal Verification 比测试更加完备和简洁。在实际工作中，我们往往会针对验证的程序的特点，设计特定的逻辑系统，以进一步的降低证明的难度和复杂度。</p>\n</blockquote>\n\n<h2>相关链接</h2>\n\n<ul>\n<li>读者 Wang Jian 发来的 TDD 实践视频：<a href=\"https://youtu.be/HPYUi_wWsM4\">YouTube</a>、<a href=\"http://v.youku.com/v_show/id_XMTI2Njk1MzM1Ng==.html\">优酷</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Design_Patterns\"><em>Design Patterns: Elements of Reusable Object-Oriented Software</em></a></li>\n<li><a href=\"http://www.mcescher.com/gallery/wood-engraving/swans/\">艾舍尔《天鹅》</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Erich_Gamma\">Erich Gamma</a></li>\n<li><a href=\"http://www.informit.com/articles/article.aspx?p=1404056\">Design Patterns 15 Years Later: An Interview with Erich Gamma, Richard Helm, and Ralph Johnson</a></li>\n<li><a href=\"http://www.hackersdelight.org/\"><em>Hacker&rsquo;s Delight</em></a></li>\n<li><a href=\"http://book.douban.com/subject/3227098/\">《编程珠玑》</a></li>\n<li><a href=\"http://book.douban.com/subject/1177968/\">《建筑的永恒之道》</a></li>\n<li><a href=\"http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022\"><em>Cocoa Design Patterns</em></a></li>\n<li><a href=\"https://goo.gl/XVvZb9\">C# Delegate/Event</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Patrick_Naughton\">Patrick Naughton</a></li>\n<li><a href=\"https://github.com/faif/python-patterns/blob/master/borg.py\">Python Pattern: &ldquo;Borg&rdquo;</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/God_object\">God Object</a></li>\n<li><a href=\"http://c2.com/cgi/wiki?GoldenHammer\">Golden Hammer</a></li>\n<li><a href=\"http://www.imdb.com/title/tt1210819/\">The Lone Ranger</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/20"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "47718066",
+            "href": "https://pan.icu/20/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/20",
+    "id": "https://pan.icu/20",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sat, 27 Jun 2015 22:25:54 +0000",
+    "published_parsed": [
+        2015,
+        6,
+        27,
+        22,
+        25,
+        54,
+        5,
+        178,
+        0
+    ],
+    "itunes_duration": "7910"
+}

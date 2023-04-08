@@ -1,0 +1,77 @@
+{
+    "links": [
+        {
+            "length": "2129667",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo0MTQ5LCJwIjoyLCJ1IjoiMjE1MS5tcDMifQ.gEZN42WGRElsmX5N8MZOzUCt29Q/bowuzhi/z_be71ee6fd2b8108495d4af0c1fba2151.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://bowuzhi.fm/episodes/warning"
+        }
+    ],
+    "title": "来自博物志的善意提醒",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "来自博物志的善意提醒"
+    },
+    "id": "http://bowuzhi.fm/episodes/warning",
+    "guidislink": true,
+    "link": "http://bowuzhi.fm/episodes/warning",
+    "authors": [
+        {
+            "name": "bowuzhi"
+        }
+    ],
+    "author": "bowuzhi",
+    "author_detail": {
+        "name": "bowuzhi"
+    },
+    "subtitle": "虽然有些 preachy，虽然类似的话你们可能已经听烦了，还是想再多啰嗦两句。过年期间会更新正式节目的，回头见！",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "虽然有些 preachy，虽然类似的话你们可能已经听烦了，还是想再多啰嗦两句。过年期间会更新正式节目的，回头见！"
+    },
+    "itunes_duration": "03:59",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "summary": "虽然有些 preachy，虽然类似的话你们可能已经听烦了，还是想再多啰嗦两句。过年期间会更新正式节目的，回头见！Support 博物志",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "虽然有些 preachy，虽然类似的话你们可能已经听烦了，还是想再多啰嗦两句。过年期间会更新正式节目的，回头见！Support 博物志"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p>虽然有些 preachy，虽然类似的话你们可能已经听烦了，还是想再多啰嗦两句。过年期间会更新正式节目的，回头见！</p><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p>虽然有些 preachy，虽然类似的话你们可能已经听烦了，还是想再多啰嗦两句。过年期间会更新正式节目的，回头见！</p><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p><hr /><p><a href=\"https://afdian.net/@bowuzhi\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Thu, 23 Jan 2020 16:00:00 +0000",
+    "published_parsed": [
+        2020,
+        1,
+        23,
+        16,
+        0,
+        0,
+        3,
+        23,
+        0
+    ]
+}

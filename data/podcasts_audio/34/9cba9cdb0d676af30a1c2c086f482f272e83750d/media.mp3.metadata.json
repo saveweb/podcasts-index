@@ -1,0 +1,58 @@
+{
+    "http-content-length": 82561355,
+    "http-etag": "2b5d7166b09d87d8b32a0c4abb0c79a6",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "attachment; filename=\"088choicesmarriage.mp3\"",
+    "http-content-disposition-filename": "088choicesmarriage.mp3",
+    "actual-size": 82561355,
+    "actual-duration": 5160,
+    "sha1": "4f840242c2c6c064357178f6fe6902e35e933e7a",
+    "md5": "51bce62d2a0b4fea95119f26c3faa633",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/60a4911a40f677001a67007e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=p8LSignj4wGOQrQao3z4_JFbHlM3IZA_UHO-Nu1FKvE",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:18:06 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/2b5d7166b09d87d8b32a0c4abb0c79a6.mp3?aid=60a4911a40f677001a67007e&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=QAwIDXcYm4FgtW5up3qE82NysEeVUiGWgVLzyu2lDY7unuP1F82ebQ%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=841a909506cbb00e5306f813a43b9f5f&Expires=1680957186683&Key-Pair-Id=K38CTQXUSD0VVB&Signature=kFX-ixxe0Nbmm4TJnAlTnkGLczdwj5o3JFgrW3Vi32a56uE1dg~u4SoYaqjbytas8Rlje6g4bVHz6Kz9fx~MwbAS9ZKU4XpAWP~Gj1icSR1EMHSmkqQQivdysqRKmBirKxN4Lmw6hAz7v~XUwMUICvBS5lY5NLMe1smRtdDWwFB2HtjALzhIq0dO91g3c5YeL57HxBZgKVeSd1yftDJ21nH9KHhGMYci~kvh5OFrd6PNc7~8Yys8g2o~rSkyczX26A2f9T6wk1OG3x4xwP1daP24zKdPCzRS04TostEW7s7WmYPibKjc4EkPDYLi2ezG3-uHmDWvEM5nY-MboVPt3A__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "QAwIDXcYm4FgtW5up3qE82NysEeVUiGWgVLzyu2lDY7unuP1F82ebQ=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/2b5d7166b09d87d8b32a0c4abb0c79a6.mp3?aid=60a4911a40f677001a67007e&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=QAwIDXcYm4FgtW5up3qE82NysEeVUiGWgVLzyu2lDY7unuP1F82ebQ%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=841a909506cbb00e5306f813a43b9f5f&Expires=1680957186683&Key-Pair-Id=K38CTQXUSD0VVB&Signature=kFX-ixxe0Nbmm4TJnAlTnkGLczdwj5o3JFgrW3Vi32a56uE1dg~u4SoYaqjbytas8Rlje6g4bVHz6Kz9fx~MwbAS9ZKU4XpAWP~Gj1icSR1EMHSmkqQQivdysqRKmBirKxN4Lmw6hAz7v~XUwMUICvBS5lY5NLMe1smRtdDWwFB2HtjALzhIq0dO91g3c5YeL57HxBZgKVeSd1yftDJ21nH9KHhGMYci~kvh5OFrd6PNc7~8Yys8g2o~rSkyczX26A2f9T6wk1OG3x4xwP1daP24zKdPCzRS04TostEW7s7WmYPibKjc4EkPDYLi2ezG3-uHmDWvEM5nY-MboVPt3A__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "82561355",
+                "Connection": "keep-alive",
+                "Date": "Thu, 23 Feb 2023 09:41:46 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "attachment; filename=\"088choicesmarriage.mp3\"",
+                "ETag": "\"2b5d7166b09d87d8b32a0c4abb0c79a6\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "FrlxNAFAnaR5f9_KGz5UiwYkwic03A2NUEs834qPg_Hd0eUlFB6Rng==",
+                "Age": "3800180"
+            }
+        }
+    }
+}

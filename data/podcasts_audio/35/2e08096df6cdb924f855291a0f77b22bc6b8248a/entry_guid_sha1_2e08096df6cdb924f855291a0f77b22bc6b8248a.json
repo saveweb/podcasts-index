@@ -1,0 +1,77 @@
+{
+    "links": [
+        {
+            "length": "37915987",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo0MDY2LCJwIjoyLCJ1IjoiOTc1Ny5tcDMifQ.3kMFJVbhYKH-0is9qYJNIDBhUsg/bowuzhi/z_26f8ad8f782d2cdbd9f4fe92f2939757.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://bowuzhi.fm/episodes/83"
+        }
+    ],
+    "title": "#83：[番外]《不时尚》第八期：「战场成色」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "#83：[番外]《不时尚》第八期：「战场成色」"
+    },
+    "id": "http://bowuzhi.fm/episodes/83",
+    "guidislink": true,
+    "link": "http://bowuzhi.fm/episodes/83",
+    "authors": [
+        {
+            "name": "bowuzhi"
+        }
+    ],
+    "author": "bowuzhi",
+    "author_detail": {
+        "name": "bowuzhi"
+    },
+    "subtitle": "主要是关于工具的专业性的讨论。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "主要是关于工具的专业性的讨论。"
+    },
+    "itunes_duration": "52:30",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "summary": "主要是关于工具的专业性的讨论。 登场人物： 恢恢：小广告公司员工 大黄：建筑师 相关链接 恢恢也读了的《人类简史》 伊藤润二 比尔·康宁汉 Support 博物志",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://bowuzhi.fm/feed/audio.xml",
+        "value": "主要是关于工具的专业性的讨论。 登场人物： 恢恢：小广告公司员工 大黄：建筑师 相关链接 恢恢也读了的《人类简史》 伊藤润二 比尔·康宁汉 Support 博物志"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p>主要是关于工具的专业性的讨论。</p>\n\n<h2>登场人物：</h2>\n\n<p>恢恢：小广告公司员工<br />\n大黄：建筑师</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://book.douban.com/subject/25985021/\" rel=\"nofollow\">恢恢也读了的《人类简史》</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E6%B6%A6%E4%BA%8C\" rel=\"nofollow\">伊藤润二</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bill_Cunningham_(American_photographer)\" rel=\"nofollow\">比尔·康宁汉</a></li>\n</ul><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://bowuzhi.fm/feed/audio.xml",
+            "value": "<p>主要是关于工具的专业性的讨论。</p>\n\n<h2>登场人物：</h2>\n\n<p>恢恢：小广告公司员工<br />\n大黄：建筑师</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://book.douban.com/subject/25985021/\" rel=\"nofollow\">恢恢也读了的《人类简史》</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E6%B6%A6%E4%BA%8C\" rel=\"nofollow\">伊藤润二</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bill_Cunningham_(American_photographer)\" rel=\"nofollow\">比尔·康宁汉</a></li>\n</ul><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p><hr /><p><a href=\"https://afdian.net/@bowuzhi\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Sat, 08 Jul 2017 10:00:00 +0000",
+    "published_parsed": [
+        2017,
+        7,
+        8,
+        10,
+        0,
+        0,
+        5,
+        189,
+        0
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "35. 没有主题的闲聊",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "35. 没有主题的闲聊"
+    },
+    "itunes_episode": "35",
+    "itunes_title": "没有主题的闲聊",
+    "summary": "<p>逆向海淘就能获得比较好的 UI，Jeff Atwood 的 scooter computer 概念，Rio 在用 Go 写 VPN，Swift 库的新面貌，Parse 要关了，GitHub 可别。</p>\n\n<p>本期的口号是：<em>That&rsquo;s the thing about people who think they hate computers. What they really hate is lousy programmers</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.aliexpress.com/\">AliExpress</a></li>\n<li><a href=\"http://global.rakuten.com/zh-cn/\">乐天海外销售</a></li>\n<li><a href=\"http://blog.codinghorror.com/the-scooter-computer/\">The Scooter Computer</a></li>\n<li><a href=\"https://blog.golang.org/go1.6\">Go 1.6</a></li>\n<li><a href=\"https://swift.org/documentation/api-design-guidelines/\">Swift API Design Guidelines</a></li>\n<li><a href=\"http://blog.parse.com/announcements/parse-server-push-notifications/\">Parse Server Push Notifications</a></li>\n<li><a href=\"http://www.businessinsider.com/github-the-full-inside-story-2016-2\">GitHub 公司结构调整</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。\n吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>逆向海淘就能获得比较好的 UI，Jeff Atwood 的 scooter computer 概念，Rio 在用 Go 写 VPN，Swift 库的新面貌，Parse 要关了，GitHub 可别。</p>\n\n<p>本期的口号是：<em>That&rsquo;s the thing about people who think they hate computers. What they really hate is lousy programmers</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.aliexpress.com/\">AliExpress</a></li>\n<li><a href=\"http://global.rakuten.com/zh-cn/\">乐天海外销售</a></li>\n<li><a href=\"http://blog.codinghorror.com/the-scooter-computer/\">The Scooter Computer</a></li>\n<li><a href=\"https://blog.golang.org/go1.6\">Go 1.6</a></li>\n<li><a href=\"https://swift.org/documentation/api-design-guidelines/\">Swift API Design Guidelines</a></li>\n<li><a href=\"http://blog.parse.com/announcements/parse-server-push-notifications/\">Parse Server Push Notifications</a></li>\n<li><a href=\"http://www.businessinsider.com/github-the-full-inside-story-2016-2\">GitHub 公司结构调整</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。\n吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/35"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "68949163",
+            "href": "https://pan.icu/35/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/35",
+    "id": "https://pan.icu/35",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Mon, 22 Feb 2016 11:18:17 +0000",
+    "published_parsed": [
+        2016,
+        2,
+        22,
+        11,
+        18,
+        17,
+        0,
+        53,
+        0
+    ],
+    "itunes_duration": "5734"
+}

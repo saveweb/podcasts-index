@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "71244271",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo1ODU1NywicCI6MiwidSI6IjgxNTgubXAzIn0.mjhSR2zI65cjpSOuQcFJPD84XJM/zaizuozuoma/8345487374_788158.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/013"
+        }
+    ],
+    "title": "「回忆高考」你紧张吗？｜再坐坐嘛 Vol. 013",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "「回忆高考」你紧张吗？｜再坐坐嘛 Vol. 013"
+    },
+    "id": "https://zaizuozuoma.com/episodes/013",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/013",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "36:24",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "13",
+    "podcast_episode": "13",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8357866382_1161995.jpg?x-oss-process=style/sl"
+    },
+    "summary": "高考来了！ 主播也开始积极地回顾自己的高考经历，两位新中年人和一位年轻人，所处的时代不同，所以高考经历也完全不一样。 听众朋友们，你当年……紧张吗？",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "高考来了！ 主播也开始积极地回顾自己的高考经历，两位新中年人和一位年轻人，所处的时代不同，所以高考经历也完全不一样。 听众朋友们，你当年……紧张吗？"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>高考来了！</p>\n<p>主播也开始积极地回顾自己的高考经历，两位新中年人和一位年轻人，所处的时代不同，所以高考经历也完全不一样。</p>\n<p>听众朋友们，你当年……紧张吗？</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>高考来了！</p>\n<p>主播也开始积极地回顾自己的高考经历，两位新中年人和一位年轻人，所处的时代不同，所以高考经历也完全不一样。</p>\n<p>听众朋友们，你当年……紧张吗？</p>"
+        }
+    ],
+    "published": "Mon, 06 Jun 2022 10:58:16 +0000",
+    "published_parsed": [
+        2022,
+        6,
+        6,
+        10,
+        58,
+        16,
+        0,
+        157,
+        0
+    ]
+}

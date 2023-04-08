@@ -1,0 +1,53 @@
+{
+    "title": "第零期：如何正确地收听人间指南",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "第零期：如何正确地收听人间指南"
+    },
+    "summary": "<p>人间指南是一档全方位、深层次、彻底指导你的人生的播客节目。本节目内容包括但不限于一个现代人在现代社会生存的一切话题，所以作为现代人的你要来听。</p>\n\n                <p>登场人物：hb</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "<p>人间指南是一档全方位、深层次、彻底指导你的人生的播客节目。本节目内容包括但不限于一个现代人在现代社会生存的一切话题，所以作为现代人的你要来听。</p>\n\n                <p>登场人物：hb</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://renjianzhinan.xyz/#ep000"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "http://renjianzhinan.xyz/ep/rjzn_ep000.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://renjianzhinan.xyz/#ep000",
+    "id": "http://renjianzhinan.xyz/#ep000",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "hb"
+        }
+    ],
+    "author": "hb",
+    "author_detail": {
+        "name": "hb"
+    },
+    "published": "Sun, 29 Jan 2017 15:00:00 GMT",
+    "published_parsed": [
+        2017,
+        1,
+        29,
+        15,
+        0,
+        0,
+        6,
+        29,
+        0
+    ],
+    "itunes_duration": "0314"
+}

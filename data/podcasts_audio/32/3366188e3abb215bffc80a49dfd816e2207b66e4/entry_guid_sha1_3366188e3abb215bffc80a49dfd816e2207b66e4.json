@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "19395600",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo1NDA3NiwicCI6MiwidSI6IjYxMTIubXAzIn0.f8Nhun5H7acvEa-ucdoUe9cGHEs/zaizuozuoma/8353095576_186112.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/009"
+        }
+    ],
+    "title": "养孩子费钱吗？｜再坐坐嘛 Vol. 009",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "养孩子费钱吗？｜再坐坐嘛 Vol. 009"
+    },
+    "id": "https://zaizuozuoma.com/episodes/009",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/009",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "53:49",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "9",
+    "podcast_episode": "9",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "两位有孩子的主播先以自身经历，讲述在北京、合肥的养娃开销，然后三位主播详细分析了花费的构成，进而发现教育花费其实跟家长的期望有关。期望高，花得就多。 有趣的是，没有坐下来聊这个话题，其中一位娃爸没意识到教育开销占比最大。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "两位有孩子的主播先以自身经历，讲述在北京、合肥的养娃开销，然后三位主播详细分析了花费的构成，进而发现教育花费其实跟家长的期望有关。期望高，花得就多。 有趣的是，没有坐下来聊这个话题，其中一位娃爸没意识到教育开销占比最大。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>两位有孩子的主播先以自身经历，讲述在北京、合肥的养娃开销，然后三位主播详细分析了花费的构成，进而发现教育花费其实跟家长的期望有关。期望高，花得就多。</p>\n<p>有趣的是，没有坐下来聊这个话题，其中一位娃爸没意识到教育开销占比最大。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>两位有孩子的主播先以自身经历，讲述在北京、合肥的养娃开销，然后三位主播详细分析了花费的构成，进而发现教育花费其实跟家长的期望有关。期望高，花得就多。</p>\n<p>有趣的是，没有坐下来聊这个话题，其中一位娃爸没意识到教育开销占比最大。</p>"
+        }
+    ],
+    "published": "Thu, 10 Mar 2022 09:31:58 +0000",
+    "published_parsed": [
+        2022,
+        3,
+        10,
+        9,
+        31,
+        58,
+        3,
+        69,
+        0
+    ]
+}

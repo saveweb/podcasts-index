@@ -1,0 +1,57 @@
+{
+    "http-content-length": 24971805,
+    "http-etag": "022f597063a84122068a4b5d220ef7b8",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline",
+    "http-content-disposition-filename": null,
+    "actual-size": 24971805,
+    "actual-duration": 3121,
+    "sha1": "8f8795835ae9a351e4816e39ea81702648ec8d04",
+    "md5": "c38b39164218a3c3c14e58e997767ed2",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/http%3A%2F%2Fcdn.lizhi.fm%2Faudio%2F2019%2F12%2F19%2F5083702259043730950_ud.mp3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=Jcdp6Ys5stXfUDxVR1haGcLzipIJlqOYJTbk14ykjUI",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1297",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:26:18 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/022f597063a84122068a4b5d220ef7b8.mp3?ci=r2PTC-uR2K7642OFQpAptZbU-UCYrS5Sjj8cbxMWIJ06DUrzKih03g%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=937a33ebe6d74957fe0962cad537dec6&Expires=1680957678602&Key-Pair-Id=K38CTQXUSD0VVB&Signature=ZGKy1TDfO41GJ0cz~SM3venbaJ1IZK~L471wOnEkHyGc6xJO1jm0FTuMcRPbvaH5OdttK7IcgxmOVZUCJMFZpg6rXT~om93UqNYJj1Ktx-yb3l5ERcAqAttzJGi0CtgrYkSlE2bMMmZXAXyt36BsIUq5~Y9AYL0lS3unPNk7ltACf090q9Bx4Vz0jlfoVCHXcnnQOxRGvpFjyAfpxQ-5OwnBQjNkypp52MAwvgk4Rb3o3DwnBKSrmFqpSbJOvCYdqEKhUOD~IW7e7lzTP06NYwNgJWizhBtxa4y7joYpw8Ut8R1okOJkRjcEeBJRGL2JN8zR0H7ZUEaqb40hcJ3lwg__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "r2PTC-uR2K7642OFQpAptZbU-UCYrS5Sjj8cbxMWIJ06DUrzKih03g=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/022f597063a84122068a4b5d220ef7b8.mp3?ci=r2PTC-uR2K7642OFQpAptZbU-UCYrS5Sjj8cbxMWIJ06DUrzKih03g%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=937a33ebe6d74957fe0962cad537dec6&Expires=1680957678602&Key-Pair-Id=K38CTQXUSD0VVB&Signature=ZGKy1TDfO41GJ0cz~SM3venbaJ1IZK~L471wOnEkHyGc6xJO1jm0FTuMcRPbvaH5OdttK7IcgxmOVZUCJMFZpg6rXT~om93UqNYJj1Ktx-yb3l5ERcAqAttzJGi0CtgrYkSlE2bMMmZXAXyt36BsIUq5~Y9AYL0lS3unPNk7ltACf090q9Bx4Vz0jlfoVCHXcnnQOxRGvpFjyAfpxQ-5OwnBQjNkypp52MAwvgk4Rb3o3DwnBKSrmFqpSbJOvCYdqEKhUOD~IW7e7lzTP06NYwNgJWizhBtxa4y7joYpw8Ut8R1okOJkRjcEeBJRGL2JN8zR0H7ZUEaqb40hcJ3lwg__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "24971805",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:26:18 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "inline",
+                "ETag": "\"022f597063a84122068a4b5d220ef7b8\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "OXy1rp4pb_Egz57OSVwgeEoV9TqcJ564by3J_M8v-eZ6b24S3CKoMA=="
+            }
+        }
+    }
+}

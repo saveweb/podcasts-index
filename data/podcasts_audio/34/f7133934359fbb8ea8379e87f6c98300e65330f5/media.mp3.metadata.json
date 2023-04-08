@@ -1,0 +1,57 @@
+{
+    "http-content-length": 96591043,
+    "http-etag": "5a1fa52424ce47cf5abe3af79b7b8c31",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline",
+    "http-content-disposition-filename": null,
+    "actual-size": 96591043,
+    "actual-duration": 6036,
+    "sha1": "23a0f9f46e6a17c1993f7a341be00220c742db1b",
+    "md5": "80b0eef0265248c6f3335a6e7e3e7f88",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/63805cb9209f38001194c4b9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=m17id8EegxgLuoWgrIvoh0FkveLMOSaZih4on_u2vr8",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:09:47 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/5a1fa52424ce47cf5abe3af79b7b8c31.mp3?aid=63805cb9209f38001194c4b9&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=kWSO0__vWi75V9mPGf5leE8VMGCWDEoabFJmVLINOS6SwCWXYTwZAQ%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=ef8e5c8b9af27def9c6a99cf0f3a2aba&Expires=1680956686968&Key-Pair-Id=K38CTQXUSD0VVB&Signature=mmE8IUo4tzd8i8D968BeMCWz-mYbZiS4rg81Pc077nWQFazhhIxauvHpzCk~Bw9-ZO~rpkp5rG2kO4fR1uLA22b1EB3nyy5ScZYTkfR5BQtzQdDzGGUS~k~rS4aDccLMs0zSMDI2aNVwqALsZU8WgOi~8JOJOe377nwlM1oYerDIc0FI3smj18BYsYk-0OCByUd9i7Dg3kj69vXIoRem3EFowz5zEHTeyVY0q2H7Qaui3fsNo6m3XWgdoXGzAOxNRZ3aI-91YtB~uOart~z6HMGBPf7i0Y2p-J2wyLFDftQmSIfahYtGfUudSPOT~CLnw3DOLjdLpecN9pOHsunuyQ__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "kWSO0__vWi75V9mPGf5leE8VMGCWDEoabFJmVLINOS6SwCWXYTwZAQ=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/5a1fa52424ce47cf5abe3af79b7b8c31.mp3?aid=63805cb9209f38001194c4b9&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=kWSO0__vWi75V9mPGf5leE8VMGCWDEoabFJmVLINOS6SwCWXYTwZAQ%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=ef8e5c8b9af27def9c6a99cf0f3a2aba&Expires=1680956686968&Key-Pair-Id=K38CTQXUSD0VVB&Signature=mmE8IUo4tzd8i8D968BeMCWz-mYbZiS4rg81Pc077nWQFazhhIxauvHpzCk~Bw9-ZO~rpkp5rG2kO4fR1uLA22b1EB3nyy5ScZYTkfR5BQtzQdDzGGUS~k~rS4aDccLMs0zSMDI2aNVwqALsZU8WgOi~8JOJOe377nwlM1oYerDIc0FI3smj18BYsYk-0OCByUd9i7Dg3kj69vXIoRem3EFowz5zEHTeyVY0q2H7Qaui3fsNo6m3XWgdoXGzAOxNRZ3aI-91YtB~uOart~z6HMGBPf7i0Y2p-J2wyLFDftQmSIfahYtGfUudSPOT~CLnw3DOLjdLpecN9pOHsunuyQ__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "96591043",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:09:47 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "inline",
+                "ETag": "\"5a1fa52424ce47cf5abe3af79b7b8c31\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "-1mZp1XCs-7td3mFBsHFbH_Ifrtq8cINRExdiqUVL4G08VjdXeAZ4A=="
+            }
+        }
+    }
+}

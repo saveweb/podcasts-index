@@ -1,0 +1,56 @@
+{
+    "title": "51. 挖坑 DNS",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "51. 挖坑 DNS"
+    },
+    "itunes_episode": "51",
+    "itunes_title": "挖坑 DNS",
+    "summary": "<p>本期开场聊了中兴通讯被美国制裁的事情，然后切入正题聊 DNS 的各种坑。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Wassenaar_Arrangement\">Wassenaar Arrangment</a></li>\n<li><a href=\"https://www.tomshardware.com/news/via-chinese-x86-soc-2019,36209.html\">Via’s Chinese Joint Venture Aims For Competitive Home-Grown X86 SOCs By 2019</a></li>\n<li><a href=\"https://www.zhihu.com/question/35661142/answer/371375399\">如何看待兆芯?</a></li>\n<li><a href=\"https://labs.apnic.net/?p=1127\">APNIC Labs enters into a Research Agreement with Cloudflare</a></li>\n<li><a href=\"https://people.eecs.berkeley.edu/~daw/teaching/cs261-f09/reading/matasano-kaminsky-dns-forgery.html\">Reliable DNS Forgery in 2008: Kaminsky’s Discovery</a></li>\n<li><a href=\"https://www.linuxjournal.com/content/understanding-kaminskys-dns-bug\">Understanding Kaminsky&rsquo;s DNS Bug</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc7871\">RFC7871: Client Subnet in DNS Queries</a></li>\n<li><a href=\"https://www.cloudflare.com/dns/dnssec/how-dnssec-works/\">Cloudflare: How DNSSEC Works</a></li>\n<li><a href=\"https://dnscrypt.info\">DNSCrypt</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc7858\">RFC7858: DNS over TLS</a></li>\n<li><a href=\"https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-05\">IETF draft DNS over HTTPS</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc7413\">RFC7413: TCP Fast Open</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc7918\">RFC7918: TLS False Start</a></li>\n<li><a href=\"https://labs.apnic.net/?p=382\">A Question of DNS Protocols</a></li>\n<li><a href=\"https://1.1.1.1\">1.1.1.1</a></li>\n<li><a href=\"https://developers.google.com/speed/public-dns/\">8.8.8.8</a></li>\n<li><a href=\"https://www.114dns.com\">114DNS (114.114.114.114, 114.114.115.115)</a></li>\n<li><a href=\"https://www.dnspod.cn/products/public.dns\">DNSPod (119.29.29.29)</a></li>\n<li><a href=\"http://alidns.com\">Alidns (223.5.5.5, 223.6.6.6)</a></li>\n<li><a href=\"https://dudns.baidu.com/intro/publicdns/\">BaiduDNS (180.76.76.76)</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>本期开场聊了中兴通讯被美国制裁的事情，然后切入正题聊 DNS 的各种坑。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Wassenaar_Arrangement\">Wassenaar Arrangment</a></li>\n<li><a href=\"https://www.tomshardware.com/news/via-chinese-x86-soc-2019,36209.html\">Via’s Chinese Joint Venture Aims For Competitive Home-Grown X86 SOCs By 2019</a></li>\n<li><a href=\"https://www.zhihu.com/question/35661142/answer/371375399\">如何看待兆芯?</a></li>\n<li><a href=\"https://labs.apnic.net/?p=1127\">APNIC Labs enters into a Research Agreement with Cloudflare</a></li>\n<li><a href=\"https://people.eecs.berkeley.edu/~daw/teaching/cs261-f09/reading/matasano-kaminsky-dns-forgery.html\">Reliable DNS Forgery in 2008: Kaminsky’s Discovery</a></li>\n<li><a href=\"https://www.linuxjournal.com/content/understanding-kaminskys-dns-bug\">Understanding Kaminsky&rsquo;s DNS Bug</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc7871\">RFC7871: Client Subnet in DNS Queries</a></li>\n<li><a href=\"https://www.cloudflare.com/dns/dnssec/how-dnssec-works/\">Cloudflare: How DNSSEC Works</a></li>\n<li><a href=\"https://dnscrypt.info\">DNSCrypt</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc7858\">RFC7858: DNS over TLS</a></li>\n<li><a href=\"https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-05\">IETF draft DNS over HTTPS</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc7413\">RFC7413: TCP Fast Open</a></li>\n<li><a href=\"https://tools.ietf.org/html/rfc7918\">RFC7918: TLS False Start</a></li>\n<li><a href=\"https://labs.apnic.net/?p=382\">A Question of DNS Protocols</a></li>\n<li><a href=\"https://1.1.1.1\">1.1.1.1</a></li>\n<li><a href=\"https://developers.google.com/speed/public-dns/\">8.8.8.8</a></li>\n<li><a href=\"https://www.114dns.com\">114DNS (114.114.114.114, 114.114.115.115)</a></li>\n<li><a href=\"https://www.dnspod.cn/products/public.dns\">DNSPod (119.29.29.29)</a></li>\n<li><a href=\"http://alidns.com\">Alidns (223.5.5.5, 223.6.6.6)</a></li>\n<li><a href=\"https://dudns.baidu.com/intro/publicdns/\">BaiduDNS (180.76.76.76)</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/51"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "53856638",
+            "href": "https://pan.icu/51/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/51",
+    "id": "https://pan.icu/51",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Wed, 25 Apr 2018 12:00:00 +0000",
+    "published_parsed": [
+        2018,
+        4,
+        25,
+        12,
+        0,
+        0,
+        2,
+        115,
+        0
+    ],
+    "itunes_duration": "6732"
+}

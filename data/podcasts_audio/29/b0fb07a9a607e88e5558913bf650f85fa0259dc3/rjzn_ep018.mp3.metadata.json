@@ -1,0 +1,36 @@
+{
+    "http-content-length": 25349142,
+    "http-etag": "5cd05377-182cc16",
+    "http-last-modified": "Mon, 06 May 2019 15:32:07 GMT",
+    "http-last-modified-float": 1557127927.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 25349142,
+    "actual-duration": 1584,
+    "sha1": "1a03168684dd6412ebc463168033ea81993a6d0c",
+    "md5": "6270aed3ad81de49d05487c21e7e0c24",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://renjianzhinan.xyz/ep/rjzn_ep018.mp3",
+            "headers": {
+                "Server": "nginx",
+                "Date": "Sat, 08 Apr 2023 07:33:02 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "25349142",
+                "Connection": "keep-alive",
+                "Last-Modified": "Mon, 06 May 2019 15:32:07 GMT",
+                "ETag": "\"5cd05377-182cc16\"",
+                "Expires": "Sun, 07 Apr 2024 07:33:02 GMT",
+                "Cache-Control": "max-age=31536000",
+                "X-CDN-C": "static",
+                "X-SG-CDN": "1",
+                "X-Proxy-Cache": "MISS",
+                "X-Proxy-Cache-Info": "0 NC:000000 UP:",
+                "Host-Header": "8441280b0c35cbc1147f8ba998a563a7",
+                "Accept-Ranges": "bytes"
+            }
+        }
+    }
+}

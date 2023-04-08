@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "10767015",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo1OTYyNCwicCI6MiwidSI6IjQ0MzEubXAzIn0.DH4-89MYZvmAhfVFtGl5yXhFqSw/zaizuozuoma/8342998840_034431.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/017"
+        }
+    ],
+    "title": "「回忆高考」暑假怎么玩？｜再坐坐嘛 Vol. 017",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "「回忆高考」暑假怎么玩？｜再坐坐嘛 Vol. 017"
+    },
+    "id": "https://zaizuozuoma.com/episodes/017",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/017",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "29:52",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "17",
+    "podcast_episode": "17",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8357866382_1161995.jpg?x-oss-process=style/sl"
+    },
+    "summary": "开始，主播们尝试着探讨出一套有意义的暑假玩法。但是聊到最后，还是回到了最质朴的结论：疯狂玩就对了。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "开始，主播们尝试着探讨出一套有意义的暑假玩法。但是聊到最后，还是回到了最质朴的结论：疯狂玩就对了。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>开始，主播们尝试着探讨出一套有意义的暑假玩法。但是聊到最后，还是回到了最质朴的结论：<strong>疯狂玩就对了。</strong></p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>开始，主播们尝试着探讨出一套有意义的暑假玩法。但是聊到最后，还是回到了最质朴的结论：<strong>疯狂玩就对了。</strong></p>"
+        }
+    ],
+    "published": "Tue, 05 Jul 2022 10:00:00 +0000",
+    "published_parsed": [
+        2022,
+        7,
+        5,
+        10,
+        0,
+        0,
+        1,
+        186,
+        0
+    ]
+}

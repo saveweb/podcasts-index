@@ -1,0 +1,56 @@
+{
+    "title": "14. 类型系统",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "14. 类型系统"
+    },
+    "itunes_episode": "14",
+    "itunes_title": "类型系统",
+    "summary": "<p>正音班的废除；关于捐款的一些评论；Ducati Scrambler；听众来信选读；<a href=\"https://ilikerabbits.com/\">I Like Rabbits 网站</a> 的意义；苹果为什么要收购 Foundation DB。</p>\n\n<p>主题是「编程语言中类型系统的概念及作用」。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://book.douban.com/subject/1028270/\">舒克和贝塔历险记</a></li>\n<li><a href=\"http://www.ducati.com/bikes/diavel/index.do\">Ducati Diavel</a><br />\n</li>\n<li><a href=\"http://en.wikipedia.org/wiki/On_the_Waterfront\">《码头风云》（<i>On the Waterfront</i>）</a></li>\n<li><a href=\"http://www.sas.com/\">SAS</a><br />\n</li>\n<li><a href=\"http://en.wikipedia.org/wiki/Contract_research_organization\">Contract research organization</a><br />\n</li>\n<li><a href=\"http://en.wikipedia.org/wiki/The_Incredible_Machine_%28series%29\">The Incredible Machine</a></li>\n<li><a href=\"http://spark.incubator.apache.org/\">Apache Spark</a><br />\n</li>\n<li><a href=\"https://foundationdb.com\">FoundationDB</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Type_system\">Type System</a><br />\n</li>\n<li><a href=\"http://en.wikipedia.org/wiki/Year_2000_problem\">千年虫</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Year_2038_problem\">2038 问题</a></li>\n<li><a href=\"http://www.madore.org/~david/computers/unix-leap-seconds.html\">闰秒</a></li>\n<li><a href=\"http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html\">What Every Computer Scientist Should Know About Floating-Point Arithmetic</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Operator_overloading\">Operator overloading</a></li>\n<li><a href=\"http://stackoverflow.com/questions/9032856/what-is-the-explanation-for-these-bizarre-javascript-behaviours-mentioned-in-the\">诡异的 JavaScript 运算符重载</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Strong_and_weak_typing\">Strong and weak typing</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Dynamic_programming_language\">Dynamic programming language</a></li>\n<li><a href=\"https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/\">10 Myths of Enterprise Python</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Object_type_%28object-oriented_programming%29#Boxing\">Boxing</a></li>\n<li><a href=\"http://rubylearning.com/satishtalim/ruby_open_classes.html\">Ruby Open Classes</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>正音班的废除；关于捐款的一些评论；Ducati Scrambler；听众来信选读；<a href=\"https://ilikerabbits.com/\">I Like Rabbits 网站</a> 的意义；苹果为什么要收购 Foundation DB。</p>\n\n<p>主题是「编程语言中类型系统的概念及作用」。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://book.douban.com/subject/1028270/\">舒克和贝塔历险记</a></li>\n<li><a href=\"http://www.ducati.com/bikes/diavel/index.do\">Ducati Diavel</a><br />\n</li>\n<li><a href=\"http://en.wikipedia.org/wiki/On_the_Waterfront\">《码头风云》（<i>On the Waterfront</i>）</a></li>\n<li><a href=\"http://www.sas.com/\">SAS</a><br />\n</li>\n<li><a href=\"http://en.wikipedia.org/wiki/Contract_research_organization\">Contract research organization</a><br />\n</li>\n<li><a href=\"http://en.wikipedia.org/wiki/The_Incredible_Machine_%28series%29\">The Incredible Machine</a></li>\n<li><a href=\"http://spark.incubator.apache.org/\">Apache Spark</a><br />\n</li>\n<li><a href=\"https://foundationdb.com\">FoundationDB</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Type_system\">Type System</a><br />\n</li>\n<li><a href=\"http://en.wikipedia.org/wiki/Year_2000_problem\">千年虫</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Year_2038_problem\">2038 问题</a></li>\n<li><a href=\"http://www.madore.org/~david/computers/unix-leap-seconds.html\">闰秒</a></li>\n<li><a href=\"http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html\">What Every Computer Scientist Should Know About Floating-Point Arithmetic</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Operator_overloading\">Operator overloading</a></li>\n<li><a href=\"http://stackoverflow.com/questions/9032856/what-is-the-explanation-for-these-bizarre-javascript-behaviours-mentioned-in-the\">诡异的 JavaScript 运算符重载</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Strong_and_weak_typing\">Strong and weak typing</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Dynamic_programming_language\">Dynamic programming language</a></li>\n<li><a href=\"https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/\">10 Myths of Enterprise Python</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Object_type_%28object-oriented_programming%29#Boxing\">Boxing</a></li>\n<li><a href=\"http://rubylearning.com/satishtalim/ruby_open_classes.html\">Ruby Open Classes</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/14"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "55174050",
+            "href": "https://pan.icu/14/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/14",
+    "id": "https://pan.icu/14",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sat, 04 Apr 2015 18:10:17 +0000",
+    "published_parsed": [
+        2015,
+        4,
+        4,
+        18,
+        10,
+        17,
+        5,
+        94,
+        0
+    ],
+    "itunes_duration": "8857"
+}

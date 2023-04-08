@@ -1,0 +1,58 @@
+{
+    "http-content-length": 82272547,
+    "http-etag": "f45ac48023a37a70f2a37b3f6d7c5e83",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "attachment; filename=\"082ny.mp3\"",
+    "http-content-disposition-filename": "082ny.mp3",
+    "actual-size": 82272547,
+    "actual-duration": 5142,
+    "sha1": "c0de04e59bce9d87b40d6632335eea5f5f76c803",
+    "md5": "e50426f5188670300469cd1b712812a4",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/5fec60811e8f556119600a4c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=8dPJfA81ax7fPxOuPf67Ur_8y_eRrUyndn9AH90Xx-g",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:19:24 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/f45ac48023a37a70f2a37b3f6d7c5e83.mp3?aid=5fec60811e8f556119600a4c&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=KoTzlMem9b_4TR6qHmxk8nnP6ETf6pZuEJtUyvJHMKmUdV-9YaJAZA%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=5d2e402ab55b793db96b00c6e1f4fbd2&Expires=1680957264079&Key-Pair-Id=K38CTQXUSD0VVB&Signature=CKIjQMYm3FOZj9jejfCIW9Vj-oNr2eCbuSGPABdEZNLFE7iUH1p2JxAJqadwb2xHGZSS4EQV8g0N-dZpEzQpp2D49-yZPD4ZtGkKR-DwpngBILM0Mg3Xe3KBA23DudvjxqgBVx8exNXUEjxswNdFFm6MQPXO32L8CHSwSvTY7EuyVH29qhmk5142yc6Pcxscraq6pH5xcmW37F7tsPHtJZ2RDTgSXRfMwzCNdnYgXVjj1ynsqZLfwn6A~Neq9j~6gULgeOfBex7Rh2OQxR2llTMyJiEERwwZE3KQsTroER8xrBEqsrYHrVUwX1J2Ra3-2RHDPUB9xQ3CBAdhkc7J8A__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "KoTzlMem9b_4TR6qHmxk8nnP6ETf6pZuEJtUyvJHMKmUdV-9YaJAZA=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/f45ac48023a37a70f2a37b3f6d7c5e83.mp3?aid=5fec60811e8f556119600a4c&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=KoTzlMem9b_4TR6qHmxk8nnP6ETf6pZuEJtUyvJHMKmUdV-9YaJAZA%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=5d2e402ab55b793db96b00c6e1f4fbd2&Expires=1680957264079&Key-Pair-Id=K38CTQXUSD0VVB&Signature=CKIjQMYm3FOZj9jejfCIW9Vj-oNr2eCbuSGPABdEZNLFE7iUH1p2JxAJqadwb2xHGZSS4EQV8g0N-dZpEzQpp2D49-yZPD4ZtGkKR-DwpngBILM0Mg3Xe3KBA23DudvjxqgBVx8exNXUEjxswNdFFm6MQPXO32L8CHSwSvTY7EuyVH29qhmk5142yc6Pcxscraq6pH5xcmW37F7tsPHtJZ2RDTgSXRfMwzCNdnYgXVjj1ynsqZLfwn6A~Neq9j~6gULgeOfBex7Rh2OQxR2llTMyJiEERwwZE3KQsTroER8xrBEqsrYHrVUwX1J2Ra3-2RHDPUB9xQ3CBAdhkc7J8A__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "82272547",
+                "Connection": "keep-alive",
+                "Date": "Tue, 14 Mar 2023 11:13:39 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "attachment; filename=\"082ny.mp3\"",
+                "ETag": "\"f45ac48023a37a70f2a37b3f6d7c5e83\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "TczBLy3ibfRUYzg9g-_M6I4Y0qoU_wXpQd3E2P7tpz6RwFY2NgneJg==",
+                "Age": "2153145"
+            }
+        }
+    }
+}

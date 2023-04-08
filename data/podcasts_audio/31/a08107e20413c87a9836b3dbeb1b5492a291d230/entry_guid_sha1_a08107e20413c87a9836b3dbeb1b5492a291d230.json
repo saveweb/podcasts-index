@@ -1,0 +1,56 @@
+{
+    "title": "36. 没有主题的闲聊",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "36. 没有主题的闲聊"
+    },
+    "itunes_episode": "36",
+    "itunes_title": "没有主题的闲聊",
+    "summary": "<p>Rio 的新节目，听众反馈，几条新闻。</p>\n\n<p>本期的口号是：<em>Nine people can&rsquo;t make a baby in a month</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://theconversation.com/raspberry-pi-3-shows-its-possible-to-pack-even-more-punch-into-a-tiny-package-51524\">Raspberry Pi 3</a></li>\n<li><a href=\"http://www.anandtech.com/show/10096/microsoft-ends-effort-to-bring-android-apps-to-windows-10-mobile\">Microsoft Ends Effort to Bring Android Apps to Windows 10 Mobile</a></li>\n<li><a href=\"http://www.wired.com/2016/02/microsoft-expands-empire-beyond-windows-xamarin-buy/\">Microsoft bought Xamarin to Bring C# to iOS and Android</a></li>\n<li><a href=\"https://github.com/apple/swift/pull/1442\">Swift: Port to Android #1442</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>Rio 的新节目，听众反馈，几条新闻。</p>\n\n<p>本期的口号是：<em>Nine people can&rsquo;t make a baby in a month</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://theconversation.com/raspberry-pi-3-shows-its-possible-to-pack-even-more-punch-into-a-tiny-package-51524\">Raspberry Pi 3</a></li>\n<li><a href=\"http://www.anandtech.com/show/10096/microsoft-ends-effort-to-bring-android-apps-to-windows-10-mobile\">Microsoft Ends Effort to Bring Android Apps to Windows 10 Mobile</a></li>\n<li><a href=\"http://www.wired.com/2016/02/microsoft-expands-empire-beyond-windows-xamarin-buy/\">Microsoft bought Xamarin to Bring C# to iOS and Android</a></li>\n<li><a href=\"https://github.com/apple/swift/pull/1442\">Swift: Port to Android #1442</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/36"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "49083040",
+            "href": "https://pan.icu/36/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/36",
+    "id": "https://pan.icu/36",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Sun, 06 Mar 2016 01:23:28 +0000",
+    "published_parsed": [
+        2016,
+        3,
+        6,
+        1,
+        23,
+        28,
+        6,
+        66,
+        0
+    ],
+    "itunes_duration": "4079"
+}

@@ -1,0 +1,50 @@
+{
+    "http-content-length": 71631233,
+    "http-etag": "5ba8ec15-4450181",
+    "http-last-modified": "Mon, 24 Sep 2018 13:52:21 GMT",
+    "http-last-modified-float": 1537768341.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 71631233,
+    "actual-duration": 4464,
+    "sha1": "9b12bb958f4182ff7c472d0e88d6f7a251d1738b",
+    "md5": "d461b660f2206508aa39c12aa418f181",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://dts.podtrac.com/redirect.mp3/jiaocha.io/assets/podcasts/9.mp3",
+            "headers": {
+                "Date": "Sat, 08 Apr 2023 07:27:03 GMT",
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "184",
+                "Connection": "keep-alive",
+                "Cache-Control": "no-cache, no-store, must-revalidate",
+                "Pragma": "no-cache",
+                "Expires": "-1",
+                "Location": "https://jiaocha.io/assets/podcasts/9.mp3",
+                "Server": "Microsoft-IIS/10.0",
+                "X-AspNetMvc-Version": "4.0",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Headers": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "X-AspNet-Version": "4.0.30319",
+                "X-Machine": "WEST3",
+                "X-Powered-By": "ASP.NET"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://jiaocha.io/assets/podcasts/9.mp3",
+            "headers": {
+                "Content-Length": "71631233",
+                "Content-Type": "audio/mpeg",
+                "Date": "Sat, 08 Apr 2023 07:27:04 GMT",
+                "Etag": "\"5ba8ec15-4450181\"",
+                "Last-Modified": "Mon, 24 Sep 2018 13:52:21 GMT",
+                "Server": "Caddy, nginx",
+                "X-Ua-Compatible": "IE=Edge"
+            }
+        }
+    }
+}

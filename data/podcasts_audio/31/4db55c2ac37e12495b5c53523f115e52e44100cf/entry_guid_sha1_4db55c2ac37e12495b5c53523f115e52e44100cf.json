@@ -1,0 +1,56 @@
+{
+    "title": "54. Get a Mac",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "54. Get a Mac"
+    },
+    "itunes_episode": "54",
+    "itunes_title": "Get a Mac",
+    "summary": "<p>两期节目间隔期，吴涛已经学会了双拼，以及关于折叠手机、折叠键盘、Nintendo Switch、USB 3 的三种写法、Mac mini 2018、SSD、磁盘加密的讨论。</p>\n\n<hr />\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/IBM_ThinkPad_Butterfly_keyboard\">Thinkpad 701 蝴蝶机</a></li>\n<li>Rio 在淘宝买的<a href=\"https://item.taobao.com/item.htm?spm=a1z09.2.0.0.42582e8dwgnGEn&amp;id=572341705093&amp;_u=215ms96de73\">便携式蓝牙折叠键盘</a> （人体工学那款）</li>\n<li>The Verge 关于 <a href=\"https://www.theverge.com/circuitbreaker/2019/2/27/18243425/usb-3-2-standard-names-connectivity-cables-innovators-forum\">USB 3 命名</a>的报道</li>\n<li>Ars Technica 的 <a href=\"https://arstechnica.com/gadgets/2018/11/mac-mini-review-a-testament-to-apples-stubbornness/\">2018 Mac mini review</a></li>\n<li><a href=\"https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf\">Apple T2 Security Chip Overview</a></li>\n<li><a href=\"https://9to5mac.com/2018/11/26/review-lg-5k-2k-34wk95u-ultrawide-monitor-mac-mini-macbook-air-pro-thunderbolt-3-video/\">LG 34WK95U 34&rdquo; 5K2K 显示器</a></li>\n<li>💩一样的<a href=\"https://seclists.org/fulldisclosure/2015/Oct/79\">自加密西数硬盘</a></li>\n<li>💩一样的<a href=\"https://www.ru.nl/publish/pages/909282/draft-paper.pdf\">自加密 SSD</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>两期节目间隔期，吴涛已经学会了双拼，以及关于折叠手机、折叠键盘、Nintendo Switch、USB 3 的三种写法、Mac mini 2018、SSD、磁盘加密的讨论。</p>\n\n<hr />\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/IBM_ThinkPad_Butterfly_keyboard\">Thinkpad 701 蝴蝶机</a></li>\n<li>Rio 在淘宝买的<a href=\"https://item.taobao.com/item.htm?spm=a1z09.2.0.0.42582e8dwgnGEn&amp;id=572341705093&amp;_u=215ms96de73\">便携式蓝牙折叠键盘</a> （人体工学那款）</li>\n<li>The Verge 关于 <a href=\"https://www.theverge.com/circuitbreaker/2019/2/27/18243425/usb-3-2-standard-names-connectivity-cables-innovators-forum\">USB 3 命名</a>的报道</li>\n<li>Ars Technica 的 <a href=\"https://arstechnica.com/gadgets/2018/11/mac-mini-review-a-testament-to-apples-stubbornness/\">2018 Mac mini review</a></li>\n<li><a href=\"https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf\">Apple T2 Security Chip Overview</a></li>\n<li><a href=\"https://9to5mac.com/2018/11/26/review-lg-5k-2k-34wk95u-ultrawide-monitor-mac-mini-macbook-air-pro-thunderbolt-3-video/\">LG 34WK95U 34&rdquo; 5K2K 显示器</a></li>\n<li>💩一样的<a href=\"https://seclists.org/fulldisclosure/2015/Oct/79\">自加密西数硬盘</a></li>\n<li>💩一样的<a href=\"https://www.ru.nl/publish/pages/909282/draft-paper.pdf\">自加密 SSD</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/54"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "62443648",
+            "href": "https://pan.icu/54/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/54",
+    "id": "https://pan.icu/54",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Thu, 21 Mar 2019 00:00:00 +0000",
+    "published_parsed": [
+        2019,
+        3,
+        21,
+        0,
+        0,
+        0,
+        3,
+        80,
+        0
+    ],
+    "itunes_duration": "7804"
+}

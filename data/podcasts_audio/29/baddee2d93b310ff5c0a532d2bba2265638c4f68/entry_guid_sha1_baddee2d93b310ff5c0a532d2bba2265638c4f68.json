@@ -1,0 +1,53 @@
+{
+    "title": "第十一期：如何梦到电子羊",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "第十一期：如何梦到电子羊"
+    },
+    "summary": "<p>本期蹭热点来聊聊《银翼杀手 2049》的观后感。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "<p>本期蹭热点来聊聊《银翼杀手 2049》的观后感。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://renjianzhinan.xyz/#ep011"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://renjianzhinan.xyz/ep/rjzn_ep011.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://renjianzhinan.xyz/#ep011",
+    "id": "http://renjianzhinan.xyz/#ep011",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "hb"
+        }
+    ],
+    "author": "hb",
+    "author_detail": {
+        "name": "hb"
+    },
+    "published": "Sat, 3 Nov 2017 18:30:00 GMT",
+    "published_parsed": [
+        2017,
+        11,
+        3,
+        18,
+        30,
+        0,
+        4,
+        307,
+        0
+    ],
+    "itunes_duration": "1621"
+}

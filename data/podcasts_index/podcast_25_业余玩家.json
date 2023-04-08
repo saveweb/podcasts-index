@@ -1,0 +1,24 @@
+{
+    "id": 25,
+    "enabled": true,
+    "title": "业余玩家",
+    "link": "http://yeyuwanjia.net",
+    "feed_url": "https://amateurplayer.libsyn.com/rss",
+    "summary": "《业余玩家》是一档关注影像、科技的播客，关注艺术和技术背后的故事。我们推荐您用泛用型播客客户端收听我们的节目。您也可以在喜马拉雅、网易云音乐等平台搜索「业余玩家播客」找到我们。",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1680935832,
+        "last_success_timestamp": 1680936159,
+        "last_checked_timestamp": 1680936159,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

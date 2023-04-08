@@ -1,0 +1,58 @@
+{
+    "http-content-length": 44342335,
+    "http-etag": "fa05fefbec030db00be13db43103ff2a",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "attachment; filename=\"081wonderwoman.mp3\"",
+    "http-content-disposition-filename": "081wonderwoman.mp3",
+    "actual-size": 44342335,
+    "actual-duration": 5542,
+    "sha1": "6e325a46efe2f5d562f6cedf36d22e4746c6d891",
+    "md5": "4387fb4883a5e07eb06771fd03d7f8ac",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/5fdc649613dd056e6c284e5c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=29OUsfdclb5QnIWZVs8mPTnMkvcZkEllDYCF7dYqrmg",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:19:36 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/fa05fefbec030db00be13db43103ff2a.mp3?aid=5fdc649613dd056e6c284e5c&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=U2JeQOy87DmajRoKYkMpBk5RY9lCrJ9wJaL93yedFWYrg31LAqvlxg%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=36f1d270c79a5d2dd6fe3ff74cfc2476&Expires=1680957276554&Key-Pair-Id=K38CTQXUSD0VVB&Signature=P6nJ3xIU4nf1LLIfB-F7w6S2h1JpK9EY4u8eK42DpBe9mODLJrD1xMG6fTdxIe6cOBTJlsyM035BeOn8yCSTor9eI4i2JdkJhgPKSEb1OjCkW~kIdF97RZCeBU2DKBdEY9P6XhiBSkCBl6BDTLgR3r~G-J2sUWNFYH4ReR~IqfmZevv0L792ql2EiibhNKgUb31GhjKPs979YRAJ4cGN9GyzaCBkxGNX4O4dJAC93tI1~0eCOiP14P~-NXS3mHZw4sta3FaTa1Zp7DV1oBfhyRENwT6cSTFTvqDZGUyHW4nzzpIeRWfz4yPl3KvBk6gpcztwoTURU6Sux5iUrJekwA__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "U2JeQOy87DmajRoKYkMpBk5RY9lCrJ9wJaL93yedFWYrg31LAqvlxg=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/fa05fefbec030db00be13db43103ff2a.mp3?aid=5fdc649613dd056e6c284e5c&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=U2JeQOy87DmajRoKYkMpBk5RY9lCrJ9wJaL93yedFWYrg31LAqvlxg%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=36f1d270c79a5d2dd6fe3ff74cfc2476&Expires=1680957276554&Key-Pair-Id=K38CTQXUSD0VVB&Signature=P6nJ3xIU4nf1LLIfB-F7w6S2h1JpK9EY4u8eK42DpBe9mODLJrD1xMG6fTdxIe6cOBTJlsyM035BeOn8yCSTor9eI4i2JdkJhgPKSEb1OjCkW~kIdF97RZCeBU2DKBdEY9P6XhiBSkCBl6BDTLgR3r~G-J2sUWNFYH4ReR~IqfmZevv0L792ql2EiibhNKgUb31GhjKPs979YRAJ4cGN9GyzaCBkxGNX4O4dJAC93tI1~0eCOiP14P~-NXS3mHZw4sta3FaTa1Zp7DV1oBfhyRENwT6cSTFTvqDZGUyHW4nzzpIeRWfz4yPl3KvBk6gpcztwoTURU6Sux5iUrJekwA__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "44342335",
+                "Connection": "keep-alive",
+                "Date": "Fri, 10 Mar 2023 08:19:05 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "attachment; filename=\"081wonderwoman.mp3\"",
+                "ETag": "\"fa05fefbec030db00be13db43103ff2a\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "44MpacKUZT_NhZT7Oa53Q62jkvHtuCqNVhHBFMufSZ2LnBcqBhMq2A==",
+                "Age": "2509231"
+            }
+        }
+    }
+}

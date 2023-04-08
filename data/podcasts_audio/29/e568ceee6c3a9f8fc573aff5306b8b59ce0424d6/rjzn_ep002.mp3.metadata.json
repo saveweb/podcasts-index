@@ -1,0 +1,53 @@
+{
+    "http-content-length": 54609837,
+    "http-etag": "58c55193-34147ad",
+    "http-last-modified": "Sun, 12 Mar 2017 13:48:03 GMT",
+    "http-last-modified-float": 1489297683.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 54609837,
+    "actual-duration": 2275,
+    "sha1": "fb5e513fc322e3af2a22aee02e94812d1189e214",
+    "md5": "af8c5ec39f12615882baeaa157076f8a",
+    "url-history": {
+        "0": {
+            "status_code": 301,
+            "url": "http://renjianzhinan.xyz/ep/rjzn_ep002.mp3",
+            "headers": {
+                "Server": "nginx",
+                "Date": "Sat, 08 Apr 2023 07:35:16 GMT",
+                "Content-Type": "text/html",
+                "Content-Length": "162",
+                "Connection": "keep-alive",
+                "Location": "https://renjianzhinan.xyz/ep/rjzn_ep002.mp3",
+                "X-HTTPS-Enforce": "1",
+                "X-CDN-C": "static",
+                "X-SG-CDN": "1",
+                "X-Proxy-Cache": "MISS",
+                "X-Proxy-Cache-Info": "0301 NC:000000 UP:",
+                "Host-Header": "8441280b0c35cbc1147f8ba998a563a7"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://renjianzhinan.xyz/ep/rjzn_ep002.mp3",
+            "headers": {
+                "Server": "nginx",
+                "Date": "Sat, 08 Apr 2023 07:35:16 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "54609837",
+                "Connection": "keep-alive",
+                "Last-Modified": "Sun, 12 Mar 2017 13:48:03 GMT",
+                "ETag": "\"58c55193-34147ad\"",
+                "Expires": "Tue, 05 Sep 2023 04:11:53 GMT",
+                "Cache-Control": "max-age=31536000",
+                "X-CDN-C": "static",
+                "X-SG-CDN": "1",
+                "X-Proxy-Cache": "HIT",
+                "Host-Header": "8441280b0c35cbc1147f8ba998a563a7",
+                "Accept-Ranges": "bytes"
+            }
+        }
+    }
+}

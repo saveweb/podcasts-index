@@ -1,0 +1,56 @@
+{
+    "title": "40. 迟到的 Google I/O 专题",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "40. 迟到的 Google I/O 专题"
+    },
+    "itunes_episode": "40",
+    "itunes_title": "迟到的 Google I/O 专题",
+    "summary": "<p>这期是在 Google I/O 之后、WWDC 之前录的，迟到为歉。部分信息已经过时，请诸君明察。</p>\n\n<h2>登场人物</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>这期是在 Google I/O 之后、WWDC 之前录的，迟到为歉。部分信息已经过时，请诸君明察。</p>\n\n<h2>登场人物</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/40"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "81283325",
+            "href": "https://pan.icu/40/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/40",
+    "id": "https://pan.icu/40",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Tue, 28 Jun 2016 04:46:52 +0000",
+    "published_parsed": [
+        2016,
+        6,
+        28,
+        4,
+        46,
+        52,
+        1,
+        180,
+        0
+    ],
+    "itunes_duration": "6773"
+}

@@ -1,0 +1,57 @@
+{
+    "http-content-length": 123702737,
+    "http-etag": "9680b02d6fd9920861d31a5b6571d9c9",
+    "http-last-modified": "Fri, 28 Aug 2020 16:21:23 GMT",
+    "http-last-modified-float": 1598602883.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 123702737,
+    "actual-duration": 5168,
+    "sha1": "3598cab62eb102e4c1d71f4a550dfdf1ddbb2088",
+    "md5": "9680b02d6fd9920861d31a5b6571d9c9",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://chrt.fm/track/38591G/r.typlog.com/eyJzIjo4MzgsImUiOjM2OTgsInAiOjIsInUiOiI4MDQ1Lm1wMyJ9.X31hqCWdI-uRKr-GHlLizD5Xx7g/zhuchangsile/8401368319_5258045.mp3",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "0",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:53:23 GMT",
+                "Server": "nginx/1.21.6",
+                "Location": "https://r.typlog.com/eyJzIjo4MzgsImUiOjM2OTgsInAiOjIsInUiOiI4MDQ1Lm1wMyJ9.X31hqCWdI-uRKr-GHlLizD5Xx7g/zhuchangsile/8401368319_5258045.mp3",
+                "Access-Control-Allow-Origin": "*",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4b40c2c5c5cbe46c85133c50447cfbd2.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "HKG60-C1",
+                "X-Amz-Cf-Id": "ze0p6wBu5ZBSdZPXr3_btpTlhrf2uO7yR2PR2nrhMtARLq9LGIQ-2g=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://r.typlog.com/eyJzIjo4MzgsImUiOjM2OTgsInAiOjIsInUiOiI4MDQ1Lm1wMyJ9.X31hqCWdI-uRKr-GHlLizD5Xx7g/zhuchangsile/8401368319_5258045.mp3",
+            "headers": {
+                "Date": "Sat, 08 Apr 2023 06:53:24 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "123702737",
+                "Connection": "keep-alive",
+                "CF-Ray": "7b4897cfe9251075-HKG",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Cache-Control": "max-age=604800",
+                "ETag": "\"9680b02d6fd9920861d31a5b6571d9c9\"",
+                "Last-Modified": "Fri, 28 Aug 2020 16:21:23 GMT",
+                "Strict-Transport-Security": "max-age=2592000; preload",
+                "CF-Cache-Status": "HIT",
+                "x-amz-request-id": "810b9597b5e4dd57",
+                "x-amz-version-id": "4_zc655df7e5c1a24307f330819_f1029ac2dfc3bbc04_d20200828_m162123_c000_v0001073_t0058",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=xBYu99oH%2BjvNbsu4Z5q3R6QFUqhG%2FGZdWwQeCiG1QWilpEZ0s%2FN4A7o%2FLP3%2BHnxPEs65hq1s6T7oOZcyxj2RW3fTMJNelE4K90LihvTMTxFwsZShPiPee71AN%2FV7Zw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        }
+    }
+}

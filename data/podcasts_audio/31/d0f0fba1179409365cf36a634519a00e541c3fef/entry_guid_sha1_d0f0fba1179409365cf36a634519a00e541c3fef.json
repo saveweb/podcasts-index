@@ -1,0 +1,56 @@
+{
+    "title": "3. 静态网站生成器",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "3. 静态网站生成器"
+    },
+    "itunes_episode": "3",
+    "itunes_title": "静态网站生成器",
+    "summary": "<p>动态网站太重了。轻量级的静态网站生成工具一时蔚然成风，至少在开发者圈子里如此。它是什么，解决了怎样的问题，为什么流行，效果如何？</p>\n\n<p>吴涛希望 Rio 转写成 Go 的 Python 代码：</p>\n\n<pre><code>import datetime\nprint datetime.datetime.now().strftime('北京时间 %H 点 %M 分')\n</code></pre>\n\n<p>Rio 的回复：</p>\n\n<pre><code>import (\n\t&quot;fmt&quot;\n\t&quot;time&quot;\n)\n\nfunc main() {\n\tfmt.Println(time.Now().Format(&quot;北京时间 15 点 04 分&quot;))\n}\n</code></pre>\n\n<p>简单来说，Go 使用「2006」、「Jan」、「2」、「15」、「04」等字面值来代替 strftime 中的「%Y」、「%b」、「%d」、「%H」、「%M」作为格式化日期时的占位符。延伸阅读： <a href=\"http://pauladamsmith.com/blog/2011/05/go_time.html\">Parsing and formatting date/time in Go</a>、<a href=\"http://golang.org/pkg/time/#pkg-constants\">http://golang.org/pkg/time/#pkg-constants</a>。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://twitter.com/horse_mans/status/521405210342981633\">@horse_mans 的推特帐号</a></li>\n<li><a href=\"https://staticsitegenerators.net/\">Static site generator 列表及 Github 关注度排名</a></li>\n<li><a href=\"https://github.com/jekyll/jekyll\">Jekyll</a></li>\n<li><a href=\"http://jekyllbootstrap.com/\">Jekyll Bootstrap</a></li>\n<li><a href=\"http://octopress.org/\">Octopress</a></li>\n<li><a href=\"http://middlemanapp.com/\">Middleman</a></li>\n<li><a href=\"https://github.com/getpelican/pelican\">Pelican</a></li>\n<li><a href=\"http://hyde.github.io/\">Hyde</a></li>\n<li><a href=\"http://gohugo.io/\">Hugo</a></li>\n<li><a href=\"http://vim.spf13.com/\">spf13 的 The Ultimate Vim Distribution</a></li>\n<li><a href=\"http://codekata.com/\">Code kata</a></li>\n<li><a href=\"http://devopsreactions.tumblr.com/post/99634417776/demonstrating-end-to-end-automation-to-new-employees\">GIF: Demonstrating end-to-end automation to new employees</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>动态网站太重了。轻量级的静态网站生成工具一时蔚然成风，至少在开发者圈子里如此。它是什么，解决了怎样的问题，为什么流行，效果如何？</p>\n\n<p>吴涛希望 Rio 转写成 Go 的 Python 代码：</p>\n\n<pre><code>import datetime\nprint datetime.datetime.now().strftime('北京时间 %H 点 %M 分')\n</code></pre>\n\n<p>Rio 的回复：</p>\n\n<pre><code>import (\n\t&quot;fmt&quot;\n\t&quot;time&quot;\n)\n\nfunc main() {\n\tfmt.Println(time.Now().Format(&quot;北京时间 15 点 04 分&quot;))\n}\n</code></pre>\n\n<p>简单来说，Go 使用「2006」、「Jan」、「2」、「15」、「04」等字面值来代替 strftime 中的「%Y」、「%b」、「%d」、「%H」、「%M」作为格式化日期时的占位符。延伸阅读： <a href=\"http://pauladamsmith.com/blog/2011/05/go_time.html\">Parsing and formatting date/time in Go</a>、<a href=\"http://golang.org/pkg/time/#pkg-constants\">http://golang.org/pkg/time/#pkg-constants</a>。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://twitter.com/horse_mans/status/521405210342981633\">@horse_mans 的推特帐号</a></li>\n<li><a href=\"https://staticsitegenerators.net/\">Static site generator 列表及 Github 关注度排名</a></li>\n<li><a href=\"https://github.com/jekyll/jekyll\">Jekyll</a></li>\n<li><a href=\"http://jekyllbootstrap.com/\">Jekyll Bootstrap</a></li>\n<li><a href=\"http://octopress.org/\">Octopress</a></li>\n<li><a href=\"http://middlemanapp.com/\">Middleman</a></li>\n<li><a href=\"https://github.com/getpelican/pelican\">Pelican</a></li>\n<li><a href=\"http://hyde.github.io/\">Hyde</a></li>\n<li><a href=\"http://gohugo.io/\">Hugo</a></li>\n<li><a href=\"http://vim.spf13.com/\">spf13 的 The Ultimate Vim Distribution</a></li>\n<li><a href=\"http://codekata.com/\">Code kata</a></li>\n<li><a href=\"http://devopsreactions.tumblr.com/post/99634417776/demonstrating-end-to-end-automation-to-new-employees\">GIF: Demonstrating end-to-end automation to new employees</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/3"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "76107453",
+            "href": "https://pan.icu/3/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/3",
+    "id": "https://pan.icu/3",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Mon, 03 Nov 2014 02:05:13 +0000",
+    "published_parsed": [
+        2014,
+        11,
+        3,
+        2,
+        5,
+        13,
+        0,
+        307,
+        0
+    ],
+    "itunes_duration": "6328"
+}

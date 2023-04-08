@@ -1,0 +1,55 @@
+{
+    "http-content-length": 76107453,
+    "http-etag": "9e544fa05a150fe4f5e56413c5eb5b90-10",
+    "http-last-modified": "Wed, 17 Mar 2021 02:58:51 GMT",
+    "http-last-modified-float": 1615921131.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 76107453,
+    "actual-duration": 6327,
+    "sha1": "30e6414be16c3ed616529ade8d9ced55601613a9",
+    "md5": "2e0e3ca793a4af6bd155c7abcb6de368",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://pan.icu/3/audio.mp3",
+            "headers": {
+                "Date": "Sat, 08 Apr 2023 07:54:50 GMT",
+                "Content-Type": "text/plain;charset=UTF-8",
+                "Content-Length": "69",
+                "Connection": "keep-alive",
+                "Location": "https://rio.xyzcdn.net/kernelpanic/kernelpanic-ep3.mp3",
+                "Access-Control-Allow-Origin": "*",
+                "referrer-policy": "strict-origin-when-cross-origin",
+                "x-content-type-options": "nosniff",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=j%2F8b8gFedz5bCEF7aJ3bT%2F4mBaQMkH71eQBHJN5R5csxwQWw33P8NAc1Zq2A%2BDP8tSdybrHOTd5hJTho5Fl38rfMyBtakNTr9Tww24P55hNoZ6EwwdgYob5A\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Vary": "Accept-Encoding",
+                "CF-Cache-Status": "BYPASS",
+                "Strict-Transport-Security": "max-age=15552000; preload",
+                "Server": "cloudflare",
+                "CF-RAY": "7b48f1d1ba35f5cc-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://rio.xyzcdn.net/kernelpanic/kernelpanic-ep3.mp3",
+            "headers": {
+                "Last-Modified": "Wed, 17 Mar 2021 02:58:51 GMT",
+                "Etag": "\"9e544fa05a150fe4f5e56413c5eb5b90-10\"",
+                "Content-Type": "audio/mpeg",
+                "Date": "Mon, 10 Oct 2022 06:50:16 GMT",
+                "Server": "tencent-cos",
+                "x-cos-hash-crc64ecma": "5744786343649294704",
+                "x-cos-request-id": "NjM0M2MwYThfZWZhOTYzNjRfMzM3Ml8yYjg2YjVl",
+                "Content-Length": "76107453",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "11769594077568618382",
+                "Connection": "keep-alive",
+                "X-Cache-Lookup": "Cache Hit"
+            }
+        }
+    }
+}

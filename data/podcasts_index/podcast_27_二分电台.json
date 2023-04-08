@@ -1,0 +1,24 @@
+{
+    "id": 27,
+    "enabled": true,
+    "title": "二分电台",
+    "link": "https://binary.2bab.me/",
+    "feed_url": "https://binary.2bab.me/feed/audio.xml",
+    "summary": "一档互联网主题的闲聊节目，旨在少传播焦虑，多分享热忱。",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680938348,
+        "last_success_timestamp": 1680938351,
+        "last_checked_timestamp": 1680938351,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

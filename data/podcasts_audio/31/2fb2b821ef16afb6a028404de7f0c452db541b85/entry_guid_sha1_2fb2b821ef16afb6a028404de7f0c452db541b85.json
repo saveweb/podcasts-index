@@ -1,0 +1,56 @@
+{
+    "title": "39. Kerning Panic · 字谈字串（一）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "39. Kerning Panic · 字谈字串（一）"
+    },
+    "itunes_episode": "39",
+    "itunes_title": "Kerning Panic · 字谈字串（一）",
+    "summary": "<p>本期是与 <a href=\"http://typeisbeautiful.com\">Typeisbeautiful.com</a> 的 podcast<a href=\"http://www.typeisbeautiful.com/category/podcast/\">《字谈字畅》</a>的联合节目，大致介绍了从用户按下键盘到屏幕上显示出文字的过程，为后续节目提纲挈领。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8C%B5%E6%B2%B3%E7%95%94%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F\">美茵河畔法兰克福</a>（Frankfurt am Main），德国西部黑森州法兰克福的全称，区别于东部奥得河畔法兰克福（Frankfurt an der Oder）</li>\n<li>吴涛、Eric 合译<a href=\"http://www.typeisbeautiful.com/just-my-type/\">《字体故事：西文字体的美丽传奇》</a></li>\n<li><a href=\"https://ipn.li/kernelpanic/18/\">编码</a>，《内核恐慌》第 18 期</li>\n<li><a href=\"https://ipn.li/kernelpanic/2/\">键盘恐慌</a>，《内核恐慌》第 2 期</li>\n<li><a href=\"https://en.wikipedia.org/wiki/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg\">ANSI 键盘布局</a>、<a href=\"https://en.wikipedia.org/wiki/File:KB_United_Kingdom.svg\">ISO 键盘布局</a>以及 <a href=\"https://en.wikipedia.org/wiki/File:KB_Japanese.svg\">JIS 键盘布局</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/ASCII\">ASCII</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%BA%94%E7%AC%94%E5%AD%97%E5%9E%8B%E8%BE%93%E5%85%A5%E6%B3%95#/media/File:5strokes.jpg\">五笔字形输入法键位</a></li>\n<li><a href=\"http://www.pfu.fujitsu.com/hhkeyboard/\">HHKB (Happy Hacking Keyboard)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/QWERTY\">QWERTY</a> 和 <a href=\"https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard\">Dvorak（德沃夏克）</a>键盘布局</li>\n<li>键盘扫描码（<a href=\"https://www.win.tue.nl/~aeb/linux/kbd/scancodes.html\">keyboard scancodes</a>）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/PS/2_port\">PS/2 接口</a></li>\n<li><a href=\"http://www.usb.org/developers/hidpage\">USB Human Interface Devices (HID)</a></li>\n<li><a href=\"https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%B0%BB%E3%82%A8%E3%83%AA%E3%82%AB\">沢尻エリカ</a>（ERIKA），日本艺人，中文名依本人意愿写作「泽尻英龙华」</li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC\">Big5</a>，港澳台较常用的编码</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Supplementary_Character_Set\">HKSCS</a>（Hong Kong Supplementary Character Set，香港增补字符集）、MAC（Macao Information System Character Set，澳门资讯系统字集）</li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%8C%BA%E4%BD%8D%E7%A0%81_(%E5%9B%BD%E6%A0%87\">区位码</a>)、<a href=\"https://en.wikipedia.org/wiki/Chinese_telegraph_code\">中文电报码</a>和<a href=\"https://zh.wikipedia.org/wiki/%E5%9B%9B%E8%A7%92%E5%8F%B7%E7%A0%81\">四角号码</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Code_page\">Code page</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Byte_order_mark\">BOM (byte order mark)</a></li>\n<li>强（<a href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=5F3A\">U+5F3A</a>）、強（<a href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=5F37\">U+5F37</a>）</li>\n<li><a href=\"https://ja.wikipedia.org/wiki/%E7%B5%B5%E6%96%87%E5%AD%97\">絵文字</a>（<a href=\"https://en.wikipedia.org/wiki/Emoji\">emoji</a>）、<a href=\"https://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97\">顔文字</a>（<a href=\"https://en.wikipedia.org/wiki/Emoticon\">emoticon</a>）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/ASCII_art\">ASCII art</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Fixedsys\">Fixedsys</a>，微软开发的等宽点阵字体</li>\n<li><a href=\"https://www.microsoft.com/typography/fonts/family.aspx?FID=245\">MingLiU</a>，微软开发的繁体中文明体</li>\n<li><a href=\"https://www.microsoft.com/typography/TrueTypeHintingWhat.mspx\">Hinting</a>（渲染提示），<a href=\"https://en.wikipedia.org/wiki/Anti-aliasing\">anti-aliasing</a>（抗混叠 / 抗锯齿）</li>\n<li><a href=\"https://www.microsoft.com/en-us/Typography/ClearTypeInfo.aspx\">ClearType</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Dots_per_inch\">DPI (dots per inch)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/TrueType\">TrueType</a> 和 <a href=\"https://en.wikipedia.org/wiki/OpenType\">OpenType</a></li>\n<li>Adobe PostScript 字体类型 <a href=\"https://en.wikipedia.org/wiki/PostScript_fonts#Type_1\">Type 1</a> 和 <a href=\"https://en.wikipedia.org/wiki/PostScript_fonts#Type_3\">Type 3</a></li>\n<li><a href=\"https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6AATIntro.html\">Apple Advanced Typography</a></li>\n<li><a href=\"https://ja.wikipedia.org/wiki/%E5%85%A8%E8%A7%92%E3%81%A8%E5%8D%8A%E8%A7%92\">全角和半角</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Adobe_Type_Manager\">ATM (Adobe Type Manager)</a></li>\n</ul>\n\n<h2>登场人物</h2>\n\n<ul>\n<li>Rio：《<a href=\"http://ipn.li/itgonglun/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"http://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"http://kernelpanic.fm\">内核恐慌</a>》主播。<br />\n</li>\n<li>Eric：字体排印研究者，译者，Type is Beautiful 编辑<br />\n</li>\n<li>蒸鱼：设计师，Type is Beautiful 编辑</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>本期是与 <a href=\"http://typeisbeautiful.com\">Typeisbeautiful.com</a> 的 podcast<a href=\"http://www.typeisbeautiful.com/category/podcast/\">《字谈字畅》</a>的联合节目，大致介绍了从用户按下键盘到屏幕上显示出文字的过程，为后续节目提纲挈领。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8C%B5%E6%B2%B3%E7%95%94%E6%B3%95%E8%98%AD%E5%85%8B%E7%A6%8F\">美茵河畔法兰克福</a>（Frankfurt am Main），德国西部黑森州法兰克福的全称，区别于东部奥得河畔法兰克福（Frankfurt an der Oder）</li>\n<li>吴涛、Eric 合译<a href=\"http://www.typeisbeautiful.com/just-my-type/\">《字体故事：西文字体的美丽传奇》</a></li>\n<li><a href=\"https://ipn.li/kernelpanic/18/\">编码</a>，《内核恐慌》第 18 期</li>\n<li><a href=\"https://ipn.li/kernelpanic/2/\">键盘恐慌</a>，《内核恐慌》第 2 期</li>\n<li><a href=\"https://en.wikipedia.org/wiki/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg\">ANSI 键盘布局</a>、<a href=\"https://en.wikipedia.org/wiki/File:KB_United_Kingdom.svg\">ISO 键盘布局</a>以及 <a href=\"https://en.wikipedia.org/wiki/File:KB_Japanese.svg\">JIS 键盘布局</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/ASCII\">ASCII</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%BA%94%E7%AC%94%E5%AD%97%E5%9E%8B%E8%BE%93%E5%85%A5%E6%B3%95#/media/File:5strokes.jpg\">五笔字形输入法键位</a></li>\n<li><a href=\"http://www.pfu.fujitsu.com/hhkeyboard/\">HHKB (Happy Hacking Keyboard)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/QWERTY\">QWERTY</a> 和 <a href=\"https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard\">Dvorak（德沃夏克）</a>键盘布局</li>\n<li>键盘扫描码（<a href=\"https://www.win.tue.nl/~aeb/linux/kbd/scancodes.html\">keyboard scancodes</a>）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/PS/2_port\">PS/2 接口</a></li>\n<li><a href=\"http://www.usb.org/developers/hidpage\">USB Human Interface Devices (HID)</a></li>\n<li><a href=\"https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%B0%BB%E3%82%A8%E3%83%AA%E3%82%AB\">沢尻エリカ</a>（ERIKA），日本艺人，中文名依本人意愿写作「泽尻英龙华」</li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC\">Big5</a>，港澳台较常用的编码</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Supplementary_Character_Set\">HKSCS</a>（Hong Kong Supplementary Character Set，香港增补字符集）、MAC（Macao Information System Character Set，澳门资讯系统字集）</li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%8C%BA%E4%BD%8D%E7%A0%81_(%E5%9B%BD%E6%A0%87\">区位码</a>)、<a href=\"https://en.wikipedia.org/wiki/Chinese_telegraph_code\">中文电报码</a>和<a href=\"https://zh.wikipedia.org/wiki/%E5%9B%9B%E8%A7%92%E5%8F%B7%E7%A0%81\">四角号码</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Code_page\">Code page</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Byte_order_mark\">BOM (byte order mark)</a></li>\n<li>强（<a href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=5F3A\">U+5F3A</a>）、強（<a href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=5F37\">U+5F37</a>）</li>\n<li><a href=\"https://ja.wikipedia.org/wiki/%E7%B5%B5%E6%96%87%E5%AD%97\">絵文字</a>（<a href=\"https://en.wikipedia.org/wiki/Emoji\">emoji</a>）、<a href=\"https://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97\">顔文字</a>（<a href=\"https://en.wikipedia.org/wiki/Emoticon\">emoticon</a>）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/ASCII_art\">ASCII art</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Fixedsys\">Fixedsys</a>，微软开发的等宽点阵字体</li>\n<li><a href=\"https://www.microsoft.com/typography/fonts/family.aspx?FID=245\">MingLiU</a>，微软开发的繁体中文明体</li>\n<li><a href=\"https://www.microsoft.com/typography/TrueTypeHintingWhat.mspx\">Hinting</a>（渲染提示），<a href=\"https://en.wikipedia.org/wiki/Anti-aliasing\">anti-aliasing</a>（抗混叠 / 抗锯齿）</li>\n<li><a href=\"https://www.microsoft.com/en-us/Typography/ClearTypeInfo.aspx\">ClearType</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Dots_per_inch\">DPI (dots per inch)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/TrueType\">TrueType</a> 和 <a href=\"https://en.wikipedia.org/wiki/OpenType\">OpenType</a></li>\n<li>Adobe PostScript 字体类型 <a href=\"https://en.wikipedia.org/wiki/PostScript_fonts#Type_1\">Type 1</a> 和 <a href=\"https://en.wikipedia.org/wiki/PostScript_fonts#Type_3\">Type 3</a></li>\n<li><a href=\"https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6AATIntro.html\">Apple Advanced Typography</a></li>\n<li><a href=\"https://ja.wikipedia.org/wiki/%E5%85%A8%E8%A7%92%E3%81%A8%E5%8D%8A%E8%A7%92\">全角和半角</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Adobe_Type_Manager\">ATM (Adobe Type Manager)</a></li>\n</ul>\n\n<h2>登场人物</h2>\n\n<ul>\n<li>Rio：《<a href=\"http://ipn.li/itgonglun/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"http://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"http://kernelpanic.fm\">内核恐慌</a>》主播。<br />\n</li>\n<li>Eric：字体排印研究者，译者，Type is Beautiful 编辑<br />\n</li>\n<li>蒸鱼：设计师，Type is Beautiful 编辑</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/39"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "63009348",
+            "href": "https://pan.icu/39/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/39",
+    "id": "https://pan.icu/39",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛、Eric、蒸鱼"
+        }
+    ],
+    "author": "Rio、吴涛、Eric、蒸鱼",
+    "author_detail": {
+        "name": "Rio、吴涛、Eric、蒸鱼"
+    },
+    "published": "Mon, 16 May 2016 19:12:36 +0000",
+    "published_parsed": [
+        2016,
+        5,
+        16,
+        19,
+        12,
+        36,
+        0,
+        137,
+        0
+    ],
+    "itunes_duration": "7856"
+}

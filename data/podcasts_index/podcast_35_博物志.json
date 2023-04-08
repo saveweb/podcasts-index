@@ -1,0 +1,24 @@
+{
+    "id": 35,
+    "enabled": true,
+    "title": "博物志",
+    "link": "http://bowuzhi.fm/episodes/",
+    "feed_url": "http://bowuzhi.fm/feed/audio.xml",
+    "summary": "广泛地关于博物馆的播客。小黄鱼出品。2019 年苹果最佳节目之一。",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680947173,
+        "last_success_timestamp": 1680949350,
+        "last_checked_timestamp": 1680949350,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

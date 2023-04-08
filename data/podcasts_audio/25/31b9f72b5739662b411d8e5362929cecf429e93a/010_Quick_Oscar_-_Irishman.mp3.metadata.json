@@ -1,0 +1,49 @@
+{
+    "http-content-length": 4415859,
+    "http-etag": "062c98ca93dc99fe7d33ff3a8e63d277",
+    "http-last-modified": "Sat, 05 Mar 2022 02:25:56 GMT",
+    "http-last-modified-float": 1646418356.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 4415859,
+    "actual-duration": null,
+    "sha1": "39a8da27d93494fb6b2978f48e0e0f7592305cb6",
+    "md5": "062c98ca93dc99fe7d33ff3a8e63d277",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/010_Quick_Oscar_-_Irishman.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:41:50 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/d/c/a/dca6d44787fc2837/010_Quick_Oscar_-_Irishman.mp3?c_id=64132181&cs_id=64132181&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936810&Signature=A0xKdw~PUSO1wH1wXVwgZCkfj8jRcCouHxiOjWDNa4imTKij4atnBLFXtgMKyv3Jd4ekggZ3RtWDoVDTxfhhgbv5L8QXJKiJ8xH1hlU4GrwYXxLq6jHhXRqx6htO9xUppVTN2wacIIqWzq-OhPcita3PS3e9Fe9661ka3pcIpjvxkAAoggoQxxWNmVdEbDg7dnoNOsriNg2LzLWzuovtcvBh8EZ6VurOwu8U~f70DboPeTdhpuqyA~vvCJdev-0a0DCVfQQYMnXYbT-bacuTJPdQaVbPRMk4ILYEmWAj5G5UCfccAjk-OtWWU5f39D-SbrRjhIDoCuzferNfS~Wj9g__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t5",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/d/c/a/dca6d44787fc2837/010_Quick_Oscar_-_Irishman.mp3?c_id=64132181&cs_id=64132181&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680936810&Signature=A0xKdw~PUSO1wH1wXVwgZCkfj8jRcCouHxiOjWDNa4imTKij4atnBLFXtgMKyv3Jd4ekggZ3RtWDoVDTxfhhgbv5L8QXJKiJ8xH1hlU4GrwYXxLq6jHhXRqx6htO9xUppVTN2wacIIqWzq-OhPcita3PS3e9Fe9661ka3pcIpjvxkAAoggoQxxWNmVdEbDg7dnoNOsriNg2LzLWzuovtcvBh8EZ6VurOwu8U~f70DboPeTdhpuqyA~vvCJdev-0a0DCVfQQYMnXYbT-bacuTJPdQaVbPRMk4ILYEmWAj5G5UCfccAjk-OtWWU5f39D-SbrRjhIDoCuzferNfS~Wj9g__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "4415859",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:41:51 GMT",
+                "Last-Modified": "Sat, 05 Mar 2022 02:25:56 GMT",
+                "ETag": "\"062c98ca93dc99fe7d33ff3a8e63d277\"",
+                "x-amz-meta-mtime": "1580866415",
+                "x-amz-version-id": "64DpxX0LL2oSOSzkTMMjW3EmfjuAOYmc",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "CDFXMXu2Jxau0S3C-xQL5qYLKUe0r0T1nOhitiwlvJbtB7Y4SyW9lQ==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

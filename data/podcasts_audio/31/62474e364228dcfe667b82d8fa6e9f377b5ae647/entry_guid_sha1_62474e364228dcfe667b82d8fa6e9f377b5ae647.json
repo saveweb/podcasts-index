@@ -1,0 +1,56 @@
+{
+    "title": "8. 「集装箱化」与运维管理",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "8. 「集装箱化」与运维管理"
+    },
+    "itunes_episode": "8",
+    "itunes_title": "「集装箱化」与运维管理",
+    "summary": "<p>作为「生命周期管理」三部曲的最后一部分，Rio 和吴涛探讨了 DevOps 的工作，部署网络应用的若干知名工具，改变了实体世界的集装箱，及其在赛博世界的对等品有何意义。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://ipn.li/itgonglun/131/\">IT 公论 131 期「我仍然记得早期的互联网是什么模样。」</a></li>\n<li><a href=\"http://font.ubuntu.com/#charset-mono-regular\">Ubuntu Mono</a></li>\n<li><a href=\"https://store.continuum.io/cshop/anaconda/\">Anaconda</a></li>\n<li><a href=\"http://movie.douban.com/subject/1300830/\">《狂蟒之灾》</a></li>\n<li><a href=\"http://www.drdobbs.com/\">Dr. Dobb&rsquo;s</a></li>\n<li><a href=\"http://www.amazon.com/Michael-Abrashs-Graphics-Programming-Special/dp/1576101746\">Michael Abrash&rsquo;s Graphics Programming Black Book 实体书</a>，<a href=\"https://github.com/jagregory/abrash-black-book\">GitHub 上的电子版</a></li>\n<li><a href=\"http://www.anandtech.com/\">AnandTech</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/DevOps\">DevOps</a></li>\n<li><a href=\"http://www.ciscopress.com/markets/detail.asp?st=44745\">Cisco CCIP</a>\t</li>\n<li><a href=\"https://www.digitalocean.com/\">Digital Ocean</a></li>\n<li><a href=\"https://www.linode.com/\">Linode</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Ender%27s_Game\">Ender&rsquo;s Game</a></li>\n<li><a href=\"http://www.fabfile.org/\">Fabric</a></li>\n<li><a href=\"http://capistranorb.com/\">Capistrano</a></li>\n<li><a href=\"https://www.chef.io/chef/\">Chef</a></li>\n<li><a href=\"https://puppetlabs.com/\">Puppet</a></li>\n<li><a href=\"http://palletops.com/\">Pallet</a></li>\n<li><a href=\"http://www.saltstack.com/community/\">Salt</a></li>\n<li><a href=\"http://rexify.org/\">Rex</a></li>\n<li><a href=\"http://book.douban.com/subject/2354988/\">《集装箱改变世界》</a></li>\n<li><a href=\"http://www.amazon.com/Box-Shipping-Container-Smaller-Economy-ebook/dp/B003U2TR5O/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=\">《集装箱改变世界》英文 Kindle 版</a></li>\n<li><a href=\"https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt\">cgroups</a></li>\n<li><a href=\"https://linuxcontainers.org/lxc/downloads/\">LXC</a></li>\n<li><a href=\"https://www.docker.com/\">Docker</a></li>\n<li><a href=\"https://www.vagrantup.com/\">Vagrant</a></li>\n<li><a href=\"https://coreos.com/\">CoreOS</a></li>\n<li><a href=\"https://coreos.com/blog/rocket/\">Rocket</a></li>\n<li><a href=\"https://nixos.org/nix/\">Nix / NixOS</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>作为「生命周期管理」三部曲的最后一部分，Rio 和吴涛探讨了 DevOps 的工作，部署网络应用的若干知名工具，改变了实体世界的集装箱，及其在赛博世界的对等品有何意义。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://ipn.li/itgonglun/131/\">IT 公论 131 期「我仍然记得早期的互联网是什么模样。」</a></li>\n<li><a href=\"http://font.ubuntu.com/#charset-mono-regular\">Ubuntu Mono</a></li>\n<li><a href=\"https://store.continuum.io/cshop/anaconda/\">Anaconda</a></li>\n<li><a href=\"http://movie.douban.com/subject/1300830/\">《狂蟒之灾》</a></li>\n<li><a href=\"http://www.drdobbs.com/\">Dr. Dobb&rsquo;s</a></li>\n<li><a href=\"http://www.amazon.com/Michael-Abrashs-Graphics-Programming-Special/dp/1576101746\">Michael Abrash&rsquo;s Graphics Programming Black Book 实体书</a>，<a href=\"https://github.com/jagregory/abrash-black-book\">GitHub 上的电子版</a></li>\n<li><a href=\"http://www.anandtech.com/\">AnandTech</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/DevOps\">DevOps</a></li>\n<li><a href=\"http://www.ciscopress.com/markets/detail.asp?st=44745\">Cisco CCIP</a>\t</li>\n<li><a href=\"https://www.digitalocean.com/\">Digital Ocean</a></li>\n<li><a href=\"https://www.linode.com/\">Linode</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Ender%27s_Game\">Ender&rsquo;s Game</a></li>\n<li><a href=\"http://www.fabfile.org/\">Fabric</a></li>\n<li><a href=\"http://capistranorb.com/\">Capistrano</a></li>\n<li><a href=\"https://www.chef.io/chef/\">Chef</a></li>\n<li><a href=\"https://puppetlabs.com/\">Puppet</a></li>\n<li><a href=\"http://palletops.com/\">Pallet</a></li>\n<li><a href=\"http://www.saltstack.com/community/\">Salt</a></li>\n<li><a href=\"http://rexify.org/\">Rex</a></li>\n<li><a href=\"http://book.douban.com/subject/2354988/\">《集装箱改变世界》</a></li>\n<li><a href=\"http://www.amazon.com/Box-Shipping-Container-Smaller-Economy-ebook/dp/B003U2TR5O/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=&amp;qid=\">《集装箱改变世界》英文 Kindle 版</a></li>\n<li><a href=\"https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt\">cgroups</a></li>\n<li><a href=\"https://linuxcontainers.org/lxc/downloads/\">LXC</a></li>\n<li><a href=\"https://www.docker.com/\">Docker</a></li>\n<li><a href=\"https://www.vagrantup.com/\">Vagrant</a></li>\n<li><a href=\"https://coreos.com/\">CoreOS</a></li>\n<li><a href=\"https://coreos.com/blog/rocket/\">Rocket</a></li>\n<li><a href=\"https://nixos.org/nix/\">Nix / NixOS</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/8"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "107842563",
+            "href": "https://pan.icu/8/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/8",
+    "id": "https://pan.icu/8",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sun, 11 Jan 2015 02:16:10 +0000",
+    "published_parsed": [
+        2015,
+        1,
+        11,
+        2,
+        16,
+        10,
+        6,
+        11,
+        0
+    ],
+    "itunes_duration": "8976"
+}

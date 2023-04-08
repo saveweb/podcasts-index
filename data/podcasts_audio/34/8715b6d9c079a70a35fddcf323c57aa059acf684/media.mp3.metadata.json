@@ -1,0 +1,58 @@
+{
+    "http-content-length": 49234109,
+    "http-etag": "2535306faf52f9c605b506786683191c",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline",
+    "http-content-disposition-filename": null,
+    "actual-size": 49234109,
+    "actual-duration": 3077,
+    "sha1": "adc6b6ae1c5c2822c08dd2807cb04a3cbb8fa7fd",
+    "md5": "411c67c182af01b42c5d2bffacad7943",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/http%3A%2F%2Fcdn.lizhi.fm%2Faudio%2F2018%2F12%2F25%2F5017042051760417926_ud.mp3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=JKage1fnp1wcc8vjvwvlnD9hcRe0pqT0m_rHHnQCREg",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1297",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:44:48 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/2535306faf52f9c605b506786683191c.mp3?ci=ELsSK-u24Cr9pv276DtrEeAIe8GRm9jtTMO7fCDwsZehv1Rraq6w5Q%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=50bd1fb5c6f39210d31c7c779edb3170&Expires=1680958788337&Key-Pair-Id=K38CTQXUSD0VVB&Signature=EIS4RxODJmzPoYzmFre1F~TFETGyYpucRu8RXeSznA3I-5WNhKix7U~dA~axu1w-2ZV9rXtRoTfql4xeK9ruvkRm1L80lHSnG8q8zP2TPWk2oXrreFLyLYjNxcg02SGCP1tci7tV0xhjtK1WFWORZjH4UQYAdTBLZHfaDsGmpjNcQPw2qCjj1lBpIHE9tg2gDkd38SMWxxHU2hY0dqarnztZZ4FCSRUYM0gXGTd~8A7IxBEvnD07a8lFxUlzzdvqTXn-XDYYB1qWXFFp-EzP1J71yu~RAdhbLsELKqOE~xUUnt67w7wUgXdaQblzG9BSwrs~4MP1Wl7xcIXlWRDhRA__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 29bc979ed5b97121d22a3551faf230d4.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P4",
+                "X-Amz-Cf-Id": "ELsSK-u24Cr9pv276DtrEeAIe8GRm9jtTMO7fCDwsZehv1Rraq6w5Q=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/2535306faf52f9c605b506786683191c.mp3?ci=ELsSK-u24Cr9pv276DtrEeAIe8GRm9jtTMO7fCDwsZehv1Rraq6w5Q%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=50bd1fb5c6f39210d31c7c779edb3170&Expires=1680958788337&Key-Pair-Id=K38CTQXUSD0VVB&Signature=EIS4RxODJmzPoYzmFre1F~TFETGyYpucRu8RXeSznA3I-5WNhKix7U~dA~axu1w-2ZV9rXtRoTfql4xeK9ruvkRm1L80lHSnG8q8zP2TPWk2oXrreFLyLYjNxcg02SGCP1tci7tV0xhjtK1WFWORZjH4UQYAdTBLZHfaDsGmpjNcQPw2qCjj1lBpIHE9tg2gDkd38SMWxxHU2hY0dqarnztZZ4FCSRUYM0gXGTd~8A7IxBEvnD07a8lFxUlzzdvqTXn-XDYYB1qWXFFp-EzP1J71yu~RAdhbLsELKqOE~xUUnt67w7wUgXdaQblzG9BSwrs~4MP1Wl7xcIXlWRDhRA__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "49234109",
+                "Connection": "keep-alive",
+                "Date": "Sat, 25 Mar 2023 11:27:11 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "inline",
+                "ETag": "\"2535306faf52f9c605b506786683191c\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "n5jjqYxh24rjTT0Utxi9u-v3XtnMEjX5VdVz6NMdTtNy0eeKkLjwMA==",
+                "Age": "1203457"
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "http-content-length": 38965085,
+    "http-etag": "b842dbb8983cce9a47004bc9d0d7d299",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "attachment; filename=\"071shifa-kacchang.mp3\"",
+    "http-content-disposition-filename": "071shifa-kacchang.mp3",
+    "actual-size": 38965085,
+    "actual-duration": 4870,
+    "sha1": "b99e459e027c24868dc50253b46360395dd4224c",
+    "md5": "ec60f475528918636ea86b620f16fcea",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/5f6f209365753644b5e3e3ad/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=JhppV3D5hOShOYzW0LHYoPi4O1Iq1OVvcipzyE2KqHY",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:21:16 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/b842dbb8983cce9a47004bc9d0d7d299.mp3?aid=5f6f209365753644b5e3e3ad&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=mkVH4mfLjH4wjS8FbFsVmwZAx01FSCWslJeo3abpZ8h1oaR6Jp3MPw%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=390b18176532eced1693bfab1df5768d&Expires=1680957376179&Key-Pair-Id=K38CTQXUSD0VVB&Signature=V6jIf1YhYOGveyTn1JTuxHwksy8K35TsowYyXr2Fvi7d10ttAEsgqyNxb2fuAuf6gvg3-kEj6N3x~jL9traVpXphvNgRSO1ektSCT4PSAVlnvwoCaj-r84OvHluk06~7G8t7Kbx1jYG3zHcUYcjIL83ywf3i2f90AGjrHAn4r74K81UD1lFGSnXcpcMWPdOX9WGFXEWGT95uzcu6BALVVZ-ElIq4PfBGq1M-l9lTbJaOd40y-nDaGd0xGSiKtxOwX8lmEDgTA4rw0qb5Idst~Jn4gD7GDEI-kxAdB25l0~ID3o0rTIOjV00XJqHAlmhVKOLvI-xZoJhx5JYFo2fa6w__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "mkVH4mfLjH4wjS8FbFsVmwZAx01FSCWslJeo3abpZ8h1oaR6Jp3MPw=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/b842dbb8983cce9a47004bc9d0d7d299.mp3?aid=5f6f209365753644b5e3e3ad&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=mkVH4mfLjH4wjS8FbFsVmwZAx01FSCWslJeo3abpZ8h1oaR6Jp3MPw%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=390b18176532eced1693bfab1df5768d&Expires=1680957376179&Key-Pair-Id=K38CTQXUSD0VVB&Signature=V6jIf1YhYOGveyTn1JTuxHwksy8K35TsowYyXr2Fvi7d10ttAEsgqyNxb2fuAuf6gvg3-kEj6N3x~jL9traVpXphvNgRSO1ektSCT4PSAVlnvwoCaj-r84OvHluk06~7G8t7Kbx1jYG3zHcUYcjIL83ywf3i2f90AGjrHAn4r74K81UD1lFGSnXcpcMWPdOX9WGFXEWGT95uzcu6BALVVZ-ElIq4PfBGq1M-l9lTbJaOd40y-nDaGd0xGSiKtxOwX8lmEDgTA4rw0qb5Idst~Jn4gD7GDEI-kxAdB25l0~ID3o0rTIOjV00XJqHAlmhVKOLvI-xZoJhx5JYFo2fa6w__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "38965085",
+                "Connection": "keep-alive",
+                "Date": "Sat, 04 Mar 2023 10:45:53 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "attachment; filename=\"071shifa-kacchang.mp3\"",
+                "ETag": "\"b842dbb8983cce9a47004bc9d0d7d299\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "_Ob9PLh5tfS7Lq796cPNkXHmyVM1UBM9Bq927O9faOmyPscvnGgIFA==",
+                "Age": "3018923"
+            }
+        }
+    }
+}

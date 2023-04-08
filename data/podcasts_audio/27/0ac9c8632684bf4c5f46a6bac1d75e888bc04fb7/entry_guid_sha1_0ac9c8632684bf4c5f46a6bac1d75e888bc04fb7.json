@@ -1,0 +1,75 @@
+{
+    "links": [
+        {
+            "length": "63336618",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/15D3AF/r.typlog.com/eyJzIjoxODIzLCJlIjo0OTAzNCwicCI6MiwidSI6Ijc1ODcubXAzIn0.I65B4_C4ZH4tEpnrKIFU_TTJUtk/2bab/8365822691_317587.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://binary.2bab.me/episodes/12-android-community-commercialization-jetbrains-shengyou"
+        }
+    ],
+    "title": "#12 Android 社区与商业化- JetBrains 圣佑篇",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#12 Android 社区与商业化- JetBrains 圣佑篇"
+    },
+    "id": "https://binary.2bab.me/episodes/12-android-community-commercialization-jetbrains-shengyou",
+    "guidislink": true,
+    "link": "https://binary.2bab.me/episodes/12-android-community-commercialization-jetbrains-shengyou",
+    "authors": [
+        {
+            "name": "2BAB"
+        }
+    ],
+    "author": "2BAB",
+    "author_detail": {
+        "name": "2BAB"
+    },
+    "itunes_duration": "1:05:58",
+    "itunes_explicit": null,
+    "itunes_episode": "12",
+    "podcast_episode": "12",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/2bab/8378917814_418047.png?x-oss-process=style/sl"
+    },
+    "summary": "#12 Android 社区与商业化- JetBrains 圣佑篇 本期人物：范圣佑，AB 本期我们请到了 JetBrains 的范圣佑老师，聊聊技术布道师的工作、一些有趣的用户故事以及 JetBrains 在商业化上的转变和创新方向的思考。这是一个系列节目，探索 Android 社区（或周边生态）和商业化的关系，是用爱发电还是相互促进？ 本期节目将抽取一位幸运观众，获得由 JetBrains 赞助的 IntelliJ IDEA Ultimate（一年期）兑换码一枚。抽奖方式见 Android高效开发公众号推送的本期节目文章。 加入听众群的方式见 2BAB 的微博置顶或者 Android高效开发公众号菜单 、南瓜饼日常公众号菜单~ 欢迎在小宇宙、Apple Podcast 等平台订阅二分电台。 时间轴： 00:54 圣佑的自我介绍（目前公司内唯一的中文布道师） 01:51 JetBrains 的背景介绍 02:50 新上海办公室和 Remote 的工作文化 04:14 布道师的工作内容综述：用户和公司之间的桥梁 09:04 中文用户的特殊反馈：快捷冲突 14:03 ideaVim 插件 15:38 YouTrack 工单快速响应：国际化、多时区的团队协作 19:40 成为布道师的能力要求 24:47 扩展讨论 ToB 的工作内容 26:23 团队协作的工具 / ticket driven 文化 / 多个跨团队的沟通渠道 31:41 为什么 JetBrains 没有社区认证专家的项目 36:00 IDEA 商业版和社区版的差别 / 教育许可证 / JetBrains Academy 的尝试 41:55 盈利模型的转变：“买断”到“订阅买断制”以及“连续折扣订阅”的策略 45:56 支持正版，正向循环 47:32 开源开发许可证：反哺社区 51:18 JetBrains 改进中文社区付费率的一个办法（联动第四期《#4 Ruoxin: 让 Android 更好用的独立开发者》） 53:03 创新和坚持：Compose Desktop / Kotlin Multiplatform Mobile / Kotlin 和它的十年 / 从 Hackathon 诞生的 Toolbox 61:11 不忘初心：为什么当初选择了这份职业 相关信息： Kotlin Training Partner JetBrains Academy Kotlin 十周年 GDE Directory（有 Kotlin 的类目可选择） 公众号：Android高效开发、南瓜饼日常 二分电台官网 关于和版权信息 圣佑老师的联系方式： Email: shengyou.fan@jetbrains.com AB 的联系方式： Email: xx2bab@gmail.com Github: 2BAB Twitter: 2BAB Blog: 2BAB‘s Engineering Blog",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#12 Android 社区与商业化- JetBrains 圣佑篇 本期人物：范圣佑，AB 本期我们请到了 JetBrains 的范圣佑老师，聊聊技术布道师的工作、一些有趣的用户故事以及 JetBrains 在商业化上的转变和创新方向的思考。这是一个系列节目，探索 Android 社区（或周边生态）和商业化的关系，是用爱发电还是相互促进？ 本期节目将抽取一位幸运观众，获得由 JetBrains 赞助的 IntelliJ IDEA Ultimate（一年期）兑换码一枚。抽奖方式见 Android高效开发公众号推送的本期节目文章。 加入听众群的方式见 2BAB 的微博置顶或者 Android高效开发公众号菜单 、南瓜饼日常公众号菜单~ 欢迎在小宇宙、Apple Podcast 等平台订阅二分电台。 时间轴： 00:54 圣佑的自我介绍（目前公司内唯一的中文布道师） 01:51 JetBrains 的背景介绍 02:50 新上海办公室和 Remote 的工作文化 04:14 布道师的工作内容综述：用户和公司之间的桥梁 09:04 中文用户的特殊反馈：快捷冲突 14:03 ideaVim 插件 15:38 YouTrack 工单快速响应：国际化、多时区的团队协作 19:40 成为布道师的能力要求 24:47 扩展讨论 ToB 的工作内容 26:23 团队协作的工具 / ticket driven 文化 / 多个跨团队的沟通渠道 31:41 为什么 JetBrains 没有社区认证专家的项目 36:00 IDEA 商业版和社区版的差别 / 教育许可证 / JetBrains Academy 的尝试 41:55 盈利模型的转变：“买断”到“订阅买断制”以及“连续折扣订阅”的策略 45:56 支持正版，正向循环 47:32 开源开发许可证：反哺社区 51:18 JetBrains 改进中文社区付费率的一个办法（联动第四期《#4 Ruoxin: 让 Android 更好用的独立开发者》） 53:03 创新和坚持：Compose Desktop / Kotlin Multiplatform Mobile / Kotlin 和它的十年 / 从 Hackathon 诞生的 Toolbox 61:11 不忘初心：为什么当初选择了这份职业 相关信息： Kotlin Training Partner JetBrains Academy Kotlin 十周年 GDE Directory（有 Kotlin 的类目可选择） 公众号：Android高效开发、南瓜饼日常 二分电台官网 关于和版权信息 圣佑老师的联系方式： Email: shengyou.fan@jetbrains.com AB 的联系方式： Email: xx2bab@gmail.com Github: 2BAB Twitter: 2BAB Blog: 2BAB‘s Engineering Blog"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#12 Android 社区与商业化- JetBrains 圣佑篇</h2>\n<p>本期人物：范圣佑，AB</p>\n<p>本期我们请到了 JetBrains 的范圣佑老师，聊聊技术布道师的工作、一些有趣的用户故事以及 JetBrains 在商业化上的转变和创新方向的思考。这是一个系列节目，探索 Android 社区（或周边生态）和商业化的关系，是用爱发电还是相互促进？</p>\n<p>本期节目将抽取一位幸运观众，获得<strong>由 JetBrains 赞助的 IntelliJ IDEA Ultimate（一年期）兑换码一枚</strong>。抽奖方式见 <strong>Android高效开发</strong>公众号推送的本期节目文章。</p>\n<p>加入听众群的方式见 <strong>2BAB</strong> 的微博置顶或者 <strong>Android高效开发</strong>公众号菜单 、<strong>南瓜饼日常</strong>公众号菜单~ 欢迎在<strong>小宇宙</strong>、<strong>Apple Podcast</strong> 等平台订阅二分电台。</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:54\">00:54</a> 圣佑的自我介绍（目前公司内唯一的中文布道师）</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=01:51\">01:51</a> JetBrains 的背景介绍</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=02:50\">02:50</a> 新上海办公室和 Remote 的工作文化</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=04:14\">04:14</a> 布道师的工作内容综述：用户和公司之间的桥梁</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=09:04\">09:04</a> 中文用户的特殊反馈：快捷冲突</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=14:03\">14:03</a> ideaVim 插件</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=15:38\">15:38</a> YouTrack 工单快速响应：国际化、多时区的团队协作</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=19:40\">19:40</a> 成为布道师的能力要求</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=24:47\">24:47</a> 扩展讨论 ToB 的工作内容</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=26:23\">26:23</a> 团队协作的工具 / ticket driven 文化 / 多个跨团队的沟通渠道</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=31:41\">31:41</a> 为什么 JetBrains 没有社区认证专家的项目</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=36:00\">36:00</a> IDEA 商业版和社区版的差别 / 教育许可证 / JetBrains Academy 的尝试</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=41:55\">41:55</a> 盈利模型的转变：“买断”到“订阅买断制”以及“连续折扣订阅”的策略</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=45:56\">45:56</a> 支持正版，正向循环</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=47:32\">47:32</a> 开源开发许可证：反哺社区</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=51:18\">51:18</a> JetBrains 改进中文社区付费率的一个办法（联动第四期<a href=\"https://binary.2bab.me/episodes/004-indie-dev-ruoxin\">《#4 Ruoxin: 让 Android 更好用的独立开发者》</a>）</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=53:03\">53:03</a> 创新和坚持：Compose Desktop / Kotlin Multiplatform Mobile / Kotlin 和它的十年 / 从 Hackathon 诞生的 Toolbox</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=61:11\">61:11</a> 不忘初心：为什么当初选择了这份职业</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://www.jetbrains.com/company/partners/kotlin/\">Kotlin Training Partner</a></li>\n<li><a href=\"https://www.jetbrains.com/academy/\">JetBrains Academy</a></li>\n<li><a href=\"https://blog.jetbrains.com/zh-hans/kotlin/2021/08/ten-years-of-kotlin/\">Kotlin 十周年</a></li>\n<li><a href=\"https://developers.google.com/community/experts/directory\">GDE Directory（有 Kotlin 的类目可选择）</a></li>\n<li><a href=\"https://binary.2bab.me/about\">公众号：Android高效开发、南瓜饼日常</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n</ul>\n<p>圣佑老师的联系方式：</p>\n<ul>\n<li><a href=\"mailto:shengyou.fan@jetbrains.com\">Email: shengyou.fan@jetbrains.com</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"mailto:xx2bab@gmail.com\">Email: xx2bab@gmail.com</a></li>\n<li><a href=\"https://github.com/2bab/\">Github: 2BAB</a></li>\n<li><a href=\"https://twitter.com/x2bab/\">Twitter: 2BAB</a></li>\n<li><a href=\"https://2bab.me/about\">Blog: 2BAB‘s Engineering Blog</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#12 Android 社区与商业化- JetBrains 圣佑篇</h2>\n<p>本期人物：范圣佑，AB</p>\n<p>本期我们请到了 JetBrains 的范圣佑老师，聊聊技术布道师的工作、一些有趣的用户故事以及 JetBrains 在商业化上的转变和创新方向的思考。这是一个系列节目，探索 Android 社区（或周边生态）和商业化的关系，是用爱发电还是相互促进？</p>\n<p>本期节目将抽取一位幸运观众，获得<strong>由 JetBrains 赞助的 IntelliJ IDEA Ultimate（一年期）兑换码一枚</strong>。抽奖方式见 <strong>Android高效开发</strong>公众号推送的本期节目文章。</p>\n<p>加入听众群的方式见 <strong>2BAB</strong> 的微博置顶或者 <strong>Android高效开发</strong>公众号菜单 、<strong>南瓜饼日常</strong>公众号菜单~ 欢迎在<strong>小宇宙</strong>、<strong>Apple Podcast</strong> 等平台订阅二分电台。</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:54\">00:54</a> 圣佑的自我介绍（目前公司内唯一的中文布道师）</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=01:51\">01:51</a> JetBrains 的背景介绍</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=02:50\">02:50</a> 新上海办公室和 Remote 的工作文化</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=04:14\">04:14</a> 布道师的工作内容综述：用户和公司之间的桥梁</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=09:04\">09:04</a> 中文用户的特殊反馈：快捷冲突</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=14:03\">14:03</a> ideaVim 插件</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=15:38\">15:38</a> YouTrack 工单快速响应：国际化、多时区的团队协作</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=19:40\">19:40</a> 成为布道师的能力要求</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=24:47\">24:47</a> 扩展讨论 ToB 的工作内容</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=26:23\">26:23</a> 团队协作的工具 / ticket driven 文化 / 多个跨团队的沟通渠道</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=31:41\">31:41</a> 为什么 JetBrains 没有社区认证专家的项目</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=36:00\">36:00</a> IDEA 商业版和社区版的差别 / 教育许可证 / JetBrains Academy 的尝试</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=41:55\">41:55</a> 盈利模型的转变：“买断”到“订阅买断制”以及“连续折扣订阅”的策略</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=45:56\">45:56</a> 支持正版，正向循环</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=47:32\">47:32</a> 开源开发许可证：反哺社区</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=51:18\">51:18</a> JetBrains 改进中文社区付费率的一个办法（联动第四期<a href=\"https://binary.2bab.me/episodes/004-indie-dev-ruoxin\">《#4 Ruoxin: 让 Android 更好用的独立开发者》</a>）</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=53:03\">53:03</a> 创新和坚持：Compose Desktop / Kotlin Multiplatform Mobile / Kotlin 和它的十年 / 从 Hackathon 诞生的 Toolbox</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=61:11\">61:11</a> 不忘初心：为什么当初选择了这份职业</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://www.jetbrains.com/company/partners/kotlin/\">Kotlin Training Partner</a></li>\n<li><a href=\"https://www.jetbrains.com/academy/\">JetBrains Academy</a></li>\n<li><a href=\"https://blog.jetbrains.com/zh-hans/kotlin/2021/08/ten-years-of-kotlin/\">Kotlin 十周年</a></li>\n<li><a href=\"https://developers.google.com/community/experts/directory\">GDE Directory（有 Kotlin 的类目可选择）</a></li>\n<li><a href=\"https://binary.2bab.me/about\">公众号：Android高效开发、南瓜饼日常</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n</ul>\n<p>圣佑老师的联系方式：</p>\n<ul>\n<li><a href=\"mailto:shengyou.fan@jetbrains.com\">Email: shengyou.fan@jetbrains.com</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"mailto:xx2bab@gmail.com\">Email: xx2bab@gmail.com</a></li>\n<li><a href=\"https://github.com/2bab/\">Github: 2BAB</a></li>\n<li><a href=\"https://twitter.com/x2bab/\">Twitter: 2BAB</a></li>\n<li><a href=\"https://2bab.me/about\">Blog: 2BAB‘s Engineering Blog</a></li>\n</ul>"
+        }
+    ],
+    "published": "Thu, 14 Oct 2021 02:08:49 +0000",
+    "published_parsed": [
+        2021,
+        10,
+        14,
+        2,
+        8,
+        49,
+        3,
+        287,
+        0
+    ]
+}

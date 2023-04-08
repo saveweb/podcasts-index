@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "33943742",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MTg0NywicCI6MiwidSI6IjQyMTEubXAzIn0.dWHfxI7Fwou5g1tXdG-lSss146g/zaizuozuoma/8335912159_854211.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/027"
+        }
+    ],
+    "title": "网络热门流媒体影片鉴定 <02>｜再坐坐嘛 Vol. 027",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "网络热门流媒体影片鉴定 <02>｜再坐坐嘛 Vol. 027"
+    },
+    "id": "https://zaizuozuoma.com/episodes/027",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/027",
+    "authors": [
+        {
+            "name": "面包,阿宗"
+        }
+    ],
+    "author": "面包,阿宗",
+    "author_detail": {
+        "name": "面包,阿宗"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Zong/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275492_709579.png"
+    },
+    "itunes_duration": "23:33",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "27",
+    "podcast_episode": "27",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8361275359_689997.jpg?x-oss-process=style/sl"
+    },
+    "summary": "00:46｜韩剧《小小姐们》 14:21｜韩剧《苏里南》 18:01｜英剧《真相捕捉》（第二季） 21:30｜「指环王」剧集《指环王：力量之戒》（第一季）",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "00:46｜韩剧《小小姐们》 14:21｜韩剧《苏里南》 18:01｜英剧《真相捕捉》（第二季） 21:30｜「指环王」剧集《指环王：力量之戒》（第一季）"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<ul>\n<li>00:46｜韩剧<a href=\"https://movie.douban.com/subject/35516141/\">《小小姐们》</a></li>\n<li>14:21｜韩剧<a href=\"https://movie.douban.com/subject/34442059/\">《苏里南》</a></li>\n<li>18:01｜英剧<a href=\"https://movie.douban.com/subject/35088783/\">《真相捕捉》（第二季）</a></li>\n<li>21:30｜「指环王」剧集<a href=\"https://movie.douban.com/subject/27190093/\">《指环王：力量之戒》（第一季）</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<ul>\n<li>00:46｜韩剧<a href=\"https://movie.douban.com/subject/35516141/\">《小小姐们》</a></li>\n<li>14:21｜韩剧<a href=\"https://movie.douban.com/subject/34442059/\">《苏里南》</a></li>\n<li>18:01｜英剧<a href=\"https://movie.douban.com/subject/35088783/\">《真相捕捉》（第二季）</a></li>\n<li>21:30｜「指环王」剧集<a href=\"https://movie.douban.com/subject/27190093/\">《指环王：力量之戒》（第一季）</a></li>\n</ul>"
+        }
+    ],
+    "published": "Sun, 25 Sep 2022 06:41:06 +0000",
+    "published_parsed": [
+        2022,
+        9,
+        25,
+        6,
+        41,
+        6,
+        6,
+        268,
+        0
+    ]
+}

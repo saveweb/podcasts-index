@@ -1,0 +1,75 @@
+{
+    "links": [
+        {
+            "length": "48141711",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/15D3AF/r.typlog.com/eyJzIjoxODIzLCJlIjo0ODA3NiwicCI6MiwidSI6IjY0NjUubXAzIn0.FgvvGYKFqXvWhlsETwB0CZrzKOU/2bab/8367635150_356465.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://binary.2bab.me/episodes/11-android-community-commercialization-zhukai-gde"
+        }
+    ],
+    "title": "#11 Android 社区与商业化- 扔物线朱凯篇",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#11 Android 社区与商业化- 扔物线朱凯篇"
+    },
+    "id": "https://binary.2bab.me/episodes/11-android-community-commercialization-zhukai-gde",
+    "guidislink": true,
+    "link": "https://binary.2bab.me/episodes/11-android-community-commercialization-zhukai-gde",
+    "authors": [
+        {
+            "name": "2BAB"
+        }
+    ],
+    "author": "2BAB",
+    "author_detail": {
+        "name": "2BAB"
+    },
+    "itunes_duration": "50:09",
+    "itunes_explicit": null,
+    "itunes_episode": "11",
+    "podcast_episode": "11",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/2bab/8378917814_418047.png?x-oss-process=style/sl"
+    },
+    "summary": "#11 Android 社区与商业化- 扔物线朱凯篇 本期人物：扔物线-朱凯，AB 本期我们请到了扔物线-朱凯老师，中国首位 Android 和 Kotlin 的双料 GDE (Google Developers Experts)，一起聊聊 GDE 和 HenCoder 背后的故事。这将是新的一个系列节目，聊聊 Android 社区和商业化的一些故事，是用爱发电还是相互促进？ 欢迎在小宇宙、Apple Podcast 等平台订阅二分电台。 加入听众群的方式见 2BAB 的微博置顶或者 Android高效开发公众号菜单 、南瓜饼日常公众号菜单~ 时间轴： 01:20 朱凯的自我介绍 03:17 GDE 简介，“Google 开发专家”还是“Google 认证开发专家”？ 06:38 重新思考 GDE 的意义：双向沟通，影响 Google。 11:12 成为 GDE 后，会更推动自己向前吗？关于 GDE 的认知度、认可度的情况。 14:00 持续高效输出，会不会很快干涸？ 17:41 影响力是不是甄选 GDE 的最重要因素？如何扩大自己的影响力？ 21:12 英语能力在 GDE 面试中的要求？ 23:05 为什么 GDE 有 Kotlin 的类目，而 Kotlin 自己没有社区专家？ 24:62 GDE vs 去 Google 工作，如何选择？ 26:50 第三个方案：和 Google 进行商业合作，成为职业布道师？ 29:14 公共社区和封闭社区的定义 30:30 内容平台是否吃掉了流量，并抹灭了个人的创新？如何看待平台引导的灌水？ 36:59 订阅号转型投稿和广告平台 39:02 如何看待知识付费的现状？ 47:03 HenCoder 的盈利模式、收入结构是否有变化？ 相关信息： GDE Directory 聊聊我眼中的社区、开源与商业 为什么要成为 GDE（谷歌认证开发专家）？我发现了盲点 - 扔物线 掘金 AMA - 听 HenCoder 作者扔物线谈移动开发前景 公众号：南瓜饼日常（last2bab） 二分电台官网 关于和版权信息 朱凯老师的联系方式： 扔物线 AB 的联系方式： Email: xx2bab@gmail.com Github: 2BAB Twitter: 2BAB Blog: 2BAB‘s Engineering Blog",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#11 Android 社区与商业化- 扔物线朱凯篇 本期人物：扔物线-朱凯，AB 本期我们请到了扔物线-朱凯老师，中国首位 Android 和 Kotlin 的双料 GDE (Google Developers Experts)，一起聊聊 GDE 和 HenCoder 背后的故事。这将是新的一个系列节目，聊聊 Android 社区和商业化的一些故事，是用爱发电还是相互促进？ 欢迎在小宇宙、Apple Podcast 等平台订阅二分电台。 加入听众群的方式见 2BAB 的微博置顶或者 Android高效开发公众号菜单 、南瓜饼日常公众号菜单~ 时间轴： 01:20 朱凯的自我介绍 03:17 GDE 简介，“Google 开发专家”还是“Google 认证开发专家”？ 06:38 重新思考 GDE 的意义：双向沟通，影响 Google。 11:12 成为 GDE 后，会更推动自己向前吗？关于 GDE 的认知度、认可度的情况。 14:00 持续高效输出，会不会很快干涸？ 17:41 影响力是不是甄选 GDE 的最重要因素？如何扩大自己的影响力？ 21:12 英语能力在 GDE 面试中的要求？ 23:05 为什么 GDE 有 Kotlin 的类目，而 Kotlin 自己没有社区专家？ 24:62 GDE vs 去 Google 工作，如何选择？ 26:50 第三个方案：和 Google 进行商业合作，成为职业布道师？ 29:14 公共社区和封闭社区的定义 30:30 内容平台是否吃掉了流量，并抹灭了个人的创新？如何看待平台引导的灌水？ 36:59 订阅号转型投稿和广告平台 39:02 如何看待知识付费的现状？ 47:03 HenCoder 的盈利模式、收入结构是否有变化？ 相关信息： GDE Directory 聊聊我眼中的社区、开源与商业 为什么要成为 GDE（谷歌认证开发专家）？我发现了盲点 - 扔物线 掘金 AMA - 听 HenCoder 作者扔物线谈移动开发前景 公众号：南瓜饼日常（last2bab） 二分电台官网 关于和版权信息 朱凯老师的联系方式： 扔物线 AB 的联系方式： Email: xx2bab@gmail.com Github: 2BAB Twitter: 2BAB Blog: 2BAB‘s Engineering Blog"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#11 Android 社区与商业化- 扔物线朱凯篇</h2>\n<p>本期人物：扔物线-朱凯，AB</p>\n<p>本期我们请到了扔物线-朱凯老师，中国首位 Android 和 Kotlin 的双料 <a href=\"https://developers.google.com/community/experts\">GDE (Google Developers Experts)</a>，一起聊聊 GDE 和 HenCoder 背后的故事。这将是新的一个系列节目，聊聊 Android 社区和商业化的一些故事，是用爱发电还是相互促进？</p>\n<p>欢迎在<strong>小宇宙</strong>、<strong>Apple Podcast</strong> 等平台订阅二分电台。</p>\n<p>加入听众群的方式见 <strong>2BAB</strong> 的微博置顶或者 <strong>Android高效开发</strong>公众号菜单 、<strong>南瓜饼日常</strong>公众号菜单~</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=01:20\">01:20</a> 朱凯的自我介绍</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=03:17\">03:17</a> GDE 简介，“Google 开发专家”还是“Google 认证开发专家”？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=06:38\">06:38</a> 重新思考 GDE 的意义：双向沟通，影响 Google。</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=11:12\">11:12</a> 成为 GDE 后，会更推动自己向前吗？关于 GDE 的认知度、认可度的情况。</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=14:00\">14:00</a> 持续高效输出，会不会很快干涸？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=17:41\">17:41</a> 影响力是不是甄选 GDE 的最重要因素？如何扩大自己的影响力？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=21:12\">21:12</a> 英语能力在 GDE 面试中的要求？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=23:05\">23:05</a> 为什么 GDE 有 Kotlin 的类目，而 Kotlin 自己没有社区专家？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=24:62\">24:62</a> GDE vs 去 Google 工作，如何选择？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=26:50\">26:50</a> 第三个方案：和 Google 进行商业合作，成为职业布道师？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=29:14\">29:14</a> 公共社区和封闭社区的定义</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=30:30\">30:30</a> 内容平台是否吃掉了流量，并抹灭了个人的创新？如何看待平台引导的灌水？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=36:59\">36:59</a> 订阅号转型投稿和广告平台</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=39:02\">39:02</a> 如何看待知识付费的现状？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=47:03\">47:03</a> HenCoder 的盈利模式、收入结构是否有变化？</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://developers.google.com/community/experts/directory\">GDE Directory</a></li>\n<li><a href=\"https://juejin.cn/post/6987936728522686472\">聊聊我眼中的社区、开源与商业</a></li>\n<li><a href=\"https://juejin.cn/post/7010508969038839815\">为什么要成为 GDE（谷歌认证开发专家）？我发现了盲点 - 扔物线</a></li>\n<li><a href=\"https://juejin.cn/post/6844903488653262861\">掘金 AMA - 听 HenCoder 作者扔物线谈移动开发前景</a></li>\n<li><a href=\"https://binary.2bab.me/about\">公众号：南瓜饼日常（last2bab）</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n</ul>\n<p>朱凯老师的联系方式：</p>\n<ul>\n<li><a href=\"https://rengwuxian.com\">扔物线</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"mailto:xx2bab@gmail.com\">Email: xx2bab@gmail.com</a></li>\n<li><a href=\"https://github.com/2bab/\">Github: 2BAB</a></li>\n<li><a href=\"https://twitter.com/x2bab/\">Twitter: 2BAB</a></li>\n<li><a href=\"https://2bab.me/about\">Blog: 2BAB‘s Engineering Blog</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h2>#11 Android 社区与商业化- 扔物线朱凯篇</h2>\n<p>本期人物：扔物线-朱凯，AB</p>\n<p>本期我们请到了扔物线-朱凯老师，中国首位 Android 和 Kotlin 的双料 <a href=\"https://developers.google.com/community/experts\">GDE (Google Developers Experts)</a>，一起聊聊 GDE 和 HenCoder 背后的故事。这将是新的一个系列节目，聊聊 Android 社区和商业化的一些故事，是用爱发电还是相互促进？</p>\n<p>欢迎在<strong>小宇宙</strong>、<strong>Apple Podcast</strong> 等平台订阅二分电台。</p>\n<p>加入听众群的方式见 <strong>2BAB</strong> 的微博置顶或者 <strong>Android高效开发</strong>公众号菜单 、<strong>南瓜饼日常</strong>公众号菜单~</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=01:20\">01:20</a> 朱凯的自我介绍</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=03:17\">03:17</a> GDE 简介，“Google 开发专家”还是“Google 认证开发专家”？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=06:38\">06:38</a> 重新思考 GDE 的意义：双向沟通，影响 Google。</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=11:12\">11:12</a> 成为 GDE 后，会更推动自己向前吗？关于 GDE 的认知度、认可度的情况。</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=14:00\">14:00</a> 持续高效输出，会不会很快干涸？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=17:41\">17:41</a> 影响力是不是甄选 GDE 的最重要因素？如何扩大自己的影响力？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=21:12\">21:12</a> 英语能力在 GDE 面试中的要求？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=23:05\">23:05</a> 为什么 GDE 有 Kotlin 的类目，而 Kotlin 自己没有社区专家？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=24:62\">24:62</a> GDE vs 去 Google 工作，如何选择？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=26:50\">26:50</a> 第三个方案：和 Google 进行商业合作，成为职业布道师？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=29:14\">29:14</a> 公共社区和封闭社区的定义</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=30:30\">30:30</a> 内容平台是否吃掉了流量，并抹灭了个人的创新？如何看待平台引导的灌水？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=36:59\">36:59</a> 订阅号转型投稿和广告平台</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=39:02\">39:02</a> 如何看待知识付费的现状？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=47:03\">47:03</a> HenCoder 的盈利模式、收入结构是否有变化？</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://developers.google.com/community/experts/directory\">GDE Directory</a></li>\n<li><a href=\"https://juejin.cn/post/6987936728522686472\">聊聊我眼中的社区、开源与商业</a></li>\n<li><a href=\"https://juejin.cn/post/7010508969038839815\">为什么要成为 GDE（谷歌认证开发专家）？我发现了盲点 - 扔物线</a></li>\n<li><a href=\"https://juejin.cn/post/6844903488653262861\">掘金 AMA - 听 HenCoder 作者扔物线谈移动开发前景</a></li>\n<li><a href=\"https://binary.2bab.me/about\">公众号：南瓜饼日常（last2bab）</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n</ul>\n<p>朱凯老师的联系方式：</p>\n<ul>\n<li><a href=\"https://rengwuxian.com\">扔物线</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"mailto:xx2bab@gmail.com\">Email: xx2bab@gmail.com</a></li>\n<li><a href=\"https://github.com/2bab/\">Github: 2BAB</a></li>\n<li><a href=\"https://twitter.com/x2bab/\">Twitter: 2BAB</a></li>\n<li><a href=\"https://2bab.me/about\">Blog: 2BAB‘s Engineering Blog</a></li>\n</ul>"
+        }
+    ],
+    "published": "Thu, 23 Sep 2021 02:41:52 +0000",
+    "published_parsed": [
+        2021,
+        9,
+        23,
+        2,
+        41,
+        52,
+        3,
+        266,
+        0
+    ]
+}

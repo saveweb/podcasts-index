@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "38590633",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MjA5NSwicCI6MiwidSI6IjIwMjgubXAzIn0.cdcFtQWGPke8e6b6a4kuqnC1I1c/zaizuozuoma/8334856017_702028.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/028"
+        }
+    ],
+    "title": "网络热门流媒体影片鉴定 <03>｜再坐坐嘛 Vol. 028",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "网络热门流媒体影片鉴定 <03>｜再坐坐嘛 Vol. 028"
+    },
+    "id": "https://zaizuozuoma.com/episodes/028",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/028",
+    "authors": [
+        {
+            "name": "面包,阿宗"
+        }
+    ],
+    "author": "面包,阿宗",
+    "author_detail": {
+        "name": "面包,阿宗"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Zong/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275492_709579.png"
+    },
+    "itunes_duration": "19:48",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "028",
+    "podcast_episode": "028",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "00:38｜动作悬疑电影《狩猎》 12:56｜动作电影《子弹列车》 13:37｜律政轻喜剧《千元律师》 16:10｜英国罪案剧《嫌疑人》 16:54｜校园喜剧《东北插班生》",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "00:38｜动作悬疑电影《狩猎》 12:56｜动作电影《子弹列车》 13:37｜律政轻喜剧《千元律师》 16:10｜英国罪案剧《嫌疑人》 16:54｜校园喜剧《东北插班生》"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<ul>\n<li>00:38｜动作悬疑电影<a href=\"https://movie.douban.com/subject/35160926/\">《狩猎》</a></li>\n<li>12:56｜动作电影<a href=\"https://movie.douban.com/subject/35118954/\">《子弹列车》</a></li>\n<li>13:37｜律政轻喜剧<a href=\"https://movie.douban.com/subject/35688034/\">《千元律师》</a></li>\n<li>16:10｜英国罪案剧<a href=\"https://movie.douban.com/subject/35614629/\">《嫌疑人》</a></li>\n<li>16:54｜校园喜剧<a href=\"https://movie.douban.com/subject/35566358/\">《东北插班生》</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<ul>\n<li>00:38｜动作悬疑电影<a href=\"https://movie.douban.com/subject/35160926/\">《狩猎》</a></li>\n<li>12:56｜动作电影<a href=\"https://movie.douban.com/subject/35118954/\">《子弹列车》</a></li>\n<li>13:37｜律政轻喜剧<a href=\"https://movie.douban.com/subject/35688034/\">《千元律师》</a></li>\n<li>16:10｜英国罪案剧<a href=\"https://movie.douban.com/subject/35614629/\">《嫌疑人》</a></li>\n<li>16:54｜校园喜剧<a href=\"https://movie.douban.com/subject/35566358/\">《东北插班生》</a></li>\n</ul>"
+        }
+    ],
+    "published": "Fri, 07 Oct 2022 12:00:32 +0000",
+    "published_parsed": [
+        2022,
+        10,
+        7,
+        12,
+        0,
+        32,
+        4,
+        280,
+        0
+    ]
+}

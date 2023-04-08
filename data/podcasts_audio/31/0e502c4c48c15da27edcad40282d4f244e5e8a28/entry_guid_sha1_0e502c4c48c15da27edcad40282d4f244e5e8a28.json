@@ -1,0 +1,56 @@
+{
+    "title": "23. 程序员之路",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "23. 程序员之路"
+    },
+    "itunes_episode": "23",
+    "itunes_title": "程序员之路",
+    "summary": "<p>读者声讨开发板的回馈；新闻包括 Gamescom （以及两位主持人为什么不玩 LoL）、微软的 Objective C API 开源、Cherry 的新红轴静音机械键盘；主题是程序员的自我修养。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://os.cs.tsinghua.edu.cn/oscourse/ucore4edison\">清华大学2015年操作系统课课程设计：Intel Edison 上的 ucore+ 移植</a></li>\n<li><a href=\"http://blog.farmostwood.net\">木遥的窗子</a></li>\n<li><a href=\"http://www.lizhi.fm/1347950/\">木遥的桌子</a></li>\n<li><a href=\"http://eu.battle.net/heroes/en/\">Heroes of the Storm</a></li>\n<li><a href=\"http://arstechnica.com/information-technology/2015/08/microsoft-open-sources-most-of-its-ios-apps-on-windows-compatibility-layer/\">Microsoft open sources (most of) its iOS-apps-on-Windows compatibility layer</a></li>\n<li><a href=\"http://www.anandtech.com/show/9498/corsair-and-cherry-introduce-new-quieter-mechanical-keyboard-switches\">Corsair and Cherry Introduce New, Quieter Mechanical Keyboard Switches</a></li>\n<li><a href=\"https://twitter.com/mxcl/status/608682016205344768\">Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.</a></li>\n<li><a href=\"https://leetcode.com/\">Leetcode</a></li>\n<li><a href=\"https://projecteuler.net/\">Project Euler</a></li>\n<li><a href=\"https://www.elance.com/\">Elance</a></li>\n<li><a href=\"https://www.topcoder.com/\">Topcoder</a></li>\n<li><a href=\"http://www.amazon.com/Being-Geek-Software-Developers-Handbook/dp/0596155409\"><em>Being Geek: The Software Developer&rsquo;s Career Handbook</em></a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>读者声讨开发板的回馈；新闻包括 Gamescom （以及两位主持人为什么不玩 LoL）、微软的 Objective C API 开源、Cherry 的新红轴静音机械键盘；主题是程序员的自我修养。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://os.cs.tsinghua.edu.cn/oscourse/ucore4edison\">清华大学2015年操作系统课课程设计：Intel Edison 上的 ucore+ 移植</a></li>\n<li><a href=\"http://blog.farmostwood.net\">木遥的窗子</a></li>\n<li><a href=\"http://www.lizhi.fm/1347950/\">木遥的桌子</a></li>\n<li><a href=\"http://eu.battle.net/heroes/en/\">Heroes of the Storm</a></li>\n<li><a href=\"http://arstechnica.com/information-technology/2015/08/microsoft-open-sources-most-of-its-ios-apps-on-windows-compatibility-layer/\">Microsoft open sources (most of) its iOS-apps-on-Windows compatibility layer</a></li>\n<li><a href=\"http://www.anandtech.com/show/9498/corsair-and-cherry-introduce-new-quieter-mechanical-keyboard-switches\">Corsair and Cherry Introduce New, Quieter Mechanical Keyboard Switches</a></li>\n<li><a href=\"https://twitter.com/mxcl/status/608682016205344768\">Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.</a></li>\n<li><a href=\"https://leetcode.com/\">Leetcode</a></li>\n<li><a href=\"https://projecteuler.net/\">Project Euler</a></li>\n<li><a href=\"https://www.elance.com/\">Elance</a></li>\n<li><a href=\"https://www.topcoder.com/\">Topcoder</a></li>\n<li><a href=\"http://www.amazon.com/Being-Geek-Software-Developers-Handbook/dp/0596155409\"><em>Being Geek: The Software Developer&rsquo;s Career Handbook</em></a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/23"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "50802738",
+            "href": "https://pan.icu/23/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/23",
+    "id": "https://pan.icu/23",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sun, 09 Aug 2015 15:44:26 +0000",
+    "published_parsed": [
+        2015,
+        8,
+        9,
+        15,
+        44,
+        26,
+        6,
+        221,
+        0
+    ],
+    "itunes_duration": "8159"
+}

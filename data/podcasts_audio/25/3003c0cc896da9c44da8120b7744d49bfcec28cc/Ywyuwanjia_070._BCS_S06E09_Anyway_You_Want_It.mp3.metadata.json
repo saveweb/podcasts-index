@@ -1,0 +1,48 @@
+{
+    "http-content-length": 15525911,
+    "http-etag": "9aef5991332ff689d4c93387364c45d0",
+    "http-last-modified": "Tue, 19 Jul 2022 07:49:03 GMT",
+    "http-last-modified-float": 1658188143.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 15525911,
+    "actual-duration": null,
+    "sha1": "2ecf6b934a12ae2bd0483b45dc1cde3e6561ee8f",
+    "md5": "9aef5991332ff689d4c93387364c45d0",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Ywyuwanjia_070._BCS_S06E09_Anyway_You_Want_It.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:32:53 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/6/5/4/6540a7bdb139ef95/Ywyuwanjia_070._BCS_S06E09_Anyway_You_Want_It.mp3?c_id=132218891&cs_id=132218891&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680938106&Signature=KFicc38TulKCyj-owgWu7I348g1LuXa~KF2x-7KAHBQUQc8R9r6XMI-rnehygzsOLAvv8AkFOeO0GS-6sM7Q7pCT~7bXS4b-q3kxPw6jvs5j0PL0Yob0PcfXPOECnRRScJxrdvubyNd~x~9tnihwjHUrHyGWZMO1EIzt65sr5vnu~k6Uvi3j~3zpqm1ARkzUOAXRXxw5LQ7kmAPNXCsKmKEJ3~pOr8MvhixO2EsfQEzWYPzegXPFvPrF6uNoXy3TFsyi6a1nOKjj8q71diSH2~fcAKBQxHjmOVzr79sKwgmq~ATxzxE5Nb87rZ1WE55O1SCQApqg8Ie7SEkfYZbydA__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t1",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/6/5/4/6540a7bdb139ef95/Ywyuwanjia_070._BCS_S06E09_Anyway_You_Want_It.mp3?c_id=132218891&cs_id=132218891&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680938106&Signature=KFicc38TulKCyj-owgWu7I348g1LuXa~KF2x-7KAHBQUQc8R9r6XMI-rnehygzsOLAvv8AkFOeO0GS-6sM7Q7pCT~7bXS4b-q3kxPw6jvs5j0PL0Yob0PcfXPOECnRRScJxrdvubyNd~x~9tnihwjHUrHyGWZMO1EIzt65sr5vnu~k6Uvi3j~3zpqm1ARkzUOAXRXxw5LQ7kmAPNXCsKmKEJ3~pOr8MvhixO2EsfQEzWYPzegXPFvPrF6uNoXy3TFsyi6a1nOKjj8q71diSH2~fcAKBQxHjmOVzr79sKwgmq~ATxzxE5Nb87rZ1WE55O1SCQApqg8Ie7SEkfYZbydA__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "15525911",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:32:55 GMT",
+                "Last-Modified": "Tue, 19 Jul 2022 07:49:03 GMT",
+                "ETag": "\"9aef5991332ff689d4c93387364c45d0\"",
+                "x-amz-version-id": "GN6er0tjEZjOTEiGBH15C3FzVQV1GaDQ",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 1a02cf1029d187677f4bb2a642904412.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "4DBAl6abC5pfgSGBwL9QhJJXtJdCiygG4DcoveBanzima-DHaFcMhw==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

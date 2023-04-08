@@ -1,0 +1,56 @@
+{
+    "title": "18. 编码",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "18. 编码"
+    },
+    "itunes_episode": "18",
+    "itunes_title": "编码",
+    "summary": "<p>吴涛独自主持的一期节目，一小时的内容包括读者反馈和对于计算机编码的简短介绍。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://channel9.msdn.com/Events/Build/2015/3-610\">Visual Studio Compiler team 在 Build 大会上的演示（可以从 27&rsquo;20&rdquo; 开始）</a></li>\n<li><a href=\"http://www.quora.com/William-Chen-6\">William Chen</a></li>\n<li><a href=\"http://www.thetalkingmachines.com/\">The Talking Machines</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Chinese_restaurant_process\">Chinese Restaurant Process</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>吴涛独自主持的一期节目，一小时的内容包括读者反馈和对于计算机编码的简短介绍。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://channel9.msdn.com/Events/Build/2015/3-610\">Visual Studio Compiler team 在 Build 大会上的演示（可以从 27&rsquo;20&rdquo; 开始）</a></li>\n<li><a href=\"http://www.quora.com/William-Chen-6\">William Chen</a></li>\n<li><a href=\"http://www.thetalkingmachines.com/\">The Talking Machines</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Chinese_restaurant_process\">Chinese Restaurant Process</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/18"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "21725202",
+            "href": "https://pan.icu/18/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/18",
+    "id": "https://pan.icu/18",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛"
+        }
+    ],
+    "author": "吴涛",
+    "author_detail": {
+        "name": "吴涛"
+    },
+    "published": "Sun, 31 May 2015 01:55:13 +0000",
+    "published_parsed": [
+        2015,
+        5,
+        31,
+        1,
+        55,
+        13,
+        6,
+        151,
+        0
+    ],
+    "itunes_duration": "3523"
+}

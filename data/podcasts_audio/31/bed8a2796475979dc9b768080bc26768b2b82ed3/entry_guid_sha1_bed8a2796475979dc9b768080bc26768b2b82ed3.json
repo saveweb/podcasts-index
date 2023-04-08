@@ -1,0 +1,56 @@
+{
+    "title": "4. 编辑器巡礼",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "4. 编辑器巡礼"
+    },
+    "itunes_episode": "4",
+    "itunes_title": "编辑器巡礼",
+    "summary": "<p>吴涛和 Rio 作为两个 Vim 用户讨论了 Emacs 与 Vim 之间（以及程序员界其他）的圣战、Sublime Text、TextMate、Chocolat（没有 e）、Vim、SciTE、UltraEdit、EditPlus、Notepad++、Vim、Atom、Acme、Vim、Eclipse、IntelliJ、NetBeans、Vim、Visual Studio、Xcode，以及 Vim。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://twitter.com/scienceporn/status/529515667469660160\">Logic vs. American Logic</a></li>\n<li><a href=\"http://neovim.org/\">NeoVim</a></li>\n<li><a href=\"http://www.vicoapp.com/\">Vico</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Bram_Moolenaar\">Bram Moolenaar</a></li>\n<li><a href=\"http://www.zhihu.com/question/20829348/answer/16321677\">Rio 的知乎回答《Windows 8 失败了吗？》</a></li>\n<li><a href=\"http://research.swtch.com/acme\">A tour of Acme</a></li>\n<li><a href=\"http://www.scintilla.org/SciTE.html\">SciTe</a></li>\n<li><a href=\"https://itunes.apple.com/us/app/scite/id466385995\">SciTe Mac App Store 版本</a></li>\n<li><a href=\"http://www.quora.com/Code-Editors/What-are-the-main-differences-between-Vim-and-Emacs\">Quora 上的问题：Vim 和 Emacs 的区别何在？</a></li>\n<li><a href=\"http://www.visualstudio.com/en-us/products/compare-visual-studio-products-vs.aspx\">Visual Studio 各版本的差异</a></li>\n<li><a href=\"http://watchdogforxcode.com/\">自动删除 Xcode 临时文件的工具：Watchdog</a></li>\n<li><a href=\"http://news.microsoft.com/2014/11/12/microsoft-takes-net-open-source-and-cross-platform-adds-new-development-capabilities-with-visual-studio-2015-net-2015-and-visual-studio-online/\">微软宣布 .NET 平台服务器端开源</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>吴涛和 Rio 作为两个 Vim 用户讨论了 Emacs 与 Vim 之间（以及程序员界其他）的圣战、Sublime Text、TextMate、Chocolat（没有 e）、Vim、SciTE、UltraEdit、EditPlus、Notepad++、Vim、Atom、Acme、Vim、Eclipse、IntelliJ、NetBeans、Vim、Visual Studio、Xcode，以及 Vim。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://twitter.com/scienceporn/status/529515667469660160\">Logic vs. American Logic</a></li>\n<li><a href=\"http://neovim.org/\">NeoVim</a></li>\n<li><a href=\"http://www.vicoapp.com/\">Vico</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Bram_Moolenaar\">Bram Moolenaar</a></li>\n<li><a href=\"http://www.zhihu.com/question/20829348/answer/16321677\">Rio 的知乎回答《Windows 8 失败了吗？》</a></li>\n<li><a href=\"http://research.swtch.com/acme\">A tour of Acme</a></li>\n<li><a href=\"http://www.scintilla.org/SciTE.html\">SciTe</a></li>\n<li><a href=\"https://itunes.apple.com/us/app/scite/id466385995\">SciTe Mac App Store 版本</a></li>\n<li><a href=\"http://www.quora.com/Code-Editors/What-are-the-main-differences-between-Vim-and-Emacs\">Quora 上的问题：Vim 和 Emacs 的区别何在？</a></li>\n<li><a href=\"http://www.visualstudio.com/en-us/products/compare-visual-studio-products-vs.aspx\">Visual Studio 各版本的差异</a></li>\n<li><a href=\"http://watchdogforxcode.com/\">自动删除 Xcode 临时文件的工具：Watchdog</a></li>\n<li><a href=\"http://news.microsoft.com/2014/11/12/microsoft-takes-net-open-source-and-cross-platform-adds-new-development-capabilities-with-visual-studio-2015-net-2015-and-visual-studio-online/\">微软宣布 .NET 平台服务器端开源</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio:《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/4"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "118774181",
+            "href": "https://pan.icu/4/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/4",
+    "id": "https://pan.icu/4",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sun, 16 Nov 2014 04:13:39 +0000",
+    "published_parsed": [
+        2014,
+        11,
+        16,
+        4,
+        13,
+        39,
+        6,
+        320,
+        0
+    ],
+    "itunes_duration": "9887"
+}

@@ -1,0 +1,83 @@
+{
+    "title": "#1：WWDC18 试图教会我们用技术去修塑人性",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://jiaocha.io/feed.xml",
+        "value": "#1：WWDC18 试图教会我们用技术去修塑人性"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://jiaocha.io/1/"
+        },
+        {
+            "length": "81318940",
+            "type": "audio/mpeg",
+            "href": "https://dts.podtrac.com/redirect.mp3/jiaocha.io/assets/podcasts/1.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://jiaocha.io/1/",
+    "published": "Mon, 11 Jun 2018 00:00:00 +0000",
+    "published_parsed": [
+        2018,
+        6,
+        11,
+        0,
+        0,
+        0,
+        0,
+        162,
+        0
+    ],
+    "authors": [
+        {},
+        {
+            "name": "Jesse, Alex, 林檎"
+        }
+    ],
+    "author": "Jesse, Alex, 林檎",
+    "tags": [
+        {
+            "term": "podcast",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "https://jiaocha.io/1/",
+    "guidislink": false,
+    "summary": "<p>去年 9 月的 iPhone X 发布会上，苹果通过复现乔布斯当年录音的方式，重申了苹果产品的设计宗旨，就是要推崇「人性之感恩」。在刚刚过去的 WWDC18 上，苹果通过软件的更新进一步强调了这件事。</p>\n\n<p>《交差点》是一档科技人文主题播客。我们主张「科技与人文的十字路口」背后不应是一种二元的选择，两者应当是相互作用，并彼此驱动的关系。 除了用技术的方法解决问题，我们将致力于探索如何在技术崇拜盛行的今天保留人性，试图用人文的视角解读技术语境下的趣味，消除二者的对立，促成其有机结合。</p>\n\n<p>我们的网址是 <a href=\"https://jiaocha.io\">jiaocha.io</a>。我们推荐使用泛用型播客客户端收听本节目，你可以在 <a href=\"https://itunes.apple.com/podcast/id1395745599\">Apple Podcast</a>、<a href=\"https://castro.fm/podcast/b860b89f-97de-413a-b607-36092cf1fd23\">Castro</a>、<a href=\"https://overcast.fm/itunes1395745599\">Overcast</a> 和 <a href=\"http://pca.st/itunes/1395745599\">Pocket Casts</a> 上搜索关键词「交差点」找到我们，或点击链接直接进入。你也可以在<a href=\"https://space.bilibili.com/10423940\">哔哩哔哩</a>和<a href=\"http://music.163.com/#/djradio?id=527165665\">网易云音乐</a>收听到我们的节目。</p>\n\n<h2 id=\"相关链接\">相关链接</h2>\n\n<ul>\n  <li><a href=\"https://www.apple.com/apple-events/june-2018/\">WWDC KeyNote 的官方介绍页面</a></li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Tangible_user_interface\">Tangible user interface</a></li>\n  <li>Dynamicland 的官网图：<a href=\"https://dynamicland.org/Images/1-1-laptops.jpg\">This is computing together</a></li>\n  <li><a href=\"https://twitter.com/AndrewProjDent/status/1002603906898092032/video/1\">1 year of ARKit</a> （错误更正：视频并不是总结 ARKit 发布一年出了多少 App）</li>\n  <li><a href=\"https://developer.apple.com/arkit/gallery/\">USDZ 在网页上的展示</a>（需要 iOS 12）</li>\n  <li><a href=\"https://t.me/apple4alex/379\">打开 USDZ 的录屏</a></li>\n  <li><a href=\"https://developer.apple.com/arkit/\">ARKit 2.0 苹果官网</a></li>\n  <li><a href=\"https://t.me/apple4alex/381\">使用 Measure App 的效果</a></li>\n  <li><a href=\"http://humanetech.com/take-control/\">Humane Technology</a>: Take control of your phone.</li>\n  <li><a href=\"https://youtu.be/tf9ZhU7zF8s\">Time Well Spent 的 Youtube 视频</a></li>\n  <li>《<a href=\"https://book.douban.com/subject/3026879/\">爱的艺术</a>》</li>\n  <li><a href=\"https://webkit.org/blog/8311/intelligent-tracking-prevention-2-0/\">Intelligent Tracking Prevention 2.0</a></li>\n  <li><a href=\"https://workflow.is/\">Workflow app</a></li>\n  <li><a href=\"https://developer.apple.com/sirikit/\">SiriKit 的官网</a>上的例子中支持 HomePod 的 Shortcuts 只有两个，但是 Alex 猜测官网还没有完全更新。</li>\n  <li>错误更正：<a href=\"https://www.reddit.com/r/Telegram/comments/2vjyo2/ios_url_scheme/\">Telegram App 不只支持打开 Telegram 的 URL Scheme</a>。</li>\n</ul>\n\n<h2 id=\"本期主播\">本期主播</h2>\n\n<p><strong>Jesse</strong>：独立写作者。Twitter <a href=\"https://twitter.com/jesoooor\">@Jesoooor</a>，在做博客「<a href=\"https://jesor.me\">大破进击</a>」</p>\n\n<p><strong>Alex</strong>: Twitter <a href=\"https://twitter.com/alexs7_cpp\">@Alexs7_cpp</a>，博客「<a href=\"http://shinlog.me\">Shinji’s Logbook</a>」</p>\n\n<p><strong>林檎</strong>：UCL Digital Humanities 学生。Twitter <a href=\"https://twitter.com/Underwaternya\">@Underwaternya</a>，博客「<a href=\"https://underwaternya.github.io/\">她已非昔日之她</a>」</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://jiaocha.io/feed.xml",
+        "value": "<p>去年 9 月的 iPhone X 发布会上，苹果通过复现乔布斯当年录音的方式，重申了苹果产品的设计宗旨，就是要推崇「人性之感恩」。在刚刚过去的 WWDC18 上，苹果通过软件的更新进一步强调了这件事。</p>\n\n<p>《交差点》是一档科技人文主题播客。我们主张「科技与人文的十字路口」背后不应是一种二元的选择，两者应当是相互作用，并彼此驱动的关系。 除了用技术的方法解决问题，我们将致力于探索如何在技术崇拜盛行的今天保留人性，试图用人文的视角解读技术语境下的趣味，消除二者的对立，促成其有机结合。</p>\n\n<p>我们的网址是 <a href=\"https://jiaocha.io\">jiaocha.io</a>。我们推荐使用泛用型播客客户端收听本节目，你可以在 <a href=\"https://itunes.apple.com/podcast/id1395745599\">Apple Podcast</a>、<a href=\"https://castro.fm/podcast/b860b89f-97de-413a-b607-36092cf1fd23\">Castro</a>、<a href=\"https://overcast.fm/itunes1395745599\">Overcast</a> 和 <a href=\"http://pca.st/itunes/1395745599\">Pocket Casts</a> 上搜索关键词「交差点」找到我们，或点击链接直接进入。你也可以在<a href=\"https://space.bilibili.com/10423940\">哔哩哔哩</a>和<a href=\"http://music.163.com/#/djradio?id=527165665\">网易云音乐</a>收听到我们的节目。</p>\n\n<h2 id=\"相关链接\">相关链接</h2>\n\n<ul>\n  <li><a href=\"https://www.apple.com/apple-events/june-2018/\">WWDC KeyNote 的官方介绍页面</a></li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Tangible_user_interface\">Tangible user interface</a></li>\n  <li>Dynamicland 的官网图：<a href=\"https://dynamicland.org/Images/1-1-laptops.jpg\">This is computing together</a></li>\n  <li><a href=\"https://twitter.com/AndrewProjDent/status/1002603906898092032/video/1\">1 year of ARKit</a> （错误更正：视频并不是总结 ARKit 发布一年出了多少 App）</li>\n  <li><a href=\"https://developer.apple.com/arkit/gallery/\">USDZ 在网页上的展示</a>（需要 iOS 12）</li>\n  <li><a href=\"https://t.me/apple4alex/379\">打开 USDZ 的录屏</a></li>\n  <li><a href=\"https://developer.apple.com/arkit/\">ARKit 2.0 苹果官网</a></li>\n  <li><a href=\"https://t.me/apple4alex/381\">使用 Measure App 的效果</a></li>\n  <li><a href=\"http://humanetech.com/take-control/\">Humane Technology</a>: Take control of your phone.</li>\n  <li><a href=\"https://youtu.be/tf9ZhU7zF8s\">Time Well Spent 的 Youtube 视频</a></li>\n  <li>《<a href=\"https://book.douban.com/subject/3026879/\">爱的艺术</a>》</li>\n  <li><a href=\"https://webkit.org/blog/8311/intelligent-tracking-prevention-2-0/\">Intelligent Tracking Prevention 2.0</a></li>\n  <li><a href=\"https://workflow.is/\">Workflow app</a></li>\n  <li><a href=\"https://developer.apple.com/sirikit/\">SiriKit 的官网</a>上的例子中支持 HomePod 的 Shortcuts 只有两个，但是 Alex 猜测官网还没有完全更新。</li>\n  <li>错误更正：<a href=\"https://www.reddit.com/r/Telegram/comments/2vjyo2/ios_url_scheme/\">Telegram App 不只支持打开 Telegram 的 URL Scheme</a>。</li>\n</ul>\n\n<h2 id=\"本期主播\">本期主播</h2>\n\n<p><strong>Jesse</strong>：独立写作者。Twitter <a href=\"https://twitter.com/jesoooor\">@Jesoooor</a>，在做博客「<a href=\"https://jesor.me\">大破进击</a>」</p>\n\n<p><strong>Alex</strong>: Twitter <a href=\"https://twitter.com/alexs7_cpp\">@Alexs7_cpp</a>，博客「<a href=\"http://shinlog.me\">Shinji’s Logbook</a>」</p>\n\n<p><strong>林檎</strong>：UCL Digital Humanities 学生。Twitter <a href=\"https://twitter.com/Underwaternya\">@Underwaternya</a>，博客「<a href=\"https://underwaternya.github.io/\">她已非昔日之她</a>」</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://jiaocha.io/feed.xml",
+            "value": "<p>去年 9 月的 iPhone X 发布会上，苹果通过复现乔布斯当年录音的方式，重申了苹果产品的设计宗旨，就是要推崇「人性之感恩」。在刚刚过去的 WWDC18 上，苹果通过软件的更新进一步强调了这件事。</p>\n\n<p>《交差点》是一档科技人文主题播客。我们主张「科技与人文的十字路口」背后不应是一种二元的选择，两者应当是相互作用，并彼此驱动的关系。 除了用技术的方法解决问题，我们将致力于探索如何在技术崇拜盛行的今天保留人性，试图用人文的视角解读技术语境下的趣味，消除二者的对立，促成其有机结合。</p>\n\n<p>我们的网址是 <a href=\"https://jiaocha.io\">jiaocha.io</a>。我们推荐使用泛用型播客客户端收听本节目，你可以在 <a href=\"https://itunes.apple.com/podcast/id1395745599\">Apple Podcast</a>、<a href=\"https://castro.fm/podcast/b860b89f-97de-413a-b607-36092cf1fd23\">Castro</a>、<a href=\"https://overcast.fm/itunes1395745599\">Overcast</a> 和 <a href=\"http://pca.st/itunes/1395745599\">Pocket Casts</a> 上搜索关键词「交差点」找到我们，或点击链接直接进入。你也可以在<a href=\"https://space.bilibili.com/10423940\">哔哩哔哩</a>和<a href=\"http://music.163.com/#/djradio?id=527165665\">网易云音乐</a>收听到我们的节目。</p>\n\n<h2 id=\"相关链接\">相关链接</h2>\n\n<ul>\n  <li><a href=\"https://www.apple.com/apple-events/june-2018/\">WWDC KeyNote 的官方介绍页面</a></li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Tangible_user_interface\">Tangible user interface</a></li>\n  <li>Dynamicland 的官网图：<a href=\"https://dynamicland.org/Images/1-1-laptops.jpg\">This is computing together</a></li>\n  <li><a href=\"https://twitter.com/AndrewProjDent/status/1002603906898092032/video/1\">1 year of ARKit</a> （错误更正：视频并不是总结 ARKit 发布一年出了多少 App）</li>\n  <li><a href=\"https://developer.apple.com/arkit/gallery/\">USDZ 在网页上的展示</a>（需要 iOS 12）</li>\n  <li><a href=\"https://t.me/apple4alex/379\">打开 USDZ 的录屏</a></li>\n  <li><a href=\"https://developer.apple.com/arkit/\">ARKit 2.0 苹果官网</a></li>\n  <li><a href=\"https://t.me/apple4alex/381\">使用 Measure App 的效果</a></li>\n  <li><a href=\"http://humanetech.com/take-control/\">Humane Technology</a>: Take control of your phone.</li>\n  <li><a href=\"https://youtu.be/tf9ZhU7zF8s\">Time Well Spent 的 Youtube 视频</a></li>\n  <li>《<a href=\"https://book.douban.com/subject/3026879/\">爱的艺术</a>》</li>\n  <li><a href=\"https://webkit.org/blog/8311/intelligent-tracking-prevention-2-0/\">Intelligent Tracking Prevention 2.0</a></li>\n  <li><a href=\"https://workflow.is/\">Workflow app</a></li>\n  <li><a href=\"https://developer.apple.com/sirikit/\">SiriKit 的官网</a>上的例子中支持 HomePod 的 Shortcuts 只有两个，但是 Alex 猜测官网还没有完全更新。</li>\n  <li>错误更正：<a href=\"https://www.reddit.com/r/Telegram/comments/2vjyo2/ios_url_scheme/\">Telegram App 不只支持打开 Telegram 的 URL Scheme</a>。</li>\n</ul>\n\n<h2 id=\"本期主播\">本期主播</h2>\n\n<p><strong>Jesse</strong>：独立写作者。Twitter <a href=\"https://twitter.com/jesoooor\">@Jesoooor</a>，在做博客「<a href=\"https://jesor.me\">大破进击</a>」</p>\n\n<p><strong>Alex</strong>: Twitter <a href=\"https://twitter.com/alexs7_cpp\">@Alexs7_cpp</a>，博客「<a href=\"http://shinlog.me\">Shinji’s Logbook</a>」</p>\n\n<p><strong>林檎</strong>：UCL Digital Humanities 学生。Twitter <a href=\"https://twitter.com/Underwaternya\">@Underwaternya</a>，博客「<a href=\"https://underwaternya.github.io/\">她已非昔日之她</a>」</p>"
+        }
+    ],
+    "itunes_title": "WWDC18 试图教会我们用技术去修塑人性",
+    "itunes_episode": "1",
+    "subtitle": "去年 9 月的 iPhone X 发布会上，苹果通过复现乔布斯当年录音的方式，重申了苹果产品的设计宗旨，就是要推崇「人性之感恩」。在刚刚过去的 WWDC18 上，苹果通过软件的更新进一步强调了这件事。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://jiaocha.io/feed.xml",
+        "value": "去年 9 月的 iPhone X 发布会上，苹果通过复现乔布斯当年录音的方式，重申了苹果产品的设计宗旨，就是要推崇「人性之感恩」。在刚刚过去的 WWDC18 上，苹果通过软件的更新进一步强调了这件事。"
+    },
+    "author_detail": {
+        "name": "Jesse, Alex, 林檎"
+    },
+    "image": {
+        "href": "https://jiaocha.io/assets/logo/logo.jpg"
+    },
+    "itunes_explicit": null,
+    "itunes_duration": "01:24:04"
+}

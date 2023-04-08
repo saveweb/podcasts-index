@@ -1,0 +1,58 @@
+{
+    "http-content-length": 86401572,
+    "http-etag": "c363a41a896bc9e2b0c9da422506240b",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline",
+    "http-content-disposition-filename": null,
+    "actual-size": 86401572,
+    "actual-duration": 5400,
+    "sha1": "2cd07a6e4d7d9d4b8ca396051aaa47b912173ae2",
+    "md5": "b5b3704b70cf94c5d312cf34ecca2b5e",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/6390870541e41a00108d8ac9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=nxlHPtOHFXUyLBKmcMMJi10gDDwSSH9sb-ZsURihuGw",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:09:34 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/c363a41a896bc9e2b0c9da422506240b.mp3?aid=6390870541e41a00108d8ac9&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=E5heo3fiizKZ5IJM8d01te_uTOHFo6nv-FgQ4WL9bZ7YK-SXKdHgvw%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=1b1caa52fd26a5857fed74d00f2bdd8d&Expires=1680956674352&Key-Pair-Id=K38CTQXUSD0VVB&Signature=ImkmwlEuYmyeN417dhnIETgQYIiqmtsL3efpJNn9niIGwAoNeKomPqiSSVsfZS-2bjLOGO7fsTaDP2DLtNl8DnvHgzrZToIVG1Y~0urYDJFuP9BcWxESVhrSXB34y6rFUmKhtDfB-XoCLPhZHisdSjGBee1liHN-7fwG97puQcqjeHVS2DqxEfNZgSrNKKpcDiZolG~QZ9~-NPeIgAe71QS6w60LIBEk-MskG-PHgabLIjujEt8Bh1bHjoZkCLWtfMh5v7K1cP4SY-OGoDVnJFx47qwYHAzquRHg-KxhCcxIsxbZiuN7Ch4OJZSfktz2qIJbWcaXkd0zWFsfF6PeDQ__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "E5heo3fiizKZ5IJM8d01te_uTOHFo6nv-FgQ4WL9bZ7YK-SXKdHgvw=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/c363a41a896bc9e2b0c9da422506240b.mp3?aid=6390870541e41a00108d8ac9&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=E5heo3fiizKZ5IJM8d01te_uTOHFo6nv-FgQ4WL9bZ7YK-SXKdHgvw%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=1b1caa52fd26a5857fed74d00f2bdd8d&Expires=1680956674352&Key-Pair-Id=K38CTQXUSD0VVB&Signature=ImkmwlEuYmyeN417dhnIETgQYIiqmtsL3efpJNn9niIGwAoNeKomPqiSSVsfZS-2bjLOGO7fsTaDP2DLtNl8DnvHgzrZToIVG1Y~0urYDJFuP9BcWxESVhrSXB34y6rFUmKhtDfB-XoCLPhZHisdSjGBee1liHN-7fwG97puQcqjeHVS2DqxEfNZgSrNKKpcDiZolG~QZ9~-NPeIgAe71QS6w60LIBEk-MskG-PHgabLIjujEt8Bh1bHjoZkCLWtfMh5v7K1cP4SY-OGoDVnJFx47qwYHAzquRHg-KxhCcxIsxbZiuN7Ch4OJZSfktz2qIJbWcaXkd0zWFsfF6PeDQ__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "86401572",
+                "Connection": "keep-alive",
+                "Date": "Fri, 07 Apr 2023 15:12:14 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "inline",
+                "ETag": "\"c363a41a896bc9e2b0c9da422506240b\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "5nlCkkQrjzph9IZvGB9bCTVlQDeaYk78jT1viGWjSXerrqdDtvmXHQ==",
+                "Age": "64640"
+            }
+        }
+    }
+}

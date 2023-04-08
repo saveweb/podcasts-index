@@ -1,0 +1,56 @@
+{
+    "title": "41. 一辈子做技术",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "41. 一辈子做技术"
+    },
+    "itunes_episode": "41",
+    "itunes_title": "一辈子做技术",
+    "summary": "<p>本期开始有主题曲。Rio 解释了为什么下一代 iPhone 会采用无线耳机，吴涛讨论了程序员的阶级流动性。最后聊了聊 WWDC 的各项更新，还不算太晚。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.zhihu.com/question/48052650\">Overwatch: Heroes never die</a></li>\n<li><a href=\"http://9to5mac.com/2016/06/04/how-to-enable-4k-60hz-resolution-2016-macbook/\">How to Enable 4k 60Hz Resolution 2016 Macbook</a></li>\n<li><a href=\"https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c\">Being A Developer After 40</a></li>\n<li><a href=\"https://www.oreilly.com/ideas/2016-software-development-salary-survey-report\">O&rsquo;Reilly 2016 年程序开发薪酬报告</a></li>\n<li><a href=\"https://developer.apple.com/news/?id=07082016a\">Searchable WWDC16 Video Transcripts</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/King%27s_Quest\">King&rsquo;s Quest</a></li>\n</ul>\n\n<h2>登场人物</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"http://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>本期开始有主题曲。Rio 解释了为什么下一代 iPhone 会采用无线耳机，吴涛讨论了程序员的阶级流动性。最后聊了聊 WWDC 的各项更新，还不算太晚。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.zhihu.com/question/48052650\">Overwatch: Heroes never die</a></li>\n<li><a href=\"http://9to5mac.com/2016/06/04/how-to-enable-4k-60hz-resolution-2016-macbook/\">How to Enable 4k 60Hz Resolution 2016 Macbook</a></li>\n<li><a href=\"https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c\">Being A Developer After 40</a></li>\n<li><a href=\"https://www.oreilly.com/ideas/2016-software-development-salary-survey-report\">O&rsquo;Reilly 2016 年程序开发薪酬报告</a></li>\n<li><a href=\"https://developer.apple.com/news/?id=07082016a\">Searchable WWDC16 Video Transcripts</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/King%27s_Quest\">King&rsquo;s Quest</a></li>\n</ul>\n\n<h2>登场人物</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"http://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/41"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "106195269",
+            "href": "https://pan.icu/41/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/41",
+    "id": "https://pan.icu/41",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Mon, 18 Jul 2016 00:22:57 +0000",
+    "published_parsed": [
+        2016,
+        7,
+        18,
+        0,
+        22,
+        57,
+        0,
+        200,
+        0
+    ],
+    "itunes_duration": "8836"
+}

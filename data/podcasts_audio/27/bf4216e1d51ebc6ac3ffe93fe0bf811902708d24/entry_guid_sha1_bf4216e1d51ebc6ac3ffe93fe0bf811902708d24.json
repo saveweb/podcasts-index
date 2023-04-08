@@ -1,0 +1,75 @@
+{
+    "links": [
+        {
+            "length": "80283609",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/15D3AF/r.typlog.com/eyJzIjoxODIzLCJlIjo0OTgyMywicCI6MiwidSI6Ijk3MDIubXAzIn0.CffucO4YFyivFqwIYGOgu6rYuMo/2bab/8362516773_799702.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://binary.2bab.me/episodes/13-android-community-commercialization-benny-huo"
+        }
+    ],
+    "title": "#13 Android 社区与商业化- BennyHuo 篇",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "#13 Android 社区与商业化- BennyHuo 篇"
+    },
+    "id": "https://binary.2bab.me/episodes/13-android-community-commercialization-benny-huo",
+    "guidislink": true,
+    "link": "https://binary.2bab.me/episodes/13-android-community-commercialization-benny-huo",
+    "authors": [
+        {
+            "name": "2BAB"
+        }
+    ],
+    "author": "2BAB",
+    "author_detail": {
+        "name": "2BAB"
+    },
+    "itunes_duration": "1:23:37",
+    "itunes_explicit": null,
+    "itunes_episode": "13",
+    "podcast_episode": "13",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/2bab/8378917814_418047.png?x-oss-process=style/sl"
+    },
+    "summary": "13 Android 社区与商业化- BennyHuo 篇 本期人物：BennyHuo 霍丙乾，AB 本期我们请到了《深入理解 Kotlin 协程》的作者霍丙乾老师，聊聊霍老师多年、基于多种媒介持续创作过程中一些故事，以及驱动力来源、职业病、付费和收入的探讨等。这是一个系列节目，探索 Android 社区（或周边生态）和商业化的关系，是用爱发电还是相互促进？ 欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~ 时间轴： 00:43 霍老师的自我介绍，包括英文名的由来 01:14 这两年输出载体的转变 / 图书和视频教程的改错流程 06:12 当《深入理解 Kotlin 协程》遇上了新冠 11:51 创作文章、图书、视频教程的动机：自己的想法或者约稿？如何简化制作过程换取高产高质？ 20:30 多年的输出如何坚持下来？如何与工作的内容进行切割、互补。（一本原创书，近十个系列教程含收费、不收费，文字或者视频，还有几十篇各式各样的其他文章含社区维护、Java、Kotlin、Gradle 等零散的点以及多个技术大会分享） 37:41 关于社区和语言：学习英文资料，同时输出更多中文资料 45:03 在中国出书并不赚钱 49:25 最紧张的时候——清晨五点半起床做视频 53:04 职业病 / 保持锻炼 / 高产背后的努力和代价 57:56 开放式讨论：程序员是青春饭吗？加班是年轻人的上升通道吗？ 64:46 仅靠之前的收费课程、书籍足够“躺着”吗？（联动朱凯老师的商业体系) 69:58 如何面对差评？《深入理解 Kotlin 协程》下一版可能会改变的地方？ 71:13 突然回归的保留环节，推荐过去一年购买过的好物：新的 Windows 笔电 相关信息： 《深入理解 Kotlin 协程》 Kotlin 中文站首页（底部有社区维护者列表） Kotlin 官方文档 中文版（GitBook 版，已更新到 Kotlin 1.6） 公众号：Android高效开发、南瓜饼日常 二分电台官网 关于和版权信息 BennyHuo 霍丙乾老师的联系方式： 关于 BennyHuo AB 的联系方式： Email: xx2bab@gmail.com Github: 2BAB Twitter: 2BAB Blog: 2BAB‘s Engineering Blog",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://binary.2bab.me/feed/audio.xml",
+        "value": "13 Android 社区与商业化- BennyHuo 篇 本期人物：BennyHuo 霍丙乾，AB 本期我们请到了《深入理解 Kotlin 协程》的作者霍丙乾老师，聊聊霍老师多年、基于多种媒介持续创作过程中一些故事，以及驱动力来源、职业病、付费和收入的探讨等。这是一个系列节目，探索 Android 社区（或周边生态）和商业化的关系，是用爱发电还是相互促进？ 欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~ 时间轴： 00:43 霍老师的自我介绍，包括英文名的由来 01:14 这两年输出载体的转变 / 图书和视频教程的改错流程 06:12 当《深入理解 Kotlin 协程》遇上了新冠 11:51 创作文章、图书、视频教程的动机：自己的想法或者约稿？如何简化制作过程换取高产高质？ 20:30 多年的输出如何坚持下来？如何与工作的内容进行切割、互补。（一本原创书，近十个系列教程含收费、不收费，文字或者视频，还有几十篇各式各样的其他文章含社区维护、Java、Kotlin、Gradle 等零散的点以及多个技术大会分享） 37:41 关于社区和语言：学习英文资料，同时输出更多中文资料 45:03 在中国出书并不赚钱 49:25 最紧张的时候——清晨五点半起床做视频 53:04 职业病 / 保持锻炼 / 高产背后的努力和代价 57:56 开放式讨论：程序员是青春饭吗？加班是年轻人的上升通道吗？ 64:46 仅靠之前的收费课程、书籍足够“躺着”吗？（联动朱凯老师的商业体系) 69:58 如何面对差评？《深入理解 Kotlin 协程》下一版可能会改变的地方？ 71:13 突然回归的保留环节，推荐过去一年购买过的好物：新的 Windows 笔电 相关信息： 《深入理解 Kotlin 协程》 Kotlin 中文站首页（底部有社区维护者列表） Kotlin 官方文档 中文版（GitBook 版，已更新到 Kotlin 1.6） 公众号：Android高效开发、南瓜饼日常 二分电台官网 关于和版权信息 BennyHuo 霍丙乾老师的联系方式： 关于 BennyHuo AB 的联系方式： Email: xx2bab@gmail.com Github: 2BAB Twitter: 2BAB Blog: 2BAB‘s Engineering Blog"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h1>13 Android 社区与商业化- BennyHuo 篇</h1>\n<p>本期人物：BennyHuo 霍丙乾，AB</p>\n<p>本期我们请到了《深入理解 Kotlin 协程》的作者霍丙乾老师，聊聊霍老师多年、基于多种媒介持续创作过程中一些故事，以及驱动力来源、职业病、付费和收入的探讨等。这是一个系列节目，探索 Android 社区（或周边生态）和商业化的关系，是用爱发电还是相互促进？</p>\n<p>欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:43\">00:43</a> 霍老师的自我介绍，包括英文名的由来</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=01:14\">01:14</a> 这两年输出载体的转变 / 图书和视频教程的改错流程</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=06:12\">06:12</a> 当《深入理解 Kotlin 协程》遇上了新冠</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=11:51\">11:51</a> 创作文章、图书、视频教程的动机：自己的想法或者约稿？如何简化制作过程换取高产高质？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=20:30\">20:30</a> 多年的输出如何坚持下来？如何与工作的内容进行切割、互补。（一本原创书，近十个系列教程含收费、不收费，文字或者视频，还有几十篇各式各样的其他文章含社区维护、Java、Kotlin、Gradle 等零散的点以及多个技术大会分享）</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=37:41\">37:41</a> 关于社区和语言：学习英文资料，同时输出更多中文资料</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=45:03\">45:03</a> 在中国出书并不赚钱</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=49:25\">49:25</a> 最紧张的时候——清晨五点半起床做视频</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=53:04\">53:04</a> 职业病 / 保持锻炼 / 高产背后的努力和代价</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=57:56\">57:56</a> 开放式讨论：程序员是青春饭吗？加班是年轻人的上升通道吗？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=64:46\">64:46</a> 仅靠之前的收费课程、书籍足够“躺着”吗？（联动朱凯老师的<a href=\"https://binary.2bab.me/episodes/11-android-community-commercialization-zhukai-gde\">商业体系</a>)</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=69:58\">69:58</a> 如何面对差评？《深入理解 Kotlin 协程》下一版可能会改变的地方？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=71:13\">71:13</a> 突然回归的保留环节，推荐过去一年购买过的好物：新的 Windows 笔电</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://www.bennyhuo.com/project/kotlin-coroutines.html\">《深入理解 Kotlin 协程》</a></li>\n<li><a href=\"https://www.kotlincn.net\">Kotlin 中文站首页（底部有社区维护者列表）</a></li>\n<li><a href=\"https://book.kotlincn.net\">Kotlin 官方文档 中文版（GitBook 版，已更新到 Kotlin 1.6）</a></li>\n<li><a href=\"https://binary.2bab.me/about\">公众号：Android高效开发、南瓜饼日常</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n</ul>\n<p>BennyHuo 霍丙乾老师的联系方式：</p>\n<ul>\n<li><a href=\"https://www.bennyhuo.com/about/\">关于 BennyHuo</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"mailto:xx2bab@gmail.com\">Email: xx2bab@gmail.com</a></li>\n<li><a href=\"https://github.com/2bab/\">Github: 2BAB</a></li>\n<li><a href=\"https://twitter.com/x2bab/\">Twitter: 2BAB</a></li>\n<li><a href=\"https://2bab.me/about\">Blog: 2BAB‘s Engineering Blog</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://binary.2bab.me/feed/audio.xml",
+            "value": "<h1>13 Android 社区与商业化- BennyHuo 篇</h1>\n<p>本期人物：BennyHuo 霍丙乾，AB</p>\n<p>本期我们请到了《深入理解 Kotlin 协程》的作者霍丙乾老师，聊聊霍老师多年、基于多种媒介持续创作过程中一些故事，以及驱动力来源、职业病、付费和收入的探讨等。这是一个系列节目，探索 Android 社区（或周边生态）和商业化的关系，是用爱发电还是相互促进？</p>\n<p>欢迎在“小宇宙”、或其他泛用型播客平台订阅二分电台，加入听众群的方式见“Android高效开发”公众号菜单 、“南瓜饼日常”公众号菜单~</p>\n<p>时间轴：</p>\n<ul>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=00:43\">00:43</a> 霍老师的自我介绍，包括英文名的由来</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=01:14\">01:14</a> 这两年输出载体的转变 / 图书和视频教程的改错流程</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=06:12\">06:12</a> 当《深入理解 Kotlin 协程》遇上了新冠</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=11:51\">11:51</a> 创作文章、图书、视频教程的动机：自己的想法或者约稿？如何简化制作过程换取高产高质？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=20:30\">20:30</a> 多年的输出如何坚持下来？如何与工作的内容进行切割、互补。（一本原创书，近十个系列教程含收费、不收费，文字或者视频，还有几十篇各式各样的其他文章含社区维护、Java、Kotlin、Gradle 等零散的点以及多个技术大会分享）</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=37:41\">37:41</a> 关于社区和语言：学习英文资料，同时输出更多中文资料</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=45:03\">45:03</a> 在中国出书并不赚钱</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=49:25\">49:25</a> 最紧张的时候——清晨五点半起床做视频</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=53:04\">53:04</a> 职业病 / 保持锻炼 / 高产背后的努力和代价</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=57:56\">57:56</a> 开放式讨论：程序员是青春饭吗？加班是年轻人的上升通道吗？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=64:46\">64:46</a> 仅靠之前的收费课程、书籍足够“躺着”吗？（联动朱凯老师的<a href=\"https://binary.2bab.me/episodes/11-android-community-commercialization-zhukai-gde\">商业体系</a>)</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=69:58\">69:58</a> 如何面对差评？《深入理解 Kotlin 协程》下一版可能会改变的地方？</li>\n<li><a href=\"https://binary.2bab.me/feed/audio.xml#t=71:13\">71:13</a> 突然回归的保留环节，推荐过去一年购买过的好物：新的 Windows 笔电</li>\n</ul>\n<p>相关信息：</p>\n<ul>\n<li><a href=\"https://www.bennyhuo.com/project/kotlin-coroutines.html\">《深入理解 Kotlin 协程》</a></li>\n<li><a href=\"https://www.kotlincn.net\">Kotlin 中文站首页（底部有社区维护者列表）</a></li>\n<li><a href=\"https://book.kotlincn.net\">Kotlin 官方文档 中文版（GitBook 版，已更新到 Kotlin 1.6）</a></li>\n<li><a href=\"https://binary.2bab.me/about\">公众号：Android高效开发、南瓜饼日常</a></li>\n<li><a href=\"https://binary.2bab.me/\">二分电台官网</a></li>\n<li><a href=\"https://binary.2bab.me/about\">关于和版权信息</a></li>\n</ul>\n<p>BennyHuo 霍丙乾老师的联系方式：</p>\n<ul>\n<li><a href=\"https://www.bennyhuo.com/about/\">关于 BennyHuo</a></li>\n</ul>\n<p>AB 的联系方式：</p>\n<ul>\n<li><a href=\"mailto:xx2bab@gmail.com\">Email: xx2bab@gmail.com</a></li>\n<li><a href=\"https://github.com/2bab/\">Github: 2BAB</a></li>\n<li><a href=\"https://twitter.com/x2bab/\">Twitter: 2BAB</a></li>\n<li><a href=\"https://2bab.me/about\">Blog: 2BAB‘s Engineering Blog</a></li>\n</ul>"
+        }
+    ],
+    "published": "Sun, 21 Nov 2021 12:42:40 +0000",
+    "published_parsed": [
+        2021,
+        11,
+        21,
+        12,
+        42,
+        40,
+        6,
+        325,
+        0
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "links": [
+        {
+            "length": "34886135",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/38591G/r.typlog.com/eyJzIjo4MzgsImUiOjYxNDk5LCJwIjoyLCJ1IjoiMTkxOC5tcDMifQ.IUbQRxdSESR52I5vBrx7KsScTgY/zhuchangsile/8338054516_001918.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zhuchangsile.xyz/episodes/ancohiring"
+        }
+    ],
+    "title": "招聘启事：上海 An Corporation 乐队正在招募吉他手和小提琴手",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zhuchangsile.xyz/feed/audio.xml",
+        "value": "招聘启事：上海 An Corporation 乐队正在招募吉他手和小提琴手"
+    },
+    "id": "https://zhuchangsile.xyz/episodes/ancohiring",
+    "guidislink": true,
+    "link": "https://zhuchangsile.xyz/episodes/ancohiring",
+    "authors": [
+        {
+            "name": "B，佳杰"
+        }
+    ],
+    "author": "B，佳杰",
+    "author_detail": {
+        "name": "B，佳杰"
+    },
+    "itunes_duration": "18:10",
+    "itunes_explicit": null,
+    "itunes_episodetype": "bonus",
+    "image": {
+        "href": "https://i.typlog.com/zhuchangsile/8338054521_8077.png?x-oss-process=style/sl"
+    },
+    "summary": "乐队招吉他手和小提琴手！ 常驻上海的器乐摇滚乐队 An Corporation 正在寻找可以长期合作的吉他手和短期合作的巡演客座小提琴手，收听本期节目可以获得详细信息和曲目试听，谢谢！",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zhuchangsile.xyz/feed/audio.xml",
+        "value": "乐队招吉他手和小提琴手！ 常驻上海的器乐摇滚乐队 An Corporation 正在寻找可以长期合作的吉他手和短期合作的巡演客座小提琴手，收听本期节目可以获得详细信息和曲目试听，谢谢！"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zhuchangsile.xyz/feed/audio.xml",
+            "value": "<p>乐队招吉他手和小提琴手！</p>\n<p>常驻上海的器乐摇滚乐队 An Corporation 正在寻找可以长期合作的吉他手和短期合作的巡演客座小提琴手，收听本期节目可以获得详细信息和曲目试听，谢谢！</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zhuchangsile.xyz/feed/audio.xml",
+            "value": "<p>乐队招吉他手和小提琴手！</p>\n<p>常驻上海的器乐摇滚乐队 An Corporation 正在寻找可以长期合作的吉他手和短期合作的巡演客座小提琴手，收听本期节目可以获得详细信息和曲目试听，谢谢！</p>\n<hr /><p><a href=\"https://patreon.com/zhuchangsile\" rel=\"payment\">Support on Patreon</a> | <a href=\"https://afdian.net/@zhuchangsile\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Wed, 31 Aug 2022 11:38:20 +0000",
+    "published_parsed": [
+        2022,
+        8,
+        31,
+        11,
+        38,
+        20,
+        2,
+        243,
+        0
+    ]
+}

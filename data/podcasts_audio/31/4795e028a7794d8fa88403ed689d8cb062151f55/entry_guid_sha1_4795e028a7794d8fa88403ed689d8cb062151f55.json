@@ -1,0 +1,56 @@
+{
+    "title": "57. Virus Panic",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "57. Virus Panic"
+    },
+    "itunes_episode": "57",
+    "itunes_title": "Virus Panic",
+    "summary": "<p>关于节目的一些更新、吴涛从德国发回欧洲新型冠状病毒疫情报道、已在国区下架的《瘟疫公司》游戏对理解病毒传播模型的启发、朊病毒和计算机病毒的相似性、炫技型病毒/恶意程序的式微、商业/政治目的驱动的恶意程序逐渐成为主流、FPGA 病毒与杀毒的脑洞大开、优生学与 Star Trek、如何快速判断年份是否是闰年、2020 年闰年出现的各种软件 bug、节目新 logo 的制作过程、吴涛的备灾物资储备、德国人对戴口罩的根深蒂固的成见、以及德国的防疫措施。</p>\n\n<p>【勘误】节目中 Rio 说错了 HTTP 304 永久跳转，应该是 HTTP 301 或 308 永久跳转。详见 <a href=\"https://tools.ietf.org/html/rfc7538\">RFC 7538</a>。</p>\n\n<hr />\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li>iOS 游戏《<a href=\"https://apps.apple.com/cn/app/plague-inc-瘟疫公司/id525818839\">瘟疫公司</a>》（需非中国区 Apple ID 才可下载）</li>\n<li>Netflix 自制剧 <a href=\"https://en.wikipedia.org/wiki/Love,_Death_%26_Robots\"><em>Love, Death &amp; Robots</em></a></li>\n<li><a href=\"https://www.khanacademy.org/test-prep/mcat/cells/viruses/a/are-viruses-dead-or-alive\">Are Virus Dead or Alive?</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-cn/朊毒體\">朊病毒</a></li>\n<li>冯诺伊曼 1966 年发表的论文 <a href=\"http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf\">“Theory of Self-Reproducing Automata”</a></li>\n<li><a href=\"https://history-computer.com/Internet/Maturing/Thomas.html\">First Computer Virus</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Norton_AntiVirus\">Norton Antivirus</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/金山毒霸\">金山毒霸</a></li>\n<li>1997年江民杀毒软件<a href=\"https://zh.wikipedia.org/zh-cn/江民殺毒軟件\">KV3000逻辑炸弹事件</a></li>\n<li><a href=\"https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems\">操作系统 Ring 0 和 Ring 3 的区别</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intel_Management_Engine\">Intel Management Engine</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Address_space_layout_randomization\">Address Space Layout Randomization</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Chroot\">Unix chroot</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/FreeBSD_jail\">BSD jail</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Cgroups\">Linux cgroups</a></li>\n<li>勒索软件 <a href=\"https://en.wikipedia.org/wiki/Ransomware\">Randsomware</a></li>\n<li><a href=\"https://cve.mitre.org\">Common Vulnerabilities and Exposures</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Internet_bot\">Internet bot</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Stuxnet\">Stuxnet</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Programmable_logic_controller\">Programmable Logic Controller</a></li>\n<li><a href=\"http://book.bionumbers.org/how-big-are-viruses/\">How big are viruses?</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Mamavirus\">Mamavirus</a></li>\n<li>微生物体积对比视频：<a href=\"https://www.youtube.com/watch?v=h0xTKxbIElU\">Microorganisms Size Comparison</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Field-programmable_gate_array\">Field-Programmable Gate Array</a></li>\n<li>集成 FPGA 的 <a href=\"https://www.anandtech.com/show/12773/intel-shows-xeon-scalable-gold-6138p-with-integrated-fpga-shipping-to-vendors\">Intel Xeon Scalable Gold 6138P 处理器</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/優生學\">优生学/善种学</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Star_Trek\">Star Trek 星际迷航</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Leap_year\">Leap Year</a></li>\n<li><a href=\"https://codeofmatt.com/list-of-2020-leap-day-bugs/\">2020 年闰年bug列表</a></li>\n<li><a href=\"https://support.google.com/accounts/answer/3036546?hl=ena\">Google Inactive Account Manager</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>关于节目的一些更新、吴涛从德国发回欧洲新型冠状病毒疫情报道、已在国区下架的《瘟疫公司》游戏对理解病毒传播模型的启发、朊病毒和计算机病毒的相似性、炫技型病毒/恶意程序的式微、商业/政治目的驱动的恶意程序逐渐成为主流、FPGA 病毒与杀毒的脑洞大开、优生学与 Star Trek、如何快速判断年份是否是闰年、2020 年闰年出现的各种软件 bug、节目新 logo 的制作过程、吴涛的备灾物资储备、德国人对戴口罩的根深蒂固的成见、以及德国的防疫措施。</p>\n\n<p>【勘误】节目中 Rio 说错了 HTTP 304 永久跳转，应该是 HTTP 301 或 308 永久跳转。详见 <a href=\"https://tools.ietf.org/html/rfc7538\">RFC 7538</a>。</p>\n\n<hr />\n\n<ul>\n<li>Rio 和黄海主持的《<a href=\"https://crazy.capital\">疯投圈</a>》</li>\n<li>Rio 和任宁主持的《<a href=\"https://pretro.xyz\">提前怀旧</a>》</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li>iOS 游戏《<a href=\"https://apps.apple.com/cn/app/plague-inc-瘟疫公司/id525818839\">瘟疫公司</a>》（需非中国区 Apple ID 才可下载）</li>\n<li>Netflix 自制剧 <a href=\"https://en.wikipedia.org/wiki/Love,_Death_%26_Robots\"><em>Love, Death &amp; Robots</em></a></li>\n<li><a href=\"https://www.khanacademy.org/test-prep/mcat/cells/viruses/a/are-viruses-dead-or-alive\">Are Virus Dead or Alive?</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-cn/朊毒體\">朊病毒</a></li>\n<li>冯诺伊曼 1966 年发表的论文 <a href=\"http://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf\">“Theory of Self-Reproducing Automata”</a></li>\n<li><a href=\"https://history-computer.com/Internet/Maturing/Thomas.html\">First Computer Virus</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Norton_AntiVirus\">Norton Antivirus</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/金山毒霸\">金山毒霸</a></li>\n<li>1997年江民杀毒软件<a href=\"https://zh.wikipedia.org/zh-cn/江民殺毒軟件\">KV3000逻辑炸弹事件</a></li>\n<li><a href=\"https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems\">操作系统 Ring 0 和 Ring 3 的区别</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intel_Management_Engine\">Intel Management Engine</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Address_space_layout_randomization\">Address Space Layout Randomization</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Chroot\">Unix chroot</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/FreeBSD_jail\">BSD jail</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Cgroups\">Linux cgroups</a></li>\n<li>勒索软件 <a href=\"https://en.wikipedia.org/wiki/Ransomware\">Randsomware</a></li>\n<li><a href=\"https://cve.mitre.org\">Common Vulnerabilities and Exposures</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Internet_bot\">Internet bot</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Stuxnet\">Stuxnet</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Programmable_logic_controller\">Programmable Logic Controller</a></li>\n<li><a href=\"http://book.bionumbers.org/how-big-are-viruses/\">How big are viruses?</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Mamavirus\">Mamavirus</a></li>\n<li>微生物体积对比视频：<a href=\"https://www.youtube.com/watch?v=h0xTKxbIElU\">Microorganisms Size Comparison</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Field-programmable_gate_array\">Field-Programmable Gate Array</a></li>\n<li>集成 FPGA 的 <a href=\"https://www.anandtech.com/show/12773/intel-shows-xeon-scalable-gold-6138p-with-integrated-fpga-shipping-to-vendors\">Intel Xeon Scalable Gold 6138P 处理器</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/優生學\">优生学/善种学</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Star_Trek\">Star Trek 星际迷航</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Leap_year\">Leap Year</a></li>\n<li><a href=\"https://codeofmatt.com/list-of-2020-leap-day-bugs/\">2020 年闰年bug列表</a></li>\n<li><a href=\"https://support.google.com/accounts/answer/3036546?hl=ena\">Google Inactive Account Manager</a></li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/57"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "53586675",
+            "href": "https://pan.icu/57/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/57",
+    "id": "https://pan.icu/57",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Wed, 01 Apr 2020 15:59:59 +0000",
+    "published_parsed": [
+        2020,
+        4,
+        1,
+        15,
+        59,
+        59,
+        2,
+        92,
+        0
+    ],
+    "itunes_duration": "6698"
+}

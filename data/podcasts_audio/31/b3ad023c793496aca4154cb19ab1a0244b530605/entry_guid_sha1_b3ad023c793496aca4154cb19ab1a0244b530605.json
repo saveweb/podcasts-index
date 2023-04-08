@@ -1,0 +1,56 @@
+{
+    "title": "38. Hit the Kernel Panic Button",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "38. Hit the Kernel Panic Button"
+    },
+    "itunes_episode": "38",
+    "itunes_title": "Hit the Kernel Panic Button",
+    "summary": "<p>本期的口号是：<em>They have computers, and they may have other weapons of mass destruction</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Aegis_Combat_System\">宙斯盾系统</a></li>\n<li><a href=\"http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/\">NPM Left Pad Chaos</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/On-board_diagnostics#OBD-II\">OBD-II 车辆状态监测</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>本期的口号是：<em>They have computers, and they may have other weapons of mass destruction</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Aegis_Combat_System\">宙斯盾系统</a></li>\n<li><a href=\"http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/\">NPM Left Pad Chaos</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/On-board_diagnostics#OBD-II\">OBD-II 车辆状态监测</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"http://typeisbeautiful.com\">Type is Beautiful</a>程序员，《<a href=\"https://kernelpanic.fm\">内核恐慌</a>》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/38"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "71499236",
+            "href": "https://pan.icu/38/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/38",
+    "id": "https://pan.icu/38",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛"
+        }
+    ],
+    "author": "Rio、吴涛",
+    "author_detail": {
+        "name": "Rio、吴涛"
+    },
+    "published": "Sun, 24 Apr 2016 16:39:37 +0000",
+    "published_parsed": [
+        2016,
+        4,
+        24,
+        16,
+        39,
+        37,
+        6,
+        115,
+        0
+    ],
+    "itunes_duration": "5947"
+}

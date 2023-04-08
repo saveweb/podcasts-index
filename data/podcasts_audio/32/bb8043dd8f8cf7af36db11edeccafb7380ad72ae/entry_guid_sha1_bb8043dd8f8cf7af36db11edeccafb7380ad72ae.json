@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "29812425",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2NjIyNSwicCI6MiwidSI6Ijk5MDkubXAzIn0.81xcJo8PYiftNzhW4jsJtrTqThY/zaizuozuoma/8323467147_49909.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/038"
+        }
+    ],
+    "title": "《狂飙》热播，居然有两位主播一度打算弃剧？？｜再坐坐嘛 Vol. 038",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "《狂飙》热播，居然有两位主播一度打算弃剧？？｜再坐坐嘛 Vol. 038"
+    },
+    "id": "https://zaizuozuoma.com/episodes/038",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/038",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "41:26",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "38",
+    "podcast_episode": "38",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "岂有此理！请听三位主播的观剧故事。 本期后半程，三位还探讨了《狂飙》的一些争议话题。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "岂有此理！请听三位主播的观剧故事。 本期后半程，三位还探讨了《狂飙》的一些争议话题。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>岂有此理！请听三位主播的观剧故事。</p>\n<p>本期后半程，三位还探讨了《狂飙》的一些争议话题。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>岂有此理！请听三位主播的观剧故事。</p>\n<p>本期后半程，三位还探讨了《狂飙》的一些争议话题。</p>"
+        }
+    ],
+    "published": "Thu, 16 Feb 2023 07:35:45 +0000",
+    "published_parsed": [
+        2023,
+        2,
+        16,
+        7,
+        35,
+        45,
+        3,
+        47,
+        0
+    ]
+}

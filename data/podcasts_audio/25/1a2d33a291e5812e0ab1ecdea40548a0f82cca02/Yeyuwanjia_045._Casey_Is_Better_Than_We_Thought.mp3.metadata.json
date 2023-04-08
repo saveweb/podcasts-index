@@ -1,0 +1,48 @@
+{
+    "http-content-length": 14485502,
+    "http-etag": "4d730a11c8d20e747dbdd3c49a979952",
+    "http-last-modified": "Mon, 28 Feb 2022 09:22:46 GMT",
+    "http-last-modified-float": 1646011366.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 14485502,
+    "actual-duration": null,
+    "sha1": "5630a627b4397ac0e66671a84c0bf6fde7111eb1",
+    "md5": "4d730a11c8d20e747dbdd3c49a979952",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://traffic.libsyn.com/secure/amateurplayer/Yeyuwanjia_045._Casey_Is_Better_Than_We_Thought.mp3?dest-id=1756493",
+            "headers": {
+                "date": "Sat, 08 Apr 2023 06:38:35 GMT",
+                "server": "Apache",
+                "location": "https://content.libsyn.com/p/f/4/3/f43bd286a252c17b/Yeyuwanjia_045._Casey_Is_Better_Than_We_Thought.mp3?c_id=107966435&cs_id=107966435&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680938140&Signature=LVwNglTjSfsMJ8kZvWV5LGVciZa7YMSkxZRPYfVLThIcBqEis-6Czyx6BxbqGI0wNYV~4k24cRgB2riKcxFxu5xByTGQiGu1OaPj-4adtiRxpa52thMM~pYk5uc0LmKK7dgQ0jgJfv43yno3lLXgBZwxg~WeMMu-5nsOHM7wRf2uFB0IuTUFLTC1j5Y6AAxQxtrd8rWBWffShp93n8s06-Nu-VJbpBzUqQ7n53YDfU-7ZhkMQsv~5WYZEn7vWCCPNBbPsCfwFWu4-orgsRkDrKEw1fHxUJzYiFZX013v0fu1rc3pHo1IwkT~8uIizrc2kotevn-s8TmcCCRLl-MV0w__&Key-Pair-Id=K1YS7LZGUP96OI",
+                "x-libsyn-host": "t4",
+                "access-control-allow-origin": "*",
+                "content-length": "0",
+                "content-type": "text/html; charset=UTF-8"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://content.libsyn.com/p/f/4/3/f43bd286a252c17b/Yeyuwanjia_045._Casey_Is_Better_Than_We_Thought.mp3?c_id=107966435&cs_id=107966435&destination_id=1756493&response-content-type=audio%2Fmpeg&Expires=1680938140&Signature=LVwNglTjSfsMJ8kZvWV5LGVciZa7YMSkxZRPYfVLThIcBqEis-6Czyx6BxbqGI0wNYV~4k24cRgB2riKcxFxu5xByTGQiGu1OaPj-4adtiRxpa52thMM~pYk5uc0LmKK7dgQ0jgJfv43yno3lLXgBZwxg~WeMMu-5nsOHM7wRf2uFB0IuTUFLTC1j5Y6AAxQxtrd8rWBWffShp93n8s06-Nu-VJbpBzUqQ7n53YDfU-7ZhkMQsv~5WYZEn7vWCCPNBbPsCfwFWu4-orgsRkDrKEw1fHxUJzYiFZX013v0fu1rc3pHo1IwkT~8uIizrc2kotevn-s8TmcCCRLl-MV0w__&Key-Pair-Id=K1YS7LZGUP96OI",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "14485502",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 06:38:37 GMT",
+                "Last-Modified": "Mon, 28 Feb 2022 09:22:46 GMT",
+                "ETag": "\"4d730a11c8d20e747dbdd3c49a979952\"",
+                "x-amz-version-id": "JLo8rT.wUqVI0xCDYIjBtZ_cxb7dgXPh",
+                "Accept-Ranges": "bytes",
+                "Server": "AmazonS3",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 90fa5c5ef559c4e8601bb399752b00bc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C4",
+                "X-Amz-Cf-Id": "iWasIoLt89khloRAQjOTyo2zXIGFmlSa7oJt2K1jC3s_hv9Tjq-YrA==",
+                "Vary": "Origin"
+            }
+        }
+    }
+}

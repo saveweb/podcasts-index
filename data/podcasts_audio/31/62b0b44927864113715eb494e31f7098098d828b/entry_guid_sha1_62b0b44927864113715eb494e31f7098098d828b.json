@@ -1,0 +1,56 @@
+{
+    "title": "17. Microsoft Build",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "17. Microsoft Build"
+    },
+    "itunes_episode": "17",
+    "itunes_title": "Microsoft Build",
+    "summary": "<p>读了几封听众来信，评论了几条新闻之后，虽然嘴上说不要再讲微软，节目还是很诚实地讨论了这次微软开发者大会。</p>\n\n<p>勘误：<a href=\"http://zh.wikipedia.org/zh/%E5%85%AC%E5%8E%86\">格里高利历</a>与<a href=\"http://zh.wikipedia.org/zh/%E5%84%92%E7%95%A5%E6%9B%86\">儒略历</a>实际上是不同的。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.linuxjournal.com/content/more-stable-future-ubuntu\">Snappy 进入 Ubuntu Desktop</a></li>\n<li><a href=\"http://notcp.io/\">NoTCP</a></li>\n<li><a href=\"http://arstechnica.com/gadgets/2015/05/01/googles-dart-language-on-android-aims-for-java-free-120-fps-apps/\">Dart (Sky) for Android</a></li>\n<li><a href=\"https://blogs.windows.com/bloggingwindows/2015/05/13/introducing-windows-10-editions/\">Windows 10 versions</a></li>\n<li><a href=\"http://blogs.msdn.com/b/vscode/archive/2015/05/13/reacting-to-feedback-common-issues-and-our-first-update.aspx\">Visual Studio Code</a></li>\n<li><a href=\"http://channel9.msdn.com/Events/Build/2015?sort=viewed&amp;direction=asc&amp;page=4&amp;media=True#theSessions\">Microsoft Build 2015 Sessions</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>读了几封听众来信，评论了几条新闻之后，虽然嘴上说不要再讲微软，节目还是很诚实地讨论了这次微软开发者大会。</p>\n\n<p>勘误：<a href=\"http://zh.wikipedia.org/zh/%E5%85%AC%E5%8E%86\">格里高利历</a>与<a href=\"http://zh.wikipedia.org/zh/%E5%84%92%E7%95%A5%E6%9B%86\">儒略历</a>实际上是不同的。</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.linuxjournal.com/content/more-stable-future-ubuntu\">Snappy 进入 Ubuntu Desktop</a></li>\n<li><a href=\"http://notcp.io/\">NoTCP</a></li>\n<li><a href=\"http://arstechnica.com/gadgets/2015/05/01/googles-dart-language-on-android-aims-for-java-free-120-fps-apps/\">Dart (Sky) for Android</a></li>\n<li><a href=\"https://blogs.windows.com/bloggingwindows/2015/05/13/introducing-windows-10-editions/\">Windows 10 versions</a></li>\n<li><a href=\"http://blogs.msdn.com/b/vscode/archive/2015/05/13/reacting-to-feedback-common-issues-and-our-first-update.aspx\">Visual Studio Code</a></li>\n<li><a href=\"http://channel9.msdn.com/Events/Build/2015?sort=viewed&amp;direction=asc&amp;page=4&amp;media=True#theSessions\">Microsoft Build 2015 Sessions</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com\">IT 公论</a>》主播，<a href=\"https://ipn.li\">IPN</a> 联合创始人，<a href=\"https://apple4us.com\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/17"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "45357042",
+            "href": "https://pan.icu/17/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/17",
+    "id": "https://pan.icu/17",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "吴涛、Rio"
+        }
+    ],
+    "author": "吴涛、Rio",
+    "author_detail": {
+        "name": "吴涛、Rio"
+    },
+    "published": "Sun, 17 May 2015 15:03:30 +0000",
+    "published_parsed": [
+        2015,
+        5,
+        17,
+        15,
+        3,
+        30,
+        6,
+        137,
+        0
+    ],
+    "itunes_duration": "7120"
+}

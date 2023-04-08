@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "46976811",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/G4GA8C/r.typlog.com/eyJzIjozMTgxLCJlIjo2MTU0OSwicCI6MiwidSI6IjQyNTcubXAzIn0.iJ3uKptJTgfzeBYJ_6O7hEnm5mY/zaizuozuoma/8337806847_394257.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zaizuozuoma.com/episodes/025"
+        }
+    ],
+    "title": "「好PPT」的标准，该怎么定｜Vol. 025",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "「好PPT」的标准，该怎么定｜Vol. 025"
+    },
+    "id": "https://zaizuozuoma.com/episodes/025",
+    "guidislink": true,
+    "link": "https://zaizuozuoma.com/episodes/025",
+    "authors": [
+        {
+            "name": "面包,阿宗,小卡"
+        }
+    ],
+    "author": "面包,阿宗,小卡",
+    "author_detail": {
+        "name": "面包,阿宗,小卡"
+    },
+    "podcast_person": {
+        "role": "host",
+        "href": "https://zaizuozuoma.com/by/Cloudxiaoka/",
+        "img": "https://i.typlog.com/zaizuozuoma/8361275652_00358.png"
+    },
+    "itunes_duration": "23:52",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "25",
+    "podcast_episode": "25",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/zaizuozuoma/8355450639_2667675.jpg?x-oss-process=style/sl"
+    },
+    "summary": "话题源于主编小群里的一段交流，宗老师觉得太多字的PPT不行，面包觉得管用就行。然后大家就「怎么定义一个好的PPT」展开了激烈且友好的讨论，本期播客就是群里争议的延续。 不过提示一下本期不是聊「什么是好PPT」，而是聊的「从什么角度去下好的定义」。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://zaizuozuoma.com/feed/audio.xml",
+        "value": "话题源于主编小群里的一段交流，宗老师觉得太多字的PPT不行，面包觉得管用就行。然后大家就「怎么定义一个好的PPT」展开了激烈且友好的讨论，本期播客就是群里争议的延续。 不过提示一下本期不是聊「什么是好PPT」，而是聊的「从什么角度去下好的定义」。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>话题源于主编小群里的一段交流，宗老师觉得太多字的PPT不行，面包觉得管用就行。然后大家就「怎么定义一个好的PPT」展开了激烈且友好的讨论，本期播客就是群里争议的延续。</p>\n<p>不过提示一下本期不是聊「什么是好PPT」，而是聊的「从什么角度去下好的定义」。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://zaizuozuoma.com/feed/audio.xml",
+            "value": "<p>话题源于主编小群里的一段交流，宗老师觉得太多字的PPT不行，面包觉得管用就行。然后大家就「怎么定义一个好的PPT」展开了激烈且友好的讨论，本期播客就是群里争议的延续。</p>\n<p>不过提示一下本期不是聊「什么是好PPT」，而是聊的「从什么角度去下好的定义」。</p>"
+        }
+    ],
+    "published": "Sat, 03 Sep 2022 10:19:28 +0000",
+    "published_parsed": [
+        2022,
+        9,
+        3,
+        10,
+        19,
+        28,
+        5,
+        246,
+        0
+    ]
+}

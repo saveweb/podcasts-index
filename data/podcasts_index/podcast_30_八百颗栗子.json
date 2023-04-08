@@ -1,0 +1,24 @@
+{
+    "id": 30,
+    "enabled": true,
+    "title": "八百颗栗子",
+    "link": "https://800chestnut.com/",
+    "feed_url": "https://800chestnut.com/feed.xml",
+    "summary": null,
+    "language": null,
+    "saveweb": {
+        "created_timestamp": 1680939468,
+        "last_success_timestamp": 1680939577,
+        "last_checked_timestamp": 1680939577,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

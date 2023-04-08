@@ -1,0 +1,56 @@
+{
+    "title": "26. Livid 专访",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "26. Livid 专访"
+    },
+    "itunes_episode": "26",
+    "itunes_title": "Livid 专访",
+    "summary": "<p>本期我们请到了 Livid，一起聊他作为程序员、V2EX 站长和创业者的成长经历。</p>\n\n<p>本期的口号是：<em>Laziness, impatience, and hubris</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.zhihu.com/question/19577697\">知乎上的问题「Livid 是谁」</a></li>\n<li><a href=\"http://v2ex.com/\">v2ex.com</a></li>\n<li><a href=\"https://cloud.google.com/appengine/pricing\">目前 Google App Engine 的计费方法</a></li>\n<li><a href=\"https://www.digitalocean.com\">Digital Ocean</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Kijiji\">Kijiji</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo_2012\">E3 2012</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2\">Battlefield: Bad Company 2</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。<br />\n</li>\n<li>Livid: <a href=\"https://www.v2ex.com/\">V2EX</a> 创始人。</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://pan.icu/feed",
+        "value": "<p>本期我们请到了 Livid，一起聊他作为程序员、V2EX 站长和创业者的成长经历。</p>\n\n<p>本期的口号是：<em>Laziness, impatience, and hubris</em>.</p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.zhihu.com/question/19577697\">知乎上的问题「Livid 是谁」</a></li>\n<li><a href=\"http://v2ex.com/\">v2ex.com</a></li>\n<li><a href=\"https://cloud.google.com/appengine/pricing\">目前 Google App Engine 的计费方法</a></li>\n<li><a href=\"https://www.digitalocean.com\">Digital Ocean</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Kijiji\">Kijiji</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Electronic_Entertainment_Expo_2012\">E3 2012</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2\">Battlefield: Bad Company 2</a></li>\n</ul>\n\n<h2>人物简介</h2>\n\n<ul>\n<li>Rio：《<a href=\"https://itgonglun.com/\">IT 公论</a>》主播，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员。<br />\n</li>\n<li>吴涛：<a href=\"https://typeisbeautiful.com\">Type is Beautiful</a> 程序员，《内核恐慌》主播。<br />\n</li>\n<li>Livid: <a href=\"https://www.v2ex.com/\">V2EX</a> 创始人。</li>\n</ul>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://pan.icu/26"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "84820118",
+            "href": "https://pan.icu/26/audio.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://pan.icu/26",
+    "id": "https://pan.icu/26",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Rio、吴涛、Livid"
+        }
+    ],
+    "author": "Rio、吴涛、Livid",
+    "author_detail": {
+        "name": "Rio、吴涛、Livid"
+    },
+    "published": "Sun, 18 Oct 2015 09:21:40 +0000",
+    "published_parsed": [
+        2015,
+        10,
+        18,
+        9,
+        21,
+        40,
+        6,
+        291,
+        0
+    ],
+    "itunes_duration": "7083"
+}

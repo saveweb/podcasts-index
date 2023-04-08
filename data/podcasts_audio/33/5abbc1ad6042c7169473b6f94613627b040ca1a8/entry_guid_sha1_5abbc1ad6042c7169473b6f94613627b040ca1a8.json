@@ -1,0 +1,52 @@
+{
+    "title": "初学者电台#00 - 不一定有建设性的兴趣",
+    "title_detail": {
+        "type": "text/plain",
+        "language": "en",
+        "base": "https://media.rss.com/abecedarian/feed.xml",
+        "value": "初学者电台#00 - 不一定有建设性的兴趣"
+    },
+    "itunes_title": "初学者电台#00 - 不一定有建设性的兴趣",
+    "summary": "<p>- abC编辑部 on the air -</p><p>初学者电台希望帮助你从头开始做一件事，并鼓励大家在任何领域开始自己的实践。</p><p><strong>选用音乐：</strong></p><p>Sula Bassana - Baby Blue Shuffle In D Major</p><p>Stereolab - Parsec</p><p><strong>聊天：</strong></p><p>赵阿萌，赵梦莎，周玥</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": "en",
+        "base": "https://media.rss.com/abecedarian/feed.xml",
+        "value": "<p>- abC编辑部 on the air -</p><p>初学者电台希望帮助你从头开始做一件事，并鼓励大家在任何领域开始自己的实践。</p><p><strong>选用音乐：</strong></p><p>Sula Bassana - Baby Blue Shuffle In D Major</p><p>Stereolab - Parsec</p><p><strong>聊天：</strong></p><p>赵阿萌，赵梦莎，周玥</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://rss.com/podcasts/abecedarian/26357"
+        },
+        {
+            "length": "18508717",
+            "type": "audio/mpeg",
+            "href": "https://media.rss.com/abecedarian/20200229_134002_bdf9e4ff26e4a11603fc5304327df8b7.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://rss.com/podcasts/abecedarian/26357",
+    "id": "490d1d1e-45f3-e367-e4ab-116f9f644da3",
+    "guidislink": false,
+    "image": {
+        "href": "https://media.rss.com/abecedarian/20200229_133351_a45c34a4c98c0e7ad6cc66d14968d9b8.jpeg"
+    },
+    "itunes_duration": "463",
+    "itunes_episodetype": "full",
+    "itunes_season": "1",
+    "itunes_explicit": null,
+    "published": "Sat, 29 Feb 2020 13:40:01 GMT",
+    "published_parsed": [
+        2020,
+        2,
+        29,
+        13,
+        40,
+        1,
+        5,
+        60,
+        0
+    ]
+}

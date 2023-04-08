@@ -1,0 +1,53 @@
+{
+    "title": "第十五期：如何体验南京",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "第十五期：如何体验南京"
+    },
+    "summary": "<p>针对南京的一些主观且片面的体会。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "<p>针对南京的一些主观且片面的体会。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://renjianzhinan.xyz/#ep015"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://renjianzhinan.xyz/ep/rjzn_ep015.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://renjianzhinan.xyz/#ep015",
+    "id": "http://renjianzhinan.xyz/#ep015",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "hb"
+        }
+    ],
+    "author": "hb",
+    "author_detail": {
+        "name": "hb"
+    },
+    "published": "MON, 03 SEP 2018 08:00:00 GMT",
+    "published_parsed": [
+        2018,
+        9,
+        3,
+        8,
+        0,
+        0,
+        0,
+        246,
+        0
+    ],
+    "itunes_duration": "00:16:17"
+}

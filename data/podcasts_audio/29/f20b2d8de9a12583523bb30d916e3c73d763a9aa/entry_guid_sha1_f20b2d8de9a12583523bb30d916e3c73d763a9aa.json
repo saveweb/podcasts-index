@@ -1,0 +1,53 @@
+{
+    "title": "第十三期：如何领悟共产主义",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "第十三期：如何领悟共产主义"
+    },
+    "summary": "<p>本期 hb 和大白聊春节去泰国旅行的一些深层次见闻。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb、大白</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://renjianzhinan.xyz/podcast.xml",
+        "value": "<p>本期 hb 和大白聊春节去泰国旅行的一些深层次见闻。</p>\n\n                <p>听众反馈请寄：<a href=\"mailto:hb@renjianzhinan.xyz\">hb@renjianzhinan.xyz</a></p>\n\n                <p>登场人物：hb、大白</p>"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://renjianzhinan.xyz/#ep013"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://renjianzhinan.xyz/ep/rjzn_ep013.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://renjianzhinan.xyz/#ep013",
+    "id": "http://renjianzhinan.xyz/#ep013",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "hb"
+        }
+    ],
+    "author": "hb",
+    "author_detail": {
+        "name": "hb"
+    },
+    "published": "Mon, 26 FEB 2018 14:00:00 GMT",
+    "published_parsed": [
+        2018,
+        2,
+        26,
+        14,
+        0,
+        0,
+        0,
+        57,
+        0
+    ],
+    "itunes_duration": "5857"
+}

@@ -1,0 +1,58 @@
+{
+    "http-content-length": 61138433,
+    "http-etag": "17422dad72de5efa1ef4cd86709a6f6e",
+    "http-last-modified": null,
+    "http-last-modified-float": null,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "attachment; filename=\"093afghanistan.mp3\"",
+    "http-content-disposition-filename": "093afghanistan.mp3",
+    "actual-size": 61138433,
+    "actual-duration": 3821,
+    "sha1": "8d0569e38d16f63eb9ef9f9da69f3a1d1eacef49",
+    "md5": "5962a221d60559a774ac66ded9616e0e",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://sphinx.acast.com/p/open/s/5e79b43429d1401a1a8c0015/e/611f4ca5ed16b9001297b5fe/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&sig=as_OwxcSdERHYo94G2u93YbEJFTMEh2M0soOcGOSBz0",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "1455",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 09:17:06 GMT",
+                "Vary": "Origin",
+                "Access-Control-Allow-Origin": "*",
+                "x-acast-signature": "rss nospons noads",
+                "Location": "https://stitcher2.acast.com/livestitches/17422dad72de5efa1ef4cd86709a6f6e.mp3?aid=611f4ca5ed16b9001297b5fe&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=PPmGou4EuujcKXfAmAJGXofRaFd0xr2xacQnarl1SAQFOiQ1irkWlA%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=b2e3e787115595802507ff460da9caac&Expires=1680957126348&Key-Pair-Id=K38CTQXUSD0VVB&Signature=V1KE2V8XdcoJ8K57BiYlbd2CeeqwTu-mMEI806KwietZYJR3eMUxOrmBXqybZG8fxT9m66fSy9a0GQ3HXUjQ~pUaSuDZi4wElzzWnEsN8LrB7HesGQlrHwQEtQKVp7q8T7U70P0Nbi1UBhHclqc-LG7rZ9XB~8MOvoIVGeuLzpze03URvXu-~jhL42qYgFEYLu8WbPZ7TBSk-6zkwUD4RS-lKCuMxOrCOia7cbyJHHwGSylwjwEWMixt1~V6M~eTDRFIY6Te35oLD976lvOM5BlzcQdtDFD8byi9AX1AUmm8Q-SHcXrHZh3JOQ48GcHZsK5IfTR-9dI91cqPSQUupA__",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 4e4e6580839c116fc05c7f025b001a08.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-P1",
+                "X-Amz-Cf-Id": "PPmGou4EuujcKXfAmAJGXofRaFd0xr2xacQnarl1SAQFOiQ1irkWlA=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://stitcher2.acast.com/livestitches/17422dad72de5efa1ef4cd86709a6f6e.mp3?aid=611f4ca5ed16b9001297b5fe&chid=3aa8bf31-9790-54c4-86ee-3b419497db45&ci=PPmGou4EuujcKXfAmAJGXofRaFd0xr2xacQnarl1SAQFOiQ1irkWlA%3D%3D&pf=rss&sv=sphinx%401.155.1&uid=b2e3e787115595802507ff460da9caac&Expires=1680957126348&Key-Pair-Id=K38CTQXUSD0VVB&Signature=V1KE2V8XdcoJ8K57BiYlbd2CeeqwTu-mMEI806KwietZYJR3eMUxOrmBXqybZG8fxT9m66fSy9a0GQ3HXUjQ~pUaSuDZi4wElzzWnEsN8LrB7HesGQlrHwQEtQKVp7q8T7U70P0Nbi1UBhHclqc-LG7rZ9XB~8MOvoIVGeuLzpze03URvXu-~jhL42qYgFEYLu8WbPZ7TBSk-6zkwUD4RS-lKCuMxOrCOia7cbyJHHwGSylwjwEWMixt1~V6M~eTDRFIY6Te35oLD976lvOM5BlzcQdtDFD8byi9AX1AUmm8Q-SHcXrHZh3JOQ48GcHZsK5IfTR-9dI91cqPSQUupA__",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "61138433",
+                "Connection": "keep-alive",
+                "Date": "Thu, 23 Feb 2023 14:25:26 GMT",
+                "Server": "nginx/1.20.2",
+                "Content-Disposition": "attachment; filename=\"093afghanistan.mp3\"",
+                "ETag": "\"17422dad72de5efa1ef4cd86709a6f6e\"",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Headers": "Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,X-Mx-ReqToken",
+                "Access-Control-Allow-Methods": "POST,GET,OPTIONS",
+                "Access-Control-Max-Age": "1728000",
+                "X-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "X-Cache": "Hit from cloudfront",
+                "Via": "1.1 f0ac467993db44dbfc36b778dfcaf73c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "YVR50-C1",
+                "X-Amz-Cf-Id": "GXb4GiWbUholxFjuE8zIA3KwjUc3RLimaBiAXUUEqGDQaI4cMnL6Tg==",
+                "Age": "3783100"
+            }
+        }
+    }
+}
