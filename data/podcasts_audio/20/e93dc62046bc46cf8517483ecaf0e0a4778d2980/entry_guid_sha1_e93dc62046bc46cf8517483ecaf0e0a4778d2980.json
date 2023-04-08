@@ -1,0 +1,84 @@
+{
+    "title": "FYI",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "FYI"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.theviewtalk.com/fyi"
+        },
+        {
+            "length": "2148384",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/8d0ad6e1-c908-45c4-bc68-154cc856b670.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.theviewtalk.com/fyi",
+    "id": "8d0ad6e1-c908-45c4-bc68-154cc856b670",
+    "guidislink": false,
+    "published": "Sun, 25 Dec 2022 17:30:00 +0800",
+    "published_parsed": [
+        2022,
+        12,
+        25,
+        9,
+        30,
+        0,
+        6,
+        359,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一画一话"
+        },
+        {
+            "name": "一画一话"
+        }
+    ],
+    "author": "一画一话",
+    "author_detail": {
+        "name": "一画一话"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": ""
+    },
+    "itunes_duration": "2:14",
+    "itunes_explicit": null,
+    "image": {
+        "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/2/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/episodes/8/8d0ad6e1-c908-45c4-bc68-154cc856b670/cover.jpg"
+    },
+    "summary": "<p>cover art: 《胶片时代爱情》张律 2015</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "<p>cover art: 《胶片时代爱情》张律 2015</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/theviewtalk/rss",
+            "value": "<p>cover art: 《胶片时代爱情》张律 2015</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yS2zkE2S+bk98W5LM",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yS2zkE2S+bk98W5LM\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

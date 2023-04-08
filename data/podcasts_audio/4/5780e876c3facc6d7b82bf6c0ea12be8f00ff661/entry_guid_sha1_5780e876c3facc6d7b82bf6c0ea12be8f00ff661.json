@@ -1,0 +1,74 @@
+{
+    "authors": [
+        {
+            "name": "Limboy"
+        }
+    ],
+    "author": "Limboy",
+    "author_detail": {
+        "name": "Limboy"
+    },
+    "itunes_title": "跟 YiHong 聊聊编程、开源和跑步",
+    "itunes_episode": "5",
+    "title": "5. 跟 YiHong 聊聊编程、开源和跑步",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "5. 跟 YiHong 聊聊编程、开源和跑步"
+    },
+    "published": "Tue, 23 Nov 2021 00:00:00 +0000",
+    "published_parsed": [
+        2021,
+        11,
+        23,
+        0,
+        0,
+        0,
+        1,
+        327,
+        0
+    ],
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://bytetalk.fm/posts/episode-5/"
+        },
+        {
+            "length": "61831575",
+            "type": "audio/x-m4a",
+            "href": "https://bytetalk.fm/podcasts/episode-5.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://bytetalk.fm/posts/episode-5/",
+    "id": "https://files.bytetalk.fm/file/bytetalk/episode-5.mp3",
+    "guidislink": false,
+    "itunes_duration": "42:56",
+    "subtitle": "<p>初识 yihong 是通过他的 <a href=\"https://yihong.run\">Running Page</a>，记录了近 10 年的跑步数据，可以看到每天跑了多少公里和对应的跑步路线。能够坚持跑 10 年的人就很少（后来聊了下，原来跑了 20 年，只是跑步 App 只记录了 10 年），然后能把数据拿到还整理得这么清楚，还专门做了一个页面开源，就更少了。</p>",
+    "subtitle_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p>初识 yihong 是通过他的 <a href=\"https://yihong.run\">Running Page</a>，记录了近 10 年的跑步数据，可以看到每天跑了多少公里和对应的跑步路线。能够坚持跑 10 年的人就很少（后来聊了下，原来跑了 20 年，只是跑步 App 只记录了 10 年），然后能把数据拿到还整理得这么清楚，还专门做了一个页面开源，就更少了。</p>"
+    },
+    "summary": "<p>初识 yihong 是通过他的 <a href=\"https://yihong.run\">Running Page</a>，记录了近 10 年的跑步数据，可以看到每天跑了多少公里和对应的跑步路线。能够坚持跑 10 年的人就很少（后来聊了下，原来跑了 20 年，只是跑步 App 只记录了 10 年），然后能把数据拿到还整理得这么清楚，还专门做了一个页面开源，就更少了。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p>初识 yihong 是通过他的 <a href=\"https://yihong.run\">Running Page</a>，记录了近 10 年的跑步数据，可以看到每天跑了多少公里和对应的跑步路线。能够坚持跑 10 年的人就很少（后来聊了下，原来跑了 20 年，只是跑步 App 只记录了 10 年），然后能把数据拿到还整理得这么清楚，还专门做了一个页面开源，就更少了。</p>"
+    },
+    "image": {
+        "href": "https://bytetalk.fm/posts/episode-5/cover.jpg"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://bytetalk.fm/index.xml",
+            "value": "<p>初识 yihong 是通过他的 <a href=\"https://yihong.run\">Running Page</a>，记录了近 10 年的跑步数据，可以看到每天跑了多少公里和对应的跑步路线。能够坚持跑 10 年的人就很少（后来聊了下，原来跑了 20 年，只是跑步 App 只记录了 10 年），然后能把数据拿到还整理得这么清楚，还专门做了一个页面开源，就更少了。</p>\n<span id=\"continue-reading\"></span><div class=\"caption\">Photo by <a href=\"https://unsplash.com/photos/mQVWb7kUoOE\">Jenny Hill</a> on <a href=\"https://unsplash.com\">Unsplash</a></div>\n<p>顺着他的 <a href=\"https://twitter.com/yihong0618\">Twitter</a> 发现他还做了一些其他有意思的项目，如用 Github <a href=\"https://github.com/yihong0618/2021\">记录生活</a>，里面罗列了非常详细的内容，并按照不同类别组织起来，同时他对开源也很有热情。本期我们就跟 yihong 来聊聊他的故事。</p>\n<ul>\n<li>PS: 由于录音上出了点小问题，效果上有所欠缺，还请多多包涵。</li>\n<li>PPS: yihong 的东北口音，做好准备哦</li>\n<li>PPPS: 两个做 iOS 的不知道 Shortcuts 是什么时候出的···</li>\n</ul>\n<h3 id=\"shi-jian-xian\">时间线</h3>\n<ul>\n<li>01:49 - 03:20 大连的互联网氛围和留在大连的原因</li>\n<li>03:20 - 07:05 如何进入计算机行业的以及编程的魅力</li>\n<li>07:05 - 08:30 最近参与比较多的项目</li>\n<li>08:30 - 15:50 用 Github 记录生活</li>\n<li>15:50 - 16:52 如何看待三分钟热度</li>\n<li>16:52 - 19:00 开源带来的好处</li>\n<li>19:00 - 21:18 如何坚持跑 20 年的</li>\n<li>21:18 - 28:42 如何想到做 Running Page 的以及它的技术实现和带来的影响</li>\n<li>28:42 - 32:00  大连的跑步环境</li>\n<li>32:00 - 37:18 跑步的乐趣和带来的收获</li>\n<li>37:18 - 39:20 接下来的一些打算</li>\n<li>39:20 - 42:00 播客、书文章、推荐</li>\n</ul>\n<h3 id=\"xiang-guan-xin-xi\">相关信息</h3>\n<ul>\n<li><a href=\"https://book.douban.com/subject/1441780/\">游戏之旅：我的编程感悟</a></li>\n<li><a href=\"https://laike9m.com/blog/people-die-but-long-live-github,122/\">People Die, but Long Live GitHub</a></li>\n<li><a href=\"https://github.com/yihong0618\">YiHong's github</a></li>\n<li><a href=\"https://github.com/yihong0618/2021\">Yihong's 2021</a></li>\n<li><a href=\"http://yihong.run\">Running Page</a></li>\n<li><a href=\"https://www.strava.com/mobile\">Strava</a></li>\n<li><a href=\"https://dayoneapp.com\">DayOne</a></li>\n<li><a href=\"https://corecursive.com\">CoRecursive</a></li>\n<li><a href=\"https://book.douban.com/subject/35031587/\">绝叫</a></li>\n<li><a href=\"https://www.kawabangga.com/posts/4481\">SRE 的工作介绍</a></li>\n<li>跑步会听的播客：机核、津津乐道、故事 FM、忽左忽右、文化有限、CoRecursive 等</li>\n</ul>\n<h3>节目收听方式</h3>\n\n<ul>\n  <li><a href=\"https://www.xiaoyuzhoufm.com/podcast/6177bab6b69226ed16a3ed41\">小宇宙</a></li>\n  <li><a href=\"https://castro.fm/podcast/8a2dbe21-67f8-4314-a22f-2425b22ab506\">Castro</a></li>\n  <li><a href=\"https://pca.st/lqakcfor\">Pocket Casts</a></li>\n  <li><a href=\"https://open.spotify.com/show/6nsetXjeNJdjk6BltaLgcZ?si=63d3a273c8c148b5\">Spotify</a></li>\n  <li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9ieXRldGFsay5mbS9pbmRleC54bWw\">Google Podcasts</a></li>\n  <li><a href=\"https://podcasts.apple.com/us/podcast/bytetalk/id1592129150\">Apple Podcasts (CN not available, idky)</a>\n  </li>\n  <li><a href=\"https://bytetalk.fm/index.xml\">Feed URL</a></li>\n</ul>\n\n\n<blockquote>\n  <p>和不同的人聊天，会收获很多不同的东西，作为一个「老」程序员，我想跟不同领域的程序员们聊聊他们的故事、经历和感悟，或许也可以给正在收听的你一些启发。</p>\n  <p>邮件沟通：limboy.me@gmail.com，一般会在两天内回复。</p>\n</blockquote>"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "title": "姑苏城里写代码",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "姑苏城里写代码"
+    },
+    "itunes_episode": "58",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "32987037",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/58.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 31 Dec 2019 06:55:00 CDT",
+    "published_parsed": [
+        2019,
+        12,
+        31,
+        11,
+        55,
+        0,
+        1,
+        365,
+        0
+    ],
+    "summary": "<p>本期由 Galway 主持，请到了一位在苏州微软工作的朋友，聊聊为什么离开大城市，以及苏州的工作生活。</p>\n\n<p>一线城市生活成本越来越高，不少人都在考虑换个地方工作。我们计划把这个话题做成一个系列，请非一线城市工作的朋友来分享下自己的想法和感受，让大家对其他城市多一些了解。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>嘉宾微信：4645643</li>\n<li>梁杰的微博：<a href=\"https://www.weibo.com/numbbbbb\">@梁杰_numbbbbb</a></li>\n</ul>\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>00:47  个人介绍</li>\n<li>07:53  苏州微软的介绍</li>\n<li>20:25  为什么离开北京选择苏州 + 周围朋友的选择 + 苏州的 IT 公司</li>\n<li>23:41  苏州生活</li>\n<li>28:16  对想去苏州的人有什么建议</li>\n<li>31:24  一段吉他弹唱</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>本期由 Galway 主持，请到了一位在苏州微软工作的朋友，聊聊为什么离开大城市，以及苏州的工作生活。</p>\n\n<p>一线城市生活成本越来越高，不少人都在考虑换个地方工作。我们计划把这个话题做成一个系列，请非一线城市工作的朋友来分享下自己的想法和感受，让大家对其他城市多一些了解。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>嘉宾微信：4645643</li>\n<li>梁杰的微博：<a href=\"https://www.weibo.com/numbbbbb\">@梁杰_numbbbbb</a></li>\n</ul>\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>00:47  个人介绍</li>\n<li>07:53  苏州微软的介绍</li>\n<li>20:25  为什么离开北京选择苏州 + 周围朋友的选择 + 苏州的 IT 公司</li>\n<li>23:41  苏州生活</li>\n<li>28:16  对想去苏州的人有什么建议</li>\n<li>31:24  一段吉他弹唱</li>\n</ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/58.mp3",
+    "guidislink": false,
+    "itunes_duration": "00:34:13",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>本期由 Galway 主持，请到了一位在苏州微软工作的朋友，聊聊为什么离开大城市，以及苏州的工作生活。</p>\n\n<p>一线城市生活成本越来越高，不少人都在考虑换个地方工作。我们计划把这个话题做成一个系列，请非一线城市工作的朋友来分享下自己的想法和感受，让大家对其他城市多一些了解。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>嘉宾微信：4645643</li>\n<li>梁杰的微博：<a href=\"https://www.weibo.com/numbbbbb\">@梁杰_numbbbbb</a></li>\n</ul>\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>00:47  个人介绍</li>\n<li>07:53  苏州微软的介绍</li>\n<li>20:25  为什么离开北京选择苏州 + 周围朋友的选择 + 苏州的 IT 公司</li>\n<li>23:41  苏州生活</li>\n<li>28:16  对想去苏州的人有什么建议</li>\n<li>31:24  一段吉他弹唱</li>\n</ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "苏州",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "微软",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

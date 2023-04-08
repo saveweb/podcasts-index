@@ -1,0 +1,77 @@
+{
+    "title": "React My Podcast｜框架：經營關係的前提",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.soundon.fm/podcasts/f5b0f726-8f6b-462a-b886-e93a06adda4c.xml",
+        "value": "React My Podcast｜框架：經營關係的前提"
+    },
+    "summary": "人與人之間的互動與相處，都是各種框架下的交流與碰撞。\n想要了解關係，就需要先從解構框架開始。\n\n追蹤 Hilda 的 IG ▶️ https://www.instagram.com/hilda_yunyun/\n🎤 聽眾訪談募集中 ▶️ https://www.surveycake.com/s/emAoX\n社群媒體連結 ▶️ https://barney.soci.vip\n商業合作 ▶️ https://www.barneystalk.taipei/brand\n蘋果播客評論 ▶️ http://go.barneystalk.taipei/giveme5star",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.soundon.fm/podcasts/f5b0f726-8f6b-462a-b886-e93a06adda4c.xml",
+        "value": "人與人之間的互動與相處，都是各種框架下的交流與碰撞。\n想要了解關係，就需要先從解構框架開始。\n\n追蹤 Hilda 的 IG ▶️ https://www.instagram.com/hilda_yunyun/\n🎤 聽眾訪談募集中 ▶️ https://www.surveycake.com/s/emAoX\n社群媒體連結 ▶️ https://barney.soci.vip\n商業合作 ▶️ https://www.barneystalk.taipei/brand\n蘋果播客評論 ▶️ http://go.barneystalk.taipei/giveme5star"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://player.soundon.fm/p/f5b0f726-8f6b-462a-b886-e93a06adda4c/episodes/051899d5-bc10-4a81-a7f1-df9e78ee31e6"
+        },
+        {
+            "length": "1",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/EE933/track.fstry.me/p/fhb6pvb3/rss.soundon.fm/rssf/f5b0f726-8f6b-462a-b886-e93a06adda4c/feedurl/051899d5-bc10-4a81-a7f1-df9e78ee31e6/rssFileVip.mp3?timestamp=1671875538634",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://player.soundon.fm/p/f5b0f726-8f6b-462a-b886-e93a06adda4c/episodes/051899d5-bc10-4a81-a7f1-df9e78ee31e6",
+    "id": "051899d5-bc10-4a81-a7f1-df9e78ee31e6",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Barney"
+        },
+        {
+            "name": "Barney"
+        }
+    ],
+    "author": "Barney",
+    "author_detail": {
+        "name": "Barney"
+    },
+    "published": "Tue, 16 Nov 2021 20:00:00 GMT",
+    "published_parsed": [
+        2021,
+        11,
+        16,
+        20,
+        0,
+        0,
+        1,
+        320,
+        0
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.soundon.fm/podcasts/f5b0f726-8f6b-462a-b886-e93a06adda4c.xml",
+            "value": "<p><strong>人與人之間的互動與相處，都是各種框架下的交流與碰撞。</strong></p>\n<p><strong>想要了解關係，就需要先從解構框架開始。</strong></p>\n<p><br /></p>\n<p><strong>追蹤 Hilda 的 IG ▶️ </strong><a href=\"https://www.instagram.com/hilda_yunyun/\" target=\"_blank\"><strong>https://www.instagram.com/hilda_yunyun/</strong></a></p>\n<p><strong>🎤 聽眾訪談募集中 ▶️ </strong><a href=\"https://www.surveycake.com/s/emAoX\" rel=\"ugc noopener noreferrer\" target=\"_blank\"><strong>https://www.surveycake.com/s/emAoX</strong></a></p>\n<p><strong>社群媒體連結 ▶️ </strong><a href=\"https://barney.soci.vip/\" rel=\"ugc noopener noreferrer\" target=\"_blank\"><strong>https://barney.soci.vip</strong></a></p>\n<p><strong>商業合作 ▶️ </strong><a href=\"https://www.barneystalk.taipei/brand\" rel=\"ugc noopener noreferrer\" target=\"_blank\"><strong>https://www.barneystalk.taipei/brand</strong></a></p>\n<p><strong>蘋果播客評論 ▶️ </strong><a href=\"http://go.barneystalk.taipei/giveme5star\" rel=\"ugc noopener noreferrer\" target=\"_blank\"><strong>http://go.barneystalk.taipei/giveme5star</strong></a></p>"
+        }
+    ],
+    "soundon_id": "051899d5-bc10-4a81-a7f1-df9e78ee31e6",
+    "soundon_createdat": "2022-12-24T07:12:47.434Z",
+    "soundon_updatedat": "2022-12-24T09:52:18.634Z",
+    "soundon_exclusive": "public",
+    "soundon_searchid": "051899d5-bc10-4a81-a7f1-df9e78ee31e6",
+    "itunes_episodetype": "Full",
+    "itunes_explicit": null,
+    "itunes_duration": "1134",
+    "itunes_season": "4",
+    "itunes_episode": "16",
+    "image": {
+        "href": "https://files.soundon.fm/1671867322419-2ce8a008-18e8-4f85-904b-8004e0d45f9c.jpg"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "title": "番外05: 北大法学院的守护神",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "番外05: 北大法学院的守护神"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.theviewtalk.com/sp05"
+        },
+        {
+            "length": "36201855",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/593f5070-58d1-4aff-9951-5bf762f902b4.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.theviewtalk.com/sp05",
+    "id": "593f5070-58d1-4aff-9951-5bf762f902b4",
+    "guidislink": false,
+    "published": "Mon, 29 Mar 2021 20:00:00 +0800",
+    "published_parsed": [
+        2021,
+        3,
+        29,
+        12,
+        0,
+        0,
+        0,
+        88,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一画一话"
+        },
+        {
+            "name": "一画一话"
+        }
+    ],
+    "author": "一画一话",
+    "author_detail": {
+        "name": "一画一话"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": ""
+    },
+    "itunes_duration": "37:42",
+    "itunes_explicit": null,
+    "summary": "<p>上一个番外，我们聊到了一点法律和法治的话题。</p>\n\n<p>这期，我们来捧读2003年，北大法学院，本科生毕业典礼上的一段话。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "<p>上一个番外，我们聊到了一点法律和法治的话题。</p>\n\n<p>这期，我们来捧读2003年，北大法学院，本科生毕业典礼上的一段话。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/theviewtalk/rss",
+            "value": "<p>上一个番外，我们聊到了一点法律和法治的话题。</p>\n\n<p>这期，我们来捧读2003年，北大法学院，本科生毕业典礼上的一段话。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yS2zkE2S+K9ggkVvB",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yS2zkE2S+K9ggkVvB\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

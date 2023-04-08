@@ -1,0 +1,58 @@
+{
+    "title": "关于 Anyway.FM",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anyway.fm/rss.xml",
+        "value": "关于 Anyway.FM"
+    },
+    "summary": "主播 Leon Gao：男 / 上海宁 / 算算时间大概能挤进中国大陆第二批图形界面设计民工潮 / 十几年工作经验，换了肯定不止十家公司，至今没啥能拿的出手的产品来显摆，跟人吹牛逼的时候只好晒晒微软、惠普、frogdesign、小米以及我锤的工作经历 / 网络蝗虫，只要是新的物联网产品基本都能搜到这颗红色的头像 / 为人刻薄，怕麻烦不喜欢交朋友（漂亮妹子除外）/ 哦，基本就这些<br /><br />主播 JJ Ying：理科（微电子）出身，从做皮肤开始误入设计圈 / 专职 UI 设计，偶尔码码 CSS / 在惠普待了 4 年做打印机界面，去到百度做过输入法和浏览器，目前在上海心动公司做 UI 设计师，虽然待的地方都是大公司，但却是个野路子 + 实战派设计师 / 写了十来年设计博客：图月志 / 最近几年知乎上的比较多 / 十多年的红魔伪球迷 / 声音没 Leon 那么磁性，很渣，大家多担待",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://anyway.fm/rss.xml",
+        "value": "主播 Leon Gao：男 / 上海宁 / 算算时间大概能挤进中国大陆第二批图形界面设计民工潮 / 十几年工作经验，换了肯定不止十家公司，至今没啥能拿的出手的产品来显摆，跟人吹牛逼的时候只好晒晒微软、惠普、frogdesign、小米以及我锤的工作经历 / 网络蝗虫，只要是新的物联网产品基本都能搜到这颗红色的头像 / 为人刻薄，怕麻烦不喜欢交朋友（漂亮妹子除外）/ 哦，基本就这些<br /><br />主播 JJ Ying：理科（微电子）出身，从做皮肤开始误入设计圈 / 专职 UI 设计，偶尔码码 CSS / 在惠普待了 4 年做打印机界面，去到百度做过输入法和浏览器，目前在上海心动公司做 UI 设计师，虽然待的地方都是大公司，但却是个野路子 + 实战派设计师 / 写了十来年设计博客：图月志 / 最近几年知乎上的比较多 / 十多年的红魔伪球迷 / 声音没 Leon 那么磁性，很渣，大家多担待"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://anyway.fm/"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://a.anw.red/audio/anyway-trailer.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://anyway.fm/",
+    "itunes_explicit": null,
+    "id": "https://anyway.fm/#title",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "JJ Ying,Leon Gao"
+        }
+    ],
+    "author": "JJ Ying,Leon Gao",
+    "author_detail": {
+        "name": "JJ Ying,Leon Gao"
+    },
+    "image": {
+        "href": "https://s.anw.red/images/cover-new.png"
+    },
+    "published": "Wed, 28 Oct 2015 03:58:40 +0800",
+    "published_parsed": [
+        2015,
+        10,
+        27,
+        19,
+        58,
+        40,
+        1,
+        300,
+        0
+    ],
+    "itunes_episodetype": "trailer",
+    "itunes_duration": "183"
+}

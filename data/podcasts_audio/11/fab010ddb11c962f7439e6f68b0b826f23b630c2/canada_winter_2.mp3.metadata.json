@@ -1,0 +1,34 @@
+{
+    "http-content-length": 24713519,
+    "http-etag": "96a269f9dbef86c557e7050d60396d01-3",
+    "http-last-modified": "Mon, 29 Nov 2021 20:53:18 GMT",
+    "http-last-modified-float": 1638190398.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 24713519,
+    "actual-duration": 3073,
+    "sha1": "5780ad1c45f4f04c5024e2d8cfe28d29a9b2ede7",
+    "md5": "adcacdb9f28694b14b5be2ea258bbf0d",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/canada_winter_2.mp3",
+            "headers": {
+                "Etag": "\"96a269f9dbef86c557e7050d60396d01-3\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:47:46 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Mon, 29 Nov 2021 20:53:18 GMT",
+                "Content-Length": "24713519",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "8803492712348940877",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

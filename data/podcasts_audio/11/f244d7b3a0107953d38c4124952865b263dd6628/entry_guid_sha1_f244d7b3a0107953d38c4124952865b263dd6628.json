@@ -1,0 +1,90 @@
+{
+    "title": "没事刷刷算法",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "没事刷刷算法"
+    },
+    "itunes_episode": "42",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "43398710",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/42.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 27 Aug 2019 07:30:00 CDT",
+    "published_parsed": [
+        2019,
+        8,
+        27,
+        12,
+        30,
+        0,
+        1,
+        239,
+        0
+    ],
+    "summary": "<p>没有梁杰参与的第一期，终于不用听他（我）说话了！</p>\n\n<p>本期磊子和 wamaker 会聊聊算法。算法是个大话题，这期讲的只是两个从业者的小故事，看看他们如何认识算法，如何学习算法，如何看待算法。</p>\n\n<p>这期的主持人是磊子，之前参与过大学生活的录制。磊子想帮忙承担一些播客的工作，我也想尝试下能否不参与录制过程，一拍即合，就有了这期实验性质的节目。由于是首次尝试这种形式，磊子和 wamaker 都比较紧张，压力很大。希望大家能多多鼓励他们。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>刷题平台：LeetCode，LintCode</li>\n<li>磊子提到的资料：《剑指 Offer》、牛客网、九章算法、一亩三分地</li>\n<li>磊子的微博：@进击的磊子现已成为肚皮怪（https://www.weibo.com/u/1922768971）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>02:16  自我介绍 + 主题介绍</li>\n<li>03:47  算法初体验</li>\n<li>11:03  什么时候开始重视算法</li>\n<li>14:15  刷题 + 被难题卡住的经历</li>\n<li>19:22  印象深刻的算法题</li>\n<li>30:55  工作之后刷题还有没有必要</li>\n<li>39:39  对于初学者，如何入门算法</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>没有梁杰参与的第一期，终于不用听他（我）说话了！</p>\n\n<p>本期磊子和 wamaker 会聊聊算法。算法是个大话题，这期讲的只是两个从业者的小故事，看看他们如何认识算法，如何学习算法，如何看待算法。</p>\n\n<p>这期的主持人是磊子，之前参与过大学生活的录制。磊子想帮忙承担一些播客的工作，我也想尝试下能否不参与录制过程，一拍即合，就有了这期实验性质的节目。由于是首次尝试这种形式，磊子和 wamaker 都比较紧张，压力很大。希望大家能多多鼓励他们。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>刷题平台：LeetCode，LintCode</li>\n<li>磊子提到的资料：《剑指 Offer》、牛客网、九章算法、一亩三分地</li>\n<li>磊子的微博：@进击的磊子现已成为肚皮怪（https://www.weibo.com/u/1922768971）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>02:16  自我介绍 + 主题介绍</li>\n<li>03:47  算法初体验</li>\n<li>11:03  什么时候开始重视算法</li>\n<li>14:15  刷题 + 被难题卡住的经历</li>\n<li>19:22  印象深刻的算法题</li>\n<li>30:55  工作之后刷题还有没有必要</li>\n<li>39:39  对于初学者，如何入门算法</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/42.mp3",
+    "guidislink": false,
+    "itunes_duration": "00:45:12",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n没有梁杰参与的第一期，终于不用听他（我）说话了！</p>\n\n<p>本期磊子和 wamaker 会聊聊算法。算法是个大话题，这期讲的只是两个从业者的小故事，看看他们如何认识算法，如何学习算法，如何看待算法。</p>\n\n<p>这期的主持人是磊子，之前参与过大学生活的录制。磊子想帮忙承担一些播客的工作，我也想尝试下能否不参与录制过程，一拍即合，就有了这期实验性质的节目。由于是首次尝试这种形式，磊子和 wamaker 都比较紧张，压力很大。希望大家能多多鼓励他们。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>刷题平台：LeetCode，LintCode</li>\n<li>磊子提到的资料：《剑指 Offer》、牛客网、九章算法、一亩三分地</li>\n<li>磊子的微博：@进击的磊子现已成为肚皮怪（https://www.weibo.com/u/1922768971）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>02:16  自我介绍 + 主题介绍</li>\n<li>03:47  算法初体验</li>\n<li>11:03  什么时候开始重视算法</li>\n<li>14:15  刷题 + 被难题卡住的经历</li>\n<li>19:22  印象深刻的算法题</li>\n<li>30:55  工作之后刷题还有没有必要</li>\n<li>39:39  对于初学者，如何入门算法</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "算法",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

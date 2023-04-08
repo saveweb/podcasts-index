@@ -1,0 +1,43 @@
+{
+    "http-content-length": 76881623,
+    "http-etag": "lti0DLhPEAGttCKurLs8HtA39g3s",
+    "http-last-modified": "Tue, 23 Apr 2019 06:09:55 GMT",
+    "http-last-modified-float": 1555970995.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": "inline; filename=\"13.996.mp3\"; filename*=utf-8''13.996.mp3",
+    "http-content-disposition-filename": "13.996.mp3",
+    "actual-size": 76881623,
+    "actual-duration": 3202,
+    "sha1": "1f57fd69367e2b39bfe365257244416d6e990443",
+    "md5": "d37fa7e6c4e4ce01889a44da6da5be13",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/13.996.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:12:18 GMT",
+                "Content-Type": "audio/mp3",
+                "Content-Length": "76881623",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"13.996.mp3\"; filename*=utf-8''13.996.mp3",
+                "Content-Md5": "03+n5sTkzgGImkTabaW+Ew==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lti0DLhPEAGttCKurLs8HtA39g3s\"",
+                "Last-Modified": "Tue, 23 Apr 2019 06:09:55 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-7;QNM:gzh126;SRCPROXY:gzh47;SRC:63;SRCPROXY:63;QNM3:64;QNM3:344",
+                "X-M-Reqid": "ap5a6WErP",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss",
+                "X-Reqid": "lMcAAAA3M6eyH1MX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

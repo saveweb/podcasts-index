@@ -1,0 +1,36 @@
+{
+    "http-content-length": 48390718,
+    "http-etag": "2e2623e-5d50b6d5d6c88",
+    "http-last-modified": "Sat, 08 Jan 2022 05:32:19 GMT",
+    "http-last-modified-float": 1641591139.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 48390718,
+    "actual-duration": 2016,
+    "sha1": "803f93f4538789b6b7c5a7fa9983420334999467",
+    "md5": "89db6332832f68deab26037ed459aeb3",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://audio.aisaka.cc/Aisaka-EP001.MP3",
+            "headers": {
+                "Date": "Wed, 05 Apr 2023 12:55:51 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "48390718",
+                "Connection": "keep-alive",
+                "Last-Modified": "Sat, 08 Jan 2022 05:32:19 GMT",
+                "ETag": "\"2e2623e-5d50b6d5d6c88\"",
+                "Cache-Control": "max-age=14400",
+                "CF-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=jJmJ7YSccgT6NuQ4%2B%2Frjme4fibr%2BWRI5vZ1vHCrIIb7c4wh7B0CDIwaGTTxvrBF0fA30IMC7rQif5%2FXp9V69nH3ec%2FRM%2BM2WRHEJpwtCKOqXg0OLLqor4ciqZQRDAacfn2k%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "CF-RAY": "7b31f2a289d72b4f-LAX",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        }
+    }
+}

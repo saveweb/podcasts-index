@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "35784940",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2NjkyLCJwIjoyLCJ1IjoiNzkyNy5tcDMifQ.IUoK7J02e9ILwS7xWX0ptAFXg1Q/nicktalk-new/z_52fe673f6a0d47b0e24bba329d4a7927.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/14-2"
+        }
+    ],
+    "title": "NTP #14 閒話遊戲（下）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #14 閒話遊戲（下）"
+    },
+    "id": "http://nicktalk.com/episodes/14-2",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/14-2",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "本期節目是「閒話遊戲」的下集。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "本期節目是「閒話遊戲」的下集。"
+    },
+    "itunes_duration": "2:26:55",
+    "itunes_explicit": null,
+    "itunes_episode": "14",
+    "podcast_episode": "14",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_6183ccf409c11abd727467b73f56b44d.jpg?x-oss-process=style/sl"
+    },
+    "summary": "本期節目是「閒話遊戲」的下集。Nick 和付付首先聊了近期發佈的《三國誌 13》，對本代作品的系統、玩法和 Steam 售價展開了初步討論。隨後兩人重點聊到了 This War of Mine 的世界觀和 Diablo III 的優劣，並就「單機遊戲跟網絡遊戲的界限愈加模糊」這個話題展開長談。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "本期節目是「閒話遊戲」的下集。Nick 和付付首先聊了近期發佈的《三國誌 13》，對本代作品的系統、玩法和 Steam 售價展開了初步討論。隨後兩人重點聊到了 This War of Mine 的世界觀和 Diablo III 的優劣，並就「單機遊戲跟網絡遊戲的界限愈加模糊」這個話題展開長談。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>本期節目是「閒話遊戲」的下集。Nick 和付付首先聊了近期發佈的《三國誌 13》，對本代作品的系統、玩法和 Steam 售價展開了初步討論。隨後兩人重點聊到了 This War of Mine 的世界觀和 Diablo III 的優劣，並就「單機遊戲跟網絡遊戲的界限愈加模糊」這個話題展開長談。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>本期節目是「閒話遊戲」的下集。Nick 和付付首先聊了近期發佈的《三國誌 13》，對本代作品的系統、玩法和 Steam 售價展開了初步討論。隨後兩人重點聊到了 This War of Mine 的世界觀和 Diablo III 的優劣，並就「單機遊戲跟網絡遊戲的界限愈加模糊」這個話題展開長談。</p>"
+        }
+    ],
+    "published": "Mon, 01 Feb 2016 04:00:00 +0000",
+    "published_parsed": [
+        2016,
+        2,
+        1,
+        4,
+        0,
+        0,
+        0,
+        32,
+        0
+    ]
+}

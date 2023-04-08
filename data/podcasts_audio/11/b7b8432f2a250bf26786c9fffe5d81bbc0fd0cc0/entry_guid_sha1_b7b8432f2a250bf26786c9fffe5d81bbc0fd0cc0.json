@@ -1,0 +1,85 @@
+{
+    "title": "2020 春节特别节目：磊子，Draveness，冬瓜",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "2020 春节特别节目：磊子，Draveness，冬瓜"
+    },
+    "itunes_episode": "61",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "68626309",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/2020_chunjie_1.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Wed, 22 Jan 2020 09:00:00 CDT",
+    "published_parsed": [
+        2020,
+        1,
+        22,
+        14,
+        0,
+        0,
+        2,
+        22,
+        0
+    ],
+    "summary": "<p>听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>Draveness 的 2019 总结：<a href=\"https://draveness.me/2019-summary\">《2019 年总结 · 拥抱变化》</a></li>\n<li>冬瓜的 2019 总结：<a href=\"https://www.desgard.com/summary-2019/\">《立志欲坚不欲锐 - 2019 年小结》</a></li>\n<li><a href=\"https://talk.swift.gg/53\">《继续深造还是步入社会，好难选啊！》</a></li>\n<li><a href=\"https://item.jd.com/12437624.html\">《数据密集型应用系统设计》</a></li>\n</ul>\n\n<br />\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>Draveness 的 2019 总结：<a href=\"https://draveness.me/2019-summary\">《2019 年总结 · 拥抱变化》</a></li>\n<li>冬瓜的 2019 总结：<a href=\"https://www.desgard.com/summary-2019/\">《立志欲坚不欲锐 - 2019 年小结》</a></li>\n<li><a href=\"https://talk.swift.gg/53\">《继续深造还是步入社会，好难选啊！》</a></li>\n<li><a href=\"https://item.jd.com/12437624.html\">《数据密集型应用系统设计》</a></li>\n</ul>\n\n<br />\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/2020_chunjie_1.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:11:28",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>听众朋友们新年快乐！春节到了，ggtalk 的春节特别节目也来了！三天发三期，邀请之前参与过节目的嘉宾来一起回顾 2019，展望 2020。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>Draveness 的 2019 总结：<a href=\"https://draveness.me/2019-summary\">《2019 年总结 · 拥抱变化》</a></li>\n<li>冬瓜的 2019 总结：<a href=\"https://www.desgard.com/summary-2019/\">《立志欲坚不欲锐 - 2019 年小结》</a></li>\n<li><a href=\"https://talk.swift.gg/53\">《继续深造还是步入社会，好难选啊！》</a></li>\n<li><a href=\"https://item.jd.com/12437624.html\">《数据密集型应用系统设计》</a></li>\n</ul>\n\n<br />\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "2020春节特别节目",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

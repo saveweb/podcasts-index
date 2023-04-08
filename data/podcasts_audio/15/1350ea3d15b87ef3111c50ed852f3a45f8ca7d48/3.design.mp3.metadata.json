@@ -1,0 +1,55 @@
+{
+    "http-content-length": 103022653,
+    "http-etag": "ljfcIOOjbbVERhtLTbFhNc7DTm9U",
+    "http-last-modified": "Sun, 22 Jul 2018 03:44:44 GMT",
+    "http-last-modified-float": 1532202284.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": "inline; filename=\"3.design.mp3\"; filename*=utf-8''3.design.mp3",
+    "http-content-disposition-filename": "3.design.mp3",
+    "actual-size": 103022653,
+    "actual-duration": 4291,
+    "sha1": "41eb62340289fa4fb6148b715b0c54713fdcf9d2",
+    "md5": "28fe693c4d32206e2371c328b292c840",
+    "url-history": {
+        "0": {
+            "status_code": 301,
+            "url": "http://podcast.webview.tech/3.design.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:14:35 GMT",
+                "Content-Type": "text/html",
+                "Content-Length": "166",
+                "Connection": "keep-alive",
+                "Location": "https://podcast.webview.tech/3.design.mp3"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/3.design.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:14:35 GMT",
+                "Content-Type": "audio/mp3",
+                "Content-Length": "103022653",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"3.design.mp3\"; filename*=utf-8''3.design.mp3",
+                "Content-Md5": "KP5pPE0yIG4jccMospLIQA==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"ljfcIOOjbbVERhtLTbFhNc7DTm9U\"",
+                "Last-Modified": "Sun, 22 Jul 2018 03:44:44 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-9;QNM:gzh126;SRCPROXY:gzh439;SRC:63;SRCPROXY:63;QNM3:64;QNM3:158",
+                "X-M-Reqid": "1ksnoBqhK",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss",
+                "X-Reqid": "6zMAAAAeNbTSH1MX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

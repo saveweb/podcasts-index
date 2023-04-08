@@ -1,0 +1,80 @@
+{
+    "title": "特别节目 | 高三·十年",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "特别节目 | 高三·十年"
+    },
+    "itunes_episode": "82",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "8659405",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/gaosan.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Thu, 24 Jun 2021 16:20:00 CDT",
+    "published_parsed": [
+        2021,
+        6,
+        24,
+        21,
+        20,
+        0,
+        3,
+        175,
+        0
+    ],
+    "summary": "<p>本期是视频节目，究极喝酒聊天，纯湿货。观看请点击下面的 B 站链接。音频是简介 + 附赠的瞎扯。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li><a href=\"https://www.bilibili.com/video/BV1Pb4y1C7dg/\">B 站链接</a></li>\n<li>推荐的 YouTube 频道：医痴的木头屋</li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>本期是视频节目，究极喝酒聊天，纯湿货。观看请点击下面的 B 站链接。音频是简介 + 附赠的瞎扯。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li><a href=\"https://www.bilibili.com/video/BV1Pb4y1C7dg/\">B 站链接</a></li>\n<li>推荐的 YouTube 频道：医痴的木头屋</li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/gaosan.mp3",
+    "guidislink": false,
+    "itunes_duration": "00:18:02",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>本期是视频节目，究极喝酒聊天，纯湿货。观看请点击下面的 B 站链接。音频是简介 + 附赠的瞎扯。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li><a href=\"https://www.bilibili.com/video/BV1Pb4y1C7dg/\">B 站链接</a></li>\n<li>推荐的 YouTube 频道：医痴的木头屋</li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "高三",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

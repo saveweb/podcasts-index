@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "52037311",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2NzIzLCJwIjoyLCJ1IjoiNWRjZi5tcDMifQ.j7kszKij390gYUKclAB-ULyMxuw/nicktalk-new/z_4dce0e8dd91c65b8ad8b21e534df5dcf.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/43"
+        }
+    ],
+    "title": "NTP #43 春晚大吐槽二〇一九",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #43 春晚大吐槽二〇一九"
+    },
+    "id": "http://nicktalk.com/episodes/43",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/43",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "《NickTalk》的經典傳統節目再度迴歸，Nick 和付付伴著孩子的哭鬧聲完成了節目錄製。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "《NickTalk》的經典傳統節目再度迴歸，Nick 和付付伴著孩子的哭鬧聲完成了節目錄製。"
+    },
+    "itunes_duration": "52:55",
+    "itunes_explicit": null,
+    "itunes_episode": "43",
+    "podcast_episode": "43",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_1a4f81f603924632d546743fd4c2f643.jpg?x-oss-process=style/sl"
+    },
+    "summary": "《NickTalk》的經典傳統節目再度迴歸，Nick 和付付伴著孩子的哭鬧聲完成了節目錄製。新年快樂。人物介紹 張奕源 Nick：NickTalk Podcast 主播 付付：科技界的老學生 你可以這樣找到我們 NickTalk 主站：https://nicktalk.com Telegram Channel：https://t.me/nicktalk 寫信給 Nick：nick@nicktalk.com 新浪微博：https://weibo.com/nicktalk",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "《NickTalk》的經典傳統節目再度迴歸，Nick 和付付伴著孩子的哭鬧聲完成了節目錄製。新年快樂。人物介紹 張奕源 Nick：NickTalk Podcast 主播 付付：科技界的老學生 你可以這樣找到我們 NickTalk 主站：https://nicktalk.com Telegram Channel：https://t.me/nicktalk 寫信給 Nick：nick@nicktalk.com 新浪微博：https://weibo.com/nicktalk"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>《NickTalk》的經典傳統節目再度迴歸，Nick 和付付伴著孩子的哭鬧聲完成了節目錄製。<br /><br />新年快樂。<br /><br /><strong>人物介紹</strong><ul></p>\n<li>張奕源 Nick：NickTalk Podcast 主播</li>\n<li>付付：科技界的老學生</li>\n</ul><strong>你可以這樣找到我們</strong><ul>\n<li>NickTalk 主站：<a href=\"https://nicktalk.com\">https://nicktalk.com</a>\n</li>\n<li>Telegram Channel：<a href=\"https://t.me/nicktalk\">https://t.me/nicktalk</a>\n</li>\n<li>寫信給 Nick：nick@nicktalk.com</li>\n<li>新浪微博：<a href=\"https://weibo.com/nicktalk\">https://weibo.com/nicktalk</a>\n</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>《NickTalk》的經典傳統節目再度迴歸，Nick 和付付伴著孩子的哭鬧聲完成了節目錄製。<br /><br />新年快樂。<br /><br /><strong>人物介紹</strong><ul></p>\n<li>張奕源 Nick：NickTalk Podcast 主播</li>\n<li>付付：科技界的老學生</li>\n</ul><strong>你可以這樣找到我們</strong><ul>\n<li>NickTalk 主站：<a href=\"https://nicktalk.com\">https://nicktalk.com</a>\n</li>\n<li>Telegram Channel：<a href=\"https://t.me/nicktalk\">https://t.me/nicktalk</a>\n</li>\n<li>寫信給 Nick：nick@nicktalk.com</li>\n<li>新浪微博：<a href=\"https://weibo.com/nicktalk\">https://weibo.com/nicktalk</a>\n</li>\n</ul>"
+        }
+    ],
+    "published": "Tue, 12 Feb 2019 04:00:00 +0000",
+    "published_parsed": [
+        2019,
+        2,
+        12,
+        4,
+        0,
+        0,
+        1,
+        43,
+        0
+    ]
+}

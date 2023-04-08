@@ -1,0 +1,43 @@
+{
+    "http-content-length": 139299370,
+    "http-etag": "lm6KEP73BIzTwExPKXla8ff7FHd3",
+    "http-last-modified": "Wed, 19 Jun 2019 08:35:36 GMT",
+    "http-last-modified-float": 1560904536.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": "inline; filename=\"19.Android.mp3\"; filename*=utf-8''19.Android.mp3",
+    "http-content-disposition-filename": "19.Android.mp3",
+    "actual-size": 139299370,
+    "actual-duration": 4351,
+    "sha1": "3029df01e8545c9ea0035453b216978119e03205",
+    "md5": "73a9064e05b9a2d3e12826c3968a316c",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/19.Android.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:10:19 GMT",
+                "Content-Type": "audio/mp3",
+                "Content-Length": "139299370",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"19.Android.mp3\"; filename*=utf-8''19.Android.mp3",
+                "Content-Md5": "c6kGTgW5otPhKCbDlooxbA==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lm6KEP73BIzTwExPKXla8ff7FHd3\"",
+                "Last-Modified": "Wed, 19 Jun 2019 08:35:36 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-1;QNM:gzh136;SRCPROXY:gzh438;SRC:57;SRCPROXY:57;QNM3:58;QNM3:271",
+                "X-M-Reqid": "wvR4zQlaj",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss",
+                "X-Reqid": "dC4AAAAI7-KWH1MX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

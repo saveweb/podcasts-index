@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "102500690",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo2NTUxNSwicCI6MiwidSI6IjYyMzIubXAzIn0.uQHG-huMlRdzmWEAyDa79FSkFLE/sspai/8326573873_366232.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/ep78"
+        }
+    ],
+    "title": "对话傅徐军：钉钉怎么操盘自己的云文档产品？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "对话傅徐军：钉钉怎么操盘自己的云文档产品？"
+    },
+    "id": "https://sspai.typlog.io/episodes/ep78",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/ep78",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "聊聊钉钉团队在开发一款国民级协作工具背后的思考和故事。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "聊聊钉钉团队在开发一款国民级协作工具背后的思考和故事。"
+    },
+    "itunes_duration": "1:11:09",
+    "itunes_explicit": null,
+    "itunes_episode": "78",
+    "podcast_episode": "78",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8326573820_897699.jpg?x-oss-process=style/sl"
+    },
+    "summary": "一直以来，少数派都在关注协作类的产品和工具。前不久，钉钉召开 7.0 大版本发布会，对下一阶段的在线协作工具提出了新的理解。我派也关注到了钉钉新版本的发布，并邀请到了钉钉副总裁、协同办公产品负责人徐渭（傅徐军）做客《一派·Podcast》，聊聊钉钉团队在开发一款国民级协作工具背后的思考和故事。 节目章节 00:00:31 开场，嘉宾自我介绍 00:02:50 开场闲聊：阿里的花名文化 00:04:13 从老麦观察到的一个特殊的钉钉用法聊起 00:13:49 在长期竞争力和短期执行力之间该如何抉择 00:16:16 钉钉协作文档的演进逻辑和踩过的坑 00:23:07 文档和 PPT，各有面向的场景，也有各自的问题 00:28:40 表面是开会成本的消耗，实质上是对员工心智的损耗 00:44:07 钉钉协作文档的下一步 00:52:21 互联网协作对传统企业工作模式的影响 00:58:54 从协作文档到知识沉淀 01:09:40 尾声",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "一直以来，少数派都在关注协作类的产品和工具。前不久，钉钉召开 7.0 大版本发布会，对下一阶段的在线协作工具提出了新的理解。我派也关注到了钉钉新版本的发布，并邀请到了钉钉副总裁、协同办公产品负责人徐渭（傅徐军）做客《一派·Podcast》，聊聊钉钉团队在开发一款国民级协作工具背后的思考和故事。 节目章节 00:00:31 开场，嘉宾自我介绍 00:02:50 开场闲聊：阿里的花名文化 00:04:13 从老麦观察到的一个特殊的钉钉用法聊起 00:13:49 在长期竞争力和短期执行力之间该如何抉择 00:16:16 钉钉协作文档的演进逻辑和踩过的坑 00:23:07 文档和 PPT，各有面向的场景，也有各自的问题 00:28:40 表面是开会成本的消耗，实质上是对员工心智的损耗 00:44:07 钉钉协作文档的下一步 00:52:21 互联网协作对传统企业工作模式的影响 00:58:54 从协作文档到知识沉淀 01:09:40 尾声"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>一直以来，少数派都在关注协作类的产品和工具。前不久，钉钉召开 7.0 大版本发布会，对下一阶段的在线协作工具提出了新的理解。我派也关注到了钉钉新版本的发布，并邀请到了钉钉副总裁、协同办公产品负责人徐渭（傅徐军）做客《一派·Podcast》，聊聊钉钉团队在开发一款国民级协作工具背后的思考和故事。</p>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:31\">00:00:31</a> 开场，嘉宾自我介绍</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:02:50\">00:02:50</a> 开场闲聊：阿里的花名文化</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:04:13\">00:04:13</a> 从老麦观察到的一个特殊的钉钉用法聊起</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:13:49\">00:13:49</a> 在长期竞争力和短期执行力之间该如何抉择</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:16:16\">00:16:16</a> 钉钉协作文档的演进逻辑和踩过的坑</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:23:07\">00:23:07</a> 文档和 PPT，各有面向的场景，也有各自的问题</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:28:40\">00:28:40</a> 表面是开会成本的消耗，实质上是对员工心智的损耗</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:44:07\">00:44:07</a> 钉钉协作文档的下一步</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:52:21\">00:52:21</a> 互联网协作对传统企业工作模式的影响</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:58:54\">00:58:54</a> 从协作文档到知识沉淀</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:09:40\">01:09:40</a> 尾声</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>一直以来，少数派都在关注协作类的产品和工具。前不久，钉钉召开 7.0 大版本发布会，对下一阶段的在线协作工具提出了新的理解。我派也关注到了钉钉新版本的发布，并邀请到了钉钉副总裁、协同办公产品负责人徐渭（傅徐军）做客《一派·Podcast》，聊聊钉钉团队在开发一款国民级协作工具背后的思考和故事。</p>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:31\">00:00:31</a> 开场，嘉宾自我介绍</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:02:50\">00:02:50</a> 开场闲聊：阿里的花名文化</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:04:13\">00:04:13</a> 从老麦观察到的一个特殊的钉钉用法聊起</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:13:49\">00:13:49</a> 在长期竞争力和短期执行力之间该如何抉择</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:16:16\">00:16:16</a> 钉钉协作文档的演进逻辑和踩过的坑</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:23:07\">00:23:07</a> 文档和 PPT，各有面向的场景，也有各自的问题</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:28:40\">00:28:40</a> 表面是开会成本的消耗，实质上是对员工心智的损耗</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:44:07\">00:44:07</a> 钉钉协作文档的下一步</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:52:21\">00:52:21</a> 互联网协作对传统企业工作模式的影响</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:58:54\">00:58:54</a> 从协作文档到知识沉淀</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:09:40\">01:09:40</a> 尾声</li>\n</ul>"
+        }
+    ],
+    "published": "Wed, 11 Jan 2023 09:19:42 +0000",
+    "published_parsed": [
+        2023,
+        1,
+        11,
+        9,
+        19,
+        42,
+        2,
+        11,
+        0
+    ]
+}

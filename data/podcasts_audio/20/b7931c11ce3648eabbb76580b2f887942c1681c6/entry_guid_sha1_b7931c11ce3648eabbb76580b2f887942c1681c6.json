@@ -1,0 +1,81 @@
+{
+    "title": "番外12. 陈丹青：移民是失根的人群",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "番外12. 陈丹青：移民是失根的人群"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.theviewtalk.com/sp12"
+        },
+        {
+            "length": "57805236",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/24da7da4-6818-4c80-b129-4f06fed516cc.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.theviewtalk.com/sp12",
+    "id": "24da7da4-6818-4c80-b129-4f06fed516cc",
+    "guidislink": false,
+    "published": "Tue, 14 Feb 2023 20:00:00 +0800",
+    "published_parsed": [
+        2023,
+        2,
+        14,
+        12,
+        0,
+        0,
+        1,
+        45,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一画一话"
+        },
+        {
+            "name": "一画一话"
+        }
+    ],
+    "author": "一画一话",
+    "author_detail": {
+        "name": "一画一话"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": ""
+    },
+    "itunes_duration": "53:29",
+    "itunes_explicit": null,
+    "summary": "<p>杨老师节选陈丹青老师2007年访谈，并捧读。</p>\n\n<p>延伸阅读：<br />\n陈丹青 艾未未：非艺术访谈<br />\n<a href=\"https://book.douban.com/subject/1963674/\" rel=\"nofollow\">https://book.douban.com/subject/1963674/</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "<p>杨老师节选陈丹青老师2007年访谈，并捧读。</p>\n\n<p>延伸阅读：<br />\n陈丹青 艾未未：非艺术访谈<br />\n<a href=\"https://book.douban.com/subject/1963674/\" rel=\"nofollow\">https://book.douban.com/subject/1963674/</a></p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/theviewtalk/rss",
+            "value": "<p>杨老师节选陈丹青老师2007年访谈，并捧读。</p>\n\n<p>延伸阅读：<br />\n陈丹青 艾未未：非艺术访谈<br />\n<a href=\"https://book.douban.com/subject/1963674/\" rel=\"nofollow\">https://book.douban.com/subject/1963674/</a></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yS2zkE2S+RUGQ4_5q",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yS2zkE2S+RUGQ4_5q\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

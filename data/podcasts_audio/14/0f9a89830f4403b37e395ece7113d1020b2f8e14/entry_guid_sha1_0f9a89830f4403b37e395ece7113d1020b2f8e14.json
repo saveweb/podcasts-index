@@ -1,0 +1,84 @@
+{
+    "links": [
+        {
+            "length": "23790594",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjEzNzIsInAiOjIsInUiOiIxMzRjLm1wMyJ9.q9YmWtFa-_6zQlCwrzTpYgqpmRk/uxcoffee/z_f1bf0b548912e3a9c5cc586b5d9e134c.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/24"
+        }
+    ],
+    "title": "#24：火狐浏览器背后的设计故事（前 Mozilla 设计主管，现 Twitter 设计师王源 - 上）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#24：火狐浏览器背后的设计故事（前 Mozilla 设计主管，现 Twitter 设计师王源 - 上）"
+    },
+    "id": "https://uxcoffee.com/episodes/24",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/24",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "subtitle": "这期节目，我们请到的是前 Mozilla 设计主管，现 Twitter 产品设计师王源。王源先后从人大和卡耐基梅隆大学毕业。毕业后，她加入了位于硅谷的 Mozilla。大家可能会对 Mozilla 这个名字有些陌生，它实际上就是大名鼎鼎的 Firefox 火狐浏览器的母公司。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "这期节目，我们请到的是前 Mozilla 设计主管，现 Twitter 产品设计师王源。王源先后从人大和卡耐基梅隆大学毕业。毕业后，她加入了位于硅谷的 Mozilla。大家可能会对 Mozilla 这个名字有些陌生，它实际上就是大名鼎鼎的 Firefox 火狐浏览器的母公司。"
+    },
+    "itunes_duration": "24:46",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "24",
+    "podcast_episode": "24",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/8420846789_769821.jpg?x-oss-process=style/sl"
+    },
+    "summary": "这期节目，我们请到的是前 Mozilla 设计主管，现 Twitter 产品设计师王源。王源先后从人大和卡耐基梅隆大学毕业。毕业后，她加入了位于硅谷的 Mozilla。大家可能会对 Mozilla 这个名字有些陌生，它实际上就是大名鼎鼎的 Firefox 火狐浏览器的母公司。 节目提纲 00:50 浏览器的角色在变化 04:08 设计能开源吗？ 05:18 在非盈利公司做设计是怎样的感受 08:01 当你们在设计浏览器的时候，你们都在设计些什么？ 13:57 你们是怎么做跨平台、跨场景的用户研究的？ 16:26 为什么跳槽加入 Twitter？ 18:19 Twitter 设计团队的构成是怎样的？ 23:31 下期预告 参考链接 Save, Share, Revisit | Mozilla UX Page Parking: Millennials’ Multi-Tab Mania Task Continuity | Mozilla UX Save, Share, Revisit | Mozilla UX 在下一期节目之后，我们会请到 Medium 现任产品设计师姜羽扬来做客我们的节目。在加入 Medium 之前，她分别在 Intercom 和基因测序公司 23andme 担任设计师。大家有什么问题想问她的话，可以在我们的微信公众号上留言，我们会选取其中一些问题在节目里问问羽扬。我们的微信公众号是：uxcoffee。希望大家能来积极提问！",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "这期节目，我们请到的是前 Mozilla 设计主管，现 Twitter 产品设计师王源。王源先后从人大和卡耐基梅隆大学毕业。毕业后，她加入了位于硅谷的 Mozilla。大家可能会对 Mozilla 这个名字有些陌生，它实际上就是大名鼎鼎的 Firefox 火狐浏览器的母公司。 节目提纲 00:50 浏览器的角色在变化 04:08 设计能开源吗？ 05:18 在非盈利公司做设计是怎样的感受 08:01 当你们在设计浏览器的时候，你们都在设计些什么？ 13:57 你们是怎么做跨平台、跨场景的用户研究的？ 16:26 为什么跳槽加入 Twitter？ 18:19 Twitter 设计团队的构成是怎样的？ 23:31 下期预告 参考链接 Save, Share, Revisit | Mozilla UX Page Parking: Millennials’ Multi-Tab Mania Task Continuity | Mozilla UX Save, Share, Revisit | Mozilla UX 在下一期节目之后，我们会请到 Medium 现任产品设计师姜羽扬来做客我们的节目。在加入 Medium 之前，她分别在 Intercom 和基因测序公司 23andme 担任设计师。大家有什么问题想问她的话，可以在我们的微信公众号上留言，我们会选取其中一些问题在节目里问问羽扬。我们的微信公众号是：uxcoffee。希望大家能来积极提问！"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>这期节目，我们请到的是前 Mozilla 设计主管，现 Twitter 产品设计师王源。王源先后从人大和卡耐基梅隆大学毕业。毕业后，她加入了位于硅谷的 Mozilla。大家可能会对 Mozilla 这个名字有些陌生，它实际上就是大名鼎鼎的 Firefox 火狐浏览器的母公司。</p>\n<p>节目提纲</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:50\">00:50</a> 浏览器的角色在变化</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=04:08\">04:08</a> 设计能开源吗？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=05:18\">05:18</a> 在非盈利公司做设计是怎样的感受</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=08:01\">08:01</a> 当你们在设计浏览器的时候，你们都在设计些什么？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=13:57\">13:57</a> 你们是怎么做跨平台、跨场景的用户研究的？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=16:26\">16:26</a> 为什么跳槽加入 Twitter？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=18:19\">18:19</a> Twitter 设计团队的构成是怎样的？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=23:31\">23:31</a> 下期预告</p>\n<p>参考链接</p>\n<p><a href=\"https://blog.mozilla.org/ux/2015/02/save-share-revisit/\">Save, Share, Revisit | Mozilla UX</a></p>\n<p><a href=\"https://www.nngroup.com/articles/multi-tab-page-parking/\">Page Parking: Millennials’ Multi-Tab Mania</a></p>\n<p><a href=\"https://blog.mozilla.org/ux/2015/04/task-continuity/\">Task Continuity | Mozilla UX</a></p>\n<p><a href=\"https://blog.mozilla.org/ux/2015/02/save-share-revisit/\">Save, Share, Revisit | Mozilla UX</a></p>\n<p>在下一期节目之后，我们会请到 Medium 现任产品设计师姜羽扬来做客我们的节目。在加入 Medium 之前，她分别在 Intercom 和基因测序公司 23andme 担任设计师。大家有什么问题想问她的话，可以在我们的微信公众号上留言，我们会选取其中一些问题在节目里问问羽扬。我们的微信公众号是：uxcoffee。希望大家能来积极提问！</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>这期节目，我们请到的是前 Mozilla 设计主管，现 Twitter 产品设计师王源。王源先后从人大和卡耐基梅隆大学毕业。毕业后，她加入了位于硅谷的 Mozilla。大家可能会对 Mozilla 这个名字有些陌生，它实际上就是大名鼎鼎的 Firefox 火狐浏览器的母公司。</p>\n<p>节目提纲</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:50\">00:50</a> 浏览器的角色在变化</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=04:08\">04:08</a> 设计能开源吗？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=05:18\">05:18</a> 在非盈利公司做设计是怎样的感受</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=08:01\">08:01</a> 当你们在设计浏览器的时候，你们都在设计些什么？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=13:57\">13:57</a> 你们是怎么做跨平台、跨场景的用户研究的？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=16:26\">16:26</a> 为什么跳槽加入 Twitter？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=18:19\">18:19</a> Twitter 设计团队的构成是怎样的？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=23:31\">23:31</a> 下期预告</p>\n<p>参考链接</p>\n<p><a href=\"https://blog.mozilla.org/ux/2015/02/save-share-revisit/\">Save, Share, Revisit | Mozilla UX</a></p>\n<p><a href=\"https://www.nngroup.com/articles/multi-tab-page-parking/\">Page Parking: Millennials’ Multi-Tab Mania</a></p>\n<p><a href=\"https://blog.mozilla.org/ux/2015/04/task-continuity/\">Task Continuity | Mozilla UX</a></p>\n<p><a href=\"https://blog.mozilla.org/ux/2015/02/save-share-revisit/\">Save, Share, Revisit | Mozilla UX</a></p>\n<p>在下一期节目之后，我们会请到 Medium 现任产品设计师姜羽扬来做客我们的节目。在加入 Medium 之前，她分别在 Intercom 和基因测序公司 23andme 担任设计师。大家有什么问题想问她的话，可以在我们的微信公众号上留言，我们会选取其中一些问题在节目里问问羽扬。我们的微信公众号是：uxcoffee。希望大家能来积极提问！</p>"
+        }
+    ],
+    "published": "Mon, 17 Apr 2017 00:04:00 +0000",
+    "published_parsed": [
+        2017,
+        4,
+        17,
+        0,
+        4,
+        0,
+        0,
+        107,
+        0
+    ]
+}

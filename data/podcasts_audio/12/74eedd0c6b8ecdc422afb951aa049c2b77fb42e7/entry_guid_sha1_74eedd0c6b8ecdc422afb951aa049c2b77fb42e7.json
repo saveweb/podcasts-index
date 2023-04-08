@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "26051882",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2NzAwLCJwIjoyLCJ1IjoiNDhlMS5tcDMifQ.kMXH3gv19tb5l7RCVsamNR5Yjno/nicktalk-new/z_a97c6b9be75361ad0c40eac0967348e1.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/22"
+        }
+    ],
+    "title": "NTP #22 MWC 2016 總結：付付聊科技，Nick 談情懷",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #22 MWC 2016 總結：付付聊科技，Nick 談情懷"
+    },
+    "id": "http://nicktalk.com/episodes/22",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/22",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "Nick 和付付圍繞 MWC 2016 的總結和回顧，各自寫了一篇文章，并將其放在了 NickTalk.com 上。本期節目即為兩篇文章的音頻版。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "Nick 和付付圍繞 MWC 2016 的總結和回顧，各自寫了一篇文章，并將其放在了 NickTalk.com 上。本期節目即為兩篇文章的音頻版。"
+    },
+    "itunes_duration": "18:02",
+    "itunes_explicit": null,
+    "itunes_episode": "22",
+    "podcast_episode": "22",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_1a4f81f603924632d546743fd4c2f643.jpg?x-oss-process=style/sl"
+    },
+    "summary": "Nick 和付付圍繞 MWC 2016 的總結和回顧，各自寫了一篇文章，并將其放在了 NickTalk.com 上。本期節目即為兩篇文章的音頻版。 相關連結 Nick 關於 MWC 2016 的總結文章《MWC 2016：三國殺不殺》 付付關於 MWC 2016 的總結文章《MWC 2016 观后感之闲谈杂记》",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "Nick 和付付圍繞 MWC 2016 的總結和回顧，各自寫了一篇文章，并將其放在了 NickTalk.com 上。本期節目即為兩篇文章的音頻版。 相關連結 Nick 關於 MWC 2016 的總結文章《MWC 2016：三國殺不殺》 付付關於 MWC 2016 的總結文章《MWC 2016 观后感之闲谈杂记》"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>Nick 和付付圍繞 MWC 2016 的總結和回顧，各自寫了一篇文章，并將其放在了 <a href=\"https://www.nicktalk.com/\">NickTalk.com</a> 上。本期節目即為兩篇文章的音頻版。<br /></p>\n<h2>相關連結</h2>\n<ul>\n<li><a href=\"https://www.nicktalk.com/talk/2016/2/28/mwc-2016\">Nick 關於 MWC 2016 的總結文章《MWC 2016：三國殺不殺》</a></li>\n<li><a href=\"https://www.nicktalk.com/talk/2016/2/28/mwc-2016-\">付付關於 MWC 2016 的總結文章《MWC 2016 观后感之闲谈杂记》</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>Nick 和付付圍繞 MWC 2016 的總結和回顧，各自寫了一篇文章，并將其放在了 <a href=\"https://www.nicktalk.com/\">NickTalk.com</a> 上。本期節目即為兩篇文章的音頻版。<br /></p>\n<h2>相關連結</h2>\n<ul>\n<li><a href=\"https://www.nicktalk.com/talk/2016/2/28/mwc-2016\">Nick 關於 MWC 2016 的總結文章《MWC 2016：三國殺不殺》</a></li>\n<li><a href=\"https://www.nicktalk.com/talk/2016/2/28/mwc-2016-\">付付關於 MWC 2016 的總結文章《MWC 2016 观后感之闲谈杂记》</a></li>\n</ul>"
+        }
+    ],
+    "published": "Sun, 28 Feb 2016 04:00:00 +0000",
+    "published_parsed": [
+        2016,
+        2,
+        28,
+        4,
+        0,
+        0,
+        6,
+        59,
+        0
+    ]
+}

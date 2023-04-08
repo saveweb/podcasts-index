@@ -1,0 +1,75 @@
+{
+    "title": "打破幻想的温哥华之旅",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "打破幻想的温哥华之旅"
+    },
+    "itunes_episode": "89",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "57392278",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/vancouver.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Sun, 7 Aug 2022 10:00:00 CDT",
+    "published_parsed": [
+        2022,
+        8,
+        7,
+        15,
+        0,
+        0,
+        6,
+        219,
+        0
+    ],
+    "summary": "<p>期待已久的温哥华之旅，因为意外从 7 天变成了 10 天，但也更加完整的考察了温哥华各地的风土人情。总体来说，温哥华并不适合我们，至于为什么，请听节目内容。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>期待已久的温哥华之旅，因为意外从 7 天变成了 10 天，但也更加完整的考察了温哥华各地的风土人情。总体来说，温哥华并不适合我们，至于为什么，请听节目内容。</p>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/vancouver.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:59:19",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>期待已久的温哥华之旅，因为意外从 7 天变成了 10 天，但也更加完整的考察了温哥华各地的风土人情。总体来说，温哥华并不适合我们，至于为什么，请听节目内容。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

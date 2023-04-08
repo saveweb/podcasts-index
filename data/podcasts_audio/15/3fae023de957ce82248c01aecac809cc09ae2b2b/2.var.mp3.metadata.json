@@ -1,0 +1,55 @@
+{
+    "http-content-length": 39080721,
+    "http-etag": "lvGwpUlcTmS54oNWZZbeKAJe7ltn",
+    "http-last-modified": "Wed, 04 Jul 2018 09:00:55 GMT",
+    "http-last-modified-float": 1530666055.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": "inline; filename=\"2.var.mp3\"; filename*=utf-8''2.var.mp3",
+    "http-content-disposition-filename": "2.var.mp3",
+    "actual-size": 39080721,
+    "actual-duration": 1626,
+    "sha1": "6747632fb177d64a78a928271fe849f61b23eca6",
+    "md5": "ae77c5df707d54ebc831e02b5fb0551a",
+    "url-history": {
+        "0": {
+            "status_code": 301,
+            "url": "http://podcast.webview.tech/2.var.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:14:51 GMT",
+                "Content-Type": "text/html",
+                "Content-Length": "166",
+                "Connection": "keep-alive",
+                "Location": "https://podcast.webview.tech/2.var.mp3"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/2.var.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:14:51 GMT",
+                "Content-Type": "audio/mp3",
+                "Content-Length": "39080721",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"2.var.mp3\"; filename*=utf-8''2.var.mp3",
+                "Content-Md5": "rnfF33B9VOvIMeArX7BVGg==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lvGwpUlcTmS54oNWZZbeKAJe7ltn\"",
+                "Last-Modified": "Wed, 04 Jul 2018 09:00:55 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-1;QNM:fn268;SRCPROXY:fn275;SRC:59;SRCPROXY:59;QNM3:61;QNM3:215",
+                "X-M-Reqid": "CUuViQIve",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss",
+                "X-Reqid": "2-0AAACsglDWH1MX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

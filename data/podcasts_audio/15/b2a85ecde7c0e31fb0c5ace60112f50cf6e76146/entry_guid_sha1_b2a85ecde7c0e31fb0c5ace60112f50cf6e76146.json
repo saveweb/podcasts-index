@@ -1,0 +1,110 @@
+{
+    "title": "45. WWDC22：M2来了，苹果也想开了",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "45. WWDC22：M2来了，苹果也想开了"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://webview.tech/2255/"
+        },
+        {
+            "length": "192987657",
+            "type": "audio/mpeg",
+            "href": "https://podcast.webview.tech/45.wwdc22.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://webview.tech/2255/",
+    "comments": "https://webview.tech/2255/#respond",
+    "published": "Wed, 08 Jun 2022 00:02:00 +0000",
+    "published_parsed": [
+        2022,
+        6,
+        8,
+        0,
+        2,
+        0,
+        2,
+        159,
+        0
+    ],
+    "authors": [
+        {
+            "name": "王隐"
+        },
+        {
+            "name": "王隐，敬礼"
+        }
+    ],
+    "author": "王隐，敬礼",
+    "author_detail": {
+        "name": "王隐"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "iOS",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "iPad",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "M2",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "MacBook Air",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "MacOS Ventura",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "https://webview.tech/?p=2255",
+    "guidislink": false,
+    "summary": "在 WWDC22 上，苹果意外地带来了第二代架构芯片M2， 配备 M2 的MacBook Air 自然是会上最大的主角，这是否意味着苹果自研芯片迁移的成功？本期节目带你回顾 WWDC22，重点包括 iOS 16、iPadOS 16、MacOS Ventura及 M2 芯片加持的 MacBook Air及 MacBook Pro，并同时提供选购建议。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "在 WWDC22 上，苹果意外地带来了第二代架构芯片M2， 配备 M2 的MacBook Air 自然是会上最大的主角，这是否意味着苹果自研芯片迁移的成功？本期节目带你回顾 WWDC22，重点包括 iOS 16、iPadOS 16、MacOS Ventura及 M2 芯片加持的 MacBook Air及 MacBook Pro，并同时提供选购建议。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://webview.tech/category/podcast/feed/",
+            "value": "<p>两年前的 WWDC20， Apple Silicon 横空出世，苹果同时宣布为期两年的芯片迁移计划正式开始。如今期限将至，在 WWDC22 上，苹果意外地带来了第二代架构芯片 M2， 配备 M2 的 MacBook Air 自然是会上最大的主角，这是否意味着苹果自研芯片迁移的成功？</p>\n\n\n\n<p>同时，在软件上，我们也能发现一些微妙的趋势：iOS 迭代至今的最大特点，就是封闭的系统与简洁的设计，让用户专注于使用手机，而不是被手机使用。但随着苹果设计师 Jony Ive 的离开，无论是从新 Macbook 的接口设计还是 iOS16 对锁屏壁纸的定制化逐渐放开，苹果的设计语言好像变得不再简洁，产品功能上也更加想办法讨好有定制化需求的用户，这或许是因为那些大众化的功能迭代，在苹果看来，已经没有太多改进的空间了。</p>\n\n\n\n<p><strong>这或许是苹果的理念正在起变化。</strong></p>\n\n\n\n<p>这种变化还体现在 iPad 上，苹果之前其实很抵触 Mac 与 iPad 的用户体验趋同，所以你几乎不可能看到可触屏的 MacBook，以及可以运行 MacOS 的 iPad，自家的产品线如果定位不清而打架，对销量绝对不是好事。但现在，最新的 iPadOS 16 与 MacOS Ventura 相差无几的多任务切换机制（前台调度），或许在告诉我们，苹果好像不再抵触 Mac 与 iPad 使用上的趋同，反而是主动拥抱这种体验上的无缝衔接，并提供给开发者、用户更强大的使用自由度。</p>\n\n\n\n<p>本期节目带你回顾 WWDC22，重点包括 iOS 16、iPadOS 16、MacOS Ventura及 M2 芯片加持的 MacBook Air及 MacBook Pro，并同时提供选购建议。<br /></p>\n\n\n\n<h2>主持：</h2>\n\n\n\n<p>王隐</p>\n\n\n\n<h2>嘉宾：</h2>\n\n\n\n<p>欧阳洋葱（微博<a href=\"https://weibo.com/illumi\">@_欧阳洋葱</a>）</p>\n\n\n\n<h2>Playlist：</h2>\n\n\n\n<p>Beautiful Ones – Suede</p>\n\n\n\n<h2>联系我们：</h2>\n\n\n\n<p>你可以通过邮件向我们反馈节目中的问题和建议：&nbsp;<a href=\"mailto://hi@webview.tech\">hi@webview.tech</a></p>\n\n\n\n<p>微博：<a href=\"https://www.weibo.com/u/7159686921\">@WEB VIEW播客</a></p>\n\n\n\n<p>我们的网站：&nbsp;<a href=\"https://webview.tech/\">webview.tech</a><br /></p>"
+        }
+    ],
+    "wfw_commentrss": "https://webview.tech/2255/feed/",
+    "slash_comments": "0",
+    "subtitle": "在 WWDC22 上，苹果意外地带来了第二代架构芯片M2， 配备 M2 的MacBook Air 自然是会上最大的主角，这是否意味着苹果自研芯片迁移的成功？本期节目带你回顾 WWDC22，重点包括 iOS 16、iPadOS 16、MacOS Ventura及 M2 芯片加持的 MacBook Air及 MacBook Pro，并同时提供选购建议。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "在 WWDC22 上，苹果意外地带来了第二代架构芯片M2， 配备 M2 的MacBook Air 自然是会上最大的主角，这是否意味着苹果自研芯片迁移的成功？本期节目带你回顾 WWDC22，重点包括 iOS 16、iPadOS 16、MacOS Ventura及 M2 芯片加持的 MacBook Air及 MacBook Pro，并同时提供选购建议。"
+    },
+    "itunes_episode": "45",
+    "itunes_title": "WWDC22：M2来了，苹果也想开了",
+    "itunes_explicit": false,
+    "itunes_duration": "1:20:24"
+}

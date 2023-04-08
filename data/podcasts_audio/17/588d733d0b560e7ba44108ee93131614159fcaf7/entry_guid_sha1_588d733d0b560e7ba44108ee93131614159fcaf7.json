@@ -1,0 +1,73 @@
+{
+    "links": [
+        {
+            "length": "43160606",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo1NSwiZSI6MzE5MiwicCI6MiwidSI6ImZjNjYubXAzIn0.VVsCCb9wt6Fdzlc1Yl9KsiEBL-4/yitianshijie/z_352701dc5bb5d0dc73225a07a924fc66.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://yitianshijie.net/episodes/44"
+        }
+    ],
+    "title": "Episode 44: [番外篇]《声东击西》第五期：火人节就是硅谷，这种说法太夸张吗？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": "Episode 44: [番外篇]《声东击西》第五期：火人节就是硅谷，这种说法太夸张吗？"
+    },
+    "id": "https://yitianshijie.net/episodes/44",
+    "guidislink": true,
+    "link": "https://yitianshijie.net/episodes/44",
+    "authors": [
+        {
+            "name": "不鳥萬如一"
+        }
+    ],
+    "author": "不鳥萬如一",
+    "author_detail": {
+        "name": "不鳥萬如一"
+    },
+    "itunes_duration": "59:48",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "image": {
+        "href": "https://i.typlog.com/yitianshijie/z_86c8e3e7fe84d58103b7bb317d5c4fdd.png?x-oss-process=style/sl"
+    },
+    "summary": "",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": ""
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        }
+    ],
+    "published": "Thu, 15 Dec 2016 05:00:00 +0000",
+    "published_parsed": [
+        2016,
+        12,
+        15,
+        5,
+        0,
+        0,
+        3,
+        350,
+        0
+    ]
+}

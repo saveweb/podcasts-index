@@ -1,0 +1,100 @@
+{
+    "title": "2019 准备学什么新技术？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "2019 准备学什么新技术？"
+    },
+    "itunes_episode": "19",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "53361186",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/18.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 19 Feb 2019 07:00:00 CDT",
+    "published_parsed": [
+        2019,
+        2,
+        19,
+        12,
+        0,
+        0,
+        1,
+        50,
+        0
+    ],
+    "summary": "<p>春节过完了，又该投入到愉快的工作中了！这期请到了老朋友莲叔和蓉老师，回顾下我们 2018 学了什么，2019 计划学什么。</p>\n\n<p>如果你也做了计划，可以给我们反馈一下，看看大家感兴趣的技术是否一致。</p>\n\n<p>此外，节目最后也来了一场“莲叔职业规范小课堂”，今天我们又从莲叔这里学到了新的东西。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>蓉老师提到的技术：Fastlane，CocoaPods，Xcodeproj，</li>\n<li>莲叔提到的技术：Kaggle，gradient boost，notebook，pandas，rax，ant-design，Dart，Flutter</li>\n<li>梁杰提到的技术：React，Redux，web3，以太坊（ethereum）</li>\n<li>蓉老师的微博：@saitjr（https://weibo.com/u/1918545437）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:23  个人介绍</li>\n<li>02:06  2018 年学了什么？做了什么项目？</li>\n<li>26:25  2019 年准备学什么？</li>\n<li>40:12  你对自己所在的领域有什么看法？</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>春节过完了，又该投入到愉快的工作中了！这期请到了老朋友莲叔和蓉老师，回顾下我们 2018 学了什么，2019 计划学什么。</p>\n\n<p>如果你也做了计划，可以给我们反馈一下，看看大家感兴趣的技术是否一致。</p>\n\n<p>此外，节目最后也来了一场“莲叔职业规范小课堂”，今天我们又从莲叔这里学到了新的东西。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>蓉老师提到的技术：Fastlane，CocoaPods，Xcodeproj，</li>\n<li>莲叔提到的技术：Kaggle，gradient boost，notebook，pandas，rax，ant-design，Dart，Flutter</li>\n<li>梁杰提到的技术：React，Redux，web3，以太坊（ethereum）</li>\n<li>蓉老师的微博：@saitjr（https://weibo.com/u/1918545437）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:23  个人介绍</li>\n<li>02:06  2018 年学了什么？做了什么项目？</li>\n<li>26:25  2019 年准备学什么？</li>\n<li>40:12  你对自己所在的领域有什么看法？</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/18.mp3",
+    "guidislink": false,
+    "itunes_duration": "00:55:34",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n春节过完了，又该投入到愉快的工作中了！这期请到了老朋友莲叔和蓉老师，回顾下我们 2018 学了什么，2019 计划学什么。</p>\n\n<p>如果你也做了计划，可以给我们反馈一下，看看大家感兴趣的技术是否一致。</p>\n\n<p>此外，节目最后也来了一场“莲叔职业规范小课堂”，今天我们又从莲叔这里学到了新的东西。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>蓉老师提到的技术：Fastlane，CocoaPods，Xcodeproj，</li>\n<li>莲叔提到的技术：Kaggle，gradient boost，notebook，pandas，rax，ant-design，Dart，Flutter</li>\n<li>梁杰提到的技术：React，Redux，web3，以太坊（ethereum）</li>\n<li>蓉老师的微博：@saitjr（https://weibo.com/u/1918545437）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:23  个人介绍</li>\n<li>02:06  2018 年学了什么？做了什么项目？</li>\n<li>26:25  2019 年准备学什么？</li>\n<li>40:12  你对自己所在的领域有什么看法？</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "翻译组",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "2019",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "新技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

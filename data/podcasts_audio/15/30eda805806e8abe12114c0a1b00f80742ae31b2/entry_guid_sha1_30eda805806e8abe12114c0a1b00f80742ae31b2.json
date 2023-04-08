@@ -1,0 +1,100 @@
+{
+    "title": "11. 如果豆瓣打分有十星",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "11. 如果豆瓣打分有十星"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://webview.tech/967/"
+        },
+        {
+            "length": "71185545",
+            "type": "audio/mpeg",
+            "href": "https://podcast.webview.tech/11.db_rate.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://webview.tech/967/",
+    "comments": "https://webview.tech/967/#comments",
+    "published": "Mon, 08 Apr 2019 08:44:04 +0000",
+    "published_parsed": [
+        2019,
+        4,
+        8,
+        8,
+        44,
+        4,
+        0,
+        98,
+        0
+    ],
+    "authors": [
+        {
+            "name": "王隐"
+        },
+        {
+            "name": "王隐，敬礼"
+        }
+    ],
+    "author": "王隐，敬礼",
+    "author_detail": {
+        "name": "王隐"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "区间",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "打分",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "豆瓣",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "https://webview.tech/?p=967",
+    "guidislink": false,
+    "summary": "大部分人都会参考豆瓣评分，来决定是否要看某本书或某部电影。豆瓣也选择了最为常见的五星来降低打分门槛。但这里要问的是，五星打分区间是否够精准，如果换成十星，又是否会落入买鞋时半号的选择难题？",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "大部分人都会参考豆瓣评分，来决定是否要看某本书或某部电影。豆瓣也选择了最为常见的五星来降低打分门槛。但这里要问的是，五星打分区间是否够精准，如果换成十星，又是否会落入买鞋时半号的选择难题？"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://webview.tech/category/podcast/feed/",
+            "value": "<p>大部分人都会参考豆瓣评分，来决定是否要看某本书或某部电影。豆瓣也选择了最为常见的五星来降低打分门槛。但这里要问的是，五星打分区间是否够精准，如果换成十星，又是否会落入买鞋时半号的选择难题？</p>\n\n\n\n<h2>SHOWNOTE：</h2>\n\n\n\n<ul><li>豆瓣打分的问题</li><li>扩大打分区间的问题</li><li>如何保证豆瓣打分客观？</li><li><a href=\"https://www.zhihu.com/question/311555628/answer/596663469\">打分条件是否要更严格？</a></li><li>打分公式<ul><li> IMDB 250的<a href=\"https://www.pingwest.com/a/64002\">打分公式</a></li><li>阿北回应的<a href=\"https://blog.douban.com/douban/2015/12/18/3060/\">豆瓣打分公式</a></li></ul></li><li>打分引入半星机制</li><li>传统五星打分的局限与优势</li><li>豆瓣短评的影响性</li><li>为什么不提倡用机器学习干预评分？</li><li>打分的民主性</li><li>科学（科研）对大众的门槛是否合理？</li></ul>\n\n\n\n<h2>主持/嘉宾：</h2>\n\n\n\n<p>王隐（<a href=\"http://weibo.com/recwangyin\">@王隐在录音</a>）</p>\n\n\n\n<p>敬礼</p>\n\n\n\n<h2>PLAY LIST：</h2>\n\n\n\n<p>黄金时代 &#8211; 达达乐队</p>\n\n\n\n<h2>联系我们：</h2>\n\n\n\n<p>你可以通过邮件向我们反馈节目中的问题和建议： <a href=\"mailto://hi@webview.tech\">hi@webview.tech</a></p>\n\n\n\n<p>微博：<a href=\"http://weibo.com/recwangyin\">@王隐在录音</a></p>\n\n\n\n<p>我们的网站： <a href=\"https://webview.tech/\">webview.tech</a></p>"
+        }
+    ],
+    "wfw_commentrss": "https://webview.tech/967/feed/",
+    "slash_comments": "1",
+    "subtitle": "大部分人都会参考豆瓣评分，来决定是否要看某本书或某部电影。豆瓣也选择了最为常见的五星来降低打分门槛。但这里要问的是，五星打分区间是否够精准，如果换成十星，又是否会落入买鞋时半号的选择难题？",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "大部分人都会参考豆瓣评分，来决定是否要看某本书或某部电影。豆瓣也选择了最为常见的五星来降低打分门槛。但这里要问的是，五星打分区间是否够精准，如果换成十星，又是否会落入买鞋时半号的选择难题？"
+    },
+    "itunes_episode": "11",
+    "itunes_title": "如果豆瓣打分有十星",
+    "itunes_explicit": false,
+    "itunes_duration": "49:26"
+}

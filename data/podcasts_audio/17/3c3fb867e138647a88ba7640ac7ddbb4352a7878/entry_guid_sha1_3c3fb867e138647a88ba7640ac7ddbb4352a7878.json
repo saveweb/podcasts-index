@@ -1,0 +1,73 @@
+{
+    "links": [
+        {
+            "length": "24392221",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo1NSwiZSI6MzE5NCwicCI6MiwidSI6IjcwODYubXAzIn0.6DTmm7ufYs6K0xi-oZyEVfGxn2A/yitianshijie/z_931a28d6e7aa0a9be1d6006227547086.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://yitianshijie.net/episodes/46"
+        }
+    ],
+    "title": "Episode 46: 王菲演唱会——比跑调更严重的问题",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": "Episode 46: 王菲演唱会——比跑调更严重的问题"
+    },
+    "id": "https://yitianshijie.net/episodes/46",
+    "guidislink": true,
+    "link": "https://yitianshijie.net/episodes/46",
+    "authors": [
+        {
+            "name": "不鳥萬如一"
+        }
+    ],
+    "author": "不鳥萬如一",
+    "author_detail": {
+        "name": "不鳥萬如一"
+    },
+    "itunes_duration": "33:44",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "image": {
+        "href": "https://i.typlog.com/yitianshijie/z_afc1a651d016c55fc370b8d21946120d.png?x-oss-process=style/sl"
+    },
+    "summary": "",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": ""
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        }
+    ],
+    "published": "Thu, 05 Jan 2017 15:00:00 +0000",
+    "published_parsed": [
+        2017,
+        1,
+        5,
+        15,
+        0,
+        0,
+        3,
+        5,
+        0
+    ]
+}

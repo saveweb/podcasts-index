@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "645746",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo1NDIzMSwicCI6MiwidSI6IjU1OTQubXAzIn0.eZziesBLzYdFcdnHNVAe8B--kIg/nicktalk/8352514233_485594.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/zeon-faai-faan-gaa"
+        }
+    ],
+    "title": "NTP #49 即刻回家",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #49 即刻回家"
+    },
+    "id": "http://nicktalk.com/episodes/zeon-faai-faan-gaa",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/zeon-faai-faan-gaa",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "一段錄音。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "一段錄音。"
+    },
+    "itunes_duration": "00:26",
+    "itunes_explicit": null,
+    "itunes_episode": "49",
+    "podcast_episode": "49",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk/8339719855_119864.jpg?x-oss-process=style/sl"
+    },
+    "summary": "深圳疫情期間的一小段錄音。 人物介紹 張奕源 Nick：NickTalk Podcast 主播 你可以這樣找到我們 RSS 訂閱：https://nicktalk.com/rss NickTalk 主站：https://nicktalk.com Telegram Channel：https://t.me/nicktalk 寫信給 Nick：nick@nicktalk.com",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "深圳疫情期間的一小段錄音。 人物介紹 張奕源 Nick：NickTalk Podcast 主播 你可以這樣找到我們 RSS 訂閱：https://nicktalk.com/rss NickTalk 主站：https://nicktalk.com Telegram Channel：https://t.me/nicktalk 寫信給 Nick：nick@nicktalk.com"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>深圳疫情期間的一小段錄音。</p>\n<h2>人物介紹</h2>\n<ul>\n<li>張奕源 Nick：NickTalk Podcast 主播</li>\n</ul>\n<h2>你可以這樣找到我們</h2>\n<ul>\n<li>RSS 訂閱：<a href=\"https://nicktalk.com/rss\">https://nicktalk.com/rss</a></li>\n<li>NickTalk 主站：<a href=\"https://nicktalk.com\">https://nicktalk.com</a></li>\n<li>Telegram Channel：<a href=\"https://t.me/nicktalk\">https://t.me/nicktalk</a></li>\n<li>寫信給 Nick：nick@nicktalk.com</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>深圳疫情期間的一小段錄音。</p>\n<h2>人物介紹</h2>\n<ul>\n<li>張奕源 Nick：NickTalk Podcast 主播</li>\n</ul>\n<h2>你可以這樣找到我們</h2>\n<ul>\n<li>RSS 訂閱：<a href=\"https://nicktalk.com/rss\">https://nicktalk.com/rss</a></li>\n<li>NickTalk 主站：<a href=\"https://nicktalk.com\">https://nicktalk.com</a></li>\n<li>Telegram Channel：<a href=\"https://t.me/nicktalk\">https://t.me/nicktalk</a></li>\n<li>寫信給 Nick：nick@nicktalk.com</li>\n</ul>"
+        }
+    ],
+    "published": "Thu, 17 Mar 2022 02:57:24 +0000",
+    "published_parsed": [
+        2022,
+        3,
+        17,
+        2,
+        57,
+        24,
+        3,
+        76,
+        0
+    ]
+}

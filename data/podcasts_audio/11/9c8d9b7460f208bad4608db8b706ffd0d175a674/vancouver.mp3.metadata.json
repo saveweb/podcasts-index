@@ -1,0 +1,34 @@
+{
+    "http-content-length": 57392278,
+    "http-etag": "e2c11d92ffd6b17f13c54d16144e1381-7",
+    "http-last-modified": "Sat, 06 Aug 2022 02:11:24 GMT",
+    "http-last-modified-float": 1659723084.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 57392278,
+    "actual-duration": 7158,
+    "sha1": "3389760c9d117029231623fb7d6692526f4a3655",
+    "md5": "3c4fadc359130888ac6d8e7b6935ae29",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/vancouver.mp3",
+            "headers": {
+                "Etag": "\"e2c11d92ffd6b17f13c54d16144e1381-7\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:48:44 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Sat, 06 Aug 2022 02:11:24 GMT",
+                "Content-Length": "57392278",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "3999223970988633843",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

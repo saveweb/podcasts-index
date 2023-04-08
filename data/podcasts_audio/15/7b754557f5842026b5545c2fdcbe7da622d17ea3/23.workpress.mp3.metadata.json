@@ -1,0 +1,44 @@
+{
+    "http-content-length": 137458715,
+    "http-etag": "lhW3XGapVTr25JwR9UunL6bjFt7D",
+    "http-last-modified": "Sun, 22 Dec 2019 08:08:07 GMT",
+    "http-last-modified-float": 1576973287.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline; filename=\"23.workpress.mp3\"; filename*=utf-8''23.workpress.mp3",
+    "http-content-disposition-filename": "23.workpress.mp3",
+    "actual-size": 137458715,
+    "actual-duration": 4292,
+    "sha1": "4f9eab565a937d7f3eee9e5717d61cd9ac046f3a",
+    "md5": "73e9202aa36bb5eb640fd028a1762efe",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/23.workpress.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:09:14 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "137458715",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Age": "1392908",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"23.workpress.mp3\"; filename*=utf-8''23.workpress.mp3",
+                "Content-Md5": "c+kgKqNrtetkD9AooXYu/g==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lhW3XGapVTr25JwR9UunL6bjFt7D\"",
+                "Last-Modified": "Sun, 22 Dec 2019 08:08:07 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-5;QNM:fn280;QNM3:44;QNM3:152",
+                "X-M-Reqid": "8f9mdjCge",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss, Hit",
+                "X-Reqid": "exwAAADf8imwLE4X",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

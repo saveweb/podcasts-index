@@ -1,0 +1,57 @@
+{
+    "title": "№109: 欸！UI 设计师不可不了解（違う）的文档输出格式",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anyway.fm/rss.xml",
+        "value": "№109: 欸！UI 设计师不可不了解（違う）的文档输出格式"
+    },
+    "summary": "今天的节目内容主要是由自称 18 流前端开发的应姓主播来向大家道歉，中间穿插一些他在近期 coding 工作时接触的事例所组成。啊，可叹还差一流就是我大 SOS 团的朝比奈 1096 学姐了… &gt;.&lt;<br /><br /> 一号主播花了 5 个小时剪辑 2 个小时找链接 1 个小时给时间轴配图而二号主播只需要负责写一段简介结果凑了两天只凑了上面这么一句半，好了，现在被一号主播凑满字数了。<br /><br /><br /><strong># 内容提要</strong><br />01:46 ·  久违了的道歉环节<br />09:57 ·  本期开始的话题.SVG<br />22:13 ·  没有过时的技术，只有过时的观念<br />32:43 ·  以「老铁」为代表的动画们确实让我们的 app 体验丰富了不少<br />43:03 ·  支持还行但未普及的 APNG 和曾经的 Flash 有那么点儿精神传承<br />49:00 ·  本期充满了道歉的气息，Leon 为前面的不严谨进行自我反省<br />50:31 ·  剩下的时间，就留给 JJ 尽情吐槽 WebP<br /><br /><strong># 参考链接</strong><br /><ol><li>三年前那期聊图片格式的<a href=\"https://anyway.fm/image-formats/\">本台播客</a> 2:57</li><li>听众 alphaArgon 提供的网点背景<a href=\"https://anyway.fm/animal-crossing/#c5\">实现方法</a> 5:00</li><li>BGM: U137 - <a href=\"http://music.163.com/song?id=1368394949\">Awakening</a> 9:33</li><li>可缩放矢量图形 <a href=\"http://r.anw.red/svg\">SVG</a> 11:03</li><li>Leon 说的梗图没找到，但还有<a href=\"https://pic.yupoo.com/yingjunjiu_v/0335dcf4/2ba17e96.jpg\">另一张</a>博大家一笑 11:23</li><li>使用 SVG 图标的 Nokia 6300 的<a href=\"https://pic.yupoo.com/yingjunjiu_v/e51d3bb3/90835a5a.jpg\">九宫格界面</a> 12:30</li><li>一个在线 <a href=\"http://r.anw.red/iTC5SS\">SVG 压缩工具</a> 17:20</li><li>Figma 的 <a href=\"http://r.anw.red/unz4GM\">Vector Networks</a> 20:48</li><li>BGM: Vexento - <a href=\"http://music.163.com/song?id=453185080\">Worlds Away</a> 21:50</li><li>网页开放字体格式 <a href=\"http://r.anw.red/woff\">WOFF</a> 22:36</li><li>Leon 提供了修 bug 贡献的 <a href=\"https://glyphsapp.com/zn/tutorials/creating-a-variable-font\">Glyphs 中文教程</a> 25:28</li><li>3type 字体设计师<a href=\"https://weibo.com/u/5048436681\">刘育黎 Willie Liu</a> 25:34</li><li>Anyway.News 在八比特主题下的<a href=\"http://r.anw.red/P3dV9w\">刊头</a> 26:38</li><li>BGM: Stars As Lights - <a href=\"http://music.163.com/song?id=29023831\">You ll Be Safe Here</a> 32:33</li><li>「老铁」<a href=\"https://airbnb.design/lottie/\">Lottie</a> 32:49</li><li>那篇技术比较文章《<a href=\"http://r.anw.red/pFGS8i\">各大厂商对 Swift、Flutter 等『新技术』的真实填坑情况</a>》 33:44</li><li>老铁对 AE 各个特性的<a href=\"https://airbnb.io/lottie/#/supported-features\">支持列表</a> 38:43</li><li>提供各种老铁资源的社区 <a href=\"http://r.anw.red/jEu5eh\">Lottiefiles</a> 39:07</li><li>国产动画格式 <a href=\"https://svga.io/index.html\">SVGA</a> 41:40</li><li><a href=\"https://www.jianshu.com/p/dfa16d9d67cd\">SVGA 背后的故事</a> 41:49</li><li>BGM: The 1975 - <a href=\"http://music.163.com/song?id=404184870\">Paris</a> 42:44</li><li>PNG 的姐妹、动画格式 <a href=\"http://r.anw.red/apng\">APNG</a> 43:18</li><li>动画格式转换工具 <a href=\"http://r.anw.red/3zxFCX\">iSparta</a> 45:32</li><li>BGM: A R I Z O N A - <a href=\"http://music.163.com/song?id=1348367094\">Find Someone</a> 48:38</li><li>饿了么出品的组件库 <a href=\"https://element.eleme.cn/#/zh-CN\">Element</a> 49:21</li><li>百度出品的可视化数据图形库 <a href=\"http://r.anw.red/echarts\">ECharts</a> 49:27</li><li>Google 主推的图形格式 <a href=\"http://r.anw.red/webp\">WebP</a> 50:43</li><li>腾讯的 <a href=\"https://www.zhihu.com/question/59541224\">TPG 格式</a> 51:11</li><li>Airbnb 的<a href=\"http://r.anw.red/vshP5q\">创业故事</a> 55:03</li><li>Lottie 在官网上的 <a href=\"https://s.anw.red/x/lottie-logo-animation.gif\">logo 动画</a> 55:25</li><li>Google 搜 WebP 出现的<a href=\"https://developers.google.com/speed/webp\">落地页</a> 55:44</li></ol><br /><strong># 会员计划</strong><br />在<a href=\"http://r.anw.red/rss\">本台官网(Anyway.FM)</a> 注册会员即可 14 天试用 X 轴播放器和催更功能~ 开启独特的播客互动体验，Pro 会员更可加入听众群参与节目讨(hua)论(shui)~<br /><img alt=\"Anyway.Member\" src=\"https://s.anw.red/anyway.fm/rss-member.jpg\" />",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://anyway.fm/rss.xml",
+        "value": "今天的节目内容主要是由自称 18 流前端开发的应姓主播来向大家道歉，中间穿插一些他在近期 coding 工作时接触的事例所组成。啊，可叹还差一流就是我大 SOS 团的朝比奈 1096 学姐了… &gt;.&lt;<br /><br /> 一号主播花了 5 个小时剪辑 2 个小时找链接 1 个小时给时间轴配图而二号主播只需要负责写一段简介结果凑了两天只凑了上面这么一句半，好了，现在被一号主播凑满字数了。<br /><br /><br /><strong># 内容提要</strong><br />01:46 ·  久违了的道歉环节<br />09:57 ·  本期开始的话题.SVG<br />22:13 ·  没有过时的技术，只有过时的观念<br />32:43 ·  以「老铁」为代表的动画们确实让我们的 app 体验丰富了不少<br />43:03 ·  支持还行但未普及的 APNG 和曾经的 Flash 有那么点儿精神传承<br />49:00 ·  本期充满了道歉的气息，Leon 为前面的不严谨进行自我反省<br />50:31 ·  剩下的时间，就留给 JJ 尽情吐槽 WebP<br /><br /><strong># 参考链接</strong><br /><ol><li>三年前那期聊图片格式的<a href=\"https://anyway.fm/image-formats/\">本台播客</a> 2:57</li><li>听众 alphaArgon 提供的网点背景<a href=\"https://anyway.fm/animal-crossing/#c5\">实现方法</a> 5:00</li><li>BGM: U137 - <a href=\"http://music.163.com/song?id=1368394949\">Awakening</a> 9:33</li><li>可缩放矢量图形 <a href=\"http://r.anw.red/svg\">SVG</a> 11:03</li><li>Leon 说的梗图没找到，但还有<a href=\"https://pic.yupoo.com/yingjunjiu_v/0335dcf4/2ba17e96.jpg\">另一张</a>博大家一笑 11:23</li><li>使用 SVG 图标的 Nokia 6300 的<a href=\"https://pic.yupoo.com/yingjunjiu_v/e51d3bb3/90835a5a.jpg\">九宫格界面</a> 12:30</li><li>一个在线 <a href=\"http://r.anw.red/iTC5SS\">SVG 压缩工具</a> 17:20</li><li>Figma 的 <a href=\"http://r.anw.red/unz4GM\">Vector Networks</a> 20:48</li><li>BGM: Vexento - <a href=\"http://music.163.com/song?id=453185080\">Worlds Away</a> 21:50</li><li>网页开放字体格式 <a href=\"http://r.anw.red/woff\">WOFF</a> 22:36</li><li>Leon 提供了修 bug 贡献的 <a href=\"https://glyphsapp.com/zn/tutorials/creating-a-variable-font\">Glyphs 中文教程</a> 25:28</li><li>3type 字体设计师<a href=\"https://weibo.com/u/5048436681\">刘育黎 Willie Liu</a> 25:34</li><li>Anyway.News 在八比特主题下的<a href=\"http://r.anw.red/P3dV9w\">刊头</a> 26:38</li><li>BGM: Stars As Lights - <a href=\"http://music.163.com/song?id=29023831\">You ll Be Safe Here</a> 32:33</li><li>「老铁」<a href=\"https://airbnb.design/lottie/\">Lottie</a> 32:49</li><li>那篇技术比较文章《<a href=\"http://r.anw.red/pFGS8i\">各大厂商对 Swift、Flutter 等『新技术』的真实填坑情况</a>》 33:44</li><li>老铁对 AE 各个特性的<a href=\"https://airbnb.io/lottie/#/supported-features\">支持列表</a> 38:43</li><li>提供各种老铁资源的社区 <a href=\"http://r.anw.red/jEu5eh\">Lottiefiles</a> 39:07</li><li>国产动画格式 <a href=\"https://svga.io/index.html\">SVGA</a> 41:40</li><li><a href=\"https://www.jianshu.com/p/dfa16d9d67cd\">SVGA 背后的故事</a> 41:49</li><li>BGM: The 1975 - <a href=\"http://music.163.com/song?id=404184870\">Paris</a> 42:44</li><li>PNG 的姐妹、动画格式 <a href=\"http://r.anw.red/apng\">APNG</a> 43:18</li><li>动画格式转换工具 <a href=\"http://r.anw.red/3zxFCX\">iSparta</a> 45:32</li><li>BGM: A R I Z O N A - <a href=\"http://music.163.com/song?id=1348367094\">Find Someone</a> 48:38</li><li>饿了么出品的组件库 <a href=\"https://element.eleme.cn/#/zh-CN\">Element</a> 49:21</li><li>百度出品的可视化数据图形库 <a href=\"http://r.anw.red/echarts\">ECharts</a> 49:27</li><li>Google 主推的图形格式 <a href=\"http://r.anw.red/webp\">WebP</a> 50:43</li><li>腾讯的 <a href=\"https://www.zhihu.com/question/59541224\">TPG 格式</a> 51:11</li><li>Airbnb 的<a href=\"http://r.anw.red/vshP5q\">创业故事</a> 55:03</li><li>Lottie 在官网上的 <a href=\"https://s.anw.red/x/lottie-logo-animation.gif\">logo 动画</a> 55:25</li><li>Google 搜 WebP 出现的<a href=\"https://developers.google.com/speed/webp\">落地页</a> 55:44</li></ol><br /><strong># 会员计划</strong><br />在<a href=\"http://r.anw.red/rss\">本台官网(Anyway.FM)</a> 注册会员即可 14 天试用 X 轴播放器和催更功能~ 开启独特的播客互动体验，Pro 会员更可加入听众群参与节目讨(hua)论(shui)~<br /><img alt=\"Anyway.Member\" src=\"https://s.anw.red/anyway.fm/rss-member.jpg\" />"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://anyway.fm/output-format-2020/"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://a.anw.red/audio/anyway-109.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://anyway.fm/output-format-2020/",
+    "itunes_explicit": null,
+    "id": "https://anyway.fm/output-format-2020/",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "JJ Ying、Leon Gao"
+        }
+    ],
+    "author": "JJ Ying、Leon Gao",
+    "author_detail": {
+        "name": "JJ Ying、Leon Gao"
+    },
+    "published": "Thu, 04 Jun 2020 03:12:32 +0800",
+    "published_parsed": [
+        2020,
+        6,
+        3,
+        19,
+        12,
+        32,
+        2,
+        155,
+        0
+    ],
+    "itunes_duration": "3828",
+    "image": {
+        "href": "https://s.anw.red/images/poster-109.jpg"
+    }
+}

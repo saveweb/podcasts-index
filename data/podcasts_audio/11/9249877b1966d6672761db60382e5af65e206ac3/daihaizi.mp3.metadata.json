@@ -1,0 +1,34 @@
+{
+    "http-content-length": 63000758,
+    "http-etag": "fe129e6abde682a56764170b552ab780-8",
+    "http-last-modified": "Sun, 20 Sep 2020 15:36:52 GMT",
+    "http-last-modified-float": 1600587412.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 63000758,
+    "actual-duration": 7859,
+    "sha1": "c2cc9c3da2166c5ad18c2e3091d24f7d31be9ad6",
+    "md5": "b9f295d8955a15102e61f8f0c22804de",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/daihaizi.mp3",
+            "headers": {
+                "Last-Modified": "Sun, 20 Sep 2020 15:36:52 GMT",
+                "Etag": "\"fe129e6abde682a56764170b552ab780-8\"",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "63000758",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "11534587662762644461",
+                "Connection": "keep-alive",
+                "Server": "Lego Server",
+                "Date": "Wed, 05 Apr 2023 15:45:44 GMT",
+                "X-Cache-Lookup": "Cache Hit",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

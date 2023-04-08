@@ -1,0 +1,84 @@
+{
+    "links": [
+        {
+            "length": "38574647",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjEzODgsInAiOjIsInUiOiI2ZDE1Lm1wMyJ9.g1i32kctFfTQ_7c-8pskHFJLx-c/uxcoffee/z_8be6a03307c4cd91f8d84ea7ec776d15.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/48"
+        }
+    ],
+    "title": "#48：这次 Google I/O，除了黑科技，还有 Material Design 发布以来的最大更新",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#48：这次 Google I/O，除了黑科技，还有 Material Design 发布以来的最大更新"
+    },
+    "id": "https://uxcoffee.com/episodes/48",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/48",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "subtitle": "这是一期特别节目，我们会来聊一聊上周刚刚落幕的谷歌开发者大会 Google I/O。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "这是一期特别节目，我们会来聊一聊上周刚刚落幕的谷歌开发者大会 Google I/O。"
+    },
+    "itunes_duration": "40:10",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "48",
+    "podcast_episode": "48",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/z_fc566a379416d126690a58ac8724fd95.jpg?x-oss-process=style/sl"
+    },
+    "summary": "这是一期特别节目，我们会来聊一聊上周刚刚落幕的谷歌开发者大会 Google I/O。 01:03 让人惊掉了下巴的谷歌智能助理——你还能做什么？ 07:12 谷歌动足了脑筋，想让你更少地看视频和用手机！？ 18:20 Material Design 发布了哪些值得关注的更新？ 参考链接 图灵测试：https://zh.wikipedia.org/wiki/图灵测试 Digital Wellbeing: http://wellbeing.google/ FOMO: https://en.wikipedia.org/wiki/Fear_of_missing_out Light Phone 2: https://www.indiegogo.com/projects/light-phone-2-design 新版 Material Design 网站：http://material.io/ Flutter: https://flutter.io/ 我台联系方式 微信公众号：uxcoffee 微博：https://www.weibo.com/uxcoffee 知乎专栏：https://zhuanlan.zhihu.com/uxcoffee Twitter：https://twitter.com/ux_coffee Instagram：https://www.instagram.com/ux_coffee/",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "这是一期特别节目，我们会来聊一聊上周刚刚落幕的谷歌开发者大会 Google I/O。 01:03 让人惊掉了下巴的谷歌智能助理——你还能做什么？ 07:12 谷歌动足了脑筋，想让你更少地看视频和用手机！？ 18:20 Material Design 发布了哪些值得关注的更新？ 参考链接 图灵测试：https://zh.wikipedia.org/wiki/图灵测试 Digital Wellbeing: http://wellbeing.google/ FOMO: https://en.wikipedia.org/wiki/Fear_of_missing_out Light Phone 2: https://www.indiegogo.com/projects/light-phone-2-design 新版 Material Design 网站：http://material.io/ Flutter: https://flutter.io/ 我台联系方式 微信公众号：uxcoffee 微博：https://www.weibo.com/uxcoffee 知乎专栏：https://zhuanlan.zhihu.com/uxcoffee Twitter：https://twitter.com/ux_coffee Instagram：https://www.instagram.com/ux_coffee/"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>这是一期特别节目，我们会来聊一聊上周刚刚落幕的谷歌开发者大会 Google I/O。</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=01:03\">01:03</a> 让人惊掉了下巴的谷歌智能助理——你还能做什么？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=07:12\">07:12</a> 谷歌动足了脑筋，想让你更少地看视频和用手机！？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=18:20\">18:20</a> Material Design 发布了哪些值得关注的更新？</p>\n<h2>参考链接</h2>\n<ul><li>图灵测试：<a href=\"https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95\">https://zh.wikipedia.org/wiki/图灵测试</a>\n</li><li>Digital Wellbeing: <a href=\"http://wellbeing.google/\">http://wellbeing.google/</a>\n</li><li>FOMO: <a href=\"https://en.wikipedia.org/wiki/Fear_of_missing_out\">https://en.wikipedia.org/wiki/Fear_of_missing_out</a>\n</li><li>Light Phone 2: <a href=\"https://www.indiegogo.com/projects/light-phone-2-design\">https://www.indiegogo.com/projects/light-phone-2-design</a>\n</li><li>新版 Material Design 网站：<a href=\"http://material.io/\">http://material.io/</a>\n</li><li>Flutter: <a href=\"https://flutter.io/\">https://flutter.io/</a></li></ul>\n<h2>我台联系方式</h2>\n<ul>\n<li>微信公众号：uxcoffee</li>\n<li>微博：https://www.weibo.com/uxcoffee</li>\n<li>知乎专栏：https://zhuanlan.zhihu.com/uxcoffee</li>\n<li>Twitter：https://twitter.com/ux_coffee</li>\n<li>Instagram：https://www.instagram.com/ux_coffee/</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>这是一期特别节目，我们会来聊一聊上周刚刚落幕的谷歌开发者大会 Google I/O。</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=01:03\">01:03</a> 让人惊掉了下巴的谷歌智能助理——你还能做什么？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=07:12\">07:12</a> 谷歌动足了脑筋，想让你更少地看视频和用手机！？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=18:20\">18:20</a> Material Design 发布了哪些值得关注的更新？</p>\n<h2>参考链接</h2>\n<ul><li>图灵测试：<a href=\"https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95\">https://zh.wikipedia.org/wiki/图灵测试</a>\n</li><li>Digital Wellbeing: <a href=\"http://wellbeing.google/\">http://wellbeing.google/</a>\n</li><li>FOMO: <a href=\"https://en.wikipedia.org/wiki/Fear_of_missing_out\">https://en.wikipedia.org/wiki/Fear_of_missing_out</a>\n</li><li>Light Phone 2: <a href=\"https://www.indiegogo.com/projects/light-phone-2-design\">https://www.indiegogo.com/projects/light-phone-2-design</a>\n</li><li>新版 Material Design 网站：<a href=\"http://material.io/\">http://material.io/</a>\n</li><li>Flutter: <a href=\"https://flutter.io/\">https://flutter.io/</a></li></ul>\n<h2>我台联系方式</h2>\n<ul>\n<li>微信公众号：uxcoffee</li>\n<li>微博：https://www.weibo.com/uxcoffee</li>\n<li>知乎专栏：https://zhuanlan.zhihu.com/uxcoffee</li>\n<li>Twitter：https://twitter.com/ux_coffee</li>\n<li>Instagram：https://www.instagram.com/ux_coffee/</li>\n</ul>"
+        }
+    ],
+    "published": "Mon, 14 May 2018 01:00:00 +0000",
+    "published_parsed": [
+        2018,
+        5,
+        14,
+        1,
+        0,
+        0,
+        0,
+        134,
+        0
+    ]
+}

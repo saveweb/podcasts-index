@@ -1,0 +1,75 @@
+{
+    "title": "闲聊 | 第一次带孩子旅游，和第二次带孩子旅游",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "闲聊 | 第一次带孩子旅游，和第二次带孩子旅游"
+    },
+    "itunes_episode": "84",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "32574305",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/trip1.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Wed, 11 May 2022 14:00:00 CDT",
+    "published_parsed": [
+        2022,
+        5,
+        11,
+        19,
+        0,
+        0,
+        2,
+        131,
+        0
+    ],
+    "summary": "<p>聊聊近期的两次短途旅行，分别去了卡尔加里和多伦多。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>聊聊近期的两次短途旅行，分别去了卡尔加里和多伦多。</p>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/trip1.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:07:36",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>聊聊近期的两次短途旅行，分别去了卡尔加里和多伦多。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

@@ -1,0 +1,84 @@
+{
+    "links": [
+        {
+            "length": "80878805",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjEzNDksInAiOjIsInUiOiIwODQ2Lm1wMyJ9.z0WsGWgE5LcsDVupadpP0E5-LfI/uxcoffee/z_f46542146019c78dc5c0bdf792cb0846.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/1"
+        }
+    ],
+    "title": "#1：作品集、面试、硅谷vs西雅图、设计工具 （Google 设计师曾浩）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#1：作品集、面试、硅谷vs西雅图、设计工具 （Google 设计师曾浩）"
+    },
+    "id": "https://uxcoffee.com/episodes/1",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/1",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "subtitle": "我们是几个在硅谷工作的中国设计师，希望在这里和大家聊聊用户体验设计。\n\n第一期节目的嘉宾我们邀请到Google的用户体验设计师，曾浩，目前负责Google Cloud旗下产品。在加入Google前，他曾在Amazon担任User Experience Design Lead。在这期节目中，我们和曾浩讨论了很多设计师朋友关心的问题。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "我们是几个在硅谷工作的中国设计师，希望在这里和大家聊聊用户体验设计。\n\n第一期节目的嘉宾我们邀请到Google的用户体验设计师，曾浩，目前负责Google Cloud旗下产品。在加入Google前，他曾在Amazon担任User Experience Design Lead。在这期节目中，我们和曾浩讨论了很多设计师朋友关心的问题。"
+    },
+    "itunes_duration": "1:24:14",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "1",
+    "podcast_episode": "1",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/8420847150_470015.jpg?x-oss-process=style/sl"
+    },
+    "summary": "我们是几个在硅谷工作的中国设计师，希望在这里和大家聊聊用户体验设计。 第一期节目的嘉宾我们邀请到Google的用户体验设计师，曾浩，目前负责Google Cloud旗下产品。在加入Google前，他曾在Amazon担任User Experience Design Lead。在这期节目中，我们和曾浩讨论了很多设计师朋友关心的问题。 节目大纲 留学申请和找工作的时候应该怎么准备作品集？ 在面试中有哪些值得注意的点？ 面试官对应届毕业生和跳槽的同学的期待有什么不一样？ 在硅谷和西雅图的生活和工作有什么异同？ 设计师该学Coding吗？ 怎样选择设计工具？ 相关链接 曾浩的知乎(https://www.zhihu.com/people/haozeng) UXCoffee官方网站(http://uxcoffee.co) 用Keynote还原Material Design全部动画(https://vimeo.com/100377108 \"用Keynote还原Material Design全部动画\") UXCoffee知乎专栏(http://zhuanlan.zhihu.com/uxcoffee \"UXCoffee知乎专栏\") 微信公众号: uxcoffee",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "我们是几个在硅谷工作的中国设计师，希望在这里和大家聊聊用户体验设计。 第一期节目的嘉宾我们邀请到Google的用户体验设计师，曾浩，目前负责Google Cloud旗下产品。在加入Google前，他曾在Amazon担任User Experience Design Lead。在这期节目中，我们和曾浩讨论了很多设计师朋友关心的问题。 节目大纲 留学申请和找工作的时候应该怎么准备作品集？ 在面试中有哪些值得注意的点？ 面试官对应届毕业生和跳槽的同学的期待有什么不一样？ 在硅谷和西雅图的生活和工作有什么异同？ 设计师该学Coding吗？ 怎样选择设计工具？ 相关链接 曾浩的知乎(https://www.zhihu.com/people/haozeng) UXCoffee官方网站(http://uxcoffee.co) 用Keynote还原Material Design全部动画(https://vimeo.com/100377108 \"用Keynote还原Material Design全部动画\") UXCoffee知乎专栏(http://zhuanlan.zhihu.com/uxcoffee \"UXCoffee知乎专栏\") 微信公众号: uxcoffee"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>我们是几个在硅谷工作的中国设计师，希望在这里和大家聊聊用户体验设计。</p>\n<p>第一期节目的嘉宾我们邀请到Google的用户体验设计师，曾浩，目前负责Google Cloud旗下产品。在加入Google前，他曾在Amazon担任User Experience Design Lead。在这期节目中，我们和曾浩讨论了很多设计师朋友关心的问题。</p>\n<p>节目大纲</p>\n<p>留学申请和找工作的时候应该怎么准备作品集？</p>\n<p>在面试中有哪些值得注意的点？</p>\n<p>面试官对应届毕业生和跳槽的同学的期待有什么不一样？</p>\n<p>在硅谷和西雅图的生活和工作有什么异同？</p>\n<p>设计师该学Coding吗？</p>\n<p>怎样选择设计工具？</p>\n<p>相关链接</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml\">曾浩的知乎</a>(https://www.zhihu.com/people/haozeng)</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml\">UXCoffee官方网站</a>(http://uxcoffee.co)</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml\">用Keynote还原Material Design全部动画</a>(https://vimeo.com/100377108 \"用Keynote还原Material Design全部动画\")</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml\">UXCoffee知乎专栏</a>(http://zhuanlan.zhihu.com/uxcoffee \"UXCoffee知乎专栏\")</p>\n<p>微信公众号: uxcoffee</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>我们是几个在硅谷工作的中国设计师，希望在这里和大家聊聊用户体验设计。</p>\n<p>第一期节目的嘉宾我们邀请到Google的用户体验设计师，曾浩，目前负责Google Cloud旗下产品。在加入Google前，他曾在Amazon担任User Experience Design Lead。在这期节目中，我们和曾浩讨论了很多设计师朋友关心的问题。</p>\n<p>节目大纲</p>\n<p>留学申请和找工作的时候应该怎么准备作品集？</p>\n<p>在面试中有哪些值得注意的点？</p>\n<p>面试官对应届毕业生和跳槽的同学的期待有什么不一样？</p>\n<p>在硅谷和西雅图的生活和工作有什么异同？</p>\n<p>设计师该学Coding吗？</p>\n<p>怎样选择设计工具？</p>\n<p>相关链接</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml\">曾浩的知乎</a>(https://www.zhihu.com/people/haozeng)</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml\">UXCoffee官方网站</a>(http://uxcoffee.co)</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml\">用Keynote还原Material Design全部动画</a>(https://vimeo.com/100377108 \"用Keynote还原Material Design全部动画\")</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml\">UXCoffee知乎专栏</a>(http://zhuanlan.zhihu.com/uxcoffee \"UXCoffee知乎专栏\")</p>\n<p>微信公众号: uxcoffee</p>"
+        }
+    ],
+    "published": "Fri, 01 Apr 2016 06:36:00 +0000",
+    "published_parsed": [
+        2016,
+        4,
+        1,
+        6,
+        36,
+        0,
+        4,
+        92,
+        0
+    ]
+}

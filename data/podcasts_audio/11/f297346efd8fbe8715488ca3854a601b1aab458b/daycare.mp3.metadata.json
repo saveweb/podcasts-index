@@ -1,0 +1,34 @@
+{
+    "http-content-length": 40663241,
+    "http-etag": "d3de5d3d6ea385058aabbd415719fa2b-5",
+    "http-last-modified": "Mon, 12 Apr 2021 13:44:28 GMT",
+    "http-last-modified-float": 1618206268.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 40663241,
+    "actual-duration": 5067,
+    "sha1": "29e7390834a9544f29b1753605dbee5bf3e52038",
+    "md5": "cb9927caa42d9bc6b596f50ec76076a8",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/daycare.mp3",
+            "headers": {
+                "Etag": "\"d3de5d3d6ea385058aabbd415719fa2b-5\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:46:59 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Mon, 12 Apr 2021 13:44:28 GMT",
+                "Content-Length": "40663241",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "8411274337023585085",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

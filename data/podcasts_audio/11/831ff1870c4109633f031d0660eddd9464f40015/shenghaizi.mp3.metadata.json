@@ -1,0 +1,34 @@
+{
+    "http-content-length": 124119632,
+    "http-etag": "d97d93e8aabd11050f6af346a27e88b5-15",
+    "http-last-modified": "Tue, 08 Sep 2020 03:14:31 GMT",
+    "http-last-modified-float": 1599506071.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 124119632,
+    "actual-duration": 7749,
+    "sha1": "1b995111d3af1b1d3682c200dc63d075e4eca934",
+    "md5": "448f1f07686c1378420748b9868e6aec",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/shenghaizi.mp3",
+            "headers": {
+                "Etag": "\"d97d93e8aabd11050f6af346a27e88b5-15\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_CC5",
+                "Date": "Wed, 05 Apr 2023 15:45:26 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Tue, 08 Sep 2020 03:14:31 GMT",
+                "Content-Length": "124119632",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "12992915528994567860",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "http-content-length": 46666477,
+    "http-etag": "ec657f7e8d9b496a8e96883014b219a5-6",
+    "http-last-modified": "Mon, 09 Nov 2020 15:31:36 GMT",
+    "http-last-modified-float": 1604907096.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 46666477,
+    "actual-duration": 5817,
+    "sha1": "8db4bb9d17e4e8aba3b3947546a6384656bdbcc1",
+    "md5": "e892baf48a2bbd5f63f32eaffb1e2e4e",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/xinjiapo.mp3",
+            "headers": {
+                "Etag": "\"ec657f7e8d9b496a8e96883014b219a5-6\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:46:08 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Mon, 09 Nov 2020 15:31:36 GMT",
+                "Content-Length": "46666477",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "3595388076156079591",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "http-content-length": 77549287,
+    "http-etag": "lpGujMDhq70ky3m7ydOhEDDBacj7",
+    "http-last-modified": "Thu, 19 Mar 2020 16:29:39 GMT",
+    "http-last-modified-float": 1584606579.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline; filename=\"25.wuhan.mp3\"; filename*=utf-8''25.wuhan.mp3",
+    "http-content-disposition-filename": "25.wuhan.mp3",
+    "actual-size": 77549287,
+    "actual-duration": 1936,
+    "sha1": "7d034ab732405506ce80080745cd73f9d09feadc",
+    "md5": "1a1d4332a05ad8ae16ed772fd67bea73",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/25.wuhan.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:08:38 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "77549287",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Age": "2105437",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"25.wuhan.mp3\"; filename*=utf-8''25.wuhan.mp3",
+                "Content-Md5": "Gh1DMqBa2K4W7Xcv1nvqcw==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lpGujMDhq70ky3m7ydOhEDDBacj7\"",
+                "Last-Modified": "Thu, 19 Mar 2020 16:29:39 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-13;QNM3:28",
+                "X-M-Reqid": "KATSOR9Q5",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Hit",
+                "X-Reqid": "oF8AAACIxy6dpEsX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

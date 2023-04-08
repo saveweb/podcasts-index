@@ -1,0 +1,75 @@
+{
+    "title": "第 5 期：Go 语言发展的近况 (下)",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 5 期：Go 语言发展的近况 (下)"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talkgo.fm/podcasts/5-go-recent-updates-part2/"
+        },
+        {
+            "length": "88207487",
+            "type": "audio/mpeg",
+            "href": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-5/210307961-44100-2-e3a8c205dfef5.m4a",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talkgo.fm/podcasts/5-go-recent-updates-part2/",
+    "published": "Fri, 06 Aug 2021 09:30:29 +0800",
+    "published_parsed": [
+        2021,
+        8,
+        6,
+        1,
+        30,
+        29,
+        4,
+        218,
+        0
+    ],
+    "id": "https://talkgo.fm/podcasts/5-go-recent-updates-part2/",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Go 夜聊"
+        },
+        {
+            "name": "Go 夜聊"
+        }
+    ],
+    "author": "Go 夜聊",
+    "author_detail": {
+        "name": "Go 夜聊"
+    },
+    "subtitle": "第 5 期：Go 语言发展的近况 (下)",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 5 期：Go 语言发展的近况 (下)"
+    },
+    "summary": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-5/210307961-44100-2-e3a8c205dfef5.m4a\" title=\"本期的话题围绕即将带来的涉及运行时机制和泛型的重大变化展开。为什么 Go 语言运行时几乎每个版本都能带来大量性能提升？Go 语言规范又即将引来哪些重大的变动？\"></audio>\n\n<h1 id=\"第-5-期go-语言发展的近况-下\">第 5 期：Go 语言发展的近况 (下)</h1>\n<ul>\n<li>主持: <a href=\"https://maiyang.me\">杨文</a>, <a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第五期节目，这次我们将延续上一期的话题讨论 Go 语言的一些发展近况。本期的话题围绕即将带来的涉及运行时机制和泛型的重大变化展开。为什么 Go 语言运行时几乎每个版本都能带来大量性能提升？Go 语言规范又即将引来哪些重大的变动？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场</li>\n<li>00:56 运行时内存回收机制的变化</li>\n<li>06:34 运行时的监控机制</li>\n<li>09:56 基于寄存器的调用规约</li>\n<li>17:06 全新的 GC 调步器</li>\n<li>22:32 语言内存模型的完善</li>\n<li>23:58 两位主播对支持泛型的看法</li>\n<li>28:36 为什么 Go 语言十年之后才开始引入泛型</li>\n<li>32:32 Go 1 和 Go 2 对开发者来说意味着什么</li>\n<li>36:58 Go 语言的发版困境</li>\n<li>39:53 泛型的起源</li>\n<li>41:54 Go 语言泛型语法设计上的争议</li>\n<li>45:32 类型参数与类型集作为泛型的实现</li>\n<li>51:16 Go 团队的内部矛盾</li>\n<li>59:10 尾声</li>\n</ul>\n<h2 id=\"-相关链接\">🔗 相关链接</h2>\n<ul>\n<li>MADV_FREE 更改为 MADV_DONTNEED (1.16), <a href=\"https://golang.org/issue/23687\">#23687</a>, <a href=\"https://golang.org/issue/42330\">#42330</a></li>\n<li><a href=\"https://pkg.go.dev/runtime/metrics\">全新的 runtime/metrics (1.16)</a></li>\n<li><a href=\"https://golang.org/design/40724-register-calling\">基于寄存器的调用规约 (1.17)</a></li>\n<li>全新的 GC 调步器 (1.18) <a href=\"https://golang.org/issue/44167\">#44167</a>, <a href=\"https://golang.org/issue/44309\">#44309</a>, <a href=\"https://golang.org/issue/45894\">#45894</a></li>\n<li><a href=\"https://research.swtch.com/mm\">Russ Cox 有关内存模型的 3 篇文章</a></li>\n<li><a href=\"https://golang.org/issue/47141\">内存模型的完善 (1.18)</a></li>\n<li><a href=\"https://book.douban.com/subject/1456860/\">书籍《C++ 语言的设计和演化》The Design and Evolution of C++</a></li>\n<li><a href=\"https://go-review.googlesource.com/c/go/+/336809\">泛型语言规范的变更 (1.18)</a></li>\n<li><a href=\"https://golang.org/design/43651-type-parameters\">类型参数</a></li>\n<li><a href=\"https://golang.org/issue/45346\">类型集</a></li>\n<li><a href=\"https://github.com/golang/go/issues/43931#issuecomment-768490280\">Russ Cox 的“过激”言论</a></li>\n<li><a href=\"https://golang.design/history\">Go 语言历史全记录</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-5/210307961-44100-2-e3a8c205dfef5.m4a\" title=\"本期的话题围绕即将带来的涉及运行时机制和泛型的重大变化展开。为什么 Go 语言运行时几乎每个版本都能带来大量性能提升？Go 语言规范又即将引来哪些重大的变动？\"></audio>\n\n<h1 id=\"第-5-期go-语言发展的近况-下\">第 5 期：Go 语言发展的近况 (下)</h1>\n<ul>\n<li>主持: <a href=\"https://maiyang.me\">杨文</a>, <a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第五期节目，这次我们将延续上一期的话题讨论 Go 语言的一些发展近况。本期的话题围绕即将带来的涉及运行时机制和泛型的重大变化展开。为什么 Go 语言运行时几乎每个版本都能带来大量性能提升？Go 语言规范又即将引来哪些重大的变动？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场</li>\n<li>00:56 运行时内存回收机制的变化</li>\n<li>06:34 运行时的监控机制</li>\n<li>09:56 基于寄存器的调用规约</li>\n<li>17:06 全新的 GC 调步器</li>\n<li>22:32 语言内存模型的完善</li>\n<li>23:58 两位主播对支持泛型的看法</li>\n<li>28:36 为什么 Go 语言十年之后才开始引入泛型</li>\n<li>32:32 Go 1 和 Go 2 对开发者来说意味着什么</li>\n<li>36:58 Go 语言的发版困境</li>\n<li>39:53 泛型的起源</li>\n<li>41:54 Go 语言泛型语法设计上的争议</li>\n<li>45:32 类型参数与类型集作为泛型的实现</li>\n<li>51:16 Go 团队的内部矛盾</li>\n<li>59:10 尾声</li>\n</ul>\n<h2 id=\"-相关链接\">🔗 相关链接</h2>\n<ul>\n<li>MADV_FREE 更改为 MADV_DONTNEED (1.16), <a href=\"https://golang.org/issue/23687\">#23687</a>, <a href=\"https://golang.org/issue/42330\">#42330</a></li>\n<li><a href=\"https://pkg.go.dev/runtime/metrics\">全新的 runtime/metrics (1.16)</a></li>\n<li><a href=\"https://golang.org/design/40724-register-calling\">基于寄存器的调用规约 (1.17)</a></li>\n<li>全新的 GC 调步器 (1.18) <a href=\"https://golang.org/issue/44167\">#44167</a>, <a href=\"https://golang.org/issue/44309\">#44309</a>, <a href=\"https://golang.org/issue/45894\">#45894</a></li>\n<li><a href=\"https://research.swtch.com/mm\">Russ Cox 有关内存模型的 3 篇文章</a></li>\n<li><a href=\"https://golang.org/issue/47141\">内存模型的完善 (1.18)</a></li>\n<li><a href=\"https://book.douban.com/subject/1456860/\">书籍《C++ 语言的设计和演化》The Design and Evolution of C++</a></li>\n<li><a href=\"https://go-review.googlesource.com/c/go/+/336809\">泛型语言规范的变更 (1.18)</a></li>\n<li><a href=\"https://golang.org/design/43651-type-parameters\">类型参数</a></li>\n<li><a href=\"https://golang.org/issue/45346\">类型集</a></li>\n<li><a href=\"https://github.com/golang/go/issues/43931#issuecomment-768490280\">Russ Cox 的“过激”言论</a></li>\n<li><a href=\"https://golang.design/history\">Go 语言历史全记录</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>"
+    },
+    "itunes_duration": "3675",
+    "image": {
+        "href": "https://talkgo.fm/images/episode/ep05-golang-1-18.png"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkgo.fm/index.xml",
+            "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-5/210307961-44100-2-e3a8c205dfef5.m4a\" title=\"本期的话题围绕即将带来的涉及运行时机制和泛型的重大变化展开。为什么 Go 语言运行时几乎每个版本都能带来大量性能提升？Go 语言规范又即将引来哪些重大的变动？\"></audio>\n\n<h1 id=\"第-5-期go-语言发展的近况-下\">第 5 期：Go 语言发展的近况 (下)</h1>\n<ul>\n<li>主持: <a href=\"https://maiyang.me\">杨文</a>, <a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第五期节目，这次我们将延续上一期的话题讨论 Go 语言的一些发展近况。本期的话题围绕即将带来的涉及运行时机制和泛型的重大变化展开。为什么 Go 语言运行时几乎每个版本都能带来大量性能提升？Go 语言规范又即将引来哪些重大的变动？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场</li>\n<li>00:56 运行时内存回收机制的变化</li>\n<li>06:34 运行时的监控机制</li>\n<li>09:56 基于寄存器的调用规约</li>\n<li>17:06 全新的 GC 调步器</li>\n<li>22:32 语言内存模型的完善</li>\n<li>23:58 两位主播对支持泛型的看法</li>\n<li>28:36 为什么 Go 语言十年之后才开始引入泛型</li>\n<li>32:32 Go 1 和 Go 2 对开发者来说意味着什么</li>\n<li>36:58 Go 语言的发版困境</li>\n<li>39:53 泛型的起源</li>\n<li>41:54 Go 语言泛型语法设计上的争议</li>\n<li>45:32 类型参数与类型集作为泛型的实现</li>\n<li>51:16 Go 团队的内部矛盾</li>\n<li>59:10 尾声</li>\n</ul>\n<h2 id=\"-相关链接\">🔗 相关链接</h2>\n<ul>\n<li>MADV_FREE 更改为 MADV_DONTNEED (1.16), <a href=\"https://golang.org/issue/23687\">#23687</a>, <a href=\"https://golang.org/issue/42330\">#42330</a></li>\n<li><a href=\"https://pkg.go.dev/runtime/metrics\">全新的 runtime/metrics (1.16)</a></li>\n<li><a href=\"https://golang.org/design/40724-register-calling\">基于寄存器的调用规约 (1.17)</a></li>\n<li>全新的 GC 调步器 (1.18) <a href=\"https://golang.org/issue/44167\">#44167</a>, <a href=\"https://golang.org/issue/44309\">#44309</a>, <a href=\"https://golang.org/issue/45894\">#45894</a></li>\n<li><a href=\"https://research.swtch.com/mm\">Russ Cox 有关内存模型的 3 篇文章</a></li>\n<li><a href=\"https://golang.org/issue/47141\">内存模型的完善 (1.18)</a></li>\n<li><a href=\"https://book.douban.com/subject/1456860/\">书籍《C++ 语言的设计和演化》The Design and Evolution of C++</a></li>\n<li><a href=\"https://go-review.googlesource.com/c/go/+/336809\">泛型语言规范的变更 (1.18)</a></li>\n<li><a href=\"https://golang.org/design/43651-type-parameters\">类型参数</a></li>\n<li><a href=\"https://golang.org/issue/45346\">类型集</a></li>\n<li><a href=\"https://github.com/golang/go/issues/43931#issuecomment-768490280\">Russ Cox 的“过激”言论</a></li>\n<li><a href=\"https://golang.design/history\">Go 语言历史全记录</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>"
+        }
+    ]
+}

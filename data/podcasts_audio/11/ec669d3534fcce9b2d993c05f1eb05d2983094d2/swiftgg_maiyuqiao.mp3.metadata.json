@@ -1,0 +1,34 @@
+{
+    "http-content-length": 34938870,
+    "http-etag": "5cbbbe25d844c769eec2b5d31aca0d55-5",
+    "http-last-modified": "Sun, 12 Dec 2021 17:56:44 GMT",
+    "http-last-modified-float": 1639303004.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 34938870,
+    "actual-duration": 4812,
+    "sha1": "3058d35bd528deafb88b9ae5b569956f5f9ca653",
+    "md5": "13210fd34b81e0a6e7a082cb14cfa45b",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/swiftgg_maiyuqiao.mp3",
+            "headers": {
+                "Etag": "\"5cbbbe25d844c769eec2b5d31aca0d55-5\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:47:53 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Sun, 12 Dec 2021 17:56:44 GMT",
+                "Content-Length": "34938870",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "12105528437989360988",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

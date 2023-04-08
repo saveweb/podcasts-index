@@ -1,0 +1,84 @@
+{
+    "links": [
+        {
+            "length": "75586204",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjEzNTAsInAiOjIsInUiOiI3MTZkLm1wMyJ9.UmIOE_oAKCr4C2jYaFJOnJkO6iU/uxcoffee/z_b7906ed4791a5e18019c21c15376716d.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/2"
+        }
+    ],
+    "title": "#2：设计师的政治学（Oracle 高级设计师郭凡）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#2：设计师的政治学（Oracle 高级设计师郭凡）"
+    },
+    "id": "https://uxcoffee.com/episodes/2",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/2",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "subtitle": "UX Coffee第二期，这次我们请到了Oracle的资深交互设计师郭凡。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "UX Coffee第二期，这次我们请到了Oracle的资深交互设计师郭凡。"
+    },
+    "itunes_duration": "1:18:43",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "2",
+    "podcast_episode": "2",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/8420847132_792971.jpg?x-oss-process=style/sl"
+    },
+    "summary": "UX Coffee第二期，这次我们请到了Oracle的资深交互设计师郭凡。 节目大纲 Mentorship，设计学徒能从mentor那儿学到什么 「做设计」和「搞政治」有什么关系？（怎么处理和PM、码农、用研等各种stakeholder之间的关系） 为什么接Side project？如何平衡私活和工作？ 游戏和交互设计——「游戏设计之于交互设计就是rocket science之于机车修理」 相关链接 The Art of Game Design：http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965 郭凡的邮箱：guofan0312@gmail.com",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "UX Coffee第二期，这次我们请到了Oracle的资深交互设计师郭凡。 节目大纲 Mentorship，设计学徒能从mentor那儿学到什么 「做设计」和「搞政治」有什么关系？（怎么处理和PM、码农、用研等各种stakeholder之间的关系） 为什么接Side project？如何平衡私活和工作？ 游戏和交互设计——「游戏设计之于交互设计就是rocket science之于机车修理」 相关链接 The Art of Game Design：http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965 郭凡的邮箱：guofan0312@gmail.com"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>UX Coffee第二期，这次我们请到了Oracle的资深交互设计师郭凡。</p>\n<br />\n<p>节目大纲</p>\n<p>Mentorship，设计学徒能从mentor那儿学到什么</p>\n<p>「做设计」和「搞政治」有什么关系？（怎么处理和PM、码农、用研等各种stakeholder之间的关系）</p>\n<p>为什么接Side project？如何平衡私活和工作？</p>\n<p>游戏和交互设计——「游戏设计之于交互设计就是rocket science之于机车修理」</p>\n<br />\n<p>相关链接</p>\n<p>The Art of Game Design：<a href=\"http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965\">http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965</a></p>\n<p>郭凡的邮箱：guofan0312@gmail.com</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>UX Coffee第二期，这次我们请到了Oracle的资深交互设计师郭凡。</p>\n<br />\n<p>节目大纲</p>\n<p>Mentorship，设计学徒能从mentor那儿学到什么</p>\n<p>「做设计」和「搞政治」有什么关系？（怎么处理和PM、码农、用研等各种stakeholder之间的关系）</p>\n<p>为什么接Side project？如何平衡私活和工作？</p>\n<p>游戏和交互设计——「游戏设计之于交互设计就是rocket science之于机车修理」</p>\n<br />\n<p>相关链接</p>\n<p>The Art of Game Design：<a href=\"http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965\">http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965</a></p>\n<p>郭凡的邮箱：guofan0312@gmail.com</p>"
+        }
+    ],
+    "published": "Wed, 20 Apr 2016 04:56:00 +0000",
+    "published_parsed": [
+        2016,
+        4,
+        20,
+        4,
+        56,
+        0,
+        2,
+        111,
+        0
+    ]
+}

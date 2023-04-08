@@ -1,0 +1,85 @@
+{
+    "title": "新年闲聊",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "新年闲聊"
+    },
+    "itunes_episode": "74",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "63477260",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/2021chunjie.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 9 Feb 2021 08:50:00 CDT",
+    "published_parsed": [
+        2021,
+        2,
+        9,
+        13,
+        50,
+        0,
+        1,
+        40,
+        0
+    ],
+    "summary": "<p>这期和爆炸大哥闲聊了两个小时，说说 2020 的生活，讲讲玩了什么学了什么，最后再来点真心话。过年了嘛，还是祝大家身体健康，开心快乐。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>爆炸的微博：<a href=\"https://weibo.com/towser\">@爆炸叔叔</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>01:20  个人介绍 + 主题介绍</li>\n<li>04:35  疫情 + 生活 + 一些开心的事</li>\n<li>01:02:35  学了什么技术</li>\n<li>01:29:37  容易挨骂的真心话，建议跳过</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>这期和爆炸大哥闲聊了两个小时，说说 2020 的生活，讲讲玩了什么学了什么，最后再来点真心话。过年了嘛，还是祝大家身体健康，开心快乐。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>爆炸的微博：<a href=\"https://weibo.com/towser\">@爆炸叔叔</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>01:20  个人介绍 + 主题介绍</li>\n<li>04:35  疫情 + 生活 + 一些开心的事</li>\n<li>01:02:35  学了什么技术</li>\n<li>01:29:37  容易挨骂的真心话，建议跳过</li>\n</ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/2021chunjie.mp3",
+    "guidislink": false,
+    "itunes_duration": "02:11:59",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>这期和爆炸大哥闲聊了两个小时，说说 2020 的生活，讲讲玩了什么学了什么，最后再来点真心话。过年了嘛，还是祝大家身体健康，开心快乐。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>爆炸的微博：<a href=\"https://weibo.com/towser\">@爆炸叔叔</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>01:20  个人介绍 + 主题介绍</li>\n<li>04:35  疫情 + 生活 + 一些开心的事</li>\n<li>01:02:35  学了什么技术</li>\n<li>01:29:37  容易挨骂的真心话，建议跳过</li>\n</ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "春节",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "新年",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Steve说320期 – 独白：别害怕，我们不会分离",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/steve/rss",
+        "value": "Steve说320期 – 独白：别害怕，我们不会分离"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://steveshuo.com/321"
+        },
+        {
+            "length": "27028475",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/b25803c6-0112-476c-9dbf-3e0f961a0e9d/7cd26fff-eaee-4100-8e9f-3334ad094a2c.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://steveshuo.com/321",
+    "id": "7cd26fff-eaee-4100-8e9f-3334ad094a2c",
+    "guidislink": false,
+    "published": "Sun, 12 Feb 2023 02:00:00 +0800",
+    "published_parsed": [
+        2023,
+        2,
+        11,
+        18,
+        0,
+        0,
+        5,
+        42,
+        0
+    ],
+    "authors": [
+        {
+            "name": "史秀雄Steve"
+        },
+        {
+            "name": "史秀雄Steve"
+        }
+    ],
+    "author": "史秀雄Steve",
+    "author_detail": {
+        "name": "史秀雄Steve"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/steve/rss",
+        "value": ""
+    },
+    "itunes_duration": "18:45",
+    "itunes_explicit": null,
+    "image": {
+        "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/b/b25803c6-0112-476c-9dbf-3e0f961a0e9d/episodes/7/7cd26fff-eaee-4100-8e9f-3334ad094a2c/cover.jpg"
+    },
+    "summary": "<p>这期节目是对近期情况的一个说明。节目中提到的一些信息：<br />\n给我写信：<a href=\"mailto:steveshuo@126.com\" rel=\"nofollow\">steveshuo@126.com</a><br />\n节目官网：steveshuo.com<br />\n苹果播客和其他泛用型播客播放器的RSS订阅地址：<a href=\"http://steveshuo.com/rss\" rel=\"nofollow\">http://steveshuo.com/rss</a><br />\n公众号/即刻：@史秀雄Steve</p>\n\n<p>祝好。</p><p><a href=\"https://afdian.net/@steveshuo\" rel=\"payment\">Support Steve说</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/steve/rss",
+        "value": "<p>这期节目是对近期情况的一个说明。节目中提到的一些信息：<br />\n给我写信：<a href=\"mailto:steveshuo@126.com\" rel=\"nofollow\">steveshuo@126.com</a><br />\n节目官网：steveshuo.com<br />\n苹果播客和其他泛用型播客播放器的RSS订阅地址：<a href=\"http://steveshuo.com/rss\" rel=\"nofollow\">http://steveshuo.com/rss</a><br />\n公众号/即刻：@史秀雄Steve</p>\n\n<p>祝好。</p><p><a href=\"https://afdian.net/@steveshuo\" rel=\"payment\">Support Steve说</a></p>"
+    },
+    "tags": [
+        {
+            "term": "心理咨询",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "心理学",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "个人成长",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "心理健康",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "自我认知",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/steve/rss",
+            "value": "<p>这期节目是对近期情况的一个说明。节目中提到的一些信息：<br />\n给我写信：<a href=\"mailto:steveshuo@126.com\" rel=\"nofollow\">steveshuo@126.com</a><br />\n节目官网：steveshuo.com<br />\n苹果播客和其他泛用型播客播放器的RSS订阅地址：<a href=\"http://steveshuo.com/rss\" rel=\"nofollow\">http://steveshuo.com/rss</a><br />\n公众号/即刻：@史秀雄Steve</p>\n\n<p>祝好。</p><p><a href=\"https://afdian.net/@steveshuo\" rel=\"payment\">Support Steve说</a></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/KlKGjcFm+pCISPt_m",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/KlKGjcFm+pCISPt_m\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">"
+}

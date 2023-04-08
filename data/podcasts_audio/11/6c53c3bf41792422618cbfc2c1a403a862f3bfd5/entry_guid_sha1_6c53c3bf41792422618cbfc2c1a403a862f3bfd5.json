@@ -1,0 +1,100 @@
+{
+    "title": "广义跳槽论：简洁明了的方法论",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "广义跳槽论：简洁明了的方法论"
+    },
+    "itunes_episode": "14",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "96041507",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/14.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 22 Jan 2019 07:40:00 CDT",
+    "published_parsed": [
+        2019,
+        1,
+        22,
+        12,
+        40,
+        0,
+        1,
+        22,
+        0
+    ],
+    "summary": "<p>说好的第二期来了！上期我们听了三个典型的跳槽故事，这期我们请到了资深开发者、资深产品经理、《程序员跳槽全攻略》的作者：Easy。</p>\n\n<p>Easy 是我见过的人中，最有能力、最有想法的那一类，每次聊天都能学到很多。这次我和莲叔作为捧哏，和 Easy 好好聊聊跳槽、职业规划以及各种程序员相关的话题。</p>\n\n<p>本期 Easy 给出了一个方法论，具体来说就是价值观、职业画布和职业象限。简洁明了，便于使用。然而我想说的不是这个，大家一定要听到最后，听听 Easy 对于这类“方法论”的观点。不要盲目接受，学会质疑。</p>\n\n<p>最后，把本期 Easy 的一句话送给大家：如果你还年轻，有那么多时间，干嘛不自己试一下？不用想那么多，有些墙就是该撞的。</p>\n\n<p>勘误：</p>\n<li>本期梁杰的“jQuery”发音并不正确，正确的发音是：/ˈdʒeɪkwɪəri/，音频链接：https://forvo.com/word/jquery/</li>\n\n<p>参考链接：</p>\n<ul>\n<li>在 Easy 的主页阅读《程序员跳槽全攻略》电子版：http://ftqq.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%B7%B3%E6%A7%BD%E5%85%A8%E6%94%BB%E7%95%A5/README.adoc</li>\n<li>《程序员跳槽全攻略》亚马逊网址：https://www.amazon.cn/dp/B00PJVX160</li>\n<li>掘金小册的版本，《程序员职业小白书》：https://juejin.im/book/59e17a7ff265da430629cc4e</li>\n<li>精益创业：https://book.douban.com/subject/6959482/</li>\n<li>精益画布：http://www.woshipm.com/pmd/843044.html</li>\n<li>商业画布：https://wiki.mbalib.com/wiki/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%E5%9B%BE</li>\n<li>Easy 提到的“Server酱”服务：http://sc.ftqq.com/</li>\n<li>我们聊到的一些技术：PhoneGap，React，Vue，React Hooks，Redux，Jasmine，Jest，create-react-app，webpack，React Native，weex，Flutter，Dart</li>\n<li>Easy 提到的 JS 面临的挑战：WebAssembly（https://webassembly.org/）</li>\n<li>GNU 是 GNU’s Not Unix 的首字母缩写，这是一个经典的递归缩写，多读几遍就明白了，很有意思</li>\n<li>Easy 的全栈课（虽然他说不用打广告，我还是放上来了，感兴趣的同学可以看看）：https://study.163.com/course/introduction/1005226030.htm</li>\n<li>Easy 的微博：@Easy（https://www.weibo.com/easy）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:06  自我介绍</li>\n<li>05:14  Easy 的职业规划方法论</li>\n<li>19:40  精益画布和职业画布</li>\n<li>22:18  程序员的四个职业象限</li>\n<li>25:05  程序员的两条晋升线路</li>\n<li>33:12  创业公司多要钱少要股权，老板会不会心里不爽？</li>\n<li>36:06  35 岁的时候，至少做到什么职位，才比较安全？</li>\n<li>45:16  如何构建个人品牌</li>\n<li>50:36  关于翻译英文书籍的讨论</li>\n<li>53:15  除了翻译，另一个“快速成名”的方式</li>\n<li>01:03:24  聊聊目前的前端领域和框架</li>\n<li>01:12:08  聊聊目前的移动端技术</li>\n<li>01:18:36  Easy 对移动端和前端的看法</li>\n<li>01:30:09  对未来有什么规划？</li>\n<li>01:34:59  最后有什么话想说？</li>\n<li>01:37:23  如何理性看待各种“方法论”</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>说好的第二期来了！上期我们听了三个典型的跳槽故事，这期我们请到了资深开发者、资深产品经理、《程序员跳槽全攻略》的作者：Easy。</p>\n\n<p>Easy 是我见过的人中，最有能力、最有想法的那一类，每次聊天都能学到很多。这次我和莲叔作为捧哏，和 Easy 好好聊聊跳槽、职业规划以及各种程序员相关的话题。</p>\n\n<p>本期 Easy 给出了一个方法论，具体来说就是价值观、职业画布和职业象限。简洁明了，便于使用。然而我想说的不是这个，大家一定要听到最后，听听 Easy 对于这类“方法论”的观点。不要盲目接受，学会质疑。</p>\n\n<p>最后，把本期 Easy 的一句话送给大家：如果你还年轻，有那么多时间，干嘛不自己试一下？不用想那么多，有些墙就是该撞的。</p>\n\n<p>勘误：</p>\n<li>本期梁杰的“jQuery”发音并不正确，正确的发音是：/ˈdʒeɪkwɪəri/，音频链接：https://forvo.com/word/jquery/</li>\n\n<p>参考链接：</p>\n<ul>\n<li>在 Easy 的主页阅读《程序员跳槽全攻略》电子版：http://ftqq.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%B7%B3%E6%A7%BD%E5%85%A8%E6%94%BB%E7%95%A5/README.adoc</li>\n<li>《程序员跳槽全攻略》亚马逊网址：https://www.amazon.cn/dp/B00PJVX160</li>\n<li>掘金小册的版本，《程序员职业小白书》：https://juejin.im/book/59e17a7ff265da430629cc4e</li>\n<li>精益创业：https://book.douban.com/subject/6959482/</li>\n<li>精益画布：http://www.woshipm.com/pmd/843044.html</li>\n<li>商业画布：https://wiki.mbalib.com/wiki/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%E5%9B%BE</li>\n<li>Easy 提到的“Server酱”服务：http://sc.ftqq.com/</li>\n<li>我们聊到的一些技术：PhoneGap，React，Vue，React Hooks，Redux，Jasmine，Jest，create-react-app，webpack，React Native，weex，Flutter，Dart</li>\n<li>Easy 提到的 JS 面临的挑战：WebAssembly（https://webassembly.org/）</li>\n<li>GNU 是 GNU’s Not Unix 的首字母缩写，这是一个经典的递归缩写，多读几遍就明白了，很有意思</li>\n<li>Easy 的全栈课（虽然他说不用打广告，我还是放上来了，感兴趣的同学可以看看）：https://study.163.com/course/introduction/1005226030.htm</li>\n<li>Easy 的微博：@Easy（https://www.weibo.com/easy）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:06  自我介绍</li>\n<li>05:14  Easy 的职业规划方法论</li>\n<li>19:40  精益画布和职业画布</li>\n<li>22:18  程序员的四个职业象限</li>\n<li>25:05  程序员的两条晋升线路</li>\n<li>33:12  创业公司多要钱少要股权，老板会不会心里不爽？</li>\n<li>36:06  35 岁的时候，至少做到什么职位，才比较安全？</li>\n<li>45:16  如何构建个人品牌</li>\n<li>50:36  关于翻译英文书籍的讨论</li>\n<li>53:15  除了翻译，另一个“快速成名”的方式</li>\n<li>01:03:24  聊聊目前的前端领域和框架</li>\n<li>01:12:08  聊聊目前的移动端技术</li>\n<li>01:18:36  Easy 对移动端和前端的看法</li>\n<li>01:30:09  对未来有什么规划？</li>\n<li>01:34:59  最后有什么话想说？</li>\n<li>01:37:23  如何理性看待各种“方法论”</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/14.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:40:02",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n说好的第二期来了！上期我们听了三个典型的跳槽故事，这期我们请到了资深开发者、资深产品经理、《程序员跳槽全攻略》的作者：Easy。</p>\n\n<p>Easy 是我见过的人中，最有能力、最有想法的那一类，每次聊天都能学到很多。这次我和莲叔作为捧哏，和 Easy 好好聊聊跳槽、职业规划以及各种程序员相关的话题。</p>\n\n<p>本期 Easy 给出了一个方法论，具体来说就是价值观、职业画布和职业象限。简洁明了，便于使用。然而我想说的不是这个，大家一定要听到最后，听听 Easy 对于这类“方法论”的观点。不要盲目接受，学会质疑。</p>\n\n<p>最后，把本期 Easy 的一句话送给大家：如果你还年轻，有那么多时间，干嘛不自己试一下？不用想那么多，有些墙就是该撞的。</p>\n\n<p>勘误：</p>\n<li>本期梁杰的“jQuery”发音并不正确，正确的发音是：/ˈdʒeɪkwɪəri/，音频链接：https://forvo.com/word/jquery/</li>\n\n<p>参考链接：</p>\n<ul>\n<li>在 Easy 的主页阅读《程序员跳槽全攻略》电子版：http://ftqq.com/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%B7%B3%E6%A7%BD%E5%85%A8%E6%94%BB%E7%95%A5/README.adoc</li>\n<li>《程序员跳槽全攻略》亚马逊网址：https://www.amazon.cn/dp/B00PJVX160</li>\n<li>掘金小册的版本，《程序员职业小白书》：https://juejin.im/book/59e17a7ff265da430629cc4e</li>\n<li>精益创业：https://book.douban.com/subject/6959482/</li>\n<li>精益画布：http://www.woshipm.com/pmd/843044.html</li>\n<li>商业画布：https://wiki.mbalib.com/wiki/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%E5%9B%BE</li>\n<li>Easy 提到的“Server酱”服务：http://sc.ftqq.com/</li>\n<li>我们聊到的一些技术：PhoneGap，React，Vue，React Hooks，Redux，Jasmine，Jest，create-react-app，webpack，React Native，weex，Flutter，Dart</li>\n<li>Easy 提到的 JS 面临的挑战：WebAssembly（https://webassembly.org/）</li>\n<li>GNU 是 GNU’s Not Unix 的首字母缩写，这是一个经典的递归缩写，多读几遍就明白了，很有意思</li>\n<li>Easy 的全栈课（虽然他说不用打广告，我还是放上来了，感兴趣的同学可以看看）：https://study.163.com/course/introduction/1005226030.htm</li>\n<li>Easy 的微博：@Easy（https://www.weibo.com/easy）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:06  自我介绍</li>\n<li>05:14  Easy 的职业规划方法论</li>\n<li>19:40  精益画布和职业画布</li>\n<li>22:18  程序员的四个职业象限</li>\n<li>25:05  程序员的两条晋升线路</li>\n<li>33:12  创业公司多要钱少要股权，老板会不会心里不爽？</li>\n<li>36:06  35 岁的时候，至少做到什么职位，才比较安全？</li>\n<li>45:16  如何构建个人品牌</li>\n<li>50:36  关于翻译英文书籍的讨论</li>\n<li>53:15  除了翻译，另一个“快速成名”的方式</li>\n<li>01:03:24  聊聊目前的前端领域和框架</li>\n<li>01:12:08  聊聊目前的移动端技术</li>\n<li>01:18:36  Easy 对移动端和前端的看法</li>\n<li>01:30:09  对未来有什么规划？</li>\n<li>01:34:59  最后有什么话想说？</li>\n<li>01:37:23  如何理性看待各种“方法论”</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "翻译组",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "跳槽",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "跳槽方法论",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

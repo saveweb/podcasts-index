@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "139869621",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo1ODYyNSwicCI6MiwidSI6IjE4MTgubXAzIn0.WX3aadVFgo_vvWy2POqaZQaqZ6k/sspai/8345236983_121818.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/ep66"
+        }
+    ],
+    "title": "大家眼里的 WWDC22 都是什么样？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "大家眼里的 WWDC22 都是什么样？"
+    },
+    "id": "https://sspai.typlog.io/episodes/ep66",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/ep66",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "从设计师、开发者再到技术大牛，他们眼里的 Apple 开发生态有什么不同吗？",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "从设计师、开发者再到技术大牛，他们眼里的 Apple 开发生态有什么不同吗？"
+    },
+    "itunes_duration": "2:25:41",
+    "itunes_explicit": null,
+    "itunes_episode": "66",
+    "podcast_episode": "66",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8345236989_747701.jpg?x-oss-process=style/sl"
+    },
+    "summary": "一年一度的 WWDC 苹果全球开发者大会又开始了。作为素有「苹果派」之称的我派自然也会制作相关的内容。和去年一样，我们今年也参与了一项特别活动，叫做 WWDC.playground，这是一个免费的技术交流活动，由国内知名的技术社区 SwiftGG、T 技术沙龙、老司机技术 SwiftOldDriver 三家联合举办，我派也为这项活动提供了支持，并且参与其中。本期节目就是 WWDC.playground 的首场直播录音，活动中邀请到了很多位重磅嘉宾，从各自的专业和领域出发分享自己对于本届 WWDC 发布会的看法，我们一起来听听看吧。 另外，本周五（6 月 10 日）我们还将参与 WWDC.playground 的另一场直播，欢迎来玩。 WWDC22 线上特别活动：听少数派编辑与你聊聊新系统体验和观点 关联阅读 系统更新如期而至，M2 芯片意外登场：WWDC22 发布会回顾 一图流 | Apple WWDC 2022 回顾 节目章节 00:00:29 小开场 00:01:59 正式开始，活动和嘉宾自我介绍 00:06:38 WWDC22 发布会回顾 00:19:46 flypig 眼里的 WWDC 00:40:28 科技 up 主眼中的 WWDC 00:58:29 《枫言枫语》眼中的 WWDC 01:37:50 开发者眼中的 WWDC 登场人物 张思琦：Apple 生态开发者，SwiftGG 翻译组成员 老麦：少数派创始人 flypig（飞猪）：开发者、设计师、视频创作者 林西：B 站知名 up 主，小西设计所创始人 黄自力：设计师，《枫言枫语》节目主播 严哲（Justin）：Apple 生态开发者，《枫言枫语》节目主播 Onevcat（「喵神」王巍）：开发者，专注 iOS 和 Swift 方向 刘旸：独立开发者，创业人",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "一年一度的 WWDC 苹果全球开发者大会又开始了。作为素有「苹果派」之称的我派自然也会制作相关的内容。和去年一样，我们今年也参与了一项特别活动，叫做 WWDC.playground，这是一个免费的技术交流活动，由国内知名的技术社区 SwiftGG、T 技术沙龙、老司机技术 SwiftOldDriver 三家联合举办，我派也为这项活动提供了支持，并且参与其中。本期节目就是 WWDC.playground 的首场直播录音，活动中邀请到了很多位重磅嘉宾，从各自的专业和领域出发分享自己对于本届 WWDC 发布会的看法，我们一起来听听看吧。 另外，本周五（6 月 10 日）我们还将参与 WWDC.playground 的另一场直播，欢迎来玩。 WWDC22 线上特别活动：听少数派编辑与你聊聊新系统体验和观点 关联阅读 系统更新如期而至，M2 芯片意外登场：WWDC22 发布会回顾 一图流 | Apple WWDC 2022 回顾 节目章节 00:00:29 小开场 00:01:59 正式开始，活动和嘉宾自我介绍 00:06:38 WWDC22 发布会回顾 00:19:46 flypig 眼里的 WWDC 00:40:28 科技 up 主眼中的 WWDC 00:58:29 《枫言枫语》眼中的 WWDC 01:37:50 开发者眼中的 WWDC 登场人物 张思琦：Apple 生态开发者，SwiftGG 翻译组成员 老麦：少数派创始人 flypig（飞猪）：开发者、设计师、视频创作者 林西：B 站知名 up 主，小西设计所创始人 黄自力：设计师，《枫言枫语》节目主播 严哲（Justin）：Apple 生态开发者，《枫言枫语》节目主播 Onevcat（「喵神」王巍）：开发者，专注 iOS 和 Swift 方向 刘旸：独立开发者，创业人"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>一年一度的 WWDC 苹果全球开发者大会又开始了。作为素有「苹果派」之称的我派自然也会制作相关的内容。和去年一样，我们今年也参与了一项特别活动，叫做 WWDC.playground，这是一个免费的技术交流活动，由国内知名的技术社区 <a href=\"https://github.com/SwiftGGTeam\">SwiftGG</a>、<a href=\"https://space.bilibili.com/488340243\">T 技术沙龙</a>、<a href=\"https://docs.qq.com/doc/DR0praFdKRVdJUFl4\">老司机技术 SwiftOldDriver</a> 三家联合举办，我派也为这项活动提供了支持，并且参与其中。本期节目就是 WWDC.playground 的首场直播录音，活动中邀请到了很多位重磅嘉宾，从各自的专业和领域出发分享自己对于本届 WWDC 发布会的看法，我们一起来听听看吧。</p>\n<p>另外，本周五（6 月 10 日）我们还将参与 WWDC.playground 的另一场直播，欢迎来玩。</p>\n<ul>\n<li><a href=\"https://sspai.com/post/73678\">WWDC22 线上特别活动：听少数派编辑与你聊聊新系统体验和观点</a></li>\n</ul>\n<h2>关联阅读</h2>\n<ul>\n<li><a href=\"https://sspai.com/post/73654\">系统更新如期而至，M2 芯片意外登场：WWDC22 发布会回顾</a></li>\n<li><a href=\"https://sspai.com/post/73653\">一图流 | Apple WWDC 2022 回顾</a></li>\n</ul>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:29\">00:00:29</a> 小开场</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:01:59\">00:01:59</a> 正式开始，活动和嘉宾自我介绍</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:06:38\">00:06:38</a> WWDC22 发布会回顾</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:19:46\">00:19:46</a> flypig 眼里的 WWDC</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:40:28\">00:40:28</a> 科技 up 主眼中的 WWDC</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:58:29\">00:58:29</a> 《枫言枫语》眼中的 WWDC</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:37:50\">01:37:50</a> 开发者眼中的 WWDC</li>\n</ul>\n<h2>登场人物</h2>\n<ul>\n<li>张思琦：Apple 生态开发者，SwiftGG 翻译组成员</li>\n<li>老麦：少数派创始人</li>\n<li>flypig（飞猪）：开发者、设计师、视频创作者</li>\n<li>林西：B 站知名 up 主，小西设计所创始人</li>\n<li>黄自力：设计师，《<a href=\"https://justinyan.me/\">枫言枫语</a>》节目主播</li>\n<li>严哲（Justin）：Apple 生态开发者，《<a href=\"https://justinyan.me/\">枫言枫语</a>》节目主播</li>\n<li>Onevcat（「喵神」王巍）：开发者，专注 iOS 和 Swift 方向</li>\n<li>刘旸：独立开发者，创业人</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>一年一度的 WWDC 苹果全球开发者大会又开始了。作为素有「苹果派」之称的我派自然也会制作相关的内容。和去年一样，我们今年也参与了一项特别活动，叫做 WWDC.playground，这是一个免费的技术交流活动，由国内知名的技术社区 <a href=\"https://github.com/SwiftGGTeam\">SwiftGG</a>、<a href=\"https://space.bilibili.com/488340243\">T 技术沙龙</a>、<a href=\"https://docs.qq.com/doc/DR0praFdKRVdJUFl4\">老司机技术 SwiftOldDriver</a> 三家联合举办，我派也为这项活动提供了支持，并且参与其中。本期节目就是 WWDC.playground 的首场直播录音，活动中邀请到了很多位重磅嘉宾，从各自的专业和领域出发分享自己对于本届 WWDC 发布会的看法，我们一起来听听看吧。</p>\n<p>另外，本周五（6 月 10 日）我们还将参与 WWDC.playground 的另一场直播，欢迎来玩。</p>\n<ul>\n<li><a href=\"https://sspai.com/post/73678\">WWDC22 线上特别活动：听少数派编辑与你聊聊新系统体验和观点</a></li>\n</ul>\n<h2>关联阅读</h2>\n<ul>\n<li><a href=\"https://sspai.com/post/73654\">系统更新如期而至，M2 芯片意外登场：WWDC22 发布会回顾</a></li>\n<li><a href=\"https://sspai.com/post/73653\">一图流 | Apple WWDC 2022 回顾</a></li>\n</ul>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:29\">00:00:29</a> 小开场</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:01:59\">00:01:59</a> 正式开始，活动和嘉宾自我介绍</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:06:38\">00:06:38</a> WWDC22 发布会回顾</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:19:46\">00:19:46</a> flypig 眼里的 WWDC</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:40:28\">00:40:28</a> 科技 up 主眼中的 WWDC</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:58:29\">00:58:29</a> 《枫言枫语》眼中的 WWDC</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:37:50\">01:37:50</a> 开发者眼中的 WWDC</li>\n</ul>\n<h2>登场人物</h2>\n<ul>\n<li>张思琦：Apple 生态开发者，SwiftGG 翻译组成员</li>\n<li>老麦：少数派创始人</li>\n<li>flypig（飞猪）：开发者、设计师、视频创作者</li>\n<li>林西：B 站知名 up 主，小西设计所创始人</li>\n<li>黄自力：设计师，《<a href=\"https://justinyan.me/\">枫言枫语</a>》节目主播</li>\n<li>严哲（Justin）：Apple 生态开发者，《<a href=\"https://justinyan.me/\">枫言枫语</a>》节目主播</li>\n<li>Onevcat（「喵神」王巍）：开发者，专注 iOS 和 Swift 方向</li>\n<li>刘旸：独立开发者，创业人</li>\n</ul>"
+        }
+    ],
+    "published": "Thu, 09 Jun 2022 14:52:42 +0000",
+    "published_parsed": [
+        2022,
+        6,
+        9,
+        14,
+        52,
+        42,
+        3,
+        160,
+        0
+    ]
+}

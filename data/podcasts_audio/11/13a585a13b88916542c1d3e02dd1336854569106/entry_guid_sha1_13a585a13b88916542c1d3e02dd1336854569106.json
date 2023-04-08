@@ -1,0 +1,80 @@
+{
+    "title": "聊聊程序员的办公装备",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "聊聊程序员的办公装备"
+    },
+    "itunes_episode": "66",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "152323289",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/bangongshebei.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 21 Apr 2020 06:50:00 CDT",
+    "published_parsed": [
+        2020,
+        4,
+        21,
+        11,
+        50,
+        0,
+        1,
+        112,
+        0
+    ],
+    "summary": "<p>程序员们对设备多多少少有些追求。键盘鼠标、桌椅台灯、显示器和支架，办公环境里能聊的东西实在太多了。这期我们请来三位老朋友，莲叔、崔轶和 Cee，一起聊聊我们几个的办公装备。</p>\n\n<p>下面是节目配套的照片，强烈推荐大家看着照片听节目，能直观看到我们讨论的都是什么。</p>\n\n<p>办公环境的照片：</p>\n<ul>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%AE%B6.jpg?raw=truee\">莲叔家</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%85%AC%E5%8F%B8.jpg?raw=true\">莲叔公司</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B61.jpg?raw=true\">崔轶 1</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B62.jpg?raw=true\">崔轶 2</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee.jpg?raw=true\">Cee</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee%20%E6%A4%85%E5%AD%90.jpg?raw=true\">Cee 的椅子</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E6%A2%81%E6%9D%B0.jpg?raw=true\">梁杰</a></li>\n</ul>\n<br />\n\n<p>遍历完每个人的办公环境之后，我们针对几个话题展开进行了讨论。首当其冲的就是键盘，程序员每天打交道最多的东西，必须好好聊聊。然后是椅子，为了在漫长的办公时间中保护好身体，合适的桌椅必不可少。最后聊聊本期 MVP，Cee 的 34 寸显示器，以及后续我们准备做的优（败）化（家）。</p>\n\n<p>下面会列出本期重点的设备名称和型号，大家可以自行搜索了解详情。顺便说一句，录完节目查了一下 Cee 显示器的价格，查完之后感觉我的 2K 屏幕其实也挺清晰的。</p>\n\n<p>尝试创建了一个<a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers\">GitHub Repo</a>，分享我们的装备。欢迎大家来提交自己的办公装备，一起交流。</p>\n\n<p>莲叔的装备：</p>\n<ul>\n<li>桌子：宜家 伊朵森 坐站两用式办公桌 120x70 货号：292.809.53</li>\n<li>椅子：Herman Miller Embody，达宝利 金卓 B-HAM</li>\n<li>耳机：QC35</li>\n<li>显示器：LG UL850-W 27\" - 60Hz 5K2K，DELL U2718QM</li>\n<li>键盘：Filco Minila 有线，Magic Keyboard 2</li>\n</ul>\n<br />\n\n<p>崔轶的装备：</p>\n<ul>\n<li>升降台：<a href=\"https://item.jd.com/3973379.html\">乐歌站立办公升降台M1M\n</a></li>\n<li>打印机：<a href=\"https://item.jd.com/4182530.html\">佳能（Canon）MF232w imageCLASS 智能黑立方</a></li>\n<li>显示器：DELL 2715Q，LG UK850</li>\n<li>键盘：Magic Keyboard 2</li>\n</ul>\n<br />\n\n<p>Cee 的装备：</p>\n<ul>\n<li>桌子：<a href=\"https://www.evodesk.com/\">Evodesk</a></li>\n<li>椅子：<a href=\"https://www.hermanmiller.com/products/seating/office-chairs/sayl-chairs/\">Herman Miller Sayl</a>，另外一个牌子是 Steelcase</li>\n<li>显示器：LG 34WK95U-W 34\" - 60Hz 5K2K，写代码；LG 32GK65B-B 32\" - 144Hz 4K，打游戏</li>\n<li>键盘：HHKB Pro 2</li>\n<li>鼠标：Logitech G603</li>\n<li>Dock Belkin Thunderbolt 3 Dock Pro</li>\n<li>屏幕灯：明基 Screenbar</li>\n<li>音响：真力 Genelec 8010A（注意是单个卖的）</li>\n<li>话筒：Blue Yeti</li>\n<li>无线充电：Pixel Stand</li>\n<li>Nest Hub Max</li>\n</ul>\n<br />\n\n<p>梁杰的装备：</p>\n<ul>\n<li>自制升降桌的<a href=\"https://sh7ne.com/2019/04/20/SitStandDesk/\">教学文章</a></li>\n<li><a href=\"https://www.primecables.ca/p-359309-cab-stm01-1-anti-fatigue-standing-mat-multi-purpose-comfort-mat-primecables-\">站立脚垫/抗疲劳脚垫</a></li>\n<li>那本黑书：《S. 忒修斯之船》</li>\n<li>移动硬盘：SAMSUNG Portable SSD T5</li>\n<li>相机：FUJI X100F</li>\n</ul>\n<br />\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>Cee 提到的，修改键盘映射的软件：<a href=\"https://karabiner-elements.pqrs.org/\">Karabiner-Elements</a></li>\n<li>梁杰提到的，超小 47 键键盘：<a href=\"https://ergodox-ez.com/pages/planck\">Karabiner-Elements</a>Planck EZ</li>\n<li><a href=\"https://www.amazon.ca/Engineered-Headrest-Herman-Miller-Aeron/dp/B005L9ATK6\">Aeron 椅子的头枕</a></li>\n<li>Mac 上两个设置应用窗口位置尺寸的工具：Spectacle，ShiftIt</li>\n<li><a href=\"https://www.bilibili.com/video/av57715127/\">静脉曲张竟然引起大喷血？李永乐老师告诉你如何治疗和预防？</a></li>\n<li>莲叔的<a href=\"http://aaaron7.github.io/\">博客</a></li>\n<li>Cee 的微博：<a href=\"https://www.weibo.com/acgcee?is_all=1\">@西姨姨</a></li>\n<li>梁杰的微博：<a href=\"https://www.weibo.com/numbbbbb\">@梁杰_numbbbbb</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>01:34  个人介绍 + 闲聊现状</li>\n<li>17:49  莲叔的办公装备</li>\n<li>24:46  崔轶的办公装备</li>\n<li>33:29  Cee 的办公装备</li>\n<li>44:34  梁杰的办公装备</li>\n<li>56:38  聊聊 HHKB 以及键盘</li>\n<li>01:14:30  莲叔的多个屏幕怎么分配</li>\n<li>01:20:56  椅子的选择</li>\n<li>01:54:21  站立办公的时间</li>\n<li>02:03:52  Cee 的 34 寸显示器</li>\n<li>02:07:42  总体来说，办公环境你最需要的是什么</li>\n<li>02:13:25  目前还存在的问题，之后准备如何优化</li>\n<li>02:23:27  推荐三个物品</li>\n<li>02:34:59  最后想说什么</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>程序员们对设备多多少少有些追求。键盘鼠标、桌椅台灯、显示器和支架，办公环境里能聊的东西实在太多了。这期我们请来三位老朋友，莲叔、崔轶和 Cee，一起聊聊我们几个的办公装备。</p>\n\n<p>下面是节目配套的照片，强烈推荐大家看着照片听节目，能直观看到我们讨论的都是什么。</p>\n\n<p>办公环境的照片：</p>\n<ul>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%AE%B6.jpg?raw=truee\">莲叔家</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%85%AC%E5%8F%B8.jpg?raw=true\">莲叔公司</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B61.jpg?raw=true\">崔轶 1</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B62.jpg?raw=true\">崔轶 2</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee.jpg?raw=true\">Cee</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee%20%E6%A4%85%E5%AD%90.jpg?raw=true\">Cee 的椅子</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E6%A2%81%E6%9D%B0.jpg?raw=true\">梁杰</a></li>\n</ul>\n<br />\n\n<p>遍历完每个人的办公环境之后，我们针对几个话题展开进行了讨论。首当其冲的就是键盘，程序员每天打交道最多的东西，必须好好聊聊。然后是椅子，为了在漫长的办公时间中保护好身体，合适的桌椅必不可少。最后聊聊本期 MVP，Cee 的 34 寸显示器，以及后续我们准备做的优（败）化（家）。</p>\n\n<p>下面会列出本期重点的设备名称和型号，大家可以自行搜索了解详情。顺便说一句，录完节目查了一下 Cee 显示器的价格，查完之后感觉我的 2K 屏幕其实也挺清晰的。</p>\n\n<p>尝试创建了一个<a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers\">GitHub Repo</a>，分享我们的装备。欢迎大家来提交自己的办公装备，一起交流。</p>\n\n<p>莲叔的装备：</p>\n<ul>\n<li>桌子：宜家 伊朵森 坐站两用式办公桌 120x70 货号：292.809.53</li>\n<li>椅子：Herman Miller Embody，达宝利 金卓 B-HAM</li>\n<li>耳机：QC35</li>\n<li>显示器：LG UL850-W 27\" - 60Hz 5K2K，DELL U2718QM</li>\n<li>键盘：Filco Minila 有线，Magic Keyboard 2</li>\n</ul>\n<br />\n\n<p>崔轶的装备：</p>\n<ul>\n<li>升降台：<a href=\"https://item.jd.com/3973379.html\">乐歌站立办公升降台M1M\n</a></li>\n<li>打印机：<a href=\"https://item.jd.com/4182530.html\">佳能（Canon）MF232w imageCLASS 智能黑立方</a></li>\n<li>显示器：DELL 2715Q，LG UK850</li>\n<li>键盘：Magic Keyboard 2</li>\n</ul>\n<br />\n\n<p>Cee 的装备：</p>\n<ul>\n<li>桌子：<a href=\"https://www.evodesk.com/\">Evodesk</a></li>\n<li>椅子：<a href=\"https://www.hermanmiller.com/products/seating/office-chairs/sayl-chairs/\">Herman Miller Sayl</a>，另外一个牌子是 Steelcase</li>\n<li>显示器：LG 34WK95U-W 34\" - 60Hz 5K2K，写代码；LG 32GK65B-B 32\" - 144Hz 4K，打游戏</li>\n<li>键盘：HHKB Pro 2</li>\n<li>鼠标：Logitech G603</li>\n<li>Dock Belkin Thunderbolt 3 Dock Pro</li>\n<li>屏幕灯：明基 Screenbar</li>\n<li>音响：真力 Genelec 8010A（注意是单个卖的）</li>\n<li>话筒：Blue Yeti</li>\n<li>无线充电：Pixel Stand</li>\n<li>Nest Hub Max</li>\n</ul>\n<br />\n\n<p>梁杰的装备：</p>\n<ul>\n<li>自制升降桌的<a href=\"https://sh7ne.com/2019/04/20/SitStandDesk/\">教学文章</a></li>\n<li><a href=\"https://www.primecables.ca/p-359309-cab-stm01-1-anti-fatigue-standing-mat-multi-purpose-comfort-mat-primecables-\">站立脚垫/抗疲劳脚垫</a></li>\n<li>那本黑书：《S. 忒修斯之船》</li>\n<li>移动硬盘：SAMSUNG Portable SSD T5</li>\n<li>相机：FUJI X100F</li>\n</ul>\n<br />\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>Cee 提到的，修改键盘映射的软件：<a href=\"https://karabiner-elements.pqrs.org/\">Karabiner-Elements</a></li>\n<li>梁杰提到的，超小 47 键键盘：<a href=\"https://ergodox-ez.com/pages/planck\">Karabiner-Elements</a>Planck EZ</li>\n<li><a href=\"https://www.amazon.ca/Engineered-Headrest-Herman-Miller-Aeron/dp/B005L9ATK6\">Aeron 椅子的头枕</a></li>\n<li>Mac 上两个设置应用窗口位置尺寸的工具：Spectacle，ShiftIt</li>\n<li><a href=\"https://www.bilibili.com/video/av57715127/\">静脉曲张竟然引起大喷血？李永乐老师告诉你如何治疗和预防？</a></li>\n<li>莲叔的<a href=\"http://aaaron7.github.io/\">博客</a></li>\n<li>Cee 的微博：<a href=\"https://www.weibo.com/acgcee?is_all=1\">@西姨姨</a></li>\n<li>梁杰的微博：<a href=\"https://www.weibo.com/numbbbbb\">@梁杰_numbbbbb</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>01:34  个人介绍 + 闲聊现状</li>\n<li>17:49  莲叔的办公装备</li>\n<li>24:46  崔轶的办公装备</li>\n<li>33:29  Cee 的办公装备</li>\n<li>44:34  梁杰的办公装备</li>\n<li>56:38  聊聊 HHKB 以及键盘</li>\n<li>01:14:30  莲叔的多个屏幕怎么分配</li>\n<li>01:20:56  椅子的选择</li>\n<li>01:54:21  站立办公的时间</li>\n<li>02:03:52  Cee 的 34 寸显示器</li>\n<li>02:07:42  总体来说，办公环境你最需要的是什么</li>\n<li>02:13:25  目前还存在的问题，之后准备如何优化</li>\n<li>02:23:27  推荐三个物品</li>\n<li>02:34:59  最后想说什么</li>\n</ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/bangongshebei.mp3",
+    "guidislink": false,
+    "itunes_duration": "02:38:32",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>程序员们对设备多多少少有些追求。键盘鼠标、桌椅台灯、显示器和支架，办公环境里能聊的东西实在太多了。这期我们请来三位老朋友，莲叔、崔轶和 Cee，一起聊聊我们几个的办公装备。</p>\n\n<p>下面是节目配套的照片，强烈推荐大家看着照片听节目，能直观看到我们讨论的都是什么。</p>\n\n<p>办公环境的照片：</p>\n<ul>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%AE%B6.jpg?raw=truee\">莲叔家</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E8%8E%B2%E5%8F%94%E5%85%AC%E5%8F%B8.jpg?raw=true\">莲叔公司</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B61.jpg?raw=true\">崔轶 1</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E5%B4%94%E8%BD%B62.jpg?raw=true\">崔轶 2</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee.jpg?raw=true\">Cee</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/Cee%20%E6%A4%85%E5%AD%90.jpg?raw=true\">Cee 的椅子</a></li>\n<li><a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers/blob/master/images/%E6%A2%81%E6%9D%B0.jpg?raw=true\">梁杰</a></li>\n</ul>\n<br />\n\n<p>遍历完每个人的办公环境之后，我们针对几个话题展开进行了讨论。首当其冲的就是键盘，程序员每天打交道最多的东西，必须好好聊聊。然后是椅子，为了在漫长的办公时间中保护好身体，合适的桌椅必不可少。最后聊聊本期 MVP，Cee 的 34 寸显示器，以及后续我们准备做的优（败）化（家）。</p>\n\n<p>下面会列出本期重点的设备名称和型号，大家可以自行搜索了解详情。顺便说一句，录完节目查了一下 Cee 显示器的价格，查完之后感觉我的 2K 屏幕其实也挺清晰的。</p>\n\n<p>尝试创建了一个<a href=\"https://github.com/SwiftGGTeam/hardware-for-programmers\">GitHub Repo</a>，分享我们的装备。欢迎大家来提交自己的办公装备，一起交流。</p>\n\n<p>莲叔的装备：</p>\n<ul>\n<li>桌子：宜家 伊朵森 坐站两用式办公桌 120x70 货号：292.809.53</li>\n<li>椅子：Herman Miller Embody，达宝利 金卓 B-HAM</li>\n<li>耳机：QC35</li>\n<li>显示器：LG UL850-W 27\" - 60Hz 5K2K，DELL U2718QM</li>\n<li>键盘：Filco Minila 有线，Magic Keyboard 2</li>\n</ul>\n<br />\n\n<p>崔轶的装备：</p>\n<ul>\n<li>升降台：<a href=\"https://item.jd.com/3973379.html\">乐歌站立办公升降台M1M\n</a></li>\n<li>打印机：<a href=\"https://item.jd.com/4182530.html\">佳能（Canon）MF232w imageCLASS 智能黑立方</a></li>\n<li>显示器：DELL 2715Q，LG UK850</li>\n<li>键盘：Magic Keyboard 2</li>\n</ul>\n<br />\n\n<p>Cee 的装备：</p>\n<ul>\n<li>桌子：<a href=\"https://www.evodesk.com/\">Evodesk</a></li>\n<li>椅子：<a href=\"https://www.hermanmiller.com/products/seating/office-chairs/sayl-chairs/\">Herman Miller Sayl</a>，另外一个牌子是 Steelcase</li>\n<li>显示器：LG 34WK95U-W 34\" - 60Hz 5K2K，写代码；LG 32GK65B-B 32\" - 144Hz 4K，打游戏</li>\n<li>键盘：HHKB Pro 2</li>\n<li>鼠标：Logitech G603</li>\n<li>Dock Belkin Thunderbolt 3 Dock Pro</li>\n<li>屏幕灯：明基 Screenbar</li>\n<li>音响：真力 Genelec 8010A（注意是单个卖的）</li>\n<li>话筒：Blue Yeti</li>\n<li>无线充电：Pixel Stand</li>\n<li>Nest Hub Max</li>\n</ul>\n<br />\n\n<p>梁杰的装备：</p>\n<ul>\n<li>自制升降桌的<a href=\"https://sh7ne.com/2019/04/20/SitStandDesk/\">教学文章</a></li>\n<li><a href=\"https://www.primecables.ca/p-359309-cab-stm01-1-anti-fatigue-standing-mat-multi-purpose-comfort-mat-primecables-\">站立脚垫/抗疲劳脚垫</a></li>\n<li>那本黑书：《S. 忒修斯之船》</li>\n<li>移动硬盘：SAMSUNG Portable SSD T5</li>\n<li>相机：FUJI X100F</li>\n</ul>\n<br />\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>Cee 提到的，修改键盘映射的软件：<a href=\"https://karabiner-elements.pqrs.org/\">Karabiner-Elements</a></li>\n<li>梁杰提到的，超小 47 键键盘：<a href=\"https://ergodox-ez.com/pages/planck\">Karabiner-Elements</a>Planck EZ</li>\n<li><a href=\"https://www.amazon.ca/Engineered-Headrest-Herman-Miller-Aeron/dp/B005L9ATK6\">Aeron 椅子的头枕</a></li>\n<li>Mac 上两个设置应用窗口位置尺寸的工具：Spectacle，ShiftIt</li>\n<li><a href=\"https://www.bilibili.com/video/av57715127/\">静脉曲张竟然引起大喷血？李永乐老师告诉你如何治疗和预防？</a></li>\n<li>莲叔的<a href=\"http://aaaron7.github.io/\">博客</a></li>\n<li>Cee 的微博：<a href=\"https://www.weibo.com/acgcee?is_all=1\">@西姨姨</a></li>\n<li>梁杰的微博：<a href=\"https://www.weibo.com/numbbbbb\">@梁杰_numbbbbb</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n\n<p>时间线：</p>\n<ul>\n<li>01:34  个人介绍 + 闲聊现状</li>\n<li>17:49  莲叔的办公装备</li>\n<li>24:46  崔轶的办公装备</li>\n<li>33:29  Cee 的办公装备</li>\n<li>44:34  梁杰的办公装备</li>\n<li>56:38  聊聊 HHKB 以及键盘</li>\n<li>01:14:30  莲叔的多个屏幕怎么分配</li>\n<li>01:20:56  椅子的选择</li>\n<li>01:54:21  站立办公的时间</li>\n<li>02:03:52  Cee 的 34 寸显示器</li>\n<li>02:07:42  总体来说，办公环境你最需要的是什么</li>\n<li>02:13:25  目前还存在的问题，之后准备如何优化</li>\n<li>02:23:27  推荐三个物品</li>\n<li>02:34:59  最后想说什么</li>\n</ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "办公装备",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

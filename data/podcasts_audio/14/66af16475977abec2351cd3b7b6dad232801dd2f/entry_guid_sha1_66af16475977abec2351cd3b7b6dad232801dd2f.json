@@ -1,0 +1,84 @@
+{
+    "links": [
+        {
+            "length": "33590902",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjE0MDEsInAiOjIsInUiOiJjMWVmLm1wMyJ9.MO1VstJ2mPWc65nIG9HKbtrtDHo/uxcoffee/z_a1b16c0b018fa56a7055d26daa71c1ef.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/61"
+        }
+    ],
+    "title": "#61：数据可视化的力量（Uber 工程师消极姐 - 下）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#61：数据可视化的力量（Uber 工程师消极姐 - 下）"
+    },
+    "id": "https://uxcoffee.com/episodes/61",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/61",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "subtitle": "2015 年，Uber 从卡耐基梅隆大学雇佣了一整个研究团队，建立起了它的无人车部门。在这个部门里，有汽车工程师、有人工智能科学家，也有钻研图像识别的专家，还有一支团队做的事情很特别，那就是无人车的数据可视化平台——这也是消极姐所在的部门。他们的工作使得 Uber 的工程师们可以去理解，他们所创造的无人车，究竟有多聪明了。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "2015 年，Uber 从卡耐基梅隆大学雇佣了一整个研究团队，建立起了它的无人车部门。在这个部门里，有汽车工程师、有人工智能科学家，也有钻研图像识别的专家，还有一支团队做的事情很特别，那就是无人车的数据可视化平台——这也是消极姐所在的部门。他们的工作使得 Uber 的工程师们可以去理解，他们所创造的无人车，究竟有多聪明了。"
+    },
+    "itunes_duration": "34:59",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "61",
+    "podcast_episode": "61",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/z_7e00b4e811ee6015bfe7b78a8f7df5b7.jpg?x-oss-process=style/sl"
+    },
+    "summary": "2015 年，Uber 从卡耐基梅隆大学雇佣了一整个研究团队，建立起了它的无人车部门。在这个部门里，有汽车工程师、有人工智能科学家，也有钻研图像识别的专家，还有一支团队做的事情很特别，那就是无人车的数据可视化平台——这也是消极姐所在的部门。他们的工作使得 Uber 的工程师们可以去理解，他们所创造的无人车，究竟有多聪明了。 时间线 03:35 为什么无人车需要数据可视化？ 08:20 说到底，我们在讨论的是哪些才是应该被可视化的重要信息 12:37 为什么浏览器可以跑这么复杂的可视化程序？ 16:25 把中国城市的空气质量变化视觉化地记录下来 28:51 任何的数据可视化，都是个人立场的表达 参考链接 Uber 无人车数据可视化平台的官方博客：https://eng.uber.com/atg-dataviz/ D3.js 创始人 Mike Bostock 的 Twitter: https://twitter.com/mbostock visualcomplexity.com WebGL: https://en.wikipedia.org/wiki/WebGL DeckGL: https://deck.gl/ 我台联系方式 微信公众号：uxcoffee 微博：https://www.weibo.com/uxcoffee 知乎专栏：https://zhuanlan.zhihu.com/uxcoffee Twitter：https://twitter.com/ux_coffee Instagram：https://www.instagram.com/ux_coffee/",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "2015 年，Uber 从卡耐基梅隆大学雇佣了一整个研究团队，建立起了它的无人车部门。在这个部门里，有汽车工程师、有人工智能科学家，也有钻研图像识别的专家，还有一支团队做的事情很特别，那就是无人车的数据可视化平台——这也是消极姐所在的部门。他们的工作使得 Uber 的工程师们可以去理解，他们所创造的无人车，究竟有多聪明了。 时间线 03:35 为什么无人车需要数据可视化？ 08:20 说到底，我们在讨论的是哪些才是应该被可视化的重要信息 12:37 为什么浏览器可以跑这么复杂的可视化程序？ 16:25 把中国城市的空气质量变化视觉化地记录下来 28:51 任何的数据可视化，都是个人立场的表达 参考链接 Uber 无人车数据可视化平台的官方博客：https://eng.uber.com/atg-dataviz/ D3.js 创始人 Mike Bostock 的 Twitter: https://twitter.com/mbostock visualcomplexity.com WebGL: https://en.wikipedia.org/wiki/WebGL DeckGL: https://deck.gl/ 我台联系方式 微信公众号：uxcoffee 微博：https://www.weibo.com/uxcoffee 知乎专栏：https://zhuanlan.zhihu.com/uxcoffee Twitter：https://twitter.com/ux_coffee Instagram：https://www.instagram.com/ux_coffee/"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>2015 年，Uber 从卡耐基梅隆大学雇佣了一整个研究团队，建立起了它的无人车部门。在这个部门里，有汽车工程师、有人工智能科学家，也有钻研图像识别的专家，还有一支团队做的事情很特别，那就是无人车的数据可视化平台——这也是消极姐所在的部门。他们的工作使得 Uber 的工程师们可以去理解，他们所创造的无人车，究竟有多聪明了。</p>\n<h2>时间线</h2>\n<ul>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=03:35\">03:35</a> 为什么无人车需要数据可视化？</li>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=08:20\">08:20</a> 说到底，我们在讨论的是哪些才是应该被可视化的重要信息</li>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=12:37\">12:37</a> 为什么浏览器可以跑这么复杂的可视化程序？</li>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=16:25\">16:25</a> 把中国城市的空气质量变化视觉化地记录下来</li>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=28:51\">28:51</a> 任何的数据可视化，都是个人立场的表达</li>\n</ul>\n<h2>参考链接</h2>\n<ul>\n<li>Uber 无人车数据可视化平台的官方博客：https://eng.uber.com/atg-dataviz/</li>\n<li>D3.js 创始人 Mike Bostock 的 Twitter: https://twitter.com/mbostock</li>\n<li>visualcomplexity.com</li>\n<li>WebGL: https://en.wikipedia.org/wiki/WebGL</li>\n<li>DeckGL: https://deck.gl/</li>\n</ul>\n<h2>我台联系方式</h2>\n<ul>\n<li>微信公众号：uxcoffee</li>\n<li>微博：https://www.weibo.com/uxcoffee</li>\n<li>知乎专栏：https://zhuanlan.zhihu.com/uxcoffee</li>\n<li>Twitter：https://twitter.com/ux_coffee</li>\n<li>Instagram：https://www.instagram.com/ux_coffee/</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>2015 年，Uber 从卡耐基梅隆大学雇佣了一整个研究团队，建立起了它的无人车部门。在这个部门里，有汽车工程师、有人工智能科学家，也有钻研图像识别的专家，还有一支团队做的事情很特别，那就是无人车的数据可视化平台——这也是消极姐所在的部门。他们的工作使得 Uber 的工程师们可以去理解，他们所创造的无人车，究竟有多聪明了。</p>\n<h2>时间线</h2>\n<ul>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=03:35\">03:35</a> 为什么无人车需要数据可视化？</li>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=08:20\">08:20</a> 说到底，我们在讨论的是哪些才是应该被可视化的重要信息</li>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=12:37\">12:37</a> 为什么浏览器可以跑这么复杂的可视化程序？</li>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=16:25\">16:25</a> 把中国城市的空气质量变化视觉化地记录下来</li>\n<li><a href=\"https://uxcoffee.com/feed/audio.xml#t=28:51\">28:51</a> 任何的数据可视化，都是个人立场的表达</li>\n</ul>\n<h2>参考链接</h2>\n<ul>\n<li>Uber 无人车数据可视化平台的官方博客：https://eng.uber.com/atg-dataviz/</li>\n<li>D3.js 创始人 Mike Bostock 的 Twitter: https://twitter.com/mbostock</li>\n<li>visualcomplexity.com</li>\n<li>WebGL: https://en.wikipedia.org/wiki/WebGL</li>\n<li>DeckGL: https://deck.gl/</li>\n</ul>\n<h2>我台联系方式</h2>\n<ul>\n<li>微信公众号：uxcoffee</li>\n<li>微博：https://www.weibo.com/uxcoffee</li>\n<li>知乎专栏：https://zhuanlan.zhihu.com/uxcoffee</li>\n<li>Twitter：https://twitter.com/ux_coffee</li>\n<li>Instagram：https://www.instagram.com/ux_coffee/</li>\n</ul>"
+        }
+    ],
+    "published": "Fri, 12 Oct 2018 06:09:00 +0000",
+    "published_parsed": [
+        2018,
+        10,
+        12,
+        6,
+        9,
+        0,
+        4,
+        285,
+        0
+    ]
+}

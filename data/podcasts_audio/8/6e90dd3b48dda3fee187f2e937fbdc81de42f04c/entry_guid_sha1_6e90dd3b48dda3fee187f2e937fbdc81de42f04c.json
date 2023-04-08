@@ -1,0 +1,61 @@
+{
+    "title": "011. 与架构师 redraiment 闲聊 Emacs",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://emacstalk.codeberg.page/podcast/index.xml",
+        "value": "011. 与架构师 redraiment 闲聊 Emacs"
+    },
+    "itunes_title": "011. 与架构师 redraiment 闲聊 Emacs",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://emacstalk.codeberg.page/podcast/011/"
+        },
+        {
+            "type": "audio/mpeg",
+            "length": "30324915",
+            "href": "https://aod.cos.tx.xmcdn.com/storages/b2da-audiofreehighqps/B9/8F/GKwRIMAGG26rAc71mQEy25S-.m4a",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://emacstalk.codeberg.page/podcast/011/",
+    "id": "https://emacstalk.codeberg.page/podcast/011/",
+    "guidislink": false,
+    "published": "Thu, 31 Mar 2022 19:50:52 +0800",
+    "published_parsed": [
+        2022,
+        3,
+        31,
+        11,
+        50,
+        52,
+        3,
+        90,
+        0
+    ],
+    "authors": [
+        {
+            "name": "写代码的西瓜",
+            "email": "emacstalk@liujiacai.net"
+        }
+    ],
+    "author": "emacstalk@liujiacai.net (写代码的西瓜)",
+    "author_detail": {
+        "name": "写代码的西瓜",
+        "email": "emacstalk@liujiacai.net"
+    },
+    "summary": "<h4 id=\"欢迎听众打赏支持httpsliujiacainetdonate您的支持是我不断创作的动力\">欢迎听众<a href=\"https://liujiacai.net/donate/\">打赏支持</a>，您的支持是我不断创作的动力🍻</h4>\n<img src=\"https://emacstalk.codeberg.page/guests/redraiment.jpg\" />\n<p>\n本期嘉宾是使用十二年的 Emacs 资深用户张泽鹏（网络ID：redraiment）。得益于 Emacs 其无与伦比的“开放性”，嘉宾使用它打造出符合自己理念的高效开发环境。Emacs 对于嘉宾来说，即使生产力工具，也是“玩具”，在“玩”的过程中，来学习新技能。使用 Emacs 多年后，万物可编辑的思维给嘉宾的日常工作带来很多启发，总结出一篇与系统设计的文章：<a href=\"https://my.oschina.net/u/1464083/blog/4809459\">编辑器思维与系统设计思想</a>，这其中的精华都会在节目中聊到，近一个小时的节目，精彩不容错过。</p>\n<div class=\"outline-2\" id=\"outline-container-headline-1\">\n<h2 id=\"headline-1\">\n时间线\n</h2>\n<div class=\"outline-text-2\" id=\"outline-text-headline-1\">\n<ul>\n<li>\n<p>00:00:42 嘉宾自我介绍</p>\n</li>\n<li>\n<p>00:04:18 为什么选择 Emacs</p>\n</li>\n<li>\n<p>00:11:11 ELisp 学习经历</p>\n</li>\n<li>\n<p>00:21:34 Emacs 对嘉宾思维的影响</p>\n</li>\n<li>\n<p>00:33:56 使用 ELisp 开发微信小程序的经历</p>\n</li>\n<li>\n<p>00:43:20 函数式编程的优势</p>\n</li>\n<li>\n<p>00:58:06 推荐</p>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"outline-2\" id=\"outline-container-headline-2\">\n<h2 id=\"headline-2\">\nShow Notes\n</h2>\n<div class=\"outline-text-2\" id=\"outline-text-headline-2\">\n<ul>\n<li>\n<p>嘉宾介绍</p>\n<ul>\n<li>\n<p>姓名：张泽鹏</p>\n</li>\n<li>\n<p>邮件：redraiment@gmail.com</p>\n</li>\n<li>\n<p>工作：外企（道富）⇒ 创业 ⇒ 互金（51） ⇒ 制造（阿里）</p>\n</li>\n<li>\n<p>2010 开始用 Emacs</p>\n</li>\n</ul>\n</li>\n<li>\n<p>用 Emacs Lisp 开发的微信小程序：<a href=\"https://github.com/redraiment/wechat.el\">redraiment/wechat.el</a></p>\n</li>\n<li>\n<p>Emacs 是二维的命令行工具</p>\n<ul>\n<li>\n<p>相关文章：<a href=\"https://hongchao.me/cli-and-emacs/\">Emacs is the 2D Command-line Interface</a></p>\n</li>\n<li>\n<p><a href=\"https://emacs-china.org/t/emacs-is-the-2d-command-line-interface/16711\">Emacs China 上的讨论</a></p>\n</li>\n</ul>\n</li>\n<li>\n<p>推荐</p>\n<ul>\n<li>\n<p><a href=\"http://www.gnu.org/software/emacs/manual/html_node/emacs/Keyboard-Macros.html\">Emacs Keyboard Macros</a></p>\n</li>\n<li>\n<p><a href=\"https://book.douban.com/subject/1148282/\">《计算机程序的构造和解释》（SICP）</a></p>\n</li>\n</ul>\n</li>\n</ul>\n</div>\n</div>\n<h2>\n收听方式\n</h2>\n<ul>\n<li>\n国内：<a href=\"https://www.xiaoyuzhoufm.com/podcast/60eabfdd030f8753b9982047\">小宇宙</a>、<a href=\"https://emacstalk.codeberg.page/images/weixin.jpg\">微信公众号</a>、<a href=\"https://emacstalk.codeberg.page/podcast/index.xml\">RSS</a>\n</li>\n<li>\n国外：<a href=\"https://podcasters.spotify.com/pod/show/EmacsTalk\">Spotify for Podcasters</a>、<a href=\"https://podcasts.apple.com/podcast/emacstalk/id1574036730\">Apple Podcasts</a>、<a href=\"https://anchor.fm/s/d2d601b4/podcast/rss\">RSS</a>\n</li>\n</ul>\n<img src=\"https://emacstalk.codeberg.page/images/xyz-qrcode.webp\" />\n<h2> 反馈 ✉️ </h2><ul><li>发现内容错误或链接失效？欢迎<a href=\"https://emacstalk.codeberg.page/podcast/%!s(&lt;nil&gt;)/blob/master/content/podcast/011.org\">提交 PR</a></li><li>对节目有想法或建议？欢迎来信交流：<a href=\"mailto:emacstalk@liujiacai.net\">emacstalk@liujiacai.net</a></li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://emacstalk.codeberg.page/podcast/index.xml",
+        "value": "<h4 id=\"欢迎听众打赏支持httpsliujiacainetdonate您的支持是我不断创作的动力\">欢迎听众<a href=\"https://liujiacai.net/donate/\">打赏支持</a>，您的支持是我不断创作的动力🍻</h4>\n<img src=\"https://emacstalk.codeberg.page/guests/redraiment.jpg\" />\n<p>\n本期嘉宾是使用十二年的 Emacs 资深用户张泽鹏（网络ID：redraiment）。得益于 Emacs 其无与伦比的“开放性”，嘉宾使用它打造出符合自己理念的高效开发环境。Emacs 对于嘉宾来说，即使生产力工具，也是“玩具”，在“玩”的过程中，来学习新技能。使用 Emacs 多年后，万物可编辑的思维给嘉宾的日常工作带来很多启发，总结出一篇与系统设计的文章：<a href=\"https://my.oschina.net/u/1464083/blog/4809459\">编辑器思维与系统设计思想</a>，这其中的精华都会在节目中聊到，近一个小时的节目，精彩不容错过。</p>\n<div class=\"outline-2\" id=\"outline-container-headline-1\">\n<h2 id=\"headline-1\">\n时间线\n</h2>\n<div class=\"outline-text-2\" id=\"outline-text-headline-1\">\n<ul>\n<li>\n<p>00:00:42 嘉宾自我介绍</p>\n</li>\n<li>\n<p>00:04:18 为什么选择 Emacs</p>\n</li>\n<li>\n<p>00:11:11 ELisp 学习经历</p>\n</li>\n<li>\n<p>00:21:34 Emacs 对嘉宾思维的影响</p>\n</li>\n<li>\n<p>00:33:56 使用 ELisp 开发微信小程序的经历</p>\n</li>\n<li>\n<p>00:43:20 函数式编程的优势</p>\n</li>\n<li>\n<p>00:58:06 推荐</p>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"outline-2\" id=\"outline-container-headline-2\">\n<h2 id=\"headline-2\">\nShow Notes\n</h2>\n<div class=\"outline-text-2\" id=\"outline-text-headline-2\">\n<ul>\n<li>\n<p>嘉宾介绍</p>\n<ul>\n<li>\n<p>姓名：张泽鹏</p>\n</li>\n<li>\n<p>邮件：redraiment@gmail.com</p>\n</li>\n<li>\n<p>工作：外企（道富）⇒ 创业 ⇒ 互金（51） ⇒ 制造（阿里）</p>\n</li>\n<li>\n<p>2010 开始用 Emacs</p>\n</li>\n</ul>\n</li>\n<li>\n<p>用 Emacs Lisp 开发的微信小程序：<a href=\"https://github.com/redraiment/wechat.el\">redraiment/wechat.el</a></p>\n</li>\n<li>\n<p>Emacs 是二维的命令行工具</p>\n<ul>\n<li>\n<p>相关文章：<a href=\"https://hongchao.me/cli-and-emacs/\">Emacs is the 2D Command-line Interface</a></p>\n</li>\n<li>\n<p><a href=\"https://emacs-china.org/t/emacs-is-the-2d-command-line-interface/16711\">Emacs China 上的讨论</a></p>\n</li>\n</ul>\n</li>\n<li>\n<p>推荐</p>\n<ul>\n<li>\n<p><a href=\"http://www.gnu.org/software/emacs/manual/html_node/emacs/Keyboard-Macros.html\">Emacs Keyboard Macros</a></p>\n</li>\n<li>\n<p><a href=\"https://book.douban.com/subject/1148282/\">《计算机程序的构造和解释》（SICP）</a></p>\n</li>\n</ul>\n</li>\n</ul>\n</div>\n</div>\n<h2>\n收听方式\n</h2>\n<ul>\n<li>\n国内：<a href=\"https://www.xiaoyuzhoufm.com/podcast/60eabfdd030f8753b9982047\">小宇宙</a>、<a href=\"https://emacstalk.codeberg.page/images/weixin.jpg\">微信公众号</a>、<a href=\"https://emacstalk.codeberg.page/podcast/index.xml\">RSS</a>\n</li>\n<li>\n国外：<a href=\"https://podcasters.spotify.com/pod/show/EmacsTalk\">Spotify for Podcasters</a>、<a href=\"https://podcasts.apple.com/podcast/emacstalk/id1574036730\">Apple Podcasts</a>、<a href=\"https://anchor.fm/s/d2d601b4/podcast/rss\">RSS</a>\n</li>\n</ul>\n<img src=\"https://emacstalk.codeberg.page/images/xyz-qrcode.webp\" />\n<h2> 反馈 ✉️ </h2><ul><li>发现内容错误或链接失效？欢迎<a href=\"https://emacstalk.codeberg.page/podcast/%!s(&lt;nil&gt;)/blob/master/content/podcast/011.org\">提交 PR</a></li><li>对节目有想法或建议？欢迎来信交流：<a href=\"mailto:emacstalk@liujiacai.net\">emacstalk@liujiacai.net</a></li></ul>"
+    },
+    "itunes_duration": "01:02:27",
+    "image": {
+        "href": "https://emacstalk.codeberg.page/guests/redraiment.jpg"
+    },
+    "itunes_explicit": null
+}

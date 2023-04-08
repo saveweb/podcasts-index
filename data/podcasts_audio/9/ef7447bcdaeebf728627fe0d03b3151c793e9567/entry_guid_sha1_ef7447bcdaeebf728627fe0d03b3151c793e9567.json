@@ -1,0 +1,113 @@
+{
+    "title": "#22 - PoW vs PoS",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#22 - PoW vs PoS"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/22"
+        },
+        {
+            "length": "96163551",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/e0948a79-baeb-40dc-aa42-891f08dbefc9.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/22",
+    "id": "e0948a79-baeb-40dc-aa42-891f08dbefc9",
+    "guidislink": false,
+    "published": "Wed, 31 Aug 2022 01:00:00 +0800",
+    "published_parsed": [
+        2022,
+        8,
+        30,
+        17,
+        0,
+        0,
+        1,
+        242,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "ETH升级后可能会面临协议级审查吗？这意味着什么？如果是 PoW 会不会有什么不同？",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "ETH升级后可能会面临协议级审查吗？这意味着什么？如果是 PoW 会不会有什么不同？"
+    },
+    "itunes_duration": "1:40:09",
+    "itunes_explicit": null,
+    "summary": "<p>Tornado.cash 被制裁，ETH 即将升级到 PoS, 超过 66% Staking Service 是美国的合规机构。<br />\nETH升级后可能会面临协议级审查吗？如果会，这将意味着什么？如果是 PoW 会不会有什么不同？</p>\n\n<p>带着这些问题，让我们节目的老朋友王博(Cipher) 给你慢慢聊聊 PoW vs PoS 的话题。</p>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li>播客客户端推荐\n\n<ul>\n<li><a href=\"https://castro.fm/\" rel=\"nofollow\">Castro</a></li>\n<li><a href=\"https://overcast.fm/\" rel=\"nofollow\">Overcast</a></li>\n<li><a href=\"https://pocketcasts.com/\" rel=\"nofollow\">Pocket Casts</a></li>\n</ul></li>\n<li><a href=\"https://home.treasury.gov/news/press-releases/jy0916\" rel=\"nofollow\">U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash</a></li>\n<li><a href=\"https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information\" rel=\"nofollow\">OFAC</a></li>\n<li><a href=\"https://ethereum.org/en/upgrades/merge/\" rel=\"nofollow\">Ethereum The Merge</a></li>\n<li><a href=\"https://talk.nervos.org/t/mining-staking/3028\" rel=\"nofollow\">Mining 向左，Staking 向右——公链的两大演进方向与价值分析</a></li>\n<li><a href=\"https://twitter.com/LefterisJP/status/1558944794658873344\" rel=\"nofollow\">Poll: If regulators ask you to censor at the ethereum protocol level with your validators will you</a></li>\n<li><a href=\"https://baike.baidu.com/item/%E5%9D%8E%E8%92%82%E9%9A%86%E6%95%88%E5%BA%94/9181511\" rel=\"nofollow\">坎蒂隆效应</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E9%80%9A%E5%BE%80%E5%A5%B4%E5%BD%B9%E4%B9%8B%E8%B7%AF\" rel=\"nofollow\">通往奴役之路</a></li>\n<li><a href=\"https://twitter.com/brian_armstrong\" rel=\"nofollow\">Brian Armstrong: … if we did we'd go with B i think…</a></li>\n<li><a href=\"https://ethereum.org/en/developers/docs/mev/\" rel=\"nofollow\">MEV</a></li>\n<li><a href=\"https://github.com/flashbots/pm\" rel=\"nofollow\">Flashbots</a></li>\n<li><a href=\"https://twitter.com/hosseeb\" rel=\"nofollow\">Haseeb</a></li>\n<li><a href=\"https://haseebq.com/how-defi-cannibalizes-pos-security/\" rel=\"nofollow\">How DeFi cannibalizes PoS security</a></li>\n<li><a href=\"https://dlt-repo.net/long-range-attack-in-proof-of-stake-pos-blockchains/\" rel=\"nofollow\">Long Range Attack</a></li>\n<li><a href=\"https://academy.binance.com/en/glossary/weak-subjectivity\" rel=\"nofollow\">Weak Subjectivity</a></li>\n<li><a href=\"https://golden.com/wiki/Nothing-at-stake_problem\" rel=\"nofollow\">Nothing-at-stake problem</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hant/%E6%89%98%E6%8B%89%E6%96%AF\" rel=\"nofollow\">托拉斯</a></li>\n<li><a href=\"https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp\" rel=\"nofollow\">Proof of Capacity</a></li>\n<li><a href=\"https://eprint.iacr.org/2020/1117\" rel=\"nofollow\">Economic Proof of Work</a></li>\n<li><a href=\"https://www.oppo.com/cn/accessories/oppo-watch-3-pro/\" rel=\"nofollow\">OPPO Watch 3</a></li>\n</ul><p>Special Guest: 王博.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>Tornado.cash 被制裁，ETH 即将升级到 PoS, 超过 66% Staking Service 是美国的合规机构。<br />\nETH升级后可能会面临协议级审查吗？如果会，这将意味着什么？如果是 PoW 会不会有什么不同？</p>\n\n<p>带着这些问题，让我们节目的老朋友王博(Cipher) 给你慢慢聊聊 PoW vs PoS 的话题。</p>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li>播客客户端推荐\n\n<ul>\n<li><a href=\"https://castro.fm/\" rel=\"nofollow\">Castro</a></li>\n<li><a href=\"https://overcast.fm/\" rel=\"nofollow\">Overcast</a></li>\n<li><a href=\"https://pocketcasts.com/\" rel=\"nofollow\">Pocket Casts</a></li>\n</ul></li>\n<li><a href=\"https://home.treasury.gov/news/press-releases/jy0916\" rel=\"nofollow\">U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash</a></li>\n<li><a href=\"https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information\" rel=\"nofollow\">OFAC</a></li>\n<li><a href=\"https://ethereum.org/en/upgrades/merge/\" rel=\"nofollow\">Ethereum The Merge</a></li>\n<li><a href=\"https://talk.nervos.org/t/mining-staking/3028\" rel=\"nofollow\">Mining 向左，Staking 向右——公链的两大演进方向与价值分析</a></li>\n<li><a href=\"https://twitter.com/LefterisJP/status/1558944794658873344\" rel=\"nofollow\">Poll: If regulators ask you to censor at the ethereum protocol level with your validators will you</a></li>\n<li><a href=\"https://baike.baidu.com/item/%E5%9D%8E%E8%92%82%E9%9A%86%E6%95%88%E5%BA%94/9181511\" rel=\"nofollow\">坎蒂隆效应</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E9%80%9A%E5%BE%80%E5%A5%B4%E5%BD%B9%E4%B9%8B%E8%B7%AF\" rel=\"nofollow\">通往奴役之路</a></li>\n<li><a href=\"https://twitter.com/brian_armstrong\" rel=\"nofollow\">Brian Armstrong: … if we did we'd go with B i think…</a></li>\n<li><a href=\"https://ethereum.org/en/developers/docs/mev/\" rel=\"nofollow\">MEV</a></li>\n<li><a href=\"https://github.com/flashbots/pm\" rel=\"nofollow\">Flashbots</a></li>\n<li><a href=\"https://twitter.com/hosseeb\" rel=\"nofollow\">Haseeb</a></li>\n<li><a href=\"https://haseebq.com/how-defi-cannibalizes-pos-security/\" rel=\"nofollow\">How DeFi cannibalizes PoS security</a></li>\n<li><a href=\"https://dlt-repo.net/long-range-attack-in-proof-of-stake-pos-blockchains/\" rel=\"nofollow\">Long Range Attack</a></li>\n<li><a href=\"https://academy.binance.com/en/glossary/weak-subjectivity\" rel=\"nofollow\">Weak Subjectivity</a></li>\n<li><a href=\"https://golden.com/wiki/Nothing-at-stake_problem\" rel=\"nofollow\">Nothing-at-stake problem</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hant/%E6%89%98%E6%8B%89%E6%96%AF\" rel=\"nofollow\">托拉斯</a></li>\n<li><a href=\"https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp\" rel=\"nofollow\">Proof of Capacity</a></li>\n<li><a href=\"https://eprint.iacr.org/2020/1117\" rel=\"nofollow\">Economic Proof of Work</a></li>\n<li><a href=\"https://www.oppo.com/cn/accessories/oppo-watch-3-pro/\" rel=\"nofollow\">OPPO Watch 3</a></li>\n</ul><p>Special Guest: 王博.</p>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "PoW",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "PoS",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>Tornado.cash 被制裁，ETH 即将升级到 PoS, 超过 66% Staking Service 是美国的合规机构。<br />\nETH升级后可能会面临协议级审查吗？如果会，这将意味着什么？如果是 PoW 会不会有什么不同？</p>\n\n<p>带着这些问题，让我们节目的老朋友王博(Cipher) 给你慢慢聊聊 PoW vs PoS 的话题。</p>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li>播客客户端推荐\n\n<ul>\n<li><a href=\"https://castro.fm/\" rel=\"nofollow\">Castro</a></li>\n<li><a href=\"https://overcast.fm/\" rel=\"nofollow\">Overcast</a></li>\n<li><a href=\"https://pocketcasts.com/\" rel=\"nofollow\">Pocket Casts</a></li>\n</ul></li>\n<li><a href=\"https://home.treasury.gov/news/press-releases/jy0916\" rel=\"nofollow\">U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash</a></li>\n<li><a href=\"https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information\" rel=\"nofollow\">OFAC</a></li>\n<li><a href=\"https://ethereum.org/en/upgrades/merge/\" rel=\"nofollow\">Ethereum The Merge</a></li>\n<li><a href=\"https://talk.nervos.org/t/mining-staking/3028\" rel=\"nofollow\">Mining 向左，Staking 向右——公链的两大演进方向与价值分析</a></li>\n<li><a href=\"https://twitter.com/LefterisJP/status/1558944794658873344\" rel=\"nofollow\">Poll: If regulators ask you to censor at the ethereum protocol level with your validators will you</a></li>\n<li><a href=\"https://baike.baidu.com/item/%E5%9D%8E%E8%92%82%E9%9A%86%E6%95%88%E5%BA%94/9181511\" rel=\"nofollow\">坎蒂隆效应</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E9%80%9A%E5%BE%80%E5%A5%B4%E5%BD%B9%E4%B9%8B%E8%B7%AF\" rel=\"nofollow\">通往奴役之路</a></li>\n<li><a href=\"https://twitter.com/brian_armstrong\" rel=\"nofollow\">Brian Armstrong: … if we did we'd go with B i think…</a></li>\n<li><a href=\"https://ethereum.org/en/developers/docs/mev/\" rel=\"nofollow\">MEV</a></li>\n<li><a href=\"https://github.com/flashbots/pm\" rel=\"nofollow\">Flashbots</a></li>\n<li><a href=\"https://twitter.com/hosseeb\" rel=\"nofollow\">Haseeb</a></li>\n<li><a href=\"https://haseebq.com/how-defi-cannibalizes-pos-security/\" rel=\"nofollow\">How DeFi cannibalizes PoS security</a></li>\n<li><a href=\"https://dlt-repo.net/long-range-attack-in-proof-of-stake-pos-blockchains/\" rel=\"nofollow\">Long Range Attack</a></li>\n<li><a href=\"https://academy.binance.com/en/glossary/weak-subjectivity\" rel=\"nofollow\">Weak Subjectivity</a></li>\n<li><a href=\"https://golden.com/wiki/Nothing-at-stake_problem\" rel=\"nofollow\">Nothing-at-stake problem</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hant/%E6%89%98%E6%8B%89%E6%96%AF\" rel=\"nofollow\">托拉斯</a></li>\n<li><a href=\"https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp\" rel=\"nofollow\">Proof of Capacity</a></li>\n<li><a href=\"https://eprint.iacr.org/2020/1117\" rel=\"nofollow\">Economic Proof of Work</a></li>\n<li><a href=\"https://www.oppo.com/cn/accessories/oppo-watch-3-pro/\" rel=\"nofollow\">OPPO Watch 3</a></li>\n</ul><p>Special Guest: 王博.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+4OznHJb3",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+4OznHJb3\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "guest"
+    }
+}

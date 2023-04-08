@@ -1,0 +1,103 @@
+{
+    "title": "#11 - 和 HotStuff 作者 Ted 聊聊学术之路",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#11 - 和 HotStuff 作者 Ted 聊聊学术之路"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/11"
+        },
+        {
+            "length": "52885130",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/952a6145-18b5-48a5-8531-7b72103a1434.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/11",
+    "id": "952a6145-18b5-48a5-8531-7b72103a1434",
+    "guidislink": false,
+    "published": "Fri, 27 Mar 2020 18:00:00 +0800",
+    "published_parsed": [
+        2020,
+        3,
+        27,
+        10,
+        0,
+        0,
+        4,
+        87,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "Ted 是怎么走上学术之路的？为什么一定要去读一个 PhD？\n\n和一群顶级科学家一起工作是一种怎样的体验，围绕他们又有哪些有趣的事情？\n\n为什么说 BFT 共识是从历史尘埃中找出来的东西？共识又是怎么分类的？目前共识发展现状如何？",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "Ted 是怎么走上学术之路的？为什么一定要去读一个 PhD？\n\n和一群顶级科学家一起工作是一种怎样的体验，围绕他们又有哪些有趣的事情？\n\n为什么说 BFT 共识是从历史尘埃中找出来的东西？共识又是怎么分类的？目前共识发展现状如何？"
+    },
+    "itunes_duration": "1:50:10",
+    "itunes_explicit": null,
+    "summary": "<p>本期我们有幸请到了 HotStuff 作者，美国康奈尔大学在读博士生尹茂帆（Ted Yin），一起聊聊他的学术之路。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p><em>高中打信息学竞赛，并不是他人眼中的一帆风顺，中间有许多不为人知的内心时刻。</em></p></li>\n<li><p><em>大学暑假去康奈尔， 通过和 Gün 教授一起工作，慢慢探索出未来发展道路。</em></p></li>\n<li><p><em>早在 2016 年因 DAO Hack 事件在国内闻名之前，Gün 教授因 Selfish Mining 在国际 Crypto Space 已经很有名了。</em></p></li>\n<li><p><em>大学学的东西远远不够，读 PhD 是一个很好积累的过程。</em></p></li>\n<li><p><em>Gün 教授是个喜欢说大实话的 Hacker，在学术界并不是很招人喜欢。</em></p></li>\n<li><p><em>大扫除在文件堆里找到了 NSA（美国国家安全局）对 Gün 教授及其学生的感谢信。</em></p></li>\n<li><p><em>读一个 PhD，迟早你要在专注的那个领域做到比你老板还厉害，不然的话，你读它干嘛。</em></p></li>\n<li><p><em>PhD 三成时间是在学怎么和人交流，三成时间做科研 ，三成时间学做项目，或者说学习组织去做好一件系统的事情。</em></p></li>\n<li><p><em>好的表达和交流会帮助你解决问题以及获得更多资源，你也需要去经营资源 。</em></p></li>\n<li><p><em>学术界并没有达成统一共识，区块链是不是研究方向。</em></p></li>\n<li><p><em>大众能去了解共识非常神奇，因为这是一个非常 Low Level 的事情，这也反应了整个行业目前还很不成熟。</em></p></li>\n<li><p><em>BFT 是从历史尘埃中找出来的东西。</em></p></li>\n<li><p><em>共识算法中新的算法并没有很多，魔改的很多。</em></p></li>\n</ul>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B\" rel=\"nofollow\">ACM ICPC</a></li>\n<li> <a href=\"https://www.cs.cornell.edu/jeh/\" rel=\"nofollow\">John E. Hopcroft</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Robert_Tarjan\" rel=\"nofollow\">Robert Tarjan</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/elaine-shi\" rel=\"nofollow\">Elaine Shi</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/ari-juels\" rel=\"nofollow\">Ari Juels</a></li>\n<li><a href=\"http://www.cs.cornell.edu/people/egs/\" rel=\"nofollow\">Emin Gün Sirer</a></li>\n<li><a href=\"https://twitter.com/el33th4xor/status/1008417777663774720\" rel=\"nofollow\">Gün’s Twitter about DAO Hack</a> </li>\n<li><a href=\"https://webee.technion.ac.il/people/ittay/\" rel=\"nofollow\">Ittay Eyal</a></li>\n<li><a href=\"https://www.cs.cornell.edu/home/rvr/\" rel=\"nofollow\">Robbert van Renesse</a></li>\n<li><a href=\"https://www.cs.cornell.edu/%7Eie53/publications/btcProcFC.pdf\" rel=\"nofollow\">Paper about selfish mining</a> </li>\n<li> <a href=\"https://en.wikipedia.org/wiki/SPIN_(operating_system)\" rel=\"nofollow\">SPIN operating system</a></li>\n<li><a href=\"https://www.cs.cornell.edu/fbs/publications/ChainReplicOSDI.pdf\" rel=\"nofollow\">Chain Replication for Supporting High Throughput and Availability By Robbert van Renesse</a></li>\n<li><a href=\"https://research.cs.cornell.edu/projects/Quicksilver/public_pdfs/52180438.pdf\" rel=\"nofollow\">Bosco: One-Step Byzantine Asy</a></li>\n<li><a href=\"http://pmg.csail.mit.edu/papers/osdi99.pdf\" rel=\"nofollow\">Practical Byzantine Fault Tolerance</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Paxos_(computer_science)\" rel=\"nofollow\">Paxos (computer science)</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/lorenzo-alvisi\" rel=\"nofollow\">Lorenzo Alvisi</a> </li>\n<li> <a href=\"https://en.wikipedia.org/wiki/Dahlia_Malkhi\" rel=\"nofollow\">Dahlia Malkhi</a></li>\n<li> <a href=\"http://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf?spm=a2c65.11461447.0.0.4c15478eYwX53X&amp;file=jacm88.pdf\" rel=\"nofollow\">DLS consensus algorithms</a></li>\n<li> <a href=\"http://www.cs.cornell.edu/lorenzo/papers/Kotla08Zyzzyva.pdf\" rel=\"nofollow\">Zyzzyva: Speculative Byzantine Fault Tolerance</a></li>\n<li> <a href=\"https://allquantor.at/blockchainbib/pdf/ben1983another.pdf\" rel=\"nofollow\">Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols </a></li>\n<li><a href=\"https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf\" rel=\"nofollow\">Tendermint: Byzantine Fault Tolerance in the Age of Blockchains</a></li>\n<li><a href=\"https://arxiv.org/abs/1803.05069\" rel=\"nofollow\">HotStuff: BFT Consensus in the Lens of Blockchain</a></li>\n<li> <a href=\"https://eprint.iacr.org/2016/199.pdf\" rel=\"nofollow\">The Honey Badger of BFT Protocols</a></li>\n<li><a href=\"https://algorandcom.cdn.prismic.io/algorandcom%2Fa26acb80-b80c-46ff-a1ab-a8121f74f3a3_p51-gilad.pdf\" rel=\"nofollow\">Algorand: Scaling Byzantine Agreements for Cryptocurrencies</a> </li>\n<li><a href=\"https://eprint.iacr.org/2016/919.pdf\" rel=\"nofollow\">Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake</a></li>\n<li><a href=\"https://eprint.iacr.org/2018/1049.pdf\" rel=\"nofollow\">Ouroboros-BFT: A Simple Byzantine Fault Tolerant Consensus Protocol</a></li>\n</ul><p>Special Guests: Ted Yin and 万涔涔.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>本期我们有幸请到了 HotStuff 作者，美国康奈尔大学在读博士生尹茂帆（Ted Yin），一起聊聊他的学术之路。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p><em>高中打信息学竞赛，并不是他人眼中的一帆风顺，中间有许多不为人知的内心时刻。</em></p></li>\n<li><p><em>大学暑假去康奈尔， 通过和 Gün 教授一起工作，慢慢探索出未来发展道路。</em></p></li>\n<li><p><em>早在 2016 年因 DAO Hack 事件在国内闻名之前，Gün 教授因 Selfish Mining 在国际 Crypto Space 已经很有名了。</em></p></li>\n<li><p><em>大学学的东西远远不够，读 PhD 是一个很好积累的过程。</em></p></li>\n<li><p><em>Gün 教授是个喜欢说大实话的 Hacker，在学术界并不是很招人喜欢。</em></p></li>\n<li><p><em>大扫除在文件堆里找到了 NSA（美国国家安全局）对 Gün 教授及其学生的感谢信。</em></p></li>\n<li><p><em>读一个 PhD，迟早你要在专注的那个领域做到比你老板还厉害，不然的话，你读它干嘛。</em></p></li>\n<li><p><em>PhD 三成时间是在学怎么和人交流，三成时间做科研 ，三成时间学做项目，或者说学习组织去做好一件系统的事情。</em></p></li>\n<li><p><em>好的表达和交流会帮助你解决问题以及获得更多资源，你也需要去经营资源 。</em></p></li>\n<li><p><em>学术界并没有达成统一共识，区块链是不是研究方向。</em></p></li>\n<li><p><em>大众能去了解共识非常神奇，因为这是一个非常 Low Level 的事情，这也反应了整个行业目前还很不成熟。</em></p></li>\n<li><p><em>BFT 是从历史尘埃中找出来的东西。</em></p></li>\n<li><p><em>共识算法中新的算法并没有很多，魔改的很多。</em></p></li>\n</ul>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B\" rel=\"nofollow\">ACM ICPC</a></li>\n<li> <a href=\"https://www.cs.cornell.edu/jeh/\" rel=\"nofollow\">John E. Hopcroft</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Robert_Tarjan\" rel=\"nofollow\">Robert Tarjan</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/elaine-shi\" rel=\"nofollow\">Elaine Shi</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/ari-juels\" rel=\"nofollow\">Ari Juels</a></li>\n<li><a href=\"http://www.cs.cornell.edu/people/egs/\" rel=\"nofollow\">Emin Gün Sirer</a></li>\n<li><a href=\"https://twitter.com/el33th4xor/status/1008417777663774720\" rel=\"nofollow\">Gün’s Twitter about DAO Hack</a> </li>\n<li><a href=\"https://webee.technion.ac.il/people/ittay/\" rel=\"nofollow\">Ittay Eyal</a></li>\n<li><a href=\"https://www.cs.cornell.edu/home/rvr/\" rel=\"nofollow\">Robbert van Renesse</a></li>\n<li><a href=\"https://www.cs.cornell.edu/%7Eie53/publications/btcProcFC.pdf\" rel=\"nofollow\">Paper about selfish mining</a> </li>\n<li> <a href=\"https://en.wikipedia.org/wiki/SPIN_(operating_system)\" rel=\"nofollow\">SPIN operating system</a></li>\n<li><a href=\"https://www.cs.cornell.edu/fbs/publications/ChainReplicOSDI.pdf\" rel=\"nofollow\">Chain Replication for Supporting High Throughput and Availability By Robbert van Renesse</a></li>\n<li><a href=\"https://research.cs.cornell.edu/projects/Quicksilver/public_pdfs/52180438.pdf\" rel=\"nofollow\">Bosco: One-Step Byzantine Asy</a></li>\n<li><a href=\"http://pmg.csail.mit.edu/papers/osdi99.pdf\" rel=\"nofollow\">Practical Byzantine Fault Tolerance</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Paxos_(computer_science)\" rel=\"nofollow\">Paxos (computer science)</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/lorenzo-alvisi\" rel=\"nofollow\">Lorenzo Alvisi</a> </li>\n<li> <a href=\"https://en.wikipedia.org/wiki/Dahlia_Malkhi\" rel=\"nofollow\">Dahlia Malkhi</a></li>\n<li> <a href=\"http://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf?spm=a2c65.11461447.0.0.4c15478eYwX53X&amp;file=jacm88.pdf\" rel=\"nofollow\">DLS consensus algorithms</a></li>\n<li> <a href=\"http://www.cs.cornell.edu/lorenzo/papers/Kotla08Zyzzyva.pdf\" rel=\"nofollow\">Zyzzyva: Speculative Byzantine Fault Tolerance</a></li>\n<li> <a href=\"https://allquantor.at/blockchainbib/pdf/ben1983another.pdf\" rel=\"nofollow\">Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols </a></li>\n<li><a href=\"https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf\" rel=\"nofollow\">Tendermint: Byzantine Fault Tolerance in the Age of Blockchains</a></li>\n<li><a href=\"https://arxiv.org/abs/1803.05069\" rel=\"nofollow\">HotStuff: BFT Consensus in the Lens of Blockchain</a></li>\n<li> <a href=\"https://eprint.iacr.org/2016/199.pdf\" rel=\"nofollow\">The Honey Badger of BFT Protocols</a></li>\n<li><a href=\"https://algorandcom.cdn.prismic.io/algorandcom%2Fa26acb80-b80c-46ff-a1ab-a8121f74f3a3_p51-gilad.pdf\" rel=\"nofollow\">Algorand: Scaling Byzantine Agreements for Cryptocurrencies</a> </li>\n<li><a href=\"https://eprint.iacr.org/2016/919.pdf\" rel=\"nofollow\">Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake</a></li>\n<li><a href=\"https://eprint.iacr.org/2018/1049.pdf\" rel=\"nofollow\">Ouroboros-BFT: A Simple Byzantine Fault Tolerant Consensus Protocol</a></li>\n</ul><p>Special Guests: Ted Yin and 万涔涔.</p>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>本期我们有幸请到了 HotStuff 作者，美国康奈尔大学在读博士生尹茂帆（Ted Yin），一起聊聊他的学术之路。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p><em>高中打信息学竞赛，并不是他人眼中的一帆风顺，中间有许多不为人知的内心时刻。</em></p></li>\n<li><p><em>大学暑假去康奈尔， 通过和 Gün 教授一起工作，慢慢探索出未来发展道路。</em></p></li>\n<li><p><em>早在 2016 年因 DAO Hack 事件在国内闻名之前，Gün 教授因 Selfish Mining 在国际 Crypto Space 已经很有名了。</em></p></li>\n<li><p><em>大学学的东西远远不够，读 PhD 是一个很好积累的过程。</em></p></li>\n<li><p><em>Gün 教授是个喜欢说大实话的 Hacker，在学术界并不是很招人喜欢。</em></p></li>\n<li><p><em>大扫除在文件堆里找到了 NSA（美国国家安全局）对 Gün 教授及其学生的感谢信。</em></p></li>\n<li><p><em>读一个 PhD，迟早你要在专注的那个领域做到比你老板还厉害，不然的话，你读它干嘛。</em></p></li>\n<li><p><em>PhD 三成时间是在学怎么和人交流，三成时间做科研 ，三成时间学做项目，或者说学习组织去做好一件系统的事情。</em></p></li>\n<li><p><em>好的表达和交流会帮助你解决问题以及获得更多资源，你也需要去经营资源 。</em></p></li>\n<li><p><em>学术界并没有达成统一共识，区块链是不是研究方向。</em></p></li>\n<li><p><em>大众能去了解共识非常神奇，因为这是一个非常 Low Level 的事情，这也反应了整个行业目前还很不成熟。</em></p></li>\n<li><p><em>BFT 是从历史尘埃中找出来的东西。</em></p></li>\n<li><p><em>共识算法中新的算法并没有很多，魔改的很多。</em></p></li>\n</ul>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B\" rel=\"nofollow\">ACM ICPC</a></li>\n<li> <a href=\"https://www.cs.cornell.edu/jeh/\" rel=\"nofollow\">John E. Hopcroft</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Robert_Tarjan\" rel=\"nofollow\">Robert Tarjan</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/elaine-shi\" rel=\"nofollow\">Elaine Shi</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/ari-juels\" rel=\"nofollow\">Ari Juels</a></li>\n<li><a href=\"http://www.cs.cornell.edu/people/egs/\" rel=\"nofollow\">Emin Gün Sirer</a></li>\n<li><a href=\"https://twitter.com/el33th4xor/status/1008417777663774720\" rel=\"nofollow\">Gün’s Twitter about DAO Hack</a> </li>\n<li><a href=\"https://webee.technion.ac.il/people/ittay/\" rel=\"nofollow\">Ittay Eyal</a></li>\n<li><a href=\"https://www.cs.cornell.edu/home/rvr/\" rel=\"nofollow\">Robbert van Renesse</a></li>\n<li><a href=\"https://www.cs.cornell.edu/%7Eie53/publications/btcProcFC.pdf\" rel=\"nofollow\">Paper about selfish mining</a> </li>\n<li> <a href=\"https://en.wikipedia.org/wiki/SPIN_(operating_system)\" rel=\"nofollow\">SPIN operating system</a></li>\n<li><a href=\"https://www.cs.cornell.edu/fbs/publications/ChainReplicOSDI.pdf\" rel=\"nofollow\">Chain Replication for Supporting High Throughput and Availability By Robbert van Renesse</a></li>\n<li><a href=\"https://research.cs.cornell.edu/projects/Quicksilver/public_pdfs/52180438.pdf\" rel=\"nofollow\">Bosco: One-Step Byzantine Asy</a></li>\n<li><a href=\"http://pmg.csail.mit.edu/papers/osdi99.pdf\" rel=\"nofollow\">Practical Byzantine Fault Tolerance</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Paxos_(computer_science)\" rel=\"nofollow\">Paxos (computer science)</a></li>\n<li><a href=\"https://www.engineering.cornell.edu/faculty-directory/lorenzo-alvisi\" rel=\"nofollow\">Lorenzo Alvisi</a> </li>\n<li> <a href=\"https://en.wikipedia.org/wiki/Dahlia_Malkhi\" rel=\"nofollow\">Dahlia Malkhi</a></li>\n<li> <a href=\"http://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf?spm=a2c65.11461447.0.0.4c15478eYwX53X&amp;file=jacm88.pdf\" rel=\"nofollow\">DLS consensus algorithms</a></li>\n<li> <a href=\"http://www.cs.cornell.edu/lorenzo/papers/Kotla08Zyzzyva.pdf\" rel=\"nofollow\">Zyzzyva: Speculative Byzantine Fault Tolerance</a></li>\n<li> <a href=\"https://allquantor.at/blockchainbib/pdf/ben1983another.pdf\" rel=\"nofollow\">Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols </a></li>\n<li><a href=\"https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf\" rel=\"nofollow\">Tendermint: Byzantine Fault Tolerance in the Age of Blockchains</a></li>\n<li><a href=\"https://arxiv.org/abs/1803.05069\" rel=\"nofollow\">HotStuff: BFT Consensus in the Lens of Blockchain</a></li>\n<li> <a href=\"https://eprint.iacr.org/2016/199.pdf\" rel=\"nofollow\">The Honey Badger of BFT Protocols</a></li>\n<li><a href=\"https://algorandcom.cdn.prismic.io/algorandcom%2Fa26acb80-b80c-46ff-a1ab-a8121f74f3a3_p51-gilad.pdf\" rel=\"nofollow\">Algorand: Scaling Byzantine Agreements for Cryptocurrencies</a> </li>\n<li><a href=\"https://eprint.iacr.org/2016/919.pdf\" rel=\"nofollow\">Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake</a></li>\n<li><a href=\"https://eprint.iacr.org/2018/1049.pdf\" rel=\"nofollow\">Ouroboros-BFT: A Simple Byzantine Fault Tolerant Consensus Protocol</a></li>\n</ul><p>Special Guests: Ted Yin and 万涔涔.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+hxEf1jyI",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+hxEf1jyI\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "guest"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "title": "聊聊程序员的升职加薪（上）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "聊聊程序员的升职加薪（上）"
+    },
+    "itunes_episode": "1",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "109921514",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/1.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Sun, 28 Oct 2018 22:00:00 CDT",
+    "published_parsed": [
+        2018,
+        10,
+        29,
+        3,
+        0,
+        0,
+        0,
+        302,
+        0
+    ],
+    "summary": "<p>第一期电台节目，我们选了一个比较有话题性，或者说比较有噱头的主题：程序员的升职加薪。</p>\n\n<p>本期请到的嘉宾是 SwiftGG 翻译组的星星和 mm，他们都在最近经历了和升职加薪相关的事，聊了不少自己的感想。想知道我们都聊了什么？戴上耳机，点击播放。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>「在 BAT 工作三年的普通员工拿多少工资？」知乎回答：https://www.zhihu.com/question/38443121/answer/294923781</li>\n<li>mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）</li>\n<li>星星的微博：@星夜暮晨（https://www.weibo.com/moonisky）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>第一期电台节目，我们选了一个比较有话题性，或者说比较有噱头的主题：程序员的升职加薪。</p>\n\n<p>本期请到的嘉宾是 SwiftGG 翻译组的星星和 mm，他们都在最近经历了和升职加薪相关的事，聊了不少自己的感想。想知道我们都聊了什么？戴上耳机，点击播放。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>「在 BAT 工作三年的普通员工拿多少工资？」知乎回答：https://www.zhihu.com/question/38443121/answer/294923781</li>\n<li>mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）</li>\n<li>星星的微博：@星夜暮晨（https://www.weibo.com/moonisky）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/1.mp3",
+    "guidislink": false,
+    "itunes_duration": "00:57:15",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n第一期电台节目，我们选了一个比较有话题性，或者说比较有噱头的主题：程序员的升职加薪。</p>\n\n<p>本期请到的嘉宾是 SwiftGG 翻译组的星星和 mm，他们都在最近经历了和升职加薪相关的事，聊了不少自己的感想。想知道我们都聊了什么？戴上耳机，点击播放。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>「在 BAT 工作三年的普通员工拿多少工资？」知乎回答：https://www.zhihu.com/question/38443121/answer/294923781</li>\n<li>mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）</li>\n<li>星星的微博：@星夜暮晨（https://www.weibo.com/moonisky）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "翻译组",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "升职",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "加薪",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

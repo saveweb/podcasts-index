@@ -1,0 +1,34 @@
+{
+    "http-content-length": 52111579,
+    "http-etag": "bc5ced402262714dff0b92706bf92388-7",
+    "http-last-modified": "Tue, 13 Oct 2020 20:07:34 GMT",
+    "http-last-modified-float": 1602590854.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 52111579,
+    "actual-duration": 6498,
+    "sha1": "d855fd2021773c2e2d0b405c22b9a64aba85c8be",
+    "md5": "cf77a7998c756d329a345d42def15a47",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/zhuangxiu.mp3",
+            "headers": {
+                "Etag": "\"bc5ced402262714dff0b92706bf92388-7\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:46:00 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Tue, 13 Oct 2020 20:07:34 GMT",
+                "Content-Length": "52111579",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "12255007948469495365",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

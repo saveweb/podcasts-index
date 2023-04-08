@@ -1,0 +1,100 @@
+{
+    "title": "1. 正视微信（试播）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "1. 正视微信（试播）"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://webview.tech/55/"
+        },
+        {
+            "length": "51254165",
+            "type": "audio/mpeg",
+            "href": "http://podcast.webview.tech/1.wechat.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://webview.tech/55/",
+    "comments": "https://webview.tech/55/#respond",
+    "published": "Tue, 19 Jun 2018 13:29:01 +0000",
+    "published_parsed": [
+        2018,
+        6,
+        19,
+        13,
+        29,
+        1,
+        1,
+        170,
+        0
+    ],
+    "authors": [
+        {
+            "name": "王隐"
+        },
+        {
+            "name": "王隐，敬礼"
+        }
+    ],
+    "author": "王隐，敬礼",
+    "author_detail": {
+        "name": "王隐"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "webview",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "微信",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "泛科技播客",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "http://120.79.10.247/?p=55",
+    "guidislink": false,
+    "summary": "「不囿于 WEB，不止于 VIEW」，WEB VIEW 是由王隐和敬礼主持的一档泛科技播客。节目中我们谨慎考量技术进步所带来的优缺点，提倡用「人治」的方法重新审视我们的日常生活。这是我们的第一期节目《正视微信》。从浏览器到微信，我们经历了传统互联网到移动互联网的过度，或许已经习惯了微信在日常生活的霸主地位。「微信是一个生活方式」，不断有反思者质疑这句标语，不断有反思者逃离微信。我们要如何正视微信，是无为而治还是为左而左。本期嘉宾/主持：敬礼，同济大学 SE PHD 在读。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "「不囿于 WEB，不止于 VIEW」，WEB VIEW 是由王隐和敬礼主持的一档泛科技播客。节目中我们谨慎考量技术进步所带来的优缺点，提倡用「人治」的方法重新审视我们的日常生活。这是我们的第一期节目《正视微信》。从浏览器到微信，我们经历了传统互联网到移动互联网的过度，或许已经习惯了微信在日常生活的霸主地位。「微信是一个生活方式」，不断有反思者质疑这句标语，不断有反思者逃离微信。我们要如何正视微信，是无为而治还是为左而左。本期嘉宾/主持：敬礼，同济大学 SE PHD 在读。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://webview.tech/category/podcast/feed/",
+            "value": "<p class=\"p1\" style=\"text-align: left;\"><strong><span class=\"s1\">本期是 WEB VIEW 的第一期播客节目。</span></strong></p>\n<p><img alt=\"\" class=\"alignnone wp-image-200 size-full\" height=\"2000\" src=\"http://webview.tech/wp-content/uploads/2018/06/bg.png\" width=\"2000\" /></p>\n<p>「不囿于 WEB，不止于 VIEW」，WEB VIEW 是由王隐和敬礼主持的一档泛科技播客。节目中我们谨慎考量技术进步所带来的优缺点，提倡用「人治」的方法重新审视我们的日常生活。</p>\n<p>这是我们的第一期节目《正视微信》。从浏览器到微信，我们经历了传统互联网到移动互联网的过度，或许已经习惯了微信在日常生活的霸主地位。</p>\n<p>「微信是一个生活方式」，不断有反思者质疑这句标语，不断有反思者逃离微信。我们要如何正视微信，是无为而治还是为左而左。</p>\n<h2>本期节目包括以下内容：</h2>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">为什么要聊这期节目？李如一</span><span class=\" md-link\"><a href=\"https://blog.yitianshijie.net/2016/02/21/byebye-wechat/\"><span class=\"md-plain\">《告别微信》</span></a></span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">敬礼的微信好友有多少人</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信有大量的国外用户</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">敬礼参加的小程序开发大赛 </span></p>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">小程序的应用场景：轻量级，打卡、活动报名等</span></p>\n</li>\n</ul>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信缺点</span></p>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信中使用小程序和看文章不能并行：移动互联网通病「以便携性换取并行性」</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信不同设备之间信息同步不完善</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信 bug：删除好友无提示</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信内屏蔽部分 App 的 Universal Link（利益考量） ，影响用户体验</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信无法插入外链，违反互联网「open」本质</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信内容「净化能力」不完善</span></p>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">谣言与低俗内容</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">情绪性文章流传广</span></p>\n</li>\n</ul>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信优点：</span></p>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\"> 对内容创作者较友好</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信表情：弱化观点，避免人之间尴尬</span></p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Apple NFC 对比二维码过地铁闸机：NFC 克服二维码繁琐和动态刷新的问题</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">微信的广告投放是否用到了我们的隐私</span></p>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">信息贩卖在国内十分常见</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">国内用户对隐私较不敏感</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">国内的软件付费不成熟</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">我们和企业的关系「企业从我们这边得到什么，我们又从企业得到什么」</span></p>\n</li>\n</ul>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">敬礼在朋友圈看到的大部分公众号文章「个人公号」较多，博客的延伸</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain md-expand\">微信对比 iMessage</span></p>\n</li>\n</ul>\n<ul class=\"ul-list\">\n<li class=\"md-list-item md-focus-container\">\n<p class=\"md-end-block md-p md-focus\"><span class=\"md-plain\">工信部禁止 iOS callkit：微信音频对比 FaceTime 音频</span></p>\n</li>\n</ul>\n<ul class=\"ul1\" style=\"text-align: left;\">\n<li></li>\n</ul>\n<h2 style=\"text-align: left;\">本期主播：</h2>\n<ul style=\"text-align: left;\">\n<li>王隐</li>\n<li>敬礼</li>\n</ul>\n<p>我们欢迎你通过电子邮件向我们提出你对节目的看法与观点：hi@webview.tech</p>\n<h2 style=\"text-align: left;\">playlist：</h2>\n<p><a href=\"http://webview.tech/wp-content/uploads/2018/06/2701529405368_.pic_hd.jpg\" title=\"\"><img alt=\"\" class=\"alignnone wp-image-164 size-full\" height=\"1226\" src=\"http://webview.tech/wp-content/uploads/2018/06/2701529405368_.pic_hd.jpg\" width=\"1832\" /></a></p>"
+        }
+    ],
+    "wfw_commentrss": "https://webview.tech/55/feed/",
+    "slash_comments": "0",
+    "subtitle": "「不囿于 WEB，不止于 VIEW」，WEB VIEW 是由王隐和敬礼主持的一档泛科技播客。节目中我们谨慎考量技术进步所带来的优缺点，提倡用「人治」的方法重新审视我们的日常生活。这是我们的第一期节目《正视微信》。从浏览器到微信，我们经历了传统互联网到移动互联网的过度，或许已经习惯了微信在日常生活的霸主地位。「微信是一个生活方式」，不断有反思者质疑这句标语，不断有反思者逃离微信。我们要如何正视微信，是无为而治还是为左而左。本期嘉宾/主持：敬礼，同济大学 SE PHD 在读。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "「不囿于 WEB，不止于 VIEW」，WEB VIEW 是由王隐和敬礼主持的一档泛科技播客。节目中我们谨慎考量技术进步所带来的优缺点，提倡用「人治」的方法重新审视我们的日常生活。这是我们的第一期节目《正视微信》。从浏览器到微信，我们经历了传统互联网到移动互联网的过度，或许已经习惯了微信在日常生活的霸主地位。「微信是一个生活方式」，不断有反思者质疑这句标语，不断有反思者逃离微信。我们要如何正视微信，是无为而治还是为左而左。本期嘉宾/主持：敬礼，同济大学 SE PHD 在读。"
+    },
+    "itunes_episode": "1",
+    "itunes_title": "正视微信（试播）",
+    "itunes_explicit": false,
+    "itunes_duration": "35:32"
+}

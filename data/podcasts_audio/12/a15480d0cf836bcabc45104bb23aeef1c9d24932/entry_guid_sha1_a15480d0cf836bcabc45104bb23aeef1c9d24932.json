@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "38077898",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2NzI4LCJwIjoyLCJ1IjoiMDZiMy5tcDMifQ.AE0NJYWPXxDI5fUBDFl0ppTGj_s/nicktalk-new/z_67acdc05f91c9aae98fc6b1be5fc06b3.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/46"
+        }
+    ],
+    "title": "NTP #46 Apple M1 和三個概念",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #46 Apple M1 和三個概念"
+    },
+    "id": "http://nicktalk.com/episodes/46",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/46",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "Nick 在本期節目中討論了和 Apple M1 晶片相關的三個概念，分別是 Rosetta、Universal 和 Catalyst，順便也提及了 M1 版 MacBook 的使用感受。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "Nick 在本期節目中討論了和 Apple M1 晶片相關的三個概念，分別是 Rosetta、Universal 和 Catalyst，順便也提及了 M1 版 MacBook 的使用感受。"
+    },
+    "itunes_duration": "15:39",
+    "itunes_explicit": null,
+    "itunes_episode": "46",
+    "podcast_episode": "46",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_a7f7f5e1d1a7fa5bf9be86dee5abec04.jpg?x-oss-process=style/sl"
+    },
+    "summary": "Nick 在本期節目中討論了和 Apple M1 晶片相關的三個概念，分別是 Rosetta、Universal 和 Catalyst，順便也提及了 M1 版 MacBook 的使用感受。人物介紹張奕源 Nick：NickTalk Podcast 主播你可以這樣找到我們 RSS 訂閱：https://nicktalk.com/rss NickTalk 主站：https://nicktalk.com Telegram Channel：https://t.me/nicktalk 寫信給 Nick：nick@nicktalk.com",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "Nick 在本期節目中討論了和 Apple M1 晶片相關的三個概念，分別是 Rosetta、Universal 和 Catalyst，順便也提及了 M1 版 MacBook 的使用感受。人物介紹張奕源 Nick：NickTalk Podcast 主播你可以這樣找到我們 RSS 訂閱：https://nicktalk.com/rss NickTalk 主站：https://nicktalk.com Telegram Channel：https://t.me/nicktalk 寫信給 Nick：nick@nicktalk.com"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>Nick 在本期節目中討論了和 Apple M1 晶片相關的三個概念，分別是 Rosetta、Universal 和 Catalyst，順便也提及了 M1 版 MacBook 的使用感受。<br /><br /><strong>人物介紹</strong><ul><li>張奕源 Nick：NickTalk Podcast 主播</li></ul><strong>你可以這樣找到我們</strong><ul></p>\n<li>RSS 訂閱：https://nicktalk.com/rss</li>\n<li>NickTalk 主站：https://nicktalk.com</li>\n<li>Telegram Channel：https://t.me/nicktalk</li>\n<li> 寫信給 Nick：nick@nicktalk.com</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>Nick 在本期節目中討論了和 Apple M1 晶片相關的三個概念，分別是 Rosetta、Universal 和 Catalyst，順便也提及了 M1 版 MacBook 的使用感受。<br /><br /><strong>人物介紹</strong><ul><li>張奕源 Nick：NickTalk Podcast 主播</li></ul><strong>你可以這樣找到我們</strong><ul></p>\n<li>RSS 訂閱：https://nicktalk.com/rss</li>\n<li>NickTalk 主站：https://nicktalk.com</li>\n<li>Telegram Channel：https://t.me/nicktalk</li>\n<li> 寫信給 Nick：nick@nicktalk.com</li>\n</ul>"
+        }
+    ],
+    "published": "Sun, 22 Nov 2020 08:21:02 +0000",
+    "published_parsed": [
+        2020,
+        11,
+        22,
+        8,
+        21,
+        2,
+        6,
+        327,
+        0
+    ]
+}

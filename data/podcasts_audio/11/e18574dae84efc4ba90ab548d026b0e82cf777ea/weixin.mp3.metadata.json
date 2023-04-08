@@ -1,0 +1,34 @@
+{
+    "http-content-length": 47296965,
+    "http-etag": "e8495b6c54718c4151bf663be9ca0ba6-6",
+    "http-last-modified": "Fri, 23 Apr 2021 23:32:38 GMT",
+    "http-last-modified-float": 1619191958.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 47296965,
+    "actual-duration": 5896,
+    "sha1": "f52c94a8122d5c64581280a1a49e688dee510910",
+    "md5": "d3b5ed4189c55c55ad2d187412cdb42b",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/weixin.mp3",
+            "headers": {
+                "Etag": "\"e8495b6c54718c4151bf663be9ca0ba6-6\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_CC5",
+                "Date": "Wed, 05 Apr 2023 15:47:08 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Fri, 23 Apr 2021 23:32:38 GMT",
+                "Content-Length": "47296965",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "1081757350656248530",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

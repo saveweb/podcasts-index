@@ -1,0 +1,81 @@
+{
+    "title": "08  Take a Tourist Photo 拍一张游客照",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "08  Take a Tourist Photo 拍一张游客照"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.arbretalk.com/8"
+        },
+        {
+            "length": "75206478",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/8ecd4d04-d9eb-48ed-bafc-9ab55e67c940/675e76a5-808d-443e-b0fb-f4a01c81930c.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.arbretalk.com/8",
+    "id": "57024f04cf80a1095e5abf84:5911bd2415cf7de17422cbc1:5b31a3420e2e7223c6721e7c",
+    "guidislink": false,
+    "published": "Tue, 26 Jun 2018 11:00:00 +0800",
+    "published_parsed": [
+        2018,
+        6,
+        26,
+        3,
+        0,
+        0,
+        1,
+        177,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一树Arbre"
+        },
+        {
+            "name": "一树Arbre"
+        }
+    ],
+    "author": "一树Arbre",
+    "author_detail": {
+        "name": "一树Arbre"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "不爱旅行的 Val 和对旅行上瘾的 Shane 和 Lavi 谈论各自的旅途",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "不爱旅行的 Val 和对旅行上瘾的 Shane 和 Lavi 谈论各自的旅途"
+    },
+    "itunes_duration": "1:17:40",
+    "itunes_explicit": null,
+    "summary": "<p>不爱旅行的 Val 和对旅行上瘾的 Shane 和 Lavi 谈论各自的旅途</p>\n\n<p><strong>相关链接</strong>：</p>\n\n<ul>\n<li> <a href=\"https://www.magnumphotos.com/events/event/raymond-depardon-errance/\" rel=\"nofollow\">Errance, Raymond Depardon</a> </li>\n<li> <a href=\"http://bookshop.vopmagazine.com/product/jet-lag\" rel=\"nofollow\">Jet Lag, 张乾琦 </a> </li>\n<li> <a href=\"http://pro.magnumphotos.com/C.aspx?VP3=SearchResult&amp;ALID=29YL53G7RT3\" rel=\"nofollow\">Martin Parr</a> </li>\n<li> <a href=\"https://movie.douban.com/subject/1291588/\" rel=\"nofollow\">岁月的童话</a> </li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "<p>不爱旅行的 Val 和对旅行上瘾的 Shane 和 Lavi 谈论各自的旅途</p>\n\n<p><strong>相关链接</strong>：</p>\n\n<ul>\n<li> <a href=\"https://www.magnumphotos.com/events/event/raymond-depardon-errance/\" rel=\"nofollow\">Errance, Raymond Depardon</a> </li>\n<li> <a href=\"http://bookshop.vopmagazine.com/product/jet-lag\" rel=\"nofollow\">Jet Lag, 张乾琦 </a> </li>\n<li> <a href=\"http://pro.magnumphotos.com/C.aspx?VP3=SearchResult&amp;ALID=29YL53G7RT3\" rel=\"nofollow\">Martin Parr</a> </li>\n<li> <a href=\"https://movie.douban.com/subject/1291588/\" rel=\"nofollow\">岁月的童话</a> </li>\n</ul>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/arbretalk/rss",
+            "value": "<p>不爱旅行的 Val 和对旅行上瘾的 Shane 和 Lavi 谈论各自的旅途</p>\n\n<p><strong>相关链接</strong>：</p>\n\n<ul>\n<li> <a href=\"https://www.magnumphotos.com/events/event/raymond-depardon-errance/\" rel=\"nofollow\">Errance, Raymond Depardon</a> </li>\n<li> <a href=\"http://bookshop.vopmagazine.com/product/jet-lag\" rel=\"nofollow\">Jet Lag, 张乾琦 </a> </li>\n<li> <a href=\"http://pro.magnumphotos.com/C.aspx?VP3=SearchResult&amp;ALID=29YL53G7RT3\" rel=\"nofollow\">Martin Parr</a> </li>\n<li> <a href=\"https://movie.douban.com/subject/1291588/\" rel=\"nofollow\">岁月的童话</a> </li>\n</ul>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/RF2PpSZw+m0SCL_2M",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/RF2PpSZw+m0SCL_2M\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://www.lavitaching.com/",
+        "role": "host"
+    }
+}

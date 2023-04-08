@@ -1,0 +1,85 @@
+{
+    "title": "Episode 2: 中文编程了解一下？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Episode 2: 中文编程了解一下？"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/2"
+        },
+        {
+            "length": "73832227",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/c13648fe-8c86-4a6f-a5c1-c69bf264c562.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/2",
+    "id": "59a685fc-7927-4d2e-bc99-d0731ca88ebf",
+    "guidislink": false,
+    "published": "Mon, 22 Jun 2020 14:00:00 +0800",
+    "published_parsed": [
+        2020,
+        6,
+        22,
+        6,
+        0,
+        0,
+        0,
+        174,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": ""
+    },
+    "itunes_duration": "43:42",
+    "itunes_explicit": null,
+    "summary": "<p>Astrian 一直吐槽白羊在写代码的时候使用中文变量名，因此白羊就在这一期中狠狠地向大家安利中文变量名。当然，我们也顺便聊了聊有关「中文变量」与「中文编程语言」的区别、在代码中使用中文（非拉丁字符）的一些问题，以及由此引发的许多额外话题。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:00:49 听众反馈 &amp; 公告 &amp; 寒喧</li><br />\n<li>00:03:39 进入正题，先了解「中文编程语言」与「中文变量」的区别</li><br />\n<li>00:04:22 白羊使用中文变量的最初动机，以及更深层次的缘由</li><br />\n<li>00:09:57 有哪些编程语言支持非拉丁字符变量名？</li><br />\n<li>00:14:20 闲谈两个（有趣的）中文编程语言</li><br />\n<li>00:17:31 说到底，编程语言还是要有实用性才会有拥趸</li><br />\n<li>00:21:28 语义化编程与语音助手，以及信息熵问题</li><br />\n<li>00:24:01 白羊的安利中文变量时间</li><br />\n<li>00:29:48 使用中文变量时，如何解决频繁切换输入法的问题？</li><br />\n<li>00:31:13 中文中的多音字、同音字，是中文变量编程的隐性障碍（拼音输入法限定）</li><br />\n<li>00:33:10 突然插入的《不懂英语，也能从零看懂英文文档》</li><br />\n<li>00:35:06 语言障碍、简繁与不同地区表述差异，都是中文编程的局限</li><br />\n<li>00:36:02 白羊有一个企图让全世界程序员学中文的计划</li><br />\n<li>00:36:28 中文的信息密度有助于「压缩」代码体积</li><br />\n<li>00:38:59 VS Code 中的中文变量插件推荐</li><br />\n<li>00:40:22 尾声 &amp; 安可寒暄</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：Astrian</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li>Swift 语言参考书：<a href=\"https://books.apple.com/us/book/the-swift-programming-language-swift-5-2/id881256329\" rel=\"noopener\" target=\"_blank\">The Swift Programming Language</a></li><br />\n<li>支持中文变量名的编程语言列表：<a href=\"https://github.com/program-in-chinese/team_website/blob/master/_posts/2017-10-23-%E5%9C%A8%E5%90%84%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown\" rel=\"noopener\" target=\"_blank\">在各种编程语言中使用中文命名</a></li><br />\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E7%B7%A8%E7%A8%8B%E8%AA%9E%E8%A8%80\" rel=\"noopener\" target=\"_blank\">维基百科</a> 以及 <a href=\"http://www.aspku.com/news/dongtai/52026.html\" rel=\"noopener\" target=\"_blank\">源码库</a> 网站整理的使用中文进行编码的编程语言列表</li><br />\n<li><a href=\"https://github.com/zhanyong-wan/dongbei\" rel=\"noopener\" target=\"_blank\">Dongbei</a>：基于 Python 的东北话编程语言</li><br />\n<li><a href=\"https://wy-lang.org/\" rel=\"noopener\" target=\"_blank\">wenyan-lang</a>：基于文言文的编程语言</li><br />\n<li>输入中文概念返回对应英语变量名的实用网站：<a href=\"http://codeif.xinke.org.cn/\" rel=\"noopener\" target=\"_blank\">Codeif</a></li><br />\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%86%B5_(%E4%BF%A1%E6%81%AF%E8%AE%BA)\" rel=\"noopener\" target=\"_blank\">维基百科中有关信息熵的资料</a></li><br />\n<li>中文变量输入辅助插件：<a href=\"https://github.com/program-in-chinese/vscode_Chinese_Input_Assistant\" rel=\"noopener\" target=\"_blank\">vscode_Chinese_Input_Assistant</a></li><br />\n<li>有关中国大陆地区 Apple Podcast 的一些情况介绍：<a href=\"https://sspai.com/post/56285\" rel=\"noopener\" target=\"_blank\">《播客制作入门指南》</a></li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？可以来小宇宙 app 订阅 Echo.js 并给节目发评论，也可以发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场/尾声音乐：Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]. Music provided by NoCopyrightSounds. Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\"><a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a></a>, Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\"><a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></a></p></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<p>Astrian 一直吐槽白羊在写代码的时候使用中文变量名，因此白羊就在这一期中狠狠地向大家安利中文变量名。当然，我们也顺便聊了聊有关「中文变量」与「中文编程语言」的区别、在代码中使用中文（非拉丁字符）的一些问题，以及由此引发的许多额外话题。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:00:49 听众反馈 &amp; 公告 &amp; 寒喧</li><br />\n<li>00:03:39 进入正题，先了解「中文编程语言」与「中文变量」的区别</li><br />\n<li>00:04:22 白羊使用中文变量的最初动机，以及更深层次的缘由</li><br />\n<li>00:09:57 有哪些编程语言支持非拉丁字符变量名？</li><br />\n<li>00:14:20 闲谈两个（有趣的）中文编程语言</li><br />\n<li>00:17:31 说到底，编程语言还是要有实用性才会有拥趸</li><br />\n<li>00:21:28 语义化编程与语音助手，以及信息熵问题</li><br />\n<li>00:24:01 白羊的安利中文变量时间</li><br />\n<li>00:29:48 使用中文变量时，如何解决频繁切换输入法的问题？</li><br />\n<li>00:31:13 中文中的多音字、同音字，是中文变量编程的隐性障碍（拼音输入法限定）</li><br />\n<li>00:33:10 突然插入的《不懂英语，也能从零看懂英文文档》</li><br />\n<li>00:35:06 语言障碍、简繁与不同地区表述差异，都是中文编程的局限</li><br />\n<li>00:36:02 白羊有一个企图让全世界程序员学中文的计划</li><br />\n<li>00:36:28 中文的信息密度有助于「压缩」代码体积</li><br />\n<li>00:38:59 VS Code 中的中文变量插件推荐</li><br />\n<li>00:40:22 尾声 &amp; 安可寒暄</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：Astrian</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li>Swift 语言参考书：<a href=\"https://books.apple.com/us/book/the-swift-programming-language-swift-5-2/id881256329\" rel=\"noopener\" target=\"_blank\">The Swift Programming Language</a></li><br />\n<li>支持中文变量名的编程语言列表：<a href=\"https://github.com/program-in-chinese/team_website/blob/master/_posts/2017-10-23-%E5%9C%A8%E5%90%84%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown\" rel=\"noopener\" target=\"_blank\">在各种编程语言中使用中文命名</a></li><br />\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E7%B7%A8%E7%A8%8B%E8%AA%9E%E8%A8%80\" rel=\"noopener\" target=\"_blank\">维基百科</a> 以及 <a href=\"http://www.aspku.com/news/dongtai/52026.html\" rel=\"noopener\" target=\"_blank\">源码库</a> 网站整理的使用中文进行编码的编程语言列表</li><br />\n<li><a href=\"https://github.com/zhanyong-wan/dongbei\" rel=\"noopener\" target=\"_blank\">Dongbei</a>：基于 Python 的东北话编程语言</li><br />\n<li><a href=\"https://wy-lang.org/\" rel=\"noopener\" target=\"_blank\">wenyan-lang</a>：基于文言文的编程语言</li><br />\n<li>输入中文概念返回对应英语变量名的实用网站：<a href=\"http://codeif.xinke.org.cn/\" rel=\"noopener\" target=\"_blank\">Codeif</a></li><br />\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%86%B5_(%E4%BF%A1%E6%81%AF%E8%AE%BA)\" rel=\"noopener\" target=\"_blank\">维基百科中有关信息熵的资料</a></li><br />\n<li>中文变量输入辅助插件：<a href=\"https://github.com/program-in-chinese/vscode_Chinese_Input_Assistant\" rel=\"noopener\" target=\"_blank\">vscode_Chinese_Input_Assistant</a></li><br />\n<li>有关中国大陆地区 Apple Podcast 的一些情况介绍：<a href=\"https://sspai.com/post/56285\" rel=\"noopener\" target=\"_blank\">《播客制作入门指南》</a></li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？可以来小宇宙 app 订阅 Echo.js 并给节目发评论，也可以发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场/尾声音乐：Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]. Music provided by NoCopyrightSounds. Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\"><a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a></a>, Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\"><a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></a></p></p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<p>Astrian 一直吐槽白羊在写代码的时候使用中文变量名，因此白羊就在这一期中狠狠地向大家安利中文变量名。当然，我们也顺便聊了聊有关「中文变量」与「中文编程语言」的区别、在代码中使用中文（非拉丁字符）的一些问题，以及由此引发的许多额外话题。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:00:49 听众反馈 &amp; 公告 &amp; 寒喧</li><br />\n<li>00:03:39 进入正题，先了解「中文编程语言」与「中文变量」的区别</li><br />\n<li>00:04:22 白羊使用中文变量的最初动机，以及更深层次的缘由</li><br />\n<li>00:09:57 有哪些编程语言支持非拉丁字符变量名？</li><br />\n<li>00:14:20 闲谈两个（有趣的）中文编程语言</li><br />\n<li>00:17:31 说到底，编程语言还是要有实用性才会有拥趸</li><br />\n<li>00:21:28 语义化编程与语音助手，以及信息熵问题</li><br />\n<li>00:24:01 白羊的安利中文变量时间</li><br />\n<li>00:29:48 使用中文变量时，如何解决频繁切换输入法的问题？</li><br />\n<li>00:31:13 中文中的多音字、同音字，是中文变量编程的隐性障碍（拼音输入法限定）</li><br />\n<li>00:33:10 突然插入的《不懂英语，也能从零看懂英文文档》</li><br />\n<li>00:35:06 语言障碍、简繁与不同地区表述差异，都是中文编程的局限</li><br />\n<li>00:36:02 白羊有一个企图让全世界程序员学中文的计划</li><br />\n<li>00:36:28 中文的信息密度有助于「压缩」代码体积</li><br />\n<li>00:38:59 VS Code 中的中文变量插件推荐</li><br />\n<li>00:40:22 尾声 &amp; 安可寒暄</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：Astrian</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li>Swift 语言参考书：<a href=\"https://books.apple.com/us/book/the-swift-programming-language-swift-5-2/id881256329\" rel=\"noopener\" target=\"_blank\">The Swift Programming Language</a></li><br />\n<li>支持中文变量名的编程语言列表：<a href=\"https://github.com/program-in-chinese/team_website/blob/master/_posts/2017-10-23-%E5%9C%A8%E5%90%84%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown\" rel=\"noopener\" target=\"_blank\">在各种编程语言中使用中文命名</a></li><br />\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E7%B7%A8%E7%A8%8B%E8%AA%9E%E8%A8%80\" rel=\"noopener\" target=\"_blank\">维基百科</a> 以及 <a href=\"http://www.aspku.com/news/dongtai/52026.html\" rel=\"noopener\" target=\"_blank\">源码库</a> 网站整理的使用中文进行编码的编程语言列表</li><br />\n<li><a href=\"https://github.com/zhanyong-wan/dongbei\" rel=\"noopener\" target=\"_blank\">Dongbei</a>：基于 Python 的东北话编程语言</li><br />\n<li><a href=\"https://wy-lang.org/\" rel=\"noopener\" target=\"_blank\">wenyan-lang</a>：基于文言文的编程语言</li><br />\n<li>输入中文概念返回对应英语变量名的实用网站：<a href=\"http://codeif.xinke.org.cn/\" rel=\"noopener\" target=\"_blank\">Codeif</a></li><br />\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%86%B5_(%E4%BF%A1%E6%81%AF%E8%AE%BA)\" rel=\"noopener\" target=\"_blank\">维基百科中有关信息熵的资料</a></li><br />\n<li>中文变量输入辅助插件：<a href=\"https://github.com/program-in-chinese/vscode_Chinese_Input_Assistant\" rel=\"noopener\" target=\"_blank\">vscode_Chinese_Input_Assistant</a></li><br />\n<li>有关中国大陆地区 Apple Podcast 的一些情况介绍：<a href=\"https://sspai.com/post/56285\" rel=\"noopener\" target=\"_blank\">《播客制作入门指南》</a></li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？可以来小宇宙 app 订阅 Echo.js 并给节目发评论，也可以发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场/尾声音乐：Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]. Music provided by NoCopyrightSounds. Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\"><a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a></a>, Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\"><a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></a></p></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+JmBiS7_R",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+JmBiS7_R\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_chapters": {
+        "url": "https://feeds.fireside.fm/echojs/json/episodes/c13648fe-8c86-4a6f-a5c1-c69bf264c562/chapters",
+        "type": "application/json"
+    },
+    "podcast_person": {
+        "email": "",
+        "href": "https://astrianzheng.cn",
+        "role": "host"
+    }
+}

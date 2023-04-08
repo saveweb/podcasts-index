@@ -1,0 +1,34 @@
+{
+    "http-content-length": 47023050,
+    "http-etag": "6e29d73363b8889dff1ffa732a908cfd-6",
+    "http-last-modified": "Mon, 30 Nov 2020 15:18:26 GMT",
+    "http-last-modified-float": 1606720706.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 47023050,
+    "actual-duration": 5862,
+    "sha1": "9cd7fbf2b0a594b51103e12fc2d56d1e1d54ccca",
+    "md5": "1884a396f7508db617d705d222967943",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/dubolin.mp3",
+            "headers": {
+                "Last-Modified": "Mon, 30 Nov 2020 15:18:26 GMT",
+                "Etag": "\"6e29d73363b8889dff1ffa732a908cfd-6\"",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "47023050",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "661781137700187019",
+                "Connection": "keep-alive",
+                "Server": "Lego Server",
+                "Date": "Wed, 05 Apr 2023 15:46:16 GMT",
+                "X-Cache-Lookup": "Cache Hit",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

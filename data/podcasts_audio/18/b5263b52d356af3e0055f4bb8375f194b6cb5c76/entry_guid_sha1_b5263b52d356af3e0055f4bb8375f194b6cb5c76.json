@@ -1,0 +1,81 @@
+{
+    "title": "32 女性艺术家 Female Artist",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "32 女性艺术家 Female Artist"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.arbretalk.com/32"
+        },
+        {
+            "length": "55736036",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/8ecd4d04-d9eb-48ed-bafc-9ab55e67c940/4219f9e3-aff8-4c4a-8124-b27065e22b93.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.arbretalk.com/32",
+    "id": "4219f9e3-aff8-4c4a-8124-b27065e22b93",
+    "guidislink": false,
+    "published": "Sun, 08 Mar 2020 14:00:00 +0800",
+    "published_parsed": [
+        2020,
+        3,
+        8,
+        6,
+        0,
+        0,
+        6,
+        68,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一树Arbre"
+        },
+        {
+            "name": "一树Arbre"
+        }
+    ],
+    "author": "一树Arbre",
+    "author_detail": {
+        "name": "一树Arbre"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "由三名不知名摄影师主持的艺术跑题闲聊节目",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "由三名不知名摄影师主持的艺术跑题闲聊节目"
+    },
+    "itunes_duration": "1:17:17",
+    "itunes_explicit": null,
+    "summary": "<p>在三月八日这个时候，我们也不免俗得聊了一些各自关于女性主义艺术的想法。在此之前，我们分享了仍在持续的线上生活的经历。</p>\n\n<p>提到的艺术家有：</p>\n\n<ul>\n<li>Ulay</li>\n<li>Rebecca Horn</li>\n<li>Ana Mendieta</li>\n<li>Rebecca Warren</li>\n<li>Jocelyn Allen</li>\n</ul>\n\n<p>更多内容欢迎关注<br />\n「一树Arbre」<a href=\"https://mp.weixin.qq.com/s/U50OtA5RwlHw4rL93URpJw\" rel=\"nofollow\">薏仁俱乐部</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "<p>在三月八日这个时候，我们也不免俗得聊了一些各自关于女性主义艺术的想法。在此之前，我们分享了仍在持续的线上生活的经历。</p>\n\n<p>提到的艺术家有：</p>\n\n<ul>\n<li>Ulay</li>\n<li>Rebecca Horn</li>\n<li>Ana Mendieta</li>\n<li>Rebecca Warren</li>\n<li>Jocelyn Allen</li>\n</ul>\n\n<p>更多内容欢迎关注<br />\n「一树Arbre」<a href=\"https://mp.weixin.qq.com/s/U50OtA5RwlHw4rL93URpJw\" rel=\"nofollow\">薏仁俱乐部</a></p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/arbretalk/rss",
+            "value": "<p>在三月八日这个时候，我们也不免俗得聊了一些各自关于女性主义艺术的想法。在此之前，我们分享了仍在持续的线上生活的经历。</p>\n\n<p>提到的艺术家有：</p>\n\n<ul>\n<li>Ulay</li>\n<li>Rebecca Horn</li>\n<li>Ana Mendieta</li>\n<li>Rebecca Warren</li>\n<li>Jocelyn Allen</li>\n</ul>\n\n<p>更多内容欢迎关注<br />\n「一树Arbre」<a href=\"https://mp.weixin.qq.com/s/U50OtA5RwlHw4rL93URpJw\" rel=\"nofollow\">薏仁俱乐部</a></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/RF2PpSZw+0AoS9u_q",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/RF2PpSZw+0AoS9u_q\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://hanggao.squarespace.com/",
+        "role": "host"
+    }
+}

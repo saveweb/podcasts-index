@@ -1,0 +1,77 @@
+{
+    "links": [
+        {
+            "length": "44869091",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjYxNTg3LCJwIjoyLCJ1IjoiOTEwNy5tcDMifQ.fL5_fuNtkIX99q7Um-lIp9sqoF0/uxcoffee/8337473056_419107.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/94"
+        }
+    ],
+    "title": "#94：专家 vs 管理，职业路线怎么走？（Meta 设计总监王小丹）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#94：专家 vs 管理，职业路线怎么走？（Meta 设计总监王小丹）"
+    },
+    "id": "https://uxcoffee.com/episodes/94",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/94",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "itunes_duration": "46:44",
+    "itunes_explicit": null,
+    "itunes_season": "2",
+    "podcast_season": "2",
+    "itunes_episode": "5",
+    "podcast_episode": "5",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/8337473349_276188.png?x-oss-process=style/sl"
+    },
+    "summary": "过去三年，Riceman 在管理和专家路线之间纠结，他的职称也在「设计师」和「设计经理」之间反复摇摆。新冠疫情之后，Hoka 也加入了这个纠结小队。 专家 vs 管理——在互联网公司工作的很多人在工作了一段时间之后，都会面临这一个职业路线选择题。这期节目，我们请来了有着二十多年从业经历的 Meta 设计总监王小丹来聊一聊这个话题。 嘉宾联系方式 王小丹的微信：tianfeixiaodan 王小丹的斯坦福线上课程（2022/10/8 开始）：https://continuingstudies.stanford.edu/courses/professional-and-personal-development/inception-workshop-rapid-conceptualization-of-world-class-products/20221_DSN-08 本期赞助 Bellroy 是一家来自墨尔本的环保包袋配件品牌。他们致力于打造耐看、耐用、又环保的包袋产品，认为好的设计不应该只是在第一天打动用户，还应该经得住时间的考验，在 1000 天以后依然能让用户喜欢。 品牌官网：https://bellroy.com/ Bellroy 天猫旗舰店：https://bellroy.m.tmall.com/ （下单时给小二留言说是 UX Coffee 的听众，可获额外惊喜礼品）",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "过去三年，Riceman 在管理和专家路线之间纠结，他的职称也在「设计师」和「设计经理」之间反复摇摆。新冠疫情之后，Hoka 也加入了这个纠结小队。 专家 vs 管理——在互联网公司工作的很多人在工作了一段时间之后，都会面临这一个职业路线选择题。这期节目，我们请来了有着二十多年从业经历的 Meta 设计总监王小丹来聊一聊这个话题。 嘉宾联系方式 王小丹的微信：tianfeixiaodan 王小丹的斯坦福线上课程（2022/10/8 开始）：https://continuingstudies.stanford.edu/courses/professional-and-personal-development/inception-workshop-rapid-conceptualization-of-world-class-products/20221_DSN-08 本期赞助 Bellroy 是一家来自墨尔本的环保包袋配件品牌。他们致力于打造耐看、耐用、又环保的包袋产品，认为好的设计不应该只是在第一天打动用户，还应该经得住时间的考验，在 1000 天以后依然能让用户喜欢。 品牌官网：https://bellroy.com/ Bellroy 天猫旗舰店：https://bellroy.m.tmall.com/ （下单时给小二留言说是 UX Coffee 的听众，可获额外惊喜礼品）"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>过去三年，Riceman 在管理和专家路线之间纠结，他的职称也在「设计师」和「设计经理」之间反复摇摆。新冠疫情之后，Hoka 也加入了这个纠结小队。</p>\n<p>专家 vs 管理——在互联网公司工作的很多人在工作了一段时间之后，都会面临这一个职业路线选择题。这期节目，我们请来了有着二十多年从业经历的 Meta 设计总监王小丹来聊一聊这个话题。</p>\n<p><strong>嘉宾联系方式</strong></p>\n<ul>\n<li>王小丹的微信：tianfeixiaodan</li>\n<li>王小丹的斯坦福线上课程（2022/10/8 开始）：<a href=\"https://continuingstudies.stanford.edu/courses/professional-and-personal-development/inception-workshop-rapid-conceptualization-of-world-class-products/20221_DSN-08\">https://continuingstudies.stanford.edu/courses/professional-and-personal-development/inception-workshop-rapid-conceptualization-of-world-class-products/20221_DSN-08</a></li>\n</ul>\n<p><strong>本期赞助</strong></p>\n<p><strong>Bellroy</strong> 是一家来自墨尔本的环保包袋配件品牌。他们致力于打造耐看、耐用、又环保的包袋产品，认为好的设计不应该只是在第一天打动用户，还应该经得住时间的考验，在 1000 天以后依然能让用户喜欢。</p>\n<ul>\n<li>品牌官网：<a href=\"https://bellroy.com/\">https://bellroy.com/</a></li>\n<li>Bellroy 天猫旗舰店：<a href=\"https://bellroy.m.tmall.com/\">https://bellroy.m.tmall.com/</a> （下单时给小二留言说是 UX Coffee 的听众，可获额外惊喜礼品）</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>过去三年，Riceman 在管理和专家路线之间纠结，他的职称也在「设计师」和「设计经理」之间反复摇摆。新冠疫情之后，Hoka 也加入了这个纠结小队。</p>\n<p>专家 vs 管理——在互联网公司工作的很多人在工作了一段时间之后，都会面临这一个职业路线选择题。这期节目，我们请来了有着二十多年从业经历的 Meta 设计总监王小丹来聊一聊这个话题。</p>\n<p><strong>嘉宾联系方式</strong></p>\n<ul>\n<li>王小丹的微信：tianfeixiaodan</li>\n<li>王小丹的斯坦福线上课程（2022/10/8 开始）：<a href=\"https://continuingstudies.stanford.edu/courses/professional-and-personal-development/inception-workshop-rapid-conceptualization-of-world-class-products/20221_DSN-08\">https://continuingstudies.stanford.edu/courses/professional-and-personal-development/inception-workshop-rapid-conceptualization-of-world-class-products/20221_DSN-08</a></li>\n</ul>\n<p><strong>本期赞助</strong></p>\n<p><strong>Bellroy</strong> 是一家来自墨尔本的环保包袋配件品牌。他们致力于打造耐看、耐用、又环保的包袋产品，认为好的设计不应该只是在第一天打动用户，还应该经得住时间的考验，在 1000 天以后依然能让用户喜欢。</p>\n<ul>\n<li>品牌官网：<a href=\"https://bellroy.com/\">https://bellroy.com/</a></li>\n<li>Bellroy 天猫旗舰店：<a href=\"https://bellroy.m.tmall.com/\">https://bellroy.m.tmall.com/</a> （下单时给小二留言说是 UX Coffee 的听众，可获额外惊喜礼品）</li>\n</ul>"
+        }
+    ],
+    "published": "Wed, 07 Sep 2022 05:19:32 +0000",
+    "published_parsed": [
+        2022,
+        9,
+        7,
+        5,
+        19,
+        32,
+        2,
+        250,
+        0
+    ]
+}

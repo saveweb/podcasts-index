@@ -1,0 +1,36 @@
+{
+    "http-content-length": 57498564,
+    "http-etag": "aaa35954dc0db44bc5ea1a41c731b533-55",
+    "http-last-modified": "Mon, 20 Jan 2020 23:41:31 GMT",
+    "http-last-modified-float": 1579534891.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 57498564,
+    "actual-duration": 3593,
+    "sha1": "d2617d4f8434e26769f5443921296d9cdb38de94",
+    "md5": "86b5b94f8c65d4c40be8b476337ee1cc",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/2020_chunjie_2.mp3",
+            "headers": {
+                "Content-Type": "audio/mp3",
+                "Date": "Wed, 05 Apr 2023 15:43:34 GMT",
+                "ETag": "\"aaa35954dc0db44bc5ea1a41c731b533-55\"",
+                "Server": "tencent-cos",
+                "x-cos-hash-crc64ecma": "11279588865747142653",
+                "x-cos-request-id": "NjQyZDk3MjZfNDQ0ZTQ0MGJfMjFlYjBfYzM5ZjMwYw==",
+                "X-Cache-Lookup": "Cache Miss, Hit From Upstream Cluster, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Mon, 20 Jan 2020 23:41:31 GMT",
+                "Content-Length": "57498564",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "8787777370450841007",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

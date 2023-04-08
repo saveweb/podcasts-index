@@ -1,0 +1,75 @@
+{
+    "title": "闲聊 | 加拿大的房子类型和居住体验",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "闲聊 | 加拿大的房子类型和居住体验"
+    },
+    "itunes_episode": "88",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "43512077",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/house1.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 17 May 2022 09:50:00 CDT",
+    "published_parsed": [
+        2022,
+        5,
+        17,
+        14,
+        50,
+        0,
+        1,
+        137,
+        0
+    ],
+    "summary": "<p>房子相关的第一期，先讲讲基础知识，公寓、townhouse 和 house 的介绍和比较。另外顺便讲讲加拿大房子的特点，以及三种房子的优缺点和居住体验。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>房子相关的第一期，先讲讲基础知识，公寓、townhouse 和 house 的介绍和比较。另外顺便讲讲加拿大房子的特点，以及三种房子的优缺点和居住体验。</p>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/house1.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:30:24",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>房子相关的第一期，先讲讲基础知识，公寓、townhouse 和 house 的介绍和比较。另外顺便讲讲加拿大房子的特点，以及三种房子的优缺点和居住体验。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

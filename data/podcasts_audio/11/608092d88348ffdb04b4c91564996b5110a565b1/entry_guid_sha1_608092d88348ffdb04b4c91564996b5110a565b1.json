@@ -1,0 +1,80 @@
+{
+    "title": "Flash：无尽告别",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "Flash：无尽告别"
+    },
+    "itunes_episode": "79",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "24721412",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/flash.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 11 May 2021 07:40:00 CDT",
+    "published_parsed": [
+        2021,
+        5,
+        11,
+        12,
+        40,
+        0,
+        1,
+        131,
+        0
+    ],
+    "summary": "<p>2020 年 12 月 31 日开始，Adobe 不再提供对 Flash 播放器的支持；2021 年 1 月 12 日开始，Flash 播放器将禁止运行所有 Flash 内容。</p>\n\n<p>1995 年 Flash 诞生，到 2020 年底停止支持。我们这一代人，算是经历了 Flash 从辉煌到没落的整个过程。闪客、小小、各种 MV 和搞笑视频，那个年代的网络记忆里，总是少不了 Flash 的身影。</p>\n\n<p>这一期，我们请到了《拳皇wing》的作者梦旅人，聊聊他的 Flash 开发经历，也讨论一下为什么 Flash 最终被时代淘汰。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>爆炸大哥参与录制的<a href=\"https://talk.swift.gg/search?q=爆炸\">节目</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n<p>时间线：</p>\n<ul>\n<li>01:11  个人介绍 + 主题介绍</li>\n<li>03:41  Flash 初体验 + Flash 游戏开发经历</li>\n<li>26:43  Flash 为什么被淘汰</li>\n<li>46:16  梦哥的现状</li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>2020 年 12 月 31 日开始，Adobe 不再提供对 Flash 播放器的支持；2021 年 1 月 12 日开始，Flash 播放器将禁止运行所有 Flash 内容。</p>\n\n<p>1995 年 Flash 诞生，到 2020 年底停止支持。我们这一代人，算是经历了 Flash 从辉煌到没落的整个过程。闪客、小小、各种 MV 和搞笑视频，那个年代的网络记忆里，总是少不了 Flash 的身影。</p>\n\n<p>这一期，我们请到了《拳皇wing》的作者梦旅人，聊聊他的 Flash 开发经历，也讨论一下为什么 Flash 最终被时代淘汰。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>爆炸大哥参与录制的<a href=\"https://talk.swift.gg/search?q=爆炸\">节目</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n<p>时间线：</p>\n<ul>\n<li>01:11  个人介绍 + 主题介绍</li>\n<li>03:41  Flash 初体验 + Flash 游戏开发经历</li>\n<li>26:43  Flash 为什么被淘汰</li>\n<li>46:16  梦哥的现状</li>\n</ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/flash.mp3",
+    "guidislink": false,
+    "itunes_duration": "00:51:15",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>2020 年 12 月 31 日开始，Adobe 不再提供对 Flash 播放器的支持；2021 年 1 月 12 日开始，Flash 播放器将禁止运行所有 Flash 内容。</p>\n\n<p>1995 年 Flash 诞生，到 2020 年底停止支持。我们这一代人，算是经历了 Flash 从辉煌到没落的整个过程。闪客、小小、各种 MV 和搞笑视频，那个年代的网络记忆里，总是少不了 Flash 的身影。</p>\n\n<p>这一期，我们请到了《拳皇wing》的作者梦旅人，聊聊他的 Flash 开发经历，也讨论一下为什么 Flash 最终被时代淘汰。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>爆炸大哥参与录制的<a href=\"https://talk.swift.gg/search?q=爆炸\">节目</a></li>\n</ul>\n<br />\n\n<p>新听众？推荐阅读<a href=\"https://talk.swift.gg/guide\">新听众指南</a></p>\n<p>时间线：</p>\n<ul>\n<li>01:11  个人介绍 + 主题介绍</li>\n<li>03:41  Flash 初体验 + Flash 游戏开发经历</li>\n<li>26:43  Flash 为什么被淘汰</li>\n<li>46:16  梦哥的现状</li>\n</ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "Flash",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

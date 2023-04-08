@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "54440374",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo1NTU4NiwicCI6MiwidSI6Ijg3ODIubXAzIn0.djfIT2RuRWHlslEud-b-KyvwRWM/sspai/8349991153_878782.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/62"
+        }
+    ],
+    "title": "在线沙龙：2022 年，付费内容可以怎么做？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "在线沙龙：2022 年，付费内容可以怎么做？"
+    },
+    "id": "https://sspai.typlog.io/episodes/62",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/62",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "一次少数派内部关于商业模式的座谈会。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "一次少数派内部关于商业模式的座谈会。"
+    },
+    "itunes_duration": "1:05:02",
+    "itunes_explicit": null,
+    "itunes_episode": "62",
+    "podcast_episode": "62",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8349991127_336506.jpg?x-oss-process=style/sl"
+    },
+    "summary": "本期节目是我们在 B 站举办的在线沙龙的直播录音，也是一次少数派内部关于商业模式的座谈会。我们在节目中就「2022 年付费内容应该怎么做」这个话题展开了讨论，并站在各自的职位和视角上分享了自己的观点。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "本期节目是我们在 B 站举办的在线沙龙的直播录音，也是一次少数派内部关于商业模式的座谈会。我们在节目中就「2022 年付费内容应该怎么做」这个话题展开了讨论，并站在各自的职位和视角上分享了自己的观点。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>本期节目是我们在 B 站举办的在线沙龙的直播录音，也是一次少数派内部关于商业模式的座谈会。我们在节目中就「2022 年付费内容应该怎么做」这个话题展开了讨论，并站在各自的职位和视角上分享了自己的观点。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>本期节目是我们在 B 站举办的在线沙龙的直播录音，也是一次少数派内部关于商业模式的座谈会。我们在节目中就「2022 年付费内容应该怎么做」这个话题展开了讨论，并站在各自的职位和视角上分享了自己的观点。</p>"
+        }
+    ],
+    "published": "Fri, 15 Apr 2022 07:49:27 +0000",
+    "published_parsed": [
+        2022,
+        4,
+        15,
+        7,
+        49,
+        27,
+        4,
+        105,
+        0
+    ]
+}

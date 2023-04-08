@@ -1,0 +1,100 @@
+{
+    "title": "创业那点事：普通开发者的回忆、反思和迷茫",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "创业那点事：普通开发者的回忆、反思和迷茫"
+    },
+    "itunes_episode": "11",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "60674218",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/11.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 1 Jan 2019 15:20:00 CDT",
+    "published_parsed": [
+        2019,
+        1,
+        1,
+        20,
+        20,
+        0,
+        1,
+        1,
+        0
+    ],
+    "summary": "<p>本期是创业系列第二期。第一期请莲叔和羊叔回顾了一下峥嵘岁月，第二期我们换个角度，由 mm、珂珂和我来说说作为一个普通的开发者，在创业浪潮中经历了什么。</p>\n\n<p>本期可能没有太多真知灼见，这里只有三个普通人，尝试去整理和理解自己的经历，有回忆，有收获，有反思，更多的还是迷茫。就像莲叔上期说的一样，创业成功才是偶然，我们这三段失败的创业经历，只是无数必然中的一个浪花，没什么特别，但或许也能透过它，感受到一丝那个时代的气息，这样也就够了。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>翻译组公众号：learnSwift</li>\n<li>mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:51  嘉宾自我介绍</li>\n<li>02:11  mm 的创业故事</li>\n<li>10:38  珂珂的创业故事</li>\n<li>21:06  梁杰的创业故事</li>\n<li>38:03  当时为什么要去创业？</li>\n<li>44:27  学到了什么东西？有什么收获？</li>\n<li>58:23  对于正在创业的人想说什么？</li>\n<li>01:00:00  节目最后有什么话想说？</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>本期是创业系列第二期。第一期请莲叔和羊叔回顾了一下峥嵘岁月，第二期我们换个角度，由 mm、珂珂和我来说说作为一个普通的开发者，在创业浪潮中经历了什么。</p>\n\n<p>本期可能没有太多真知灼见，这里只有三个普通人，尝试去整理和理解自己的经历，有回忆，有收获，有反思，更多的还是迷茫。就像莲叔上期说的一样，创业成功才是偶然，我们这三段失败的创业经历，只是无数必然中的一个浪花，没什么特别，但或许也能透过它，感受到一丝那个时代的气息，这样也就够了。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>翻译组公众号：learnSwift</li>\n<li>mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:51  嘉宾自我介绍</li>\n<li>02:11  mm 的创业故事</li>\n<li>10:38  珂珂的创业故事</li>\n<li>21:06  梁杰的创业故事</li>\n<li>38:03  当时为什么要去创业？</li>\n<li>44:27  学到了什么东西？有什么收获？</li>\n<li>58:23  对于正在创业的人想说什么？</li>\n<li>01:00:00  节目最后有什么话想说？</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/11.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:03:12",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n本期是创业系列第二期。第一期请莲叔和羊叔回顾了一下峥嵘岁月，第二期我们换个角度，由 mm、珂珂和我来说说作为一个普通的开发者，在创业浪潮中经历了什么。</p>\n\n<p>本期可能没有太多真知灼见，这里只有三个普通人，尝试去整理和理解自己的经历，有回忆，有收获，有反思，更多的还是迷茫。就像莲叔上期说的一样，创业成功才是偶然，我们这三段失败的创业经历，只是无数必然中的一个浪花，没什么特别，但或许也能透过它，感受到一丝那个时代的气息，这样也就够了。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>翻译组公众号：learnSwift</li>\n<li>mm 的微博：@画渣程序猿mmoaay（https://www.weibo.com/smmoaay）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:51  嘉宾自我介绍</li>\n<li>02:11  mm 的创业故事</li>\n<li>10:38  珂珂的创业故事</li>\n<li>21:06  梁杰的创业故事</li>\n<li>38:03  当时为什么要去创业？</li>\n<li>44:27  学到了什么东西？有什么收获？</li>\n<li>58:23  对于正在创业的人想说什么？</li>\n<li>01:00:00  节目最后有什么话想说？</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "翻译组",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "创业",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "创业故事",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

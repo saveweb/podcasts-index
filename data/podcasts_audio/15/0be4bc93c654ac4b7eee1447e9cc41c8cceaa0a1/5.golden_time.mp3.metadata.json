@@ -1,0 +1,54 @@
+{
+    "http-content-length": 93572926,
+    "http-etag": "ltw-vmS79G96WB_Eq-JyntXNAQQF",
+    "http-last-modified": "Mon, 06 Aug 2018 15:52:58 GMT",
+    "http-last-modified-float": 1533541978.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline; filename=\"5.golden_time.mp3\"; filename*=utf-8''5.golden_time.mp3",
+    "http-content-disposition-filename": "5.golden_time.mp3",
+    "actual-size": 93572926,
+    "actual-duration": 3897,
+    "sha1": "1be0656d14938cdabc8a1a1f781b2695e3795b27",
+    "md5": "cfa3c4fbc7440bd590ceeda56dc4a5ea",
+    "url-history": {
+        "0": {
+            "status_code": 301,
+            "url": "http://podcast.webview.tech/5.golden_time.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:14:18 GMT",
+                "Content-Type": "text/html",
+                "Content-Length": "166",
+                "Connection": "keep-alive",
+                "Location": "https://podcast.webview.tech/5.golden_time.mp3"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/5.golden_time.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:14:18 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "93572926",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"5.golden_time.mp3\"; filename*=utf-8''5.golden_time.mp3",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"ltw-vmS79G96WB_Eq-JyntXNAQQF\"",
+                "Last-Modified": "Mon, 06 Aug 2018 15:52:58 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-3;QNM:gzh135;SRCPROXY:gzh437;SRC:48;SRCPROXY:48;QNM3:49;QNM3:259",
+                "X-M-Reqid": "ILIF1tlGt",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss",
+                "X-Reqid": "UJYAAADJlpfOH1MX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

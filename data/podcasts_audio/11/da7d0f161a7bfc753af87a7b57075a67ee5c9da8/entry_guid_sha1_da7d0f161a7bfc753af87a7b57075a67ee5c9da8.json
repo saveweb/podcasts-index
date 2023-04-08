@@ -1,0 +1,90 @@
+{
+    "title": "聊聊跨平台：Weex 尚能饭否？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "聊聊跨平台：Weex 尚能饭否？"
+    },
+    "itunes_episode": "31",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "53408833",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/31.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Mon, 13 May 2019 18:20:00 CDT",
+    "published_parsed": [
+        2019,
+        5,
+        13,
+        23,
+        20,
+        0,
+        0,
+        133,
+        0
+    ],
+    "summary": "<p>跨平台系列的第二期，请莲叔来聊聊 Weex。</p>\n\n<p>从发布开始，关于 Weex 的各种讨论就一直没有停止。带着“阿里”光环出生，却一直被诟病文档不完善上手困难，甚至不断有人猜测这又是一个“评级用”项目。</p>\n\n<p>莲叔所在的团队深度使用了 Weex，经过摸索和优化之后已经可以稳定支持日常业务。有踩坑，有收获，有思考，听完莲叔的经历，相信你也会对 Weex 有更多了解。</p>\n\n<p>最后还是按照惯例提前解释：录制本期的两个人，只是移动端菜鸟（我）和 Weex 使用者（莲叔）。如果有说得不对的地方，希望大家可以给我反馈，理性讨论。当然，如果你是 Weex 团队的开发者，也非常欢迎联系我，从开发团队的角度来聊聊 Weex。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>提到的框架：Weex，Rax，Vue</li>\n<li>莲叔的微博：@aaaron7 （https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:33  个人介绍</li>\n<li>02:00  Weex 介绍及历史</li>\n<li>09:43  Weex 现状如何</li>\n<li>25:43  Weex 是否还有未来</li>\n<li>29:10  莲叔团队使用 Weex 的经历</li>\n<li>38:20  Weex 到底出了什么问题</li>\n<li>44:50  如何推广一个开源框架</li>\n<li>50:20  Weex 的一个典型问题</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>跨平台系列的第二期，请莲叔来聊聊 Weex。</p>\n\n<p>从发布开始，关于 Weex 的各种讨论就一直没有停止。带着“阿里”光环出生，却一直被诟病文档不完善上手困难，甚至不断有人猜测这又是一个“评级用”项目。</p>\n\n<p>莲叔所在的团队深度使用了 Weex，经过摸索和优化之后已经可以稳定支持日常业务。有踩坑，有收获，有思考，听完莲叔的经历，相信你也会对 Weex 有更多了解。</p>\n\n<p>最后还是按照惯例提前解释：录制本期的两个人，只是移动端菜鸟（我）和 Weex 使用者（莲叔）。如果有说得不对的地方，希望大家可以给我反馈，理性讨论。当然，如果你是 Weex 团队的开发者，也非常欢迎联系我，从开发团队的角度来聊聊 Weex。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>提到的框架：Weex，Rax，Vue</li>\n<li>莲叔的微博：@aaaron7 （https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:33  个人介绍</li>\n<li>02:00  Weex 介绍及历史</li>\n<li>09:43  Weex 现状如何</li>\n<li>25:43  Weex 是否还有未来</li>\n<li>29:10  莲叔团队使用 Weex 的经历</li>\n<li>38:20  Weex 到底出了什么问题</li>\n<li>44:50  如何推广一个开源框架</li>\n<li>50:20  Weex 的一个典型问题</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/31.mp3",
+    "guidislink": false,
+    "itunes_duration": "00:55:37",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n跨平台系列的第二期，请莲叔来聊聊 Weex。</p>\n\n<p>从发布开始，关于 Weex 的各种讨论就一直没有停止。带着“阿里”光环出生，却一直被诟病文档不完善上手困难，甚至不断有人猜测这又是一个“评级用”项目。</p>\n\n<p>莲叔所在的团队深度使用了 Weex，经过摸索和优化之后已经可以稳定支持日常业务。有踩坑，有收获，有思考，听完莲叔的经历，相信你也会对 Weex 有更多了解。</p>\n\n<p>最后还是按照惯例提前解释：录制本期的两个人，只是移动端菜鸟（我）和 Weex 使用者（莲叔）。如果有说得不对的地方，希望大家可以给我反馈，理性讨论。当然，如果你是 Weex 团队的开发者，也非常欢迎联系我，从开发团队的角度来聊聊 Weex。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>提到的框架：Weex，Rax，Vue</li>\n<li>莲叔的微博：@aaaron7 （https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:33  个人介绍</li>\n<li>02:00  Weex 介绍及历史</li>\n<li>09:43  Weex 现状如何</li>\n<li>25:43  Weex 是否还有未来</li>\n<li>29:10  莲叔团队使用 Weex 的经历</li>\n<li>38:20  Weex 到底出了什么问题</li>\n<li>44:50  如何推广一个开源框架</li>\n<li>50:20  Weex 的一个典型问题</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "weex",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

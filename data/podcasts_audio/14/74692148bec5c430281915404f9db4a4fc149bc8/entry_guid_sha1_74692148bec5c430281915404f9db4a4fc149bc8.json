@@ -1,0 +1,84 @@
+{
+    "links": [
+        {
+            "length": "85678258",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjEzNTgsInAiOjIsInUiOiJhMDlkLm1wMyJ9.q9TxQGaHfT9cHp2DYEBVONC2Stg/uxcoffee/z_0a225cb208bfc838db59373523e7a09d.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/10"
+        }
+    ],
+    "title": "#10：从企业级产品到Android TV，从上海到硅谷（Google 设计师王斯捷）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#10：从企业级产品到Android TV，从上海到硅谷（Google 设计师王斯捷）"
+    },
+    "id": "https://uxcoffee.com/episodes/10",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/10",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "subtitle": "这期我们请到了Google Android TV部门的交互设计师王斯捷来我们的节目作客。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "这期我们请到了Google Android TV部门的交互设计师王斯捷来我们的节目作客。"
+    },
+    "itunes_duration": "1:29:14",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "10",
+    "podcast_episode": "10",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/8420847008_178642.jpg?x-oss-process=style/sl"
+    },
+    "summary": "这期我们请到了 Google Android TV 部门的交互设计师王斯捷来我们的节目作客。 节目大纲 在Google上海办公室工作是怎样的体验？ 远程协作、异地办公过程中设计师要注意什么 如何为面向企业的复杂系统做设计 怎么平衡企业级产品中的功能需求与界面美感 什么样的用户体验研究员在产品团队中会有影响力 做Android TV这样的平台型产品的设计和做普通的第三方产品设计有什么不同？ 如何使用Git帮助设计团队进行协作？ 相关链接 Hiroshi Ishii：http://tangible.media.mit.edu/person/hiroshi-ishii/ School of Interactive Arts and Technology - Simon Fraser University：http://www.sfu.ca/siat.html Google 上海：https://www.google.com/intl/en/about/careers/locations/shanghai/ Android TV：https://www.android.com/tv/ TV Design Principles：https://www.google.com/design/spec-tv/design-principles/creative-vision.html#creative-vision-shared-context Chromecast：https://www.google.com/intl/enus/chromecast/?utmsource=chromecast.com 知乎回答：设计团队如何通过PS或者其他软件/平台 进行团队协同作业？：https://www.zhihu.com/question/24797209/answer/30063604 Git：https://git-scm.com/ 知乎回答：在美国面试 Product/ Interaction/ UX designer 的经历是怎样的？ https://www.zhihu.com/question/48057735/answer/109065625 Design Details by Brian Lovin：http://www.brianlovin.com/design-details 王斯捷：https://www.zhihu.com/people/sijie",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "这期我们请到了 Google Android TV 部门的交互设计师王斯捷来我们的节目作客。 节目大纲 在Google上海办公室工作是怎样的体验？ 远程协作、异地办公过程中设计师要注意什么 如何为面向企业的复杂系统做设计 怎么平衡企业级产品中的功能需求与界面美感 什么样的用户体验研究员在产品团队中会有影响力 做Android TV这样的平台型产品的设计和做普通的第三方产品设计有什么不同？ 如何使用Git帮助设计团队进行协作？ 相关链接 Hiroshi Ishii：http://tangible.media.mit.edu/person/hiroshi-ishii/ School of Interactive Arts and Technology - Simon Fraser University：http://www.sfu.ca/siat.html Google 上海：https://www.google.com/intl/en/about/careers/locations/shanghai/ Android TV：https://www.android.com/tv/ TV Design Principles：https://www.google.com/design/spec-tv/design-principles/creative-vision.html#creative-vision-shared-context Chromecast：https://www.google.com/intl/enus/chromecast/?utmsource=chromecast.com 知乎回答：设计团队如何通过PS或者其他软件/平台 进行团队协同作业？：https://www.zhihu.com/question/24797209/answer/30063604 Git：https://git-scm.com/ 知乎回答：在美国面试 Product/ Interaction/ UX designer 的经历是怎样的？ https://www.zhihu.com/question/48057735/answer/109065625 Design Details by Brian Lovin：http://www.brianlovin.com/design-details 王斯捷：https://www.zhihu.com/people/sijie"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>这期我们请到了 Google Android TV 部门的交互设计师王斯捷来我们的节目作客。</p>\n<br />\n<p>节目大纲</p>\n<p>在Google上海办公室工作是怎样的体验？</p>\n<p>远程协作、异地办公过程中设计师要注意什么</p>\n<p>如何为面向企业的复杂系统做设计</p>\n<p>怎么平衡企业级产品中的功能需求与界面美感</p>\n<p>什么样的用户体验研究员在产品团队中会有影响力</p>\n<p>做Android TV这样的平台型产品的设计和做普通的第三方产品设计有什么不同？</p>\n<p>如何使用Git帮助设计团队进行协作？</p>\n<br />\n<p>相关链接</p>\n<p>Hiroshi Ishii：http://tangible.media.mit.edu/person/hiroshi-ishii/</p>\n<p>School of Interactive Arts and Technology - Simon Fraser University：http://www.sfu.ca/siat.html</p>\n<p>Google 上海：https://www.google.com/intl/en/about/careers/locations/shanghai/</p>\n<p>Android TV：https://www.android.com/tv/</p>\n<p>TV Design Principles：https://www.google.com/design/spec-tv/design-principles/creative-vision.html#creative-vision-shared-context</p>\n<p>Chromecast：https://www.google.com/intl/enus/chromecast/?utmsource=chromecast.com</p>\n<p>知乎回答：设计团队如何通过PS或者其他软件/平台 进行团队协同作业？：https://www.zhihu.com/question/24797209/answer/30063604</p>\n<p>Git：https://git-scm.com/</p>\n<p>知乎回答：在美国面试 Product/ Interaction/ UX designer 的经历是怎样的？</p>\n<p>https://www.zhihu.com/question/48057735/answer/109065625</p>\n<p>Design Details by Brian Lovin：http://www.brianlovin.com/design-details</p>\n<p>王斯捷：https://www.zhihu.com/people/sijie</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>这期我们请到了 Google Android TV 部门的交互设计师王斯捷来我们的节目作客。</p>\n<br />\n<p>节目大纲</p>\n<p>在Google上海办公室工作是怎样的体验？</p>\n<p>远程协作、异地办公过程中设计师要注意什么</p>\n<p>如何为面向企业的复杂系统做设计</p>\n<p>怎么平衡企业级产品中的功能需求与界面美感</p>\n<p>什么样的用户体验研究员在产品团队中会有影响力</p>\n<p>做Android TV这样的平台型产品的设计和做普通的第三方产品设计有什么不同？</p>\n<p>如何使用Git帮助设计团队进行协作？</p>\n<br />\n<p>相关链接</p>\n<p>Hiroshi Ishii：http://tangible.media.mit.edu/person/hiroshi-ishii/</p>\n<p>School of Interactive Arts and Technology - Simon Fraser University：http://www.sfu.ca/siat.html</p>\n<p>Google 上海：https://www.google.com/intl/en/about/careers/locations/shanghai/</p>\n<p>Android TV：https://www.android.com/tv/</p>\n<p>TV Design Principles：https://www.google.com/design/spec-tv/design-principles/creative-vision.html#creative-vision-shared-context</p>\n<p>Chromecast：https://www.google.com/intl/enus/chromecast/?utmsource=chromecast.com</p>\n<p>知乎回答：设计团队如何通过PS或者其他软件/平台 进行团队协同作业？：https://www.zhihu.com/question/24797209/answer/30063604</p>\n<p>Git：https://git-scm.com/</p>\n<p>知乎回答：在美国面试 Product/ Interaction/ UX designer 的经历是怎样的？</p>\n<p>https://www.zhihu.com/question/48057735/answer/109065625</p>\n<p>Design Details by Brian Lovin：http://www.brianlovin.com/design-details</p>\n<p>王斯捷：https://www.zhihu.com/people/sijie</p>"
+        }
+    ],
+    "published": "Mon, 22 Aug 2016 05:09:00 +0000",
+    "published_parsed": [
+        2016,
+        8,
+        22,
+        5,
+        9,
+        0,
+        0,
+        235,
+        0
+    ]
+}

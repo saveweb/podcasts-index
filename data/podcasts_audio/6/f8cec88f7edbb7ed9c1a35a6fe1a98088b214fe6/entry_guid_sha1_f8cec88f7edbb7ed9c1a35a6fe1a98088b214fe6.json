@@ -1,0 +1,107 @@
+{
+    "title": "Episode 5: 少年，你掉的是这个空格缩进，还是这个 Tab 缩进？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Episode 5: 少年，你掉的是这个空格缩进，还是这个 Tab 缩进？"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/5"
+        },
+        {
+            "length": "32922326",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/69afb25f-9d9c-40c5-91d6-995c5d73a7df.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/5",
+    "id": "69afb25f-9d9c-40c5-91d6-995c5d73a7df",
+    "guidislink": false,
+    "published": "Fri, 15 Oct 2021 15:00:00 +0800",
+    "published_parsed": [
+        2021,
+        10,
+        15,
+        7,
+        0,
+        0,
+        4,
+        288,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "从这期开始，我们拥有新的固定栏目：开源项目与文章摘要（暂定）；之后我们将大家写代码时的习惯、工具等等都拿了出来，看看究竟哪种最好用。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "从这期开始，我们拥有新的固定栏目：开源项目与文章摘要（暂定）；之后我们将大家写代码时的习惯、工具等等都拿了出来，看看究竟哪种最好用。"
+    },
+    "itunes_duration": "1:07:46",
+    "itunes_explicit": null,
+    "summary": "<p>时隔两个月的更新，我们迎来新的 <a href=\"https://www.echojspodcast.com\" rel=\"nofollow\">官网</a>、新的 <a href=\"https://www.echojspodcast.com/member\" rel=\"nofollow\">会员计划</a> 和新的话题。从这期开始，我们拥有新的固定栏目：开源项目与文章摘要（暂定）；之后我们将大家写代码时的习惯、工具等等都拿了出来，看看究竟哪种最好用。</p>\n\n<h3>节目索引</h3>\n\n<ul>\n<li>00:00 开场</li>\n<li>00:22 厚脸皮地来说说这两个月里的公告</li>\n<li>03:20 新固定栏目：开源项目与文章摘要</li>\n<li>15:53 大乱斗话题的由来</li>\n<li>18:01 代码习惯大比拼</li>\n<li>35:57 有 Lint，当然少不了 Linter</li>\n<li>41:31 说脚到手架，两位 JS 程序员可就不困了</li>\n<li>49:05  终于开始聊编辑器</li>\n<li>01:01:16 最后来聊聊 GitHub Copilot</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li>06:07 - <a href=\"https://wekan.github.io/\" rel=\"nofollow\">WeKan 开源看板工具</a></li>\n<li>07:42 - <a href=\"https://draw.io\" rel=\"nofollow\">draw.io</a></li>\n<li>08:50 - <a href=\"https://github.com/zxhm001/DataDraw\" rel=\"nofollow\">数据绘 开源绘图工具</a></li>\n<li>12:25 - <a href=\"https://jakearchibald.com/2021/cors/\" rel=\"nofollow\">How to win on CORS</a>：CORS 跨域限制机制是怎么来的，到底该怎么解决？</li>\n<li>19:05 - <a href=\"https://zh.wikipedia.org/wiki/%E8%A3%BD%E8%A1%A8%E9%8D%B5\" rel=\"nofollow\">维基百科中对「制表键」的定义</a>：键盘上俗称的 Tab 键正式名称叫「制表键」（tabulator key），它可以提供最大 4 长度（有些是 8 或是其他长度）的可变长度空格，在需要跨行进行列对齐（制表等场景）时非常好用而得名。白羊说「Tab 键本身就是做这种事的」是这个原因。</li>\n<li>25:55 - <a href=\"https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/\" rel=\"nofollow\">JavaScript Map, Reduce, and Filter - JS Array Functions Explained with Code Examples</a>：JavaScript 中操作数组常用的 map、reduce 和 filter 三个函数的解释。</li>\n<li>29:26 - <a href=\"https://www.purescript.org/\" rel=\"nofollow\">PureScript</a></li>\n<li>30:17 - <a href=\"https://www.echojspodcast.com/2\" rel=\"nofollow\">中文编程了解一下</a>：我台以「在编程中使用中文」为话题的一期节目。</li>\n<li>36:22 - <a href=\"https://editorconfig.org/\" rel=\"nofollow\">EditorConfig</a></li>\n<li>41:37 - <a href=\"https://cli.vuejs.org/\" rel=\"nofollow\">Vue CLI</a></li>\n<li>41:50 - <a href=\"https://create-react-app.dev/\" rel=\"nofollow\">Create React App</a>：两位主播都忘记叫什么名字的 React 脚手架。</li>\n<li>44:07 - <a href=\"https://www.webpackjs.com/\" rel=\"nofollow\">WebPack</a></li>\n<li>44:12 - <a href=\"https://nextjs.org/\" rel=\"nofollow\">Next.js</a>（React）和 <a href=\"https://nuxtjs.org/\" rel=\"nofollow\">Nuxt.js</a>（Vue.js） </li>\n<li>47:16 - <a href=\"https://parceljs.org/\" rel=\"nofollow\">Parcel</a></li>\n<li>01:01:16 - <a href=\"https://copilot.github.com/\" rel=\"nofollow\">GitHub Copilot</a></li>\n<li>01:02:37 - <a href=\"https://opensource.org/copilotimpact\" rel=\"nofollow\">What does Copilot Mean for Open Source</a>：开源组织在 GitHub Copilot 推出之后针对 AI 补全代码的合法性发文。</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a>、<a href=\"https://twitter.com/twitter\" rel=\"nofollow\">Twitter</a></p>\n\n<h3>COPYRIGHT DISCLIMER</h3>\n\n<p><strong>开场/尾声音乐：</strong></p>\n\n<p>Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]<br />\nMusic provided by NoCopyrightSounds.<br />\nWatch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a><br />\nFree Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></p>\n\n<p>Play the Flappy Duck game: <a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></p>\n\n<p><strong>奏间音乐：</strong></p>\n\n<p>来自北京干燥文化传媒有限公司。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<p>时隔两个月的更新，我们迎来新的 <a href=\"https://www.echojspodcast.com\" rel=\"nofollow\">官网</a>、新的 <a href=\"https://www.echojspodcast.com/member\" rel=\"nofollow\">会员计划</a> 和新的话题。从这期开始，我们拥有新的固定栏目：开源项目与文章摘要（暂定）；之后我们将大家写代码时的习惯、工具等等都拿了出来，看看究竟哪种最好用。</p>\n\n<h3>节目索引</h3>\n\n<ul>\n<li>00:00 开场</li>\n<li>00:22 厚脸皮地来说说这两个月里的公告</li>\n<li>03:20 新固定栏目：开源项目与文章摘要</li>\n<li>15:53 大乱斗话题的由来</li>\n<li>18:01 代码习惯大比拼</li>\n<li>35:57 有 Lint，当然少不了 Linter</li>\n<li>41:31 说脚到手架，两位 JS 程序员可就不困了</li>\n<li>49:05  终于开始聊编辑器</li>\n<li>01:01:16 最后来聊聊 GitHub Copilot</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li>06:07 - <a href=\"https://wekan.github.io/\" rel=\"nofollow\">WeKan 开源看板工具</a></li>\n<li>07:42 - <a href=\"https://draw.io\" rel=\"nofollow\">draw.io</a></li>\n<li>08:50 - <a href=\"https://github.com/zxhm001/DataDraw\" rel=\"nofollow\">数据绘 开源绘图工具</a></li>\n<li>12:25 - <a href=\"https://jakearchibald.com/2021/cors/\" rel=\"nofollow\">How to win on CORS</a>：CORS 跨域限制机制是怎么来的，到底该怎么解决？</li>\n<li>19:05 - <a href=\"https://zh.wikipedia.org/wiki/%E8%A3%BD%E8%A1%A8%E9%8D%B5\" rel=\"nofollow\">维基百科中对「制表键」的定义</a>：键盘上俗称的 Tab 键正式名称叫「制表键」（tabulator key），它可以提供最大 4 长度（有些是 8 或是其他长度）的可变长度空格，在需要跨行进行列对齐（制表等场景）时非常好用而得名。白羊说「Tab 键本身就是做这种事的」是这个原因。</li>\n<li>25:55 - <a href=\"https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/\" rel=\"nofollow\">JavaScript Map, Reduce, and Filter - JS Array Functions Explained with Code Examples</a>：JavaScript 中操作数组常用的 map、reduce 和 filter 三个函数的解释。</li>\n<li>29:26 - <a href=\"https://www.purescript.org/\" rel=\"nofollow\">PureScript</a></li>\n<li>30:17 - <a href=\"https://www.echojspodcast.com/2\" rel=\"nofollow\">中文编程了解一下</a>：我台以「在编程中使用中文」为话题的一期节目。</li>\n<li>36:22 - <a href=\"https://editorconfig.org/\" rel=\"nofollow\">EditorConfig</a></li>\n<li>41:37 - <a href=\"https://cli.vuejs.org/\" rel=\"nofollow\">Vue CLI</a></li>\n<li>41:50 - <a href=\"https://create-react-app.dev/\" rel=\"nofollow\">Create React App</a>：两位主播都忘记叫什么名字的 React 脚手架。</li>\n<li>44:07 - <a href=\"https://www.webpackjs.com/\" rel=\"nofollow\">WebPack</a></li>\n<li>44:12 - <a href=\"https://nextjs.org/\" rel=\"nofollow\">Next.js</a>（React）和 <a href=\"https://nuxtjs.org/\" rel=\"nofollow\">Nuxt.js</a>（Vue.js） </li>\n<li>47:16 - <a href=\"https://parceljs.org/\" rel=\"nofollow\">Parcel</a></li>\n<li>01:01:16 - <a href=\"https://copilot.github.com/\" rel=\"nofollow\">GitHub Copilot</a></li>\n<li>01:02:37 - <a href=\"https://opensource.org/copilotimpact\" rel=\"nofollow\">What does Copilot Mean for Open Source</a>：开源组织在 GitHub Copilot 推出之后针对 AI 补全代码的合法性发文。</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a>、<a href=\"https://twitter.com/twitter\" rel=\"nofollow\">Twitter</a></p>\n\n<h3>COPYRIGHT DISCLIMER</h3>\n\n<p><strong>开场/尾声音乐：</strong></p>\n\n<p>Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]<br />\nMusic provided by NoCopyrightSounds.<br />\nWatch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a><br />\nFree Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></p>\n\n<p>Play the Flappy Duck game: <a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></p>\n\n<p><strong>奏间音乐：</strong></p>\n\n<p>来自北京干燥文化传媒有限公司。</p>"
+    },
+    "tags": [
+        {
+            "term": "lint",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "编程习惯",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "GitHub Copilot",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "前端开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<p>时隔两个月的更新，我们迎来新的 <a href=\"https://www.echojspodcast.com\" rel=\"nofollow\">官网</a>、新的 <a href=\"https://www.echojspodcast.com/member\" rel=\"nofollow\">会员计划</a> 和新的话题。从这期开始，我们拥有新的固定栏目：开源项目与文章摘要（暂定）；之后我们将大家写代码时的习惯、工具等等都拿了出来，看看究竟哪种最好用。</p>\n\n<h3>节目索引</h3>\n\n<ul>\n<li>00:00 开场</li>\n<li>00:22 厚脸皮地来说说这两个月里的公告</li>\n<li>03:20 新固定栏目：开源项目与文章摘要</li>\n<li>15:53 大乱斗话题的由来</li>\n<li>18:01 代码习惯大比拼</li>\n<li>35:57 有 Lint，当然少不了 Linter</li>\n<li>41:31 说脚到手架，两位 JS 程序员可就不困了</li>\n<li>49:05  终于开始聊编辑器</li>\n<li>01:01:16 最后来聊聊 GitHub Copilot</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li>06:07 - <a href=\"https://wekan.github.io/\" rel=\"nofollow\">WeKan 开源看板工具</a></li>\n<li>07:42 - <a href=\"https://draw.io\" rel=\"nofollow\">draw.io</a></li>\n<li>08:50 - <a href=\"https://github.com/zxhm001/DataDraw\" rel=\"nofollow\">数据绘 开源绘图工具</a></li>\n<li>12:25 - <a href=\"https://jakearchibald.com/2021/cors/\" rel=\"nofollow\">How to win on CORS</a>：CORS 跨域限制机制是怎么来的，到底该怎么解决？</li>\n<li>19:05 - <a href=\"https://zh.wikipedia.org/wiki/%E8%A3%BD%E8%A1%A8%E9%8D%B5\" rel=\"nofollow\">维基百科中对「制表键」的定义</a>：键盘上俗称的 Tab 键正式名称叫「制表键」（tabulator key），它可以提供最大 4 长度（有些是 8 或是其他长度）的可变长度空格，在需要跨行进行列对齐（制表等场景）时非常好用而得名。白羊说「Tab 键本身就是做这种事的」是这个原因。</li>\n<li>25:55 - <a href=\"https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/\" rel=\"nofollow\">JavaScript Map, Reduce, and Filter - JS Array Functions Explained with Code Examples</a>：JavaScript 中操作数组常用的 map、reduce 和 filter 三个函数的解释。</li>\n<li>29:26 - <a href=\"https://www.purescript.org/\" rel=\"nofollow\">PureScript</a></li>\n<li>30:17 - <a href=\"https://www.echojspodcast.com/2\" rel=\"nofollow\">中文编程了解一下</a>：我台以「在编程中使用中文」为话题的一期节目。</li>\n<li>36:22 - <a href=\"https://editorconfig.org/\" rel=\"nofollow\">EditorConfig</a></li>\n<li>41:37 - <a href=\"https://cli.vuejs.org/\" rel=\"nofollow\">Vue CLI</a></li>\n<li>41:50 - <a href=\"https://create-react-app.dev/\" rel=\"nofollow\">Create React App</a>：两位主播都忘记叫什么名字的 React 脚手架。</li>\n<li>44:07 - <a href=\"https://www.webpackjs.com/\" rel=\"nofollow\">WebPack</a></li>\n<li>44:12 - <a href=\"https://nextjs.org/\" rel=\"nofollow\">Next.js</a>（React）和 <a href=\"https://nuxtjs.org/\" rel=\"nofollow\">Nuxt.js</a>（Vue.js） </li>\n<li>47:16 - <a href=\"https://parceljs.org/\" rel=\"nofollow\">Parcel</a></li>\n<li>01:01:16 - <a href=\"https://copilot.github.com/\" rel=\"nofollow\">GitHub Copilot</a></li>\n<li>01:02:37 - <a href=\"https://opensource.org/copilotimpact\" rel=\"nofollow\">What does Copilot Mean for Open Source</a>：开源组织在 GitHub Copilot 推出之后针对 AI 补全代码的合法性发文。</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a>、<a href=\"https://twitter.com/twitter\" rel=\"nofollow\">Twitter</a></p>\n\n<h3>COPYRIGHT DISCLIMER</h3>\n\n<p><strong>开场/尾声音乐：</strong></p>\n\n<p>Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]<br />\nMusic provided by NoCopyrightSounds.<br />\nWatch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a><br />\nFree Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></p>\n\n<p>Play the Flappy Duck game: <a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></p>\n\n<p><strong>奏间音乐：</strong></p>\n\n<p>来自北京干燥文化传媒有限公司。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+v_EQeQjX",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+v_EQeQjX\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_chapters": {
+        "url": "https://feeds.fireside.fm/echojs/json/episodes/69afb25f-9d9c-40c5-91d6-995c5d73a7df/chapters",
+        "type": "application/json"
+    },
+    "podcast_person": {
+        "email": "",
+        "href": "https://astrianzheng.cn",
+        "role": "host"
+    }
+}

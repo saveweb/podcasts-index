@@ -1,0 +1,73 @@
+{
+    "links": [
+        {
+            "length": "33915110",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo1NSwiZSI6MzE5OCwicCI6MiwidSI6IjcyMDkubXAzIn0.kE6vWM4sMGmLbLsWQ6mK2AIdPTk/yitianshijie/z_34f7e396c415fd4eca6b5adb55fe7209.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://yitianshijie.net/episodes/50"
+        }
+    ],
+    "title": "Episode 50: 华夷变态与文化挪用",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": "Episode 50: 华夷变态与文化挪用"
+    },
+    "id": "https://yitianshijie.net/episodes/50",
+    "guidislink": true,
+    "link": "https://yitianshijie.net/episodes/50",
+    "authors": [
+        {
+            "name": "不鳥萬如一"
+        }
+    ],
+    "author": "不鳥萬如一",
+    "author_detail": {
+        "name": "不鳥萬如一"
+    },
+    "itunes_duration": "46:57",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "image": {
+        "href": "https://i.typlog.com/yitianshijie/z_e5fa02ebcf65e63f29fcd446d8ca765f.png?x-oss-process=style/sl"
+    },
+    "summary": "",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": ""
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        }
+    ],
+    "published": "Mon, 13 Mar 2017 15:00:00 +0000",
+    "published_parsed": [
+        2017,
+        3,
+        13,
+        15,
+        0,
+        0,
+        0,
+        72,
+        0
+    ]
+}

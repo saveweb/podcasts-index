@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "123887602",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2NzIwLCJwIjoyLCJ1IjoiMTdiMy5tcDMifQ.SS3FsAht0Z7lrvMAb-nffD2NH3w/nicktalk-new/z_083737400dfd8a657284a5b6580d17b3.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/41"
+        }
+    ],
+    "title": "NTP #41 春晚大吐槽二〇一八",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #41 春晚大吐槽二〇一八"
+    },
+    "id": "http://nicktalk.com/episodes/41",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/41",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "NTP 的經典年度節目回歸。Nick、付付、寶兒、阿亮四位重聚一堂，一起暢聊二〇一八年央視春晚。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP 的經典年度節目回歸。Nick、付付、寶兒、阿亮四位重聚一堂，一起暢聊二〇一八年央視春晚。"
+    },
+    "itunes_duration": "1:26:00",
+    "itunes_explicit": null,
+    "itunes_episode": "41",
+    "podcast_episode": "41",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_1a4f81f603924632d546743fd4c2f643.jpg?x-oss-process=style/sl"
+    },
+    "summary": "NTP 的經典年度節目回歸。Nick、付付、寶兒、阿亮四位重聚一堂，一起暢聊二零一八年央視春晚。人物介绍 張奕源 Nick：NickTalk Podcast 主播 付付：科技界的老學生 寶兒：漂移的寶兒 阿亮：劉朴（piáo）",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP 的經典年度節目回歸。Nick、付付、寶兒、阿亮四位重聚一堂，一起暢聊二零一八年央視春晚。人物介绍 張奕源 Nick：NickTalk Podcast 主播 付付：科技界的老學生 寶兒：漂移的寶兒 阿亮：劉朴（piáo）"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>NTP 的經典年度節目回歸。Nick、付付、寶兒、阿亮四位重聚一堂，一起暢聊二零一八年央視春晚。<br /><strong>人物介绍</strong><ul></p>\n<li>張奕源 Nick：NickTalk Podcast 主播</li>\n<li>付付：科技界的老學生</li>\n<li>寶兒：漂移的寶兒</li>\n<li>阿亮：劉朴（piáo）</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>NTP 的經典年度節目回歸。Nick、付付、寶兒、阿亮四位重聚一堂，一起暢聊二零一八年央視春晚。<br /><strong>人物介绍</strong><ul></p>\n<li>張奕源 Nick：NickTalk Podcast 主播</li>\n<li>付付：科技界的老學生</li>\n<li>寶兒：漂移的寶兒</li>\n<li>阿亮：劉朴（piáo）</li>\n</ul>"
+        }
+    ],
+    "published": "Mon, 19 Feb 2018 04:00:00 +0000",
+    "published_parsed": [
+        2018,
+        2,
+        19,
+        4,
+        0,
+        0,
+        0,
+        50,
+        0
+    ]
+}

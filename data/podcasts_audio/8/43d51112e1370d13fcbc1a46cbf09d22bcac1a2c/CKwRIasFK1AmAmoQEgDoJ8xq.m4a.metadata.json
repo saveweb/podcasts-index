@@ -1,0 +1,44 @@
+{
+    "http-content-length": 40505362,
+    "http-etag": "aaef755e24215a7093d0f72bd196d71c-8",
+    "http-last-modified": "Thu, 30 Sep 2021 10:10:46 GMT",
+    "http-last-modified-float": 1632967846.0,
+    "http-content-type": "audio/mp4",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 40505362,
+    "actual-duration": 5003,
+    "sha1": "650131eea461d3fd48aab1397921136aaedab9fa",
+    "md5": "81364cc36009601b7fb0fa6fb98d848f",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://aod.cos.tx.xmcdn.com/storages/b65c-audiofreehighqps/F9/E8/CKwRIasFK1AmAmoQEgDoJ8xq.m4a",
+            "headers": {
+                "Date": "Wed, 05 Apr 2023 15:04:41 GMT",
+                "Content-Type": "audio/mp4",
+                "Content-Length": "40505362",
+                "Connection": "keep-alive",
+                "Server": "openresty",
+                "Etag": "\"aaef755e24215a7093d0f72bd196d71c-8\"",
+                "x-cos-hash-crc64ecma": "4094737506531909452",
+                "x-cos-meta-md5": "81364cc36009601b7fb0fa6fb98d848f",
+                "x-cos-request-id": "NjM1MTcxNmFfOThhZmFmMDlfYmExX2EwYTU2Mg==",
+                "x-cos-version-id": "MTg0NDUxMTEwNzcwNjM0MTU1NjI",
+                "X-Cache-Lookup": "Cache Hit, Cache Miss, Hit From Upstream Cluster, Hit From Inner Cluster",
+                "Last-Modified": "Thu, 30 Sep 2021 10:10:46 GMT",
+                "X-NWS-LOG-UUID": "11126974408991772783",
+                "X-CCDN-Expires": "2588927",
+                "via": "CHN-CQ-AREACMCC1-CACHE9[130],CHN-CQ-AREACMCC1-CACHE9[92,TCP_MISS,128],CHN-GDdongguan-GLOBAL1-CACHE15[26],CHN-GDdongguan-GLOBAL1-CACHE9[0,TCP_HIT,23]",
+                "x-hcs-proxy-type": "1",
+                "X-CCDN-CacheTTL": "2592000",
+                "Age": "1",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Expose-Headers": "*",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,POST,OPTIONS",
+                "Access-Control-Max-Age": "600"
+            }
+        }
+    }
+}

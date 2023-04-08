@@ -1,0 +1,34 @@
+{
+    "http-content-length": 38700943,
+    "http-etag": "cf9a9a38a056926c956433d5abc2b2ea-5",
+    "http-last-modified": "Tue, 25 May 2021 23:41:39 GMT",
+    "http-last-modified-float": 1621957299.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 38700943,
+    "actual-duration": 4822,
+    "sha1": "cfff57f505fb5d6974f2ecc4eae89a40da7f98cd",
+    "md5": "68d250be3dabbf3ef4351493a1b386ff",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/sre.mp3",
+            "headers": {
+                "Etag": "\"cf9a9a38a056926c956433d5abc2b2ea-5\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:47:25 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Tue, 25 May 2021 23:41:39 GMT",
+                "Content-Length": "38700943",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "17393076117651590611",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

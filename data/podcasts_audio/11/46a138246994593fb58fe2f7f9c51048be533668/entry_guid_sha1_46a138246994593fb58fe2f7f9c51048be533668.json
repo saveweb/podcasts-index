@@ -1,0 +1,90 @@
+{
+    "title": "聊聊软件本地化",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "聊聊软件本地化"
+    },
+    "itunes_episode": "30",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "81323074",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/30.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 7 May 2019 07:40:00 CDT",
+    "published_parsed": [
+        2019,
+        5,
+        7,
+        12,
+        40,
+        0,
+        1,
+        127,
+        0
+    ],
+    "summary": "<p>这期请了一位老大哥，（可能是）新中国的第一批程序员，赵杰赵哥。赵哥从事软件本地化行业已经超过 20 年，在这期节目中和大家好好讲讲本地化那些事儿。</p>\n\n<p>一般大家认为本地化就是翻译，实际上并不准确。目前语言服务行业使用的分类是 GILT，也就是全球化（Globalization）、国际化（Internationalization）、本地化（Localization）和翻译（Translation）。</p>\n\n<p>GILT 四个层次具体指什么？软件本地化具体是什么流程？目前存在哪些难点？作为开发者可以做什么准备？听完这期，相信大家和我一样，会对本地化有更深入的了解。</p>\n\n<p>虽然标题很严肃，但是 ggtalk 最核心的“有趣”绝对不能少。行业内关于手势和产品名的趣事，IBM 被销毁的几万份光盘，九十年代本地化行业有多赚钱，暴雪游戏的翻译难题。希望大家听得开心。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>翻译协作平台：Transifex，Smartling，Crowdin</li>\n<li>赵哥的公司：博芬（http://www.boffin.com/）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:40  个人介绍</li>\n<li>06:07  本地化到底是什么</li>\n<li>25:58  本地化行业的过去和现在</li>\n<li>40:56  本地化的具体流程和用到的工具</li>\n<li>52:55  对机器翻译的看法</li>\n<li>01:06:32  本地化行业目前存在的问题和难点</li>\n<li>01:14:56  如何在开发过程中为本地化做好准备</li>\n<li>01:23:02  最后还有什么想说</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>这期请了一位老大哥，（可能是）新中国的第一批程序员，赵杰赵哥。赵哥从事软件本地化行业已经超过 20 年，在这期节目中和大家好好讲讲本地化那些事儿。</p>\n\n<p>一般大家认为本地化就是翻译，实际上并不准确。目前语言服务行业使用的分类是 GILT，也就是全球化（Globalization）、国际化（Internationalization）、本地化（Localization）和翻译（Translation）。</p>\n\n<p>GILT 四个层次具体指什么？软件本地化具体是什么流程？目前存在哪些难点？作为开发者可以做什么准备？听完这期，相信大家和我一样，会对本地化有更深入的了解。</p>\n\n<p>虽然标题很严肃，但是 ggtalk 最核心的“有趣”绝对不能少。行业内关于手势和产品名的趣事，IBM 被销毁的几万份光盘，九十年代本地化行业有多赚钱，暴雪游戏的翻译难题。希望大家听得开心。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>翻译协作平台：Transifex，Smartling，Crowdin</li>\n<li>赵哥的公司：博芬（http://www.boffin.com/）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:40  个人介绍</li>\n<li>06:07  本地化到底是什么</li>\n<li>25:58  本地化行业的过去和现在</li>\n<li>40:56  本地化的具体流程和用到的工具</li>\n<li>52:55  对机器翻译的看法</li>\n<li>01:06:32  本地化行业目前存在的问题和难点</li>\n<li>01:14:56  如何在开发过程中为本地化做好准备</li>\n<li>01:23:02  最后还有什么想说</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/30.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:24:42",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n这期请了一位老大哥，（可能是）新中国的第一批程序员，赵杰赵哥。赵哥从事软件本地化行业已经超过 20 年，在这期节目中和大家好好讲讲本地化那些事儿。</p>\n\n<p>一般大家认为本地化就是翻译，实际上并不准确。目前语言服务行业使用的分类是 GILT，也就是全球化（Globalization）、国际化（Internationalization）、本地化（Localization）和翻译（Translation）。</p>\n\n<p>GILT 四个层次具体指什么？软件本地化具体是什么流程？目前存在哪些难点？作为开发者可以做什么准备？听完这期，相信大家和我一样，会对本地化有更深入的了解。</p>\n\n<p>虽然标题很严肃，但是 ggtalk 最核心的“有趣”绝对不能少。行业内关于手势和产品名的趣事，IBM 被销毁的几万份光盘，九十年代本地化行业有多赚钱，暴雪游戏的翻译难题。希望大家听得开心。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>翻译协作平台：Transifex，Smartling，Crowdin</li>\n<li>赵哥的公司：博芬（http://www.boffin.com/）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:40  个人介绍</li>\n<li>06:07  本地化到底是什么</li>\n<li>25:58  本地化行业的过去和现在</li>\n<li>40:56  本地化的具体流程和用到的工具</li>\n<li>52:55  对机器翻译的看法</li>\n<li>01:06:32  本地化行业目前存在的问题和难点</li>\n<li>01:14:56  如何在开发过程中为本地化做好准备</li>\n<li>01:23:02  最后还有什么想说</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "软件本地化",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

@@ -1,0 +1,103 @@
+{
+    "title": "#4 - 和张韧博士聊聊 MimbleWimble",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#4 - 和张韧博士聊聊 MimbleWimble"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/4"
+        },
+        {
+            "length": "30633609",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/5ff6a43a-cce5-4e9e-b3eb-c941e2ad9d1e.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/4",
+    "id": "5ff6a43a-cce5-4e9e-b3eb-c941e2ad9d1e",
+    "guidislink": false,
+    "published": "Sun, 03 Feb 2019 10:00:00 +0800",
+    "published_parsed": [
+        2019,
+        2,
+        3,
+        2,
+        0,
+        0,
+        6,
+        34,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "在本期节目中，张韧将 MimbleWimble 拆分成了 Confidential Transaction、Coin Join、 OWAS 三部分进行阐述，期间他还解释了一些外界对 MimbleWimble 的误解，非常硬核。最后还有张韧博士对个人经历的分享，非常有趣，你一定不能错过哦～",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "在本期节目中，张韧将 MimbleWimble 拆分成了 Confidential Transaction、Coin Join、 OWAS 三部分进行阐述，期间他还解释了一些外界对 MimbleWimble 的误解，非常硬核。最后还有张韧博士对个人经历的分享，非常有趣，你一定不能错过哦～"
+    },
+    "itunes_duration": "1:03:48",
+    "itunes_explicit": null,
+    "summary": "<p>本期 Fork It 我们有幸请到了鲁汶大学 COSIC 实验室博士生<a href=\"https://twitter.com/nirenzang\" rel=\"nofollow\">张韧</a>来和我们聊聊 MimbleWimble，在本期 Fork It 中，张韧将 MimbleWimble 拆分成了 Confidential Transaction、Coin Join、 OWAS 三部分进行阐述，非常清晰，期间他解释了一些外界对  MimbleWimble 的误解，很具启发性。</p>\n\n<p>张韧还谈到了他 2013 年花了一年时间设计自己的 PoW 算法，但最终没有发文的遗憾，而这个遗憾背后的考虑也是 Grin 存在的最大的安全隐患，至于是什么，听听这一期 Fork It 就知道了。</p>\n\n<p>本期讨论到了比特币教父 Adam Back、修改并完善了 MimbleWimble 协议的 Andrew Poelstra、 和 IACR 的前任主席，RIPEMD-160 设计者 Bart Preneel 等在加密领域做出了杰出贡献的学者和开发者。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Show Notes</h3>\n\n<ul>\n<li><a href=\"https://twitter.com/nirenzang\" rel=\"nofollow\">张韧</a></li>\n<li><a href=\"https://www.kuleuven.be/lang/cn\" rel=\"nofollow\">鲁汶大学</a></li>\n<li><a href=\"https://blockstream.com/\" rel=\"nofollow\">BlockStream</a></li>\n<li><a href=\"https://github.com/apoelstra\" rel=\"nofollow\">Andrew Poelstra</a></li>\n<li><a href=\"https://twitter.com/adam3us\" rel=\"nofollow\">Adam Back</a></li>\n<li><a href=\"https://github.com/gmaxwell\" rel=\"nofollow\">Gregory Maxwell</a></li>\n<li><a href=\"https://twitter.com/pwuille\" rel=\"nofollow\">Pieter Wuille</a></li>\n<li><a href=\"https://twitter.com/benediktbuenz\" rel=\"nofollow\">Benedikt Bünz</a></li>\n<li><a href=\"https://homes.esat.kuleuven.be/%7Epreneel/\" rel=\"nofollow\">Bart Preneel</a></li>\n<li><a href=\"https://homes.esat.kuleuven.be/%7Ebosselae/ripemd160.html\" rel=\"nofollow\">RIPEMD-160</a></li>\n<li><a href=\"https://elementsproject.org/features/confidential-transactions/investigation\" rel=\"nofollow\">Gregory Maxwell 第一版 Range Proof 的研究成果</a></li>\n<li><a href=\"https://eprint.iacr.org/2017/1066.pdf\" rel=\"nofollow\">Benedikt Bünz 改进版 Range Proof 的论文</a></li>\n<li><a href=\"http://crypto101.io/\" rel=\"nofollow\">Crypto 101  Crypto101.io</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%8C%B6%E8%8F%8C\" rel=\"nofollow\">红茶菌</a> </li>\n<li><a href=\"https://item.jd.com/100002011999.html\" rel=\"nofollow\">索尼阅读器</a></li>\n<li><a href=\"http://item.jd.com/32150825611.html\" rel=\"nofollow\">深入浅出 Rust</a></li>\n</ul>\n\n<p><em>注：文中提到的 Roger Ver 实际为比特币耶稣</em></p>\n\n<h3>概念和公式</h3>\n\n<ul>\n<li><em>交易的输入和输出 Pedersen 承诺的格式是：</em>数额 x 生成元 1+ 盲化因子 x 生成元 2</li>\n<li><em>加法同态：</em>两个交易 Pedersen 承诺加起来 =（数额 1+ 数额 2）x 生成元 1+（盲化因子 1+盲化因子 2） x 生成元 2</li>\n<li><em>余项：</em>（交易输入的盲化因子之和—交易输出的盲化因子之和）x 生成元 2</li>\n<li><em>Range Proof：</em>范围证明，一个数字落在给定范围内的证明，而不会泄露数字</li>\n<li><em>Cut Through：</em>被使用过的交易输出可以被删除</li>\n<li><em>Kernel Excess：</em>用来确保等式平衡</li>\n<li><em>Kernel Offsets：</em>一个盲化因子，需要加到 Kernel Excess 当中用于验证等式平衡关系</li>\n</ul>\n\n<p><em>详细相关文档可参见</em>  <a href=\"https://github.com/mimblewimble/grin/blob/master/doc/intro.md\" rel=\"nofollow\">MimbleWimble and Grin</a></p><p>Special Guest: Ren Zhang.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>本期 Fork It 我们有幸请到了鲁汶大学 COSIC 实验室博士生<a href=\"https://twitter.com/nirenzang\" rel=\"nofollow\">张韧</a>来和我们聊聊 MimbleWimble，在本期 Fork It 中，张韧将 MimbleWimble 拆分成了 Confidential Transaction、Coin Join、 OWAS 三部分进行阐述，非常清晰，期间他解释了一些外界对  MimbleWimble 的误解，很具启发性。</p>\n\n<p>张韧还谈到了他 2013 年花了一年时间设计自己的 PoW 算法，但最终没有发文的遗憾，而这个遗憾背后的考虑也是 Grin 存在的最大的安全隐患，至于是什么，听听这一期 Fork It 就知道了。</p>\n\n<p>本期讨论到了比特币教父 Adam Back、修改并完善了 MimbleWimble 协议的 Andrew Poelstra、 和 IACR 的前任主席，RIPEMD-160 设计者 Bart Preneel 等在加密领域做出了杰出贡献的学者和开发者。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Show Notes</h3>\n\n<ul>\n<li><a href=\"https://twitter.com/nirenzang\" rel=\"nofollow\">张韧</a></li>\n<li><a href=\"https://www.kuleuven.be/lang/cn\" rel=\"nofollow\">鲁汶大学</a></li>\n<li><a href=\"https://blockstream.com/\" rel=\"nofollow\">BlockStream</a></li>\n<li><a href=\"https://github.com/apoelstra\" rel=\"nofollow\">Andrew Poelstra</a></li>\n<li><a href=\"https://twitter.com/adam3us\" rel=\"nofollow\">Adam Back</a></li>\n<li><a href=\"https://github.com/gmaxwell\" rel=\"nofollow\">Gregory Maxwell</a></li>\n<li><a href=\"https://twitter.com/pwuille\" rel=\"nofollow\">Pieter Wuille</a></li>\n<li><a href=\"https://twitter.com/benediktbuenz\" rel=\"nofollow\">Benedikt Bünz</a></li>\n<li><a href=\"https://homes.esat.kuleuven.be/%7Epreneel/\" rel=\"nofollow\">Bart Preneel</a></li>\n<li><a href=\"https://homes.esat.kuleuven.be/%7Ebosselae/ripemd160.html\" rel=\"nofollow\">RIPEMD-160</a></li>\n<li><a href=\"https://elementsproject.org/features/confidential-transactions/investigation\" rel=\"nofollow\">Gregory Maxwell 第一版 Range Proof 的研究成果</a></li>\n<li><a href=\"https://eprint.iacr.org/2017/1066.pdf\" rel=\"nofollow\">Benedikt Bünz 改进版 Range Proof 的论文</a></li>\n<li><a href=\"http://crypto101.io/\" rel=\"nofollow\">Crypto 101  Crypto101.io</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%8C%B6%E8%8F%8C\" rel=\"nofollow\">红茶菌</a> </li>\n<li><a href=\"https://item.jd.com/100002011999.html\" rel=\"nofollow\">索尼阅读器</a></li>\n<li><a href=\"http://item.jd.com/32150825611.html\" rel=\"nofollow\">深入浅出 Rust</a></li>\n</ul>\n\n<p><em>注：文中提到的 Roger Ver 实际为比特币耶稣</em></p>\n\n<h3>概念和公式</h3>\n\n<ul>\n<li><em>交易的输入和输出 Pedersen 承诺的格式是：</em>数额 x 生成元 1+ 盲化因子 x 生成元 2</li>\n<li><em>加法同态：</em>两个交易 Pedersen 承诺加起来 =（数额 1+ 数额 2）x 生成元 1+（盲化因子 1+盲化因子 2） x 生成元 2</li>\n<li><em>余项：</em>（交易输入的盲化因子之和—交易输出的盲化因子之和）x 生成元 2</li>\n<li><em>Range Proof：</em>范围证明，一个数字落在给定范围内的证明，而不会泄露数字</li>\n<li><em>Cut Through：</em>被使用过的交易输出可以被删除</li>\n<li><em>Kernel Excess：</em>用来确保等式平衡</li>\n<li><em>Kernel Offsets：</em>一个盲化因子，需要加到 Kernel Excess 当中用于验证等式平衡关系</li>\n</ul>\n\n<p><em>详细相关文档可参见</em>  <a href=\"https://github.com/mimblewimble/grin/blob/master/doc/intro.md\" rel=\"nofollow\">MimbleWimble and Grin</a></p><p>Special Guest: Ren Zhang.</p>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>本期 Fork It 我们有幸请到了鲁汶大学 COSIC 实验室博士生<a href=\"https://twitter.com/nirenzang\" rel=\"nofollow\">张韧</a>来和我们聊聊 MimbleWimble，在本期 Fork It 中，张韧将 MimbleWimble 拆分成了 Confidential Transaction、Coin Join、 OWAS 三部分进行阐述，非常清晰，期间他解释了一些外界对  MimbleWimble 的误解，很具启发性。</p>\n\n<p>张韧还谈到了他 2013 年花了一年时间设计自己的 PoW 算法，但最终没有发文的遗憾，而这个遗憾背后的考虑也是 Grin 存在的最大的安全隐患，至于是什么，听听这一期 Fork It 就知道了。</p>\n\n<p>本期讨论到了比特币教父 Adam Back、修改并完善了 MimbleWimble 协议的 Andrew Poelstra、 和 IACR 的前任主席，RIPEMD-160 设计者 Bart Preneel 等在加密领域做出了杰出贡献的学者和开发者。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Show Notes</h3>\n\n<ul>\n<li><a href=\"https://twitter.com/nirenzang\" rel=\"nofollow\">张韧</a></li>\n<li><a href=\"https://www.kuleuven.be/lang/cn\" rel=\"nofollow\">鲁汶大学</a></li>\n<li><a href=\"https://blockstream.com/\" rel=\"nofollow\">BlockStream</a></li>\n<li><a href=\"https://github.com/apoelstra\" rel=\"nofollow\">Andrew Poelstra</a></li>\n<li><a href=\"https://twitter.com/adam3us\" rel=\"nofollow\">Adam Back</a></li>\n<li><a href=\"https://github.com/gmaxwell\" rel=\"nofollow\">Gregory Maxwell</a></li>\n<li><a href=\"https://twitter.com/pwuille\" rel=\"nofollow\">Pieter Wuille</a></li>\n<li><a href=\"https://twitter.com/benediktbuenz\" rel=\"nofollow\">Benedikt Bünz</a></li>\n<li><a href=\"https://homes.esat.kuleuven.be/%7Epreneel/\" rel=\"nofollow\">Bart Preneel</a></li>\n<li><a href=\"https://homes.esat.kuleuven.be/%7Ebosselae/ripemd160.html\" rel=\"nofollow\">RIPEMD-160</a></li>\n<li><a href=\"https://elementsproject.org/features/confidential-transactions/investigation\" rel=\"nofollow\">Gregory Maxwell 第一版 Range Proof 的研究成果</a></li>\n<li><a href=\"https://eprint.iacr.org/2017/1066.pdf\" rel=\"nofollow\">Benedikt Bünz 改进版 Range Proof 的论文</a></li>\n<li><a href=\"http://crypto101.io/\" rel=\"nofollow\">Crypto 101  Crypto101.io</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%8C%B6%E8%8F%8C\" rel=\"nofollow\">红茶菌</a> </li>\n<li><a href=\"https://item.jd.com/100002011999.html\" rel=\"nofollow\">索尼阅读器</a></li>\n<li><a href=\"http://item.jd.com/32150825611.html\" rel=\"nofollow\">深入浅出 Rust</a></li>\n</ul>\n\n<p><em>注：文中提到的 Roger Ver 实际为比特币耶稣</em></p>\n\n<h3>概念和公式</h3>\n\n<ul>\n<li><em>交易的输入和输出 Pedersen 承诺的格式是：</em>数额 x 生成元 1+ 盲化因子 x 生成元 2</li>\n<li><em>加法同态：</em>两个交易 Pedersen 承诺加起来 =（数额 1+ 数额 2）x 生成元 1+（盲化因子 1+盲化因子 2） x 生成元 2</li>\n<li><em>余项：</em>（交易输入的盲化因子之和—交易输出的盲化因子之和）x 生成元 2</li>\n<li><em>Range Proof：</em>范围证明，一个数字落在给定范围内的证明，而不会泄露数字</li>\n<li><em>Cut Through：</em>被使用过的交易输出可以被删除</li>\n<li><em>Kernel Excess：</em>用来确保等式平衡</li>\n<li><em>Kernel Offsets：</em>一个盲化因子，需要加到 Kernel Excess 当中用于验证等式平衡关系</li>\n</ul>\n\n<p><em>详细相关文档可参见</em>  <a href=\"https://github.com/mimblewimble/grin/blob/master/doc/intro.md\" rel=\"nofollow\">MimbleWimble and Grin</a></p><p>Special Guest: Ren Zhang.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+JhLLx37V",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+JhLLx37V\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "guest"
+    }
+}

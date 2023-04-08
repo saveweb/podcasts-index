@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "54683174",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo2NjM5MSwicCI6MiwidSI6IjcwMjcubXAzIn0.w4HZkUXTgb-IXul8sl7PC8sA4AA/sspai/8322518884_507027.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/ep83"
+        }
+    ],
+    "title": "闲聊 Thunderbolt：雷电协议及外置显卡坞入坑指南",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "闲聊 Thunderbolt：雷电协议及外置显卡坞入坑指南"
+    },
+    "id": "https://sspai.typlog.io/episodes/ep83",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/ep83",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "关于雷电协议及相关设备的科普。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "关于雷电协议及相关设备的科普。"
+    },
+    "itunes_duration": "37:41",
+    "itunes_explicit": null,
+    "itunes_episode": "83",
+    "podcast_episode": "83",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8322518881_058191.jpg?x-oss-process=style/sl"
+    },
+    "summary": "最近，Nick 萌生了搞一部外置雷电（Thunderbolt）显卡坞的想法。在选购的过程中，Nick 遇到了一些技术上的小问题，于是向少数派编辑部里更熟悉 PC 硬体的同事广陵止息（林肯）求助。本期节目既是一次关于雷电协议及相关设备的科普，也是一次 Nick「求学」过程的纪录。 🥳 少数派出品、知名主播婉莹、甜食制作的播客入门教程《100 小时后请叫我播客主理人》已经上线，用通俗易懂的语言带你入门播客制作，轻松完成你的「第〇期」播客节目。 节目章节 00:00:31 开场，嘉宾打招呼 00:01:48 简单聊聊雷电协议是什么 00:05:31 Mac 可以使用外置显卡坞吗？ 00:08:29 外置显卡坞的性能表现和损耗 00:13:04 回顾一下雷电协议的发展过程 00:22:07 Apple 那根很贵的雷电线 00:24:45 雷电协议与 AMD、USB 4 等的兼容性问题 00:31:27 除了雷电之外，还有哪些显卡坞拓展方案 00:34:01 总结和入坑建议 拓展阅读 Thunderbolt PCIe 协议（PCI Express） Blackmagic 为 Mac 推出的显卡拓展坞 Apple 对于外接显卡坞的详细说明 IEEE 1394［Apple 设备上曾经用过的火线（FireWire）接口］ USB-IF 关于 PD 3.1 协议的描述 ExpressCard Mini PCIe Oculink 订阅《一派・Podcast》 节目 RSS 链接 Apple Podcasts 小宇宙 Spotify Google Podcasts 其它平台 人物介绍 张奕源 Nick：少数派编辑部成员，少数派播客主播 广陵止息（林肯）：少数派编辑部成员，《显示器选购及使用指南》作者 有任何想对我们说的、听我们聊的，都欢迎写信至 nick@sspai.com。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "最近，Nick 萌生了搞一部外置雷电（Thunderbolt）显卡坞的想法。在选购的过程中，Nick 遇到了一些技术上的小问题，于是向少数派编辑部里更熟悉 PC 硬体的同事广陵止息（林肯）求助。本期节目既是一次关于雷电协议及相关设备的科普，也是一次 Nick「求学」过程的纪录。 🥳 少数派出品、知名主播婉莹、甜食制作的播客入门教程《100 小时后请叫我播客主理人》已经上线，用通俗易懂的语言带你入门播客制作，轻松完成你的「第〇期」播客节目。 节目章节 00:00:31 开场，嘉宾打招呼 00:01:48 简单聊聊雷电协议是什么 00:05:31 Mac 可以使用外置显卡坞吗？ 00:08:29 外置显卡坞的性能表现和损耗 00:13:04 回顾一下雷电协议的发展过程 00:22:07 Apple 那根很贵的雷电线 00:24:45 雷电协议与 AMD、USB 4 等的兼容性问题 00:31:27 除了雷电之外，还有哪些显卡坞拓展方案 00:34:01 总结和入坑建议 拓展阅读 Thunderbolt PCIe 协议（PCI Express） Blackmagic 为 Mac 推出的显卡拓展坞 Apple 对于外接显卡坞的详细说明 IEEE 1394［Apple 设备上曾经用过的火线（FireWire）接口］ USB-IF 关于 PD 3.1 协议的描述 ExpressCard Mini PCIe Oculink 订阅《一派・Podcast》 节目 RSS 链接 Apple Podcasts 小宇宙 Spotify Google Podcasts 其它平台 人物介绍 张奕源 Nick：少数派编辑部成员，少数派播客主播 广陵止息（林肯）：少数派编辑部成员，《显示器选购及使用指南》作者 有任何想对我们说的、听我们聊的，都欢迎写信至 nick@sspai.com。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>最近，Nick 萌生了搞一部外置雷电（Thunderbolt）显卡坞的想法。在选购的过程中，Nick 遇到了一些技术上的小问题，于是向少数派编辑部里更熟悉 PC 硬体的同事广陵止息（林肯）求助。本期节目既是一次关于雷电协议及相关设备的科普，也是一次 Nick「求学」过程的纪录。</p>\n<p>🥳 少数派出品、知名主播婉莹、甜食制作的播客入门教程《<a href=\"https://sspai.com/series/280\">100 小时后请叫我播客主理人</a>》已经上线，用通俗易懂的语言带你入门播客制作，轻松完成你的「第〇期」播客节目。</p>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:31\">00:00:31</a> 开场，嘉宾打招呼</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:01:48\">00:01:48</a> 简单聊聊雷电协议是什么</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:05:31\">00:05:31</a> Mac 可以使用外置显卡坞吗？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:08:29\">00:08:29</a> 外置显卡坞的性能表现和损耗</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:13:04\">00:13:04</a> 回顾一下雷电协议的发展过程</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:22:07\">00:22:07</a> Apple 那根很贵的雷电线</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:24:45\">00:24:45</a> 雷电协议与 AMD、USB 4 等的兼容性问题</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:31:27\">00:31:27</a> 除了雷电之外，还有哪些显卡坞拓展方案</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:34:01\">00:34:01</a> 总结和入坑建议</li>\n</ul>\n<h2>拓展阅读</h2>\n<ul>\n<li><a href=\"https://www.intel.com/content/www/us/en/architecture-and-technology/thunderbolt/overview.html\">Thunderbolt</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/PCI_Express\">PCIe 协议</a>（PCI Express）</li>\n<li><a href=\"https://www.blackmagicdesign.com/media/release/20180712-01\">Blackmagic 为 Mac 推出的显卡拓展坞</a></li>\n<li><a href=\"https://support.apple.com/en-us/HT208544\">Apple 对于外接显卡坞的详细说明</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/IEEE_1394\">IEEE 1394</a>［Apple 设备上曾经用过的火线（FireWire）接口］</li>\n<li><a href=\"https://www.usb.org/usb-charger-pd\">USB-IF 关于 PD 3.1 协议的描述</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/ExpressCard\">ExpressCard</a></li>\n<li><a href=\"https://www.pcmag.com/encyclopedia/term/mini-pci-express\">Mini PCIe</a></li>\n<li><a href=\"https://blog.fosketts.net/2017/06/22/what-is-oculink/\">Oculink</a></li>\n</ul>\n<h2>订阅《一派・Podcast》</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml\">节目 RSS 链接</a></li>\n<li><a href=\"https://podcasts.apple.com/hk/podcast/%E4%B8%80%E6%B4%BE-podcast/id1483157529\">Apple Podcasts</a></li>\n<li><a href=\"https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567\">小宇宙</a></li>\n<li><a href=\"https://open.spotify.com/show/7pJ5EHWj7i5wQwqzY9kHr5\">Spotify</a></li>\n<li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9zc3BhaS50eXBsb2cuaW8vZmVlZC54bWw?hl=zh-TW\">Google Podcasts</a></li>\n<li><a href=\"https://pod.link/1483157529\">其它平台</a></li>\n</ul>\n<h2>人物介绍</h2>\n<ul>\n<li>张奕源 Nick：少数派编辑部成员，少数派播客主播</li>\n<li>广陵止息（林肯）：少数派编辑部成员，《显示器选购及使用指南》作者</li>\n</ul>\n<p>有任何想对我们说的、听我们聊的，都欢迎写信至 nick@sspai.com。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>最近，Nick 萌生了搞一部外置雷电（Thunderbolt）显卡坞的想法。在选购的过程中，Nick 遇到了一些技术上的小问题，于是向少数派编辑部里更熟悉 PC 硬体的同事广陵止息（林肯）求助。本期节目既是一次关于雷电协议及相关设备的科普，也是一次 Nick「求学」过程的纪录。</p>\n<p>🥳 少数派出品、知名主播婉莹、甜食制作的播客入门教程《<a href=\"https://sspai.com/series/280\">100 小时后请叫我播客主理人</a>》已经上线，用通俗易懂的语言带你入门播客制作，轻松完成你的「第〇期」播客节目。</p>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:31\">00:00:31</a> 开场，嘉宾打招呼</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:01:48\">00:01:48</a> 简单聊聊雷电协议是什么</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:05:31\">00:05:31</a> Mac 可以使用外置显卡坞吗？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:08:29\">00:08:29</a> 外置显卡坞的性能表现和损耗</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:13:04\">00:13:04</a> 回顾一下雷电协议的发展过程</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:22:07\">00:22:07</a> Apple 那根很贵的雷电线</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:24:45\">00:24:45</a> 雷电协议与 AMD、USB 4 等的兼容性问题</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:31:27\">00:31:27</a> 除了雷电之外，还有哪些显卡坞拓展方案</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:34:01\">00:34:01</a> 总结和入坑建议</li>\n</ul>\n<h2>拓展阅读</h2>\n<ul>\n<li><a href=\"https://www.intel.com/content/www/us/en/architecture-and-technology/thunderbolt/overview.html\">Thunderbolt</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/PCI_Express\">PCIe 协议</a>（PCI Express）</li>\n<li><a href=\"https://www.blackmagicdesign.com/media/release/20180712-01\">Blackmagic 为 Mac 推出的显卡拓展坞</a></li>\n<li><a href=\"https://support.apple.com/en-us/HT208544\">Apple 对于外接显卡坞的详细说明</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/IEEE_1394\">IEEE 1394</a>［Apple 设备上曾经用过的火线（FireWire）接口］</li>\n<li><a href=\"https://www.usb.org/usb-charger-pd\">USB-IF 关于 PD 3.1 协议的描述</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/ExpressCard\">ExpressCard</a></li>\n<li><a href=\"https://www.pcmag.com/encyclopedia/term/mini-pci-express\">Mini PCIe</a></li>\n<li><a href=\"https://blog.fosketts.net/2017/06/22/what-is-oculink/\">Oculink</a></li>\n</ul>\n<h2>订阅《一派・Podcast》</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml\">节目 RSS 链接</a></li>\n<li><a href=\"https://podcasts.apple.com/hk/podcast/%E4%B8%80%E6%B4%BE-podcast/id1483157529\">Apple Podcasts</a></li>\n<li><a href=\"https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567\">小宇宙</a></li>\n<li><a href=\"https://open.spotify.com/show/7pJ5EHWj7i5wQwqzY9kHr5\">Spotify</a></li>\n<li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9zc3BhaS50eXBsb2cuaW8vZmVlZC54bWw?hl=zh-TW\">Google Podcasts</a></li>\n<li><a href=\"https://pod.link/1483157529\">其它平台</a></li>\n</ul>\n<h2>人物介绍</h2>\n<ul>\n<li>张奕源 Nick：少数派编辑部成员，少数派播客主播</li>\n<li>广陵止息（林肯）：少数派编辑部成员，《显示器选购及使用指南》作者</li>\n</ul>\n<p>有任何想对我们说的、听我们聊的，都欢迎写信至 nick@sspai.com。</p>"
+        }
+    ],
+    "published": "Mon, 27 Feb 2023 07:19:49 +0000",
+    "published_parsed": [
+        2023,
+        2,
+        27,
+        7,
+        19,
+        49,
+        0,
+        58,
+        0
+    ]
+}

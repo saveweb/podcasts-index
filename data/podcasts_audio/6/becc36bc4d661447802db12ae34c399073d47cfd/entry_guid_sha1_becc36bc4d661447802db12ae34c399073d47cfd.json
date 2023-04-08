@@ -1,0 +1,116 @@
+{
+    "title": "Episode 6: 函数式编程，从入门到…… 算了，爱到哪到哪",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Episode 6: 函数式编程，从入门到…… 算了，爱到哪到哪"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/6"
+        },
+        {
+            "length": "40188784",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/cd9bf449-898d-4606-9ab4-06f8fbc5ddef.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/6",
+    "id": "cd9bf449-898d-4606-9ab4-06f8fbc5ddef",
+    "guidislink": false,
+    "published": "Tue, 07 Jun 2022 21:30:00 +0800",
+    "published_parsed": [
+        2022,
+        6,
+        7,
+        13,
+        30,
+        0,
+        1,
+        158,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "也许你偶尔会在各种场合听到这个词，那它究竟与传统的过程式、对象式编程有什么区别？这里的「函数」又与我们常见的函数有什么关系？它为什么又被许多人奉为全新且优秀的编程范式？",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "也许你偶尔会在各种场合听到这个词，那它究竟与传统的过程式、对象式编程有什么区别？这里的「函数」又与我们常见的函数有什么关系？它为什么又被许多人奉为全新且优秀的编程范式？"
+    },
+    "itunes_duration": "41:51",
+    "itunes_explicit": null,
+    "podcast_transcript": {
+        "url": "https://assets.fireside.fm/file/fireside-images/podcasts/transcripts/4/458aa6e3-247c-47f2-a842-c04667a8556e/episodes/c/cd9bf449-898d-4606-9ab4-06f8fbc5ddef/transcript.txt",
+        "type": "text/plain"
+    },
+    "summary": "<p>大哥大嫂新年好！时隔九个多月，我们终于复播了（老父亲的眼泪）。</p>\n\n<p>复播第一期的话题有些 hardcore：函数式编程。也许你偶尔会在各种场合听到这个词，那它究竟与传统的过程式、对象式编程有什么区别？这里的「函数」又与我们常见的函数有什么关系？它为什么又被许多人奉为全新且优秀的编程范式？</p>\n\n<p>当然，本期话题可以聊的东西实在是太多，本期节目姑且也是抛砖引玉。如果大家还希望我们来聊聊相关内容的话，欢迎留言告诉我们。</p>\n\n<h2>章节</h2>\n\n<ul>\n<li>00:00 开场寒暄</li>\n<li>02:16 何为函数式编程？</li>\n<li>16:35 与函数式编程有关的语言</li>\n<li>29:05 深入了解更多概念</li>\n<li>36:44 吟唱魔法</li>\n<li>40:53 尾声</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li>MesoTroniK（为 Echo.js 制作新的 intro / outro）的 <a href=\"https://soundcloud.com/mesotronik\" rel=\"nofollow\">SoundCloud 主页</a> 和 <a href=\"https://www.patreon.com/mesotronik\" rel=\"nofollow\">Patreon 主页</a>。</li>\n<li><a href=\"https://www.haskell.org/\" rel=\"nofollow\">Haskell</a>：函数式编程范式的「元汤化元食」之语言。</li>\n<li><a href=\"https://ramdajs.com/\" rel=\"nofollow\">Ramda</a>：在 JavaScript 中使用的函数式编程框架。</li>\n<li><a href=\"https://github.com/fantasyland/fantasy-land/\" rel=\"nofollow\">Fantasy Land Specification</a>：在 JavaScript 中实现函数式编程的规范。</li>\n<li><a href=\"https://www.purescript.org/\" rel=\"nofollow\">PureScript</a> 与 <a href=\"https://elm-lang.org/\" rel=\"nofollow\">Elm</a>：JavaScript 的超类，编写后可直接编译为 JavaScript 的语言。</li>\n<li><a href=\"https://github.com/lsby/ts_adt_tutorial/\" rel=\"nofollow\">白羊写的介绍 ADT 的文章</a>。</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>发到官网评论区</li>\n<li>来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li><a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p>\n\n<p><a href=\"https://www.jianguoyun.com/p/DcHdr0UQxabKChjpjsUEIAA\" rel=\"nofollow\">获取本期节目转写文稿 （PDF 格式）</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<p>大哥大嫂新年好！时隔九个多月，我们终于复播了（老父亲的眼泪）。</p>\n\n<p>复播第一期的话题有些 hardcore：函数式编程。也许你偶尔会在各种场合听到这个词，那它究竟与传统的过程式、对象式编程有什么区别？这里的「函数」又与我们常见的函数有什么关系？它为什么又被许多人奉为全新且优秀的编程范式？</p>\n\n<p>当然，本期话题可以聊的东西实在是太多，本期节目姑且也是抛砖引玉。如果大家还希望我们来聊聊相关内容的话，欢迎留言告诉我们。</p>\n\n<h2>章节</h2>\n\n<ul>\n<li>00:00 开场寒暄</li>\n<li>02:16 何为函数式编程？</li>\n<li>16:35 与函数式编程有关的语言</li>\n<li>29:05 深入了解更多概念</li>\n<li>36:44 吟唱魔法</li>\n<li>40:53 尾声</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li>MesoTroniK（为 Echo.js 制作新的 intro / outro）的 <a href=\"https://soundcloud.com/mesotronik\" rel=\"nofollow\">SoundCloud 主页</a> 和 <a href=\"https://www.patreon.com/mesotronik\" rel=\"nofollow\">Patreon 主页</a>。</li>\n<li><a href=\"https://www.haskell.org/\" rel=\"nofollow\">Haskell</a>：函数式编程范式的「元汤化元食」之语言。</li>\n<li><a href=\"https://ramdajs.com/\" rel=\"nofollow\">Ramda</a>：在 JavaScript 中使用的函数式编程框架。</li>\n<li><a href=\"https://github.com/fantasyland/fantasy-land/\" rel=\"nofollow\">Fantasy Land Specification</a>：在 JavaScript 中实现函数式编程的规范。</li>\n<li><a href=\"https://www.purescript.org/\" rel=\"nofollow\">PureScript</a> 与 <a href=\"https://elm-lang.org/\" rel=\"nofollow\">Elm</a>：JavaScript 的超类，编写后可直接编译为 JavaScript 的语言。</li>\n<li><a href=\"https://github.com/lsby/ts_adt_tutorial/\" rel=\"nofollow\">白羊写的介绍 ADT 的文章</a>。</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>发到官网评论区</li>\n<li>来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li><a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p>\n\n<p><a href=\"https://www.jianguoyun.com/p/DcHdr0UQxabKChjpjsUEIAA\" rel=\"nofollow\">获取本期节目转写文稿 （PDF 格式）</a></p>"
+    },
+    "tags": [
+        {
+            "term": "函数式编程",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "Haskell",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "JavaScript",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "PureScript",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "编程范式",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<p>大哥大嫂新年好！时隔九个多月，我们终于复播了（老父亲的眼泪）。</p>\n\n<p>复播第一期的话题有些 hardcore：函数式编程。也许你偶尔会在各种场合听到这个词，那它究竟与传统的过程式、对象式编程有什么区别？这里的「函数」又与我们常见的函数有什么关系？它为什么又被许多人奉为全新且优秀的编程范式？</p>\n\n<p>当然，本期话题可以聊的东西实在是太多，本期节目姑且也是抛砖引玉。如果大家还希望我们来聊聊相关内容的话，欢迎留言告诉我们。</p>\n\n<h2>章节</h2>\n\n<ul>\n<li>00:00 开场寒暄</li>\n<li>02:16 何为函数式编程？</li>\n<li>16:35 与函数式编程有关的语言</li>\n<li>29:05 深入了解更多概念</li>\n<li>36:44 吟唱魔法</li>\n<li>40:53 尾声</li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li>MesoTroniK（为 Echo.js 制作新的 intro / outro）的 <a href=\"https://soundcloud.com/mesotronik\" rel=\"nofollow\">SoundCloud 主页</a> 和 <a href=\"https://www.patreon.com/mesotronik\" rel=\"nofollow\">Patreon 主页</a>。</li>\n<li><a href=\"https://www.haskell.org/\" rel=\"nofollow\">Haskell</a>：函数式编程范式的「元汤化元食」之语言。</li>\n<li><a href=\"https://ramdajs.com/\" rel=\"nofollow\">Ramda</a>：在 JavaScript 中使用的函数式编程框架。</li>\n<li><a href=\"https://github.com/fantasyland/fantasy-land/\" rel=\"nofollow\">Fantasy Land Specification</a>：在 JavaScript 中实现函数式编程的规范。</li>\n<li><a href=\"https://www.purescript.org/\" rel=\"nofollow\">PureScript</a> 与 <a href=\"https://elm-lang.org/\" rel=\"nofollow\">Elm</a>：JavaScript 的超类，编写后可直接编译为 JavaScript 的语言。</li>\n<li><a href=\"https://github.com/lsby/ts_adt_tutorial/\" rel=\"nofollow\">白羊写的介绍 ADT 的文章</a>。</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>发到官网评论区</li>\n<li>来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li><a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p>\n\n<p><a href=\"https://www.jianguoyun.com/p/DcHdr0UQxabKChjpjsUEIAA\" rel=\"nofollow\">获取本期节目转写文稿 （PDF 格式）</a></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+Lia0Zb-c",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+Lia0Zb-c\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_chapters": {
+        "url": "https://feeds.fireside.fm/echojs/json/episodes/cd9bf449-898d-4606-9ab4-06f8fbc5ddef/chapters",
+        "type": "application/json"
+    },
+    "podcast_person": {
+        "email": "",
+        "href": "https://astrianzheng.cn",
+        "role": "host"
+    }
+}

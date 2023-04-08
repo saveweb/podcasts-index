@@ -1,0 +1,87 @@
+{
+    "http-content-length": 84181483,
+    "http-etag": null,
+    "http-last-modified": "Wed, 05 Apr 2023 14:16:03 GMT",
+    "http-last-modified-float": 1680675363.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 84181483,
+    "actual-duration": 2104,
+    "sha1": "2a50e0128da001e89d360ecb0a04f3b70427860d",
+    "md5": "6c607ef7708229269a4ea84e99a9f817",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://chrt.fm/track/EE933/track.fstry.me/p/fhb6pvb3/rss.soundon.fm/rssf/f5b0f726-8f6b-462a-b886-e93a06adda4c/feedurl/f4a68ab2-06ed-4463-a1ce-4ef799642d5f/rssFileVip.mp3?timestamp=1671875538634",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "0",
+                "Connection": "keep-alive",
+                "Date": "Wed, 05 Apr 2023 14:16:01 GMT",
+                "Server": "nginx/1.21.6",
+                "Location": "https://track.fstry.me/p/fhb6pvb3/rss.soundon.fm/rssf/f5b0f726-8f6b-462a-b886-e93a06adda4c/feedurl/f4a68ab2-06ed-4463-a1ce-4ef799642d5f/rssFileVip.mp3?timestamp=1671875538634",
+                "Access-Control-Allow-Origin": "*",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 2fd57daefe8da050fc60eada8512a318.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "LAX50-P4",
+                "X-Amz-Cf-Id": "u7Z3bItqAm95ati8CozTG-VeZA0lB_3L5pQBG_aaPmr-L-lNGmvAqA=="
+            }
+        },
+        "1": {
+            "status_code": 302,
+            "url": "https://track.fstry.me/p/fhb6pvb3/rss.soundon.fm/rssf/f5b0f726-8f6b-462a-b886-e93a06adda4c/feedurl/f4a68ab2-06ed-4463-a1ce-4ef799642d5f/rssFileVip.mp3?timestamp=1671875538634",
+            "headers": {
+                "Server": "nginx/1.17.8",
+                "Date": "Wed, 05 Apr 2023 14:16:01 GMT",
+                "Content-Type": "text/plain; charset=utf-8",
+                "Content-Length": "170",
+                "Connection": "keep-alive",
+                "X-Powered-By": "Express",
+                "Location": "https://rss.soundon.fm/rssf/f5b0f726-8f6b-462a-b886-e93a06adda4c/feedurl/f4a68ab2-06ed-4463-a1ce-4ef799642d5f/rssFileVip.mp3?timestamp=1671875538634",
+                "Vary": "Accept",
+                "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "Access-Control-Allow-Methods": "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+                "Access-Control-Allow-Headers": "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Authorization"
+            }
+        },
+        "2": {
+            "status_code": 302,
+            "url": "https://rss.soundon.fm/rssf/f5b0f726-8f6b-462a-b886-e93a06adda4c/feedurl/f4a68ab2-06ed-4463-a1ce-4ef799642d5f/rssFileVip.mp3?timestamp=1671875538634",
+            "headers": {
+                "Date": "Wed, 05 Apr 2023 14:16:02 GMT",
+                "Content-Type": "text/plain; charset=utf-8",
+                "Content-Length": "5",
+                "Connection": "keep-alive",
+                "Vary": "Origin",
+                "Location": "https://filesb.soundon.fm/file/filesb/c65e6e41-4573-47e0-9536-f5befe5bb44d.mp3",
+                "Strict-Transport-Security": "max-age=15724800; includeSubDomains"
+            }
+        },
+        "3": {
+            "status_code": 200,
+            "url": "https://filesb.soundon.fm/file/filesb/c65e6e41-4573-47e0-9536-f5befe5bb44d.mp3",
+            "headers": {
+                "Date": "Wed, 05 Apr 2023 14:16:03 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "84181483",
+                "Connection": "keep-alive",
+                "x-bz-file-name": "c65e6e41-4573-47e0-9536-f5befe5bb44d.mp3",
+                "x-bz-file-id": "4_z2688f8904111084484100811_f20283e8f2607889a_d20221224_m072414_c004_v0402011_t0039_u01671866654361",
+                "x-bz-content-sha1": "none",
+                "X-Bz-Upload-Timestamp": "1671866654361",
+                "X-Bz-Server-Side-Encryption": "AES256",
+                "Cache-Control": "max-age=31536000",
+                "CF-Cache-Status": "MISS",
+                "Last-Modified": "Wed, 05 Apr 2023 14:16:03 GMT",
+                "Accept-Ranges": "bytes",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "CF-RAY": "7b32681c5ccb1b50-PHX",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        }
+    }
+}

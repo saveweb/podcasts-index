@@ -1,0 +1,75 @@
+{
+    "title": "闲聊 | 卡尔加里和多伦多，我的第一印象",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "闲聊 | 卡尔加里和多伦多，我的第一印象"
+    },
+    "itunes_episode": "85",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "41660312",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/trip2.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Wed, 11 May 2022 14:01:00 CDT",
+    "published_parsed": [
+        2022,
+        5,
+        11,
+        19,
+        1,
+        0,
+        2,
+        131,
+        0
+    ],
+    "summary": "<p>考察一下哪个城市更适合作为下一步搬家的目标。时间很短，了解有限，不过第一印象已经建立起来了。后续会继续考察。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>考察一下哪个城市更适合作为下一步搬家的目标。时间很短，了解有限，不过第一印象已经建立起来了。后续会继续考察。</p>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/trip2.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:26:32",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>考察一下哪个城市更适合作为下一步搬家的目标。时间很短，了解有限，不过第一印象已经建立起来了。后续会继续考察。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

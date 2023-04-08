@@ -1,0 +1,103 @@
+{
+    "title": "#9 - 和 Parity 的唐威聊聊区块链编程",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#9 - 和 Parity 的唐威聊聊区块链编程"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/9"
+        },
+        {
+            "length": "48652875",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/a37f9be4-48af-4e30-aa2d-c89c288a88ac.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/9",
+    "id": "a37f9be4-48af-4e30-aa2d-c89c288a88ac",
+    "guidislink": false,
+    "published": "Sun, 03 Nov 2019 10:00:00 +0800",
+    "published_parsed": [
+        2019,
+        11,
+        3,
+        2,
+        0,
+        0,
+        6,
+        307,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "Rust 和 Go 有什么不同特性？它们适合用于什么环境？EVM 和 WebAssembly, RISC-V 实现的 VM 有什么优劣？\n\nETC 目前社区发展和工作情况如何？随着未来以太坊转向 PoS ，ETC 会有什么变化？与此同时，以太坊 2.0 目前到底怎么样了？",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "Rust 和 Go 有什么不同特性？它们适合用于什么环境？EVM 和 WebAssembly, RISC-V 实现的 VM 有什么优劣？\n\nETC 目前社区发展和工作情况如何？随着未来以太坊转向 PoS ，ETC 会有什么变化？与此同时，以太坊 2.0 目前到底怎么样了？"
+    },
+    "itunes_duration": "1:41:21",
+    "itunes_explicit": null,
+    "summary": "<p>本期 Fork It 我们有幸请到了 Parity 的唐威和我们来聊聊区块编程。</p>\n\n<p>Rust 和 Go 有什么不同特性？它们适合用于什么环境？EVM 和 WebAssembly, RISC-V 实现的 VM 有什么优劣？</p>\n\n<p>ETC 目前社区发展和工作情况如何？随着未来以太坊转向 PoS ，ETC 会有什么变化？与此同时，以太坊 2.0 目前到底怎么样了？</p>\n\n<p>唐威还和我们仔细分享了他的 Rust 编程经历：在大学接触 Rust 并开始写开源项目，以及之后在  ETCDEVTeam 和 Parity 的工作经历，非常精彩。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li><p><a href=\"https://github.com/sorpaas/\" rel=\"nofollow\">Wei Tang Github</a></p></li>\n<li><p><a href=\"https://github.com/ETCDEVTeam/sputnikvm\" rel=\"nofollow\">SputnikVM</a></p></li>\n<li><p><a href=\"https://nixos.org/\" rel=\"nofollow\">nixos</a></p></li>\n<li><p><a href=\"https://www.archlinux.org/\" rel=\"nofollow\">arch linux</a></p></li>\n<li><p><a href=\"https://github.com/sorpaas/rux\" rel=\"nofollow\">Rux</a></p></li>\n<li><p><a href=\"https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1283.md\" rel=\"nofollow\">EIP 1283</a></p></li>\n<li><p><a href=\"https://that.world/en/\" rel=\"nofollow\">Wei Tang Blog</a></p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Emacs\" rel=\"nofollow\">Emacs</a></p></li>\n<li><p><a href=\"https://www.amazon.com/Evoluent-VM4R-VerticalMouse-Ergonomic-Connection/dp/B00427TAIK\" rel=\"nofollow\">Evoluent VM4R Vertical Mouse</a></p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Org-mode\" rel=\"nofollow\">Org-mode</a></p></li>\n<li><p><a href=\"https://bitwarden.com/\" rel=\"nofollow\">bitwarden</a></p></li>\n<li><p><a href=\"https://keepassxc.org/\" rel=\"nofollow\">Keepassxc</a></p></li>\n</ul><p>Special Guests: Wei Tang and Xuejie Xiao.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>本期 Fork It 我们有幸请到了 Parity 的唐威和我们来聊聊区块编程。</p>\n\n<p>Rust 和 Go 有什么不同特性？它们适合用于什么环境？EVM 和 WebAssembly, RISC-V 实现的 VM 有什么优劣？</p>\n\n<p>ETC 目前社区发展和工作情况如何？随着未来以太坊转向 PoS ，ETC 会有什么变化？与此同时，以太坊 2.0 目前到底怎么样了？</p>\n\n<p>唐威还和我们仔细分享了他的 Rust 编程经历：在大学接触 Rust 并开始写开源项目，以及之后在  ETCDEVTeam 和 Parity 的工作经历，非常精彩。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li><p><a href=\"https://github.com/sorpaas/\" rel=\"nofollow\">Wei Tang Github</a></p></li>\n<li><p><a href=\"https://github.com/ETCDEVTeam/sputnikvm\" rel=\"nofollow\">SputnikVM</a></p></li>\n<li><p><a href=\"https://nixos.org/\" rel=\"nofollow\">nixos</a></p></li>\n<li><p><a href=\"https://www.archlinux.org/\" rel=\"nofollow\">arch linux</a></p></li>\n<li><p><a href=\"https://github.com/sorpaas/rux\" rel=\"nofollow\">Rux</a></p></li>\n<li><p><a href=\"https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1283.md\" rel=\"nofollow\">EIP 1283</a></p></li>\n<li><p><a href=\"https://that.world/en/\" rel=\"nofollow\">Wei Tang Blog</a></p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Emacs\" rel=\"nofollow\">Emacs</a></p></li>\n<li><p><a href=\"https://www.amazon.com/Evoluent-VM4R-VerticalMouse-Ergonomic-Connection/dp/B00427TAIK\" rel=\"nofollow\">Evoluent VM4R Vertical Mouse</a></p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Org-mode\" rel=\"nofollow\">Org-mode</a></p></li>\n<li><p><a href=\"https://bitwarden.com/\" rel=\"nofollow\">bitwarden</a></p></li>\n<li><p><a href=\"https://keepassxc.org/\" rel=\"nofollow\">Keepassxc</a></p></li>\n</ul><p>Special Guests: Wei Tang and Xuejie Xiao.</p>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>本期 Fork It 我们有幸请到了 Parity 的唐威和我们来聊聊区块编程。</p>\n\n<p>Rust 和 Go 有什么不同特性？它们适合用于什么环境？EVM 和 WebAssembly, RISC-V 实现的 VM 有什么优劣？</p>\n\n<p>ETC 目前社区发展和工作情况如何？随着未来以太坊转向 PoS ，ETC 会有什么变化？与此同时，以太坊 2.0 目前到底怎么样了？</p>\n\n<p>唐威还和我们仔细分享了他的 Rust 编程经历：在大学接触 Rust 并开始写开源项目，以及之后在  ETCDEVTeam 和 Parity 的工作经历，非常精彩。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li><p><a href=\"https://github.com/sorpaas/\" rel=\"nofollow\">Wei Tang Github</a></p></li>\n<li><p><a href=\"https://github.com/ETCDEVTeam/sputnikvm\" rel=\"nofollow\">SputnikVM</a></p></li>\n<li><p><a href=\"https://nixos.org/\" rel=\"nofollow\">nixos</a></p></li>\n<li><p><a href=\"https://www.archlinux.org/\" rel=\"nofollow\">arch linux</a></p></li>\n<li><p><a href=\"https://github.com/sorpaas/rux\" rel=\"nofollow\">Rux</a></p></li>\n<li><p><a href=\"https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1283.md\" rel=\"nofollow\">EIP 1283</a></p></li>\n<li><p><a href=\"https://that.world/en/\" rel=\"nofollow\">Wei Tang Blog</a></p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Emacs\" rel=\"nofollow\">Emacs</a></p></li>\n<li><p><a href=\"https://www.amazon.com/Evoluent-VM4R-VerticalMouse-Ergonomic-Connection/dp/B00427TAIK\" rel=\"nofollow\">Evoluent VM4R Vertical Mouse</a></p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Org-mode\" rel=\"nofollow\">Org-mode</a></p></li>\n<li><p><a href=\"https://bitwarden.com/\" rel=\"nofollow\">bitwarden</a></p></li>\n<li><p><a href=\"https://keepassxc.org/\" rel=\"nofollow\">Keepassxc</a></p></li>\n</ul><p>Special Guests: Wei Tang and Xuejie Xiao.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+l2YP6BhA",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+l2YP6BhA\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://xuejie.space/",
+        "role": "guest"
+    }
+}

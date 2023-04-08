@@ -1,0 +1,77 @@
+{
+    "links": [
+        {
+            "length": "29157168",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjM5MjgsInAiOjIsInUiOiIxODE0Lm1wMyJ9.YwTaP3VdDi925kF3pEgt0U-D4wg/uxcoffee/8400878062_131814.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/85"
+        }
+    ],
+    "title": "#85：好的灵感来自不务正业（Chrome 设计师丰睿）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#85：好的灵感来自不务正业（Chrome 设计师丰睿）"
+    },
+    "id": "https://uxcoffee.com/episodes/85",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/85",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "itunes_duration": "30:22",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "85",
+    "podcast_episode": "85",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/8400889397_3113365.png?x-oss-process=style/sl"
+    },
+    "summary": "这期节目，我们请到了我的同事，Chrome 浏览器的设计师丰睿。丰睿是我觉得很厉害的设计师，我经常在她的 PPT 里看到有意思的产品 idea。所以，我想跟她学习一下，她是怎么想到产品方案的？ 嘉宾联系方式 丰睿的 LinkedIn：https://www.linkedin.com/in/yi-yang-13007091/ 参考链接 丰睿会去找产品灵感的 Product Hunt：https://www.producthunt.com/ 关于 Chrome 设计的 Medium 博文：Redesigning Chrome Desktop 另一篇关于 Chrome 设计的 Medium 博文：Unboxing Chrome",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "这期节目，我们请到了我的同事，Chrome 浏览器的设计师丰睿。丰睿是我觉得很厉害的设计师，我经常在她的 PPT 里看到有意思的产品 idea。所以，我想跟她学习一下，她是怎么想到产品方案的？ 嘉宾联系方式 丰睿的 LinkedIn：https://www.linkedin.com/in/yi-yang-13007091/ 参考链接 丰睿会去找产品灵感的 Product Hunt：https://www.producthunt.com/ 关于 Chrome 设计的 Medium 博文：Redesigning Chrome Desktop 另一篇关于 Chrome 设计的 Medium 博文：Unboxing Chrome"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>这期节目，我们请到了我的同事，Chrome 浏览器的设计师丰睿。丰睿是我觉得很厉害的设计师，我经常在她的 PPT 里看到有意思的产品 idea。所以，我想跟她学习一下，她是怎么想到产品方案的？</p>\n<p><strong>嘉宾联系方式</strong></p>\n<ul>\n<li>丰睿的 LinkedIn：<a href=\"https://www.linkedin.com/in/yi-yang-13007091/\">https://www.linkedin.com/in/yi-yang-13007091/</a></li>\n</ul>\n<p><strong>参考链接</strong></p>\n<ul>\n<li>丰睿会去找产品灵感的 Product Hunt：<a href=\"https://www.producthunt.com/\">https://www.producthunt.com/</a></li>\n<li>关于 Chrome 设计的 Medium 博文：<a href=\"https://medium.com/google-design/redesigning-chrome-desktop-769aeb5ab987\">Redesigning Chrome Desktop</a></li>\n<li>另一篇关于 Chrome 设计的 Medium 博文：<a href=\"https://medium.com/@san_toki/unboxing-chrome-f6af7b8161a2\">Unboxing Chrome</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>这期节目，我们请到了我的同事，Chrome 浏览器的设计师丰睿。丰睿是我觉得很厉害的设计师，我经常在她的 PPT 里看到有意思的产品 idea。所以，我想跟她学习一下，她是怎么想到产品方案的？</p>\n<p><strong>嘉宾联系方式</strong></p>\n<ul>\n<li>丰睿的 LinkedIn：<a href=\"https://www.linkedin.com/in/yi-yang-13007091/\">https://www.linkedin.com/in/yi-yang-13007091/</a></li>\n</ul>\n<p><strong>参考链接</strong></p>\n<ul>\n<li>丰睿会去找产品灵感的 Product Hunt：<a href=\"https://www.producthunt.com/\">https://www.producthunt.com/</a></li>\n<li>关于 Chrome 设计的 Medium 博文：<a href=\"https://medium.com/google-design/redesigning-chrome-desktop-769aeb5ab987\">Redesigning Chrome Desktop</a></li>\n<li>另一篇关于 Chrome 设计的 Medium 博文：<a href=\"https://medium.com/@san_toki/unboxing-chrome-f6af7b8161a2\">Unboxing Chrome</a></li>\n</ul>"
+        }
+    ],
+    "published": "Thu, 03 Sep 2020 06:58:03 +0000",
+    "published_parsed": [
+        2020,
+        9,
+        3,
+        6,
+        58,
+        3,
+        3,
+        247,
+        0
+    ]
+}

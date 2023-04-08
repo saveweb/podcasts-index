@@ -1,0 +1,57 @@
+{
+    "title": "№60: 180° 愚人节特别节目 • 神秘嘉宾",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anyway.fm/rss.xml",
+        "value": "№60: 180° 愚人节特别节目 • 神秘嘉宾"
+    },
+    "summary": "没想到我们这周会更新吧哈哈哈哈哈！既然如题所说这期 180° 访谈节目是神秘嘉宾，那简介里我也不多说了，大家直接上耳朵吧~<br /><br /><br /> 本期没有内容提要 / 本期没有参考链接 / 本期有很多「特别感谢」但写出来就没意思了<br /><br /><strong># 会员计划</strong><br />在<a href=\"http://r.anw.red/rss\">本台官网(Anyway.FM)</a> 注册会员即可 14 天试用 X 轴播放器和催更功能~ 开启独特的播客互动体验，Pro 会员更可加入听众群参与节目讨(hua)论(shui)~<br /><img alt=\"Anyway.Member\" src=\"https://s.anw.red/anyway.fm/rss-member.jpg\" />",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://anyway.fm/rss.xml",
+        "value": "没想到我们这周会更新吧哈哈哈哈哈！既然如题所说这期 180° 访谈节目是神秘嘉宾，那简介里我也不多说了，大家直接上耳朵吧~<br /><br /><br /> 本期没有内容提要 / 本期没有参考链接 / 本期有很多「特别感谢」但写出来就没意思了<br /><br /><strong># 会员计划</strong><br />在<a href=\"http://r.anw.red/rss\">本台官网(Anyway.FM)</a> 注册会员即可 14 天试用 X 轴播放器和催更功能~ 开启独特的播客互动体验，Pro 会员更可加入听众群参与节目讨(hua)论(shui)~<br /><img alt=\"Anyway.Member\" src=\"https://s.anw.red/anyway.fm/rss-member.jpg\" />"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://anyway.fm/2018-april-fool/#title"
+        },
+        {
+            "type": "audio/mpeg",
+            "href": "https://a.anw.red/audio/anyway-60.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://anyway.fm/2018-april-fool/#title",
+    "itunes_explicit": null,
+    "id": "https://anyway.fm/2018-april-fool/#title",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "JJ Ying、Leon Gao"
+        }
+    ],
+    "author": "JJ Ying、Leon Gao",
+    "author_detail": {
+        "name": "JJ Ying、Leon Gao"
+    },
+    "published": "Thu, 29 Mar 2018 22:55:08 +0800",
+    "published_parsed": [
+        2018,
+        3,
+        29,
+        14,
+        55,
+        8,
+        3,
+        88,
+        0
+    ],
+    "itunes_duration": "2059",
+    "image": {
+        "href": "https://s.anw.red/images/poster-60.jpg"
+    }
+}

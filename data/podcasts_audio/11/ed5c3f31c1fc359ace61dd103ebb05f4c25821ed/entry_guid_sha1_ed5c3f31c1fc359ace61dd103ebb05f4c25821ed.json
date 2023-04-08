@@ -1,0 +1,95 @@
+{
+    "title": "三组织揭秘：知识小集 x iOS 周报 x SwiftGG",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "三组织揭秘：知识小集 x iOS 周报 x SwiftGG"
+    },
+    "itunes_episode": "26",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "92736286",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/26.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 9 Apr 2019 07:20:00 CDT",
+    "published_parsed": [
+        2019,
+        4,
+        9,
+        12,
+        20,
+        0,
+        1,
+        99,
+        0
+    ],
+    "summary": "<p>这期节目年前就说要录，最近终于录好了。熟悉 iOS 的朋友应该多少都了解过我们这三个兴趣小组：知识小集，iOS 周报，SwiftGG 翻译组。这期请到了南大和卓同学，我们三个组织者一起聊聊“组织”的事。</p>\n\n<p>前半部分是我们必不可少的讲故事环节，听听这三个组织最初是怎么成立的，如何发展到今天。后半部分我们讨论了一些和组织相关的问题，比如创造了什么价值、如何维持活力、如何看待“赚钱”。最后，对于那些有兴趣成立自己组织的人，我们也给出了一些建议。</p>\n\n<p>借这个机会，感谢南大和卓同学，感谢我们三个组织的所有参与者，也感谢我们的所有读者和听众。组织总有尽头，但这段经历一定会成为我们的美好回忆。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>iOS 周报的 GitHub Repo：https://github.com/SwiftOldDriver/iOS-Weekly</li>\n<li>梁杰提到的 Swift 节目：《聊聊 Swift 这四年（上）》（https://talk.swift.gg/5）</li>\n<li>卓同学提到的老司机小专栏：https://xiaozhuanlan.com/olddriver-selection</li>\n<li>SwiftGG 翻译组的一个 PR，展示文章校对和修改过程：https://github.com/SwiftGGTeam/translation/pull/187</li>\n<li>阿兰实验室开发的 WI 输入法：https://itunes.apple.com/cn/app/wi%E8%BE%93%E5%85%A5%E6%B3%95/id936600925</li>\n<li>南大的微信：coldlight_hh</li>\n<li>南大的微博：@南峰子_老驴（https://weibo.com/touristdiary）</li>\n<li>iOS 周报的微博：@iOS周报（https://www.weibo.com/u/6062089411）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:57  个人介绍</li>\n<li>02:50  iOS 周报团队介绍</li>\n<li>09:48  知识小集团队介绍</li>\n<li>28:00  SwiftGG 团队介绍</li>\n<li>42:32  这类组织到底创造了什么价值？组织者、参与者、读者/听众到底收获了什么？</li>\n<li>59:26  说说发生在组织中印象深刻的事</li>\n<li>01:14:09  如何维持组织的活力？</li>\n<li>01:20:58  对于组织“收入”或者说“赚钱”的看法</li>\n<li>01:29:48  对于想成为组织者的人，有什么建议</li>\n<li>01:32:58  节目最后有什么话想说</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>这期节目年前就说要录，最近终于录好了。熟悉 iOS 的朋友应该多少都了解过我们这三个兴趣小组：知识小集，iOS 周报，SwiftGG 翻译组。这期请到了南大和卓同学，我们三个组织者一起聊聊“组织”的事。</p>\n\n<p>前半部分是我们必不可少的讲故事环节，听听这三个组织最初是怎么成立的，如何发展到今天。后半部分我们讨论了一些和组织相关的问题，比如创造了什么价值、如何维持活力、如何看待“赚钱”。最后，对于那些有兴趣成立自己组织的人，我们也给出了一些建议。</p>\n\n<p>借这个机会，感谢南大和卓同学，感谢我们三个组织的所有参与者，也感谢我们的所有读者和听众。组织总有尽头，但这段经历一定会成为我们的美好回忆。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>iOS 周报的 GitHub Repo：https://github.com/SwiftOldDriver/iOS-Weekly</li>\n<li>梁杰提到的 Swift 节目：《聊聊 Swift 这四年（上）》（https://talk.swift.gg/5）</li>\n<li>卓同学提到的老司机小专栏：https://xiaozhuanlan.com/olddriver-selection</li>\n<li>SwiftGG 翻译组的一个 PR，展示文章校对和修改过程：https://github.com/SwiftGGTeam/translation/pull/187</li>\n<li>阿兰实验室开发的 WI 输入法：https://itunes.apple.com/cn/app/wi%E8%BE%93%E5%85%A5%E6%B3%95/id936600925</li>\n<li>南大的微信：coldlight_hh</li>\n<li>南大的微博：@南峰子_老驴（https://weibo.com/touristdiary）</li>\n<li>iOS 周报的微博：@iOS周报（https://www.weibo.com/u/6062089411）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:57  个人介绍</li>\n<li>02:50  iOS 周报团队介绍</li>\n<li>09:48  知识小集团队介绍</li>\n<li>28:00  SwiftGG 团队介绍</li>\n<li>42:32  这类组织到底创造了什么价值？组织者、参与者、读者/听众到底收获了什么？</li>\n<li>59:26  说说发生在组织中印象深刻的事</li>\n<li>01:14:09  如何维持组织的活力？</li>\n<li>01:20:58  对于组织“收入”或者说“赚钱”的看法</li>\n<li>01:29:48  对于想成为组织者的人，有什么建议</li>\n<li>01:32:58  节目最后有什么话想说</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/26.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:36:35",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n这期节目年前就说要录，最近终于录好了。熟悉 iOS 的朋友应该多少都了解过我们这三个兴趣小组：知识小集，iOS 周报，SwiftGG 翻译组。这期请到了南大和卓同学，我们三个组织者一起聊聊“组织”的事。</p>\n\n<p>前半部分是我们必不可少的讲故事环节，听听这三个组织最初是怎么成立的，如何发展到今天。后半部分我们讨论了一些和组织相关的问题，比如创造了什么价值、如何维持活力、如何看待“赚钱”。最后，对于那些有兴趣成立自己组织的人，我们也给出了一些建议。</p>\n\n<p>借这个机会，感谢南大和卓同学，感谢我们三个组织的所有参与者，也感谢我们的所有读者和听众。组织总有尽头，但这段经历一定会成为我们的美好回忆。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>iOS 周报的 GitHub Repo：https://github.com/SwiftOldDriver/iOS-Weekly</li>\n<li>梁杰提到的 Swift 节目：《聊聊 Swift 这四年（上）》（https://talk.swift.gg/5）</li>\n<li>卓同学提到的老司机小专栏：https://xiaozhuanlan.com/olddriver-selection</li>\n<li>SwiftGG 翻译组的一个 PR，展示文章校对和修改过程：https://github.com/SwiftGGTeam/translation/pull/187</li>\n<li>阿兰实验室开发的 WI 输入法：https://itunes.apple.com/cn/app/wi%E8%BE%93%E5%85%A5%E6%B3%95/id936600925</li>\n<li>南大的微信：coldlight_hh</li>\n<li>南大的微博：@南峰子_老驴（https://weibo.com/touristdiary）</li>\n<li>iOS 周报的微博：@iOS周报（https://www.weibo.com/u/6062089411）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:57  个人介绍</li>\n<li>02:50  iOS 周报团队介绍</li>\n<li>09:48  知识小集团队介绍</li>\n<li>28:00  SwiftGG 团队介绍</li>\n<li>42:32  这类组织到底创造了什么价值？组织者、参与者、读者/听众到底收获了什么？</li>\n<li>59:26  说说发生在组织中印象深刻的事</li>\n<li>01:14:09  如何维持组织的活力？</li>\n<li>01:20:58  对于组织“收入”或者说“赚钱”的看法</li>\n<li>01:29:48  对于想成为组织者的人，有什么建议</li>\n<li>01:32:58  节目最后有什么话想说</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "知识小集",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "iOS周报",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

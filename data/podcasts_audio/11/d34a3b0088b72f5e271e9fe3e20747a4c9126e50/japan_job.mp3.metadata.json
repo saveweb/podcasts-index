@@ -1,0 +1,34 @@
+{
+    "http-content-length": 49567276,
+    "http-etag": "a6b526e5811c7b6906da508750135722-6",
+    "http-last-modified": "Fri, 16 Dec 2022 05:11:05 GMT",
+    "http-last-modified-float": 1671138665.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 49567276,
+    "actual-duration": 6180,
+    "sha1": "a4dcdf97b2541808b22ea87fca3eecda3e35ea78",
+    "md5": "9facd66f94c8904ff6613934e8f0586b",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/japan_job.mp3",
+            "headers": {
+                "Last-Modified": "Fri, 16 Dec 2022 05:11:05 GMT",
+                "Etag": "\"a6b526e5811c7b6906da508750135722-6\"",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "49567276",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "18303462012796953721",
+                "Connection": "keep-alive",
+                "Server": "Lego Server",
+                "Date": "Wed, 05 Apr 2023 15:48:53 GMT",
+                "X-Cache-Lookup": "Cache Hit",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

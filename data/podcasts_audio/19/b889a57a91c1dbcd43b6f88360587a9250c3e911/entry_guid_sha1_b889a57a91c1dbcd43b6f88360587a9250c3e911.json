@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "73949084",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo1OTc2NSwicCI6MiwidSI6IjU0NjEubXAzIn0.ljVbNTFfUBmR_Ndq9y5gKen25SM/sspai/8342490913_945461.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/ep69"
+        }
+    ],
+    "title": "谈谈中美工具类 SaaS 的异同",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "谈谈中美工具类 SaaS 的异同"
+    },
+    "id": "https://sspai.typlog.io/episodes/ep69",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/ep69",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "围绕工具类 SaaS 的发展和应用，探讨了中美从市场到用户对于软体服务的选择方向、购买决策、消费能力等异同。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "围绕工具类 SaaS 的发展和应用，探讨了中美从市场到用户对于软体服务的选择方向、购买决策、消费能力等异同。"
+    },
+    "itunes_duration": "1:16:57",
+    "itunes_explicit": null,
+    "itunes_episode": "69",
+    "podcast_episode": "69",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8342490917_826641.png?x-oss-process=style/sl"
+    },
+    "summary": "本期节目是技术播客月的 Live Podcast，由《一派·Podcast》和《OnBoard!》串台，我们在节目中围绕工具类 SaaS 的发展和应用，探讨了中美从市场到用户对于软体服务的选择方向、购买决策、消费能力等异同。 关于技术播客月的相关信息，请阅读《技术播客月，我们一起聊聊技术与开源》 节目章节 00:00:15 开场，嘉宾自我介绍 00:02:51 为什么要聊 SaaS，以及什么是工具类 SaaS 00:14:25 ToB 和 ToC 的边界变得模糊了 00:22:10 All in One 00:29:42 中美开发者生存环境的异同 00:43:48 主播们自己在用哪些工具 00:49:16 中美的软体服务市场规模差异 00:55:08 疫情之下的 SaaS 服务 01:02:19 总结：快问快答 关联信息 部分节目中提到的工具和服务包含： Notion Figma Canva Grammarly Microsoft 365 Medium Google Drive Zoom 腾讯会议 FlowUs 维格表 Airtable 印象笔记 腾讯日历 Calendly Craft flomo Gamma 人物介绍 Monica：《OnBoard!》主播，投资人，个人公众号为「M 小姐研习录（MissMStudy）」 高宁 GN：《OnBoard!》主播，投资人，个人公众号为「我思锅我在（angelplusdevil）」",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "本期节目是技术播客月的 Live Podcast，由《一派·Podcast》和《OnBoard!》串台，我们在节目中围绕工具类 SaaS 的发展和应用，探讨了中美从市场到用户对于软体服务的选择方向、购买决策、消费能力等异同。 关于技术播客月的相关信息，请阅读《技术播客月，我们一起聊聊技术与开源》 节目章节 00:00:15 开场，嘉宾自我介绍 00:02:51 为什么要聊 SaaS，以及什么是工具类 SaaS 00:14:25 ToB 和 ToC 的边界变得模糊了 00:22:10 All in One 00:29:42 中美开发者生存环境的异同 00:43:48 主播们自己在用哪些工具 00:49:16 中美的软体服务市场规模差异 00:55:08 疫情之下的 SaaS 服务 01:02:19 总结：快问快答 关联信息 部分节目中提到的工具和服务包含： Notion Figma Canva Grammarly Microsoft 365 Medium Google Drive Zoom 腾讯会议 FlowUs 维格表 Airtable 印象笔记 腾讯日历 Calendly Craft flomo Gamma 人物介绍 Monica：《OnBoard!》主播，投资人，个人公众号为「M 小姐研习录（MissMStudy）」 高宁 GN：《OnBoard!》主播，投资人，个人公众号为「我思锅我在（angelplusdevil）」"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>本期节目是技术播客月的 Live Podcast，由《一派·Podcast》和《<a href=\"https://www.xiaoyuzhoufm.com/podcast/61cbaac48bb4cd867fcabe22\">OnBoard!</a>》串台，我们在节目中围绕工具类 SaaS 的发展和应用，探讨了中美从市场到用户对于软体服务的选择方向、购买决策、消费能力等异同。</p>\n<ul>\n<li>关于技术播客月的相关信息，请阅读《<a href=\"https://sspai.com/post/72270\">技术播客月，我们一起聊聊技术与开源</a>》</li>\n</ul>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:15\">00:00:15</a> 开场，嘉宾自我介绍</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:02:51\">00:02:51</a> 为什么要聊 SaaS，以及什么是工具类 SaaS</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:14:25\">00:14:25</a> ToB 和 ToC 的边界变得模糊了</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:22:10\">00:22:10</a> All in One</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:29:42\">00:29:42</a> 中美开发者生存环境的异同</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:43:48\">00:43:48</a> 主播们自己在用哪些工具</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:49:16\">00:49:16</a> 中美的软体服务市场规模差异</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:55:08\">00:55:08</a> 疫情之下的 SaaS 服务</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:02:19\">01:02:19</a> 总结：快问快答</li>\n</ul>\n<h2>关联信息</h2>\n<p>部分节目中提到的工具和服务包含：</p>\n<ul>\n<li>Notion</li>\n<li>Figma</li>\n<li>Canva</li>\n<li>Grammarly</li>\n<li>Microsoft 365</li>\n<li>Medium</li>\n<li>Google Drive</li>\n<li>Zoom</li>\n<li>腾讯会议</li>\n<li>FlowUs</li>\n<li>维格表</li>\n<li>Airtable</li>\n<li>印象笔记</li>\n<li>腾讯日历</li>\n<li>Calendly</li>\n<li>Craft</li>\n<li>flomo</li>\n<li>Gamma</li>\n</ul>\n<h2>人物介绍</h2>\n<ul>\n<li>Monica：《OnBoard!》主播，投资人，个人公众号为「M 小姐研习录（MissMStudy）」</li>\n<li>高宁 GN：《OnBoard!》主播，投资人，个人公众号为「我思锅我在（angelplusdevil）」</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>本期节目是技术播客月的 Live Podcast，由《一派·Podcast》和《<a href=\"https://www.xiaoyuzhoufm.com/podcast/61cbaac48bb4cd867fcabe22\">OnBoard!</a>》串台，我们在节目中围绕工具类 SaaS 的发展和应用，探讨了中美从市场到用户对于软体服务的选择方向、购买决策、消费能力等异同。</p>\n<ul>\n<li>关于技术播客月的相关信息，请阅读《<a href=\"https://sspai.com/post/72270\">技术播客月，我们一起聊聊技术与开源</a>》</li>\n</ul>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:15\">00:00:15</a> 开场，嘉宾自我介绍</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:02:51\">00:02:51</a> 为什么要聊 SaaS，以及什么是工具类 SaaS</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:14:25\">00:14:25</a> ToB 和 ToC 的边界变得模糊了</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:22:10\">00:22:10</a> All in One</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:29:42\">00:29:42</a> 中美开发者生存环境的异同</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:43:48\">00:43:48</a> 主播们自己在用哪些工具</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:49:16\">00:49:16</a> 中美的软体服务市场规模差异</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:55:08\">00:55:08</a> 疫情之下的 SaaS 服务</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:02:19\">01:02:19</a> 总结：快问快答</li>\n</ul>\n<h2>关联信息</h2>\n<p>部分节目中提到的工具和服务包含：</p>\n<ul>\n<li>Notion</li>\n<li>Figma</li>\n<li>Canva</li>\n<li>Grammarly</li>\n<li>Microsoft 365</li>\n<li>Medium</li>\n<li>Google Drive</li>\n<li>Zoom</li>\n<li>腾讯会议</li>\n<li>FlowUs</li>\n<li>维格表</li>\n<li>Airtable</li>\n<li>印象笔记</li>\n<li>腾讯日历</li>\n<li>Calendly</li>\n<li>Craft</li>\n<li>flomo</li>\n<li>Gamma</li>\n</ul>\n<h2>人物介绍</h2>\n<ul>\n<li>Monica：《OnBoard!》主播，投资人，个人公众号为「M 小姐研习录（MissMStudy）」</li>\n<li>高宁 GN：《OnBoard!》主播，投资人，个人公众号为「我思锅我在（angelplusdevil）」</li>\n</ul>"
+        }
+    ],
+    "published": "Mon, 11 Jul 2022 03:15:26 +0000",
+    "published_parsed": [
+        2022,
+        7,
+        11,
+        3,
+        15,
+        26,
+        0,
+        192,
+        0
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "links": [
+        {
+            "length": "15422317",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo1NSwiZSI6MzE5MSwicCI6MiwidSI6IjI5YzQubXAzIn0.z0HA3G70nmOZtV40-YixDuZYiT0/yitianshijie/z_783d8efd3e28dab1379752978d3929c4.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://yitianshijie.net/episodes/43"
+        }
+    ],
+    "title": "Episode 43: Magic Leap 的难产和 AirPods 的延迟",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": "Episode 43: Magic Leap 的难产和 AirPods 的延迟"
+    },
+    "id": "https://yitianshijie.net/episodes/43",
+    "guidislink": true,
+    "link": "https://yitianshijie.net/episodes/43",
+    "authors": [
+        {
+            "name": "不鳥萬如一"
+        }
+    ],
+    "author": "不鳥萬如一",
+    "author_detail": {
+        "name": "不鳥萬如一"
+    },
+    "itunes_duration": "21:16",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "image": {
+        "href": "https://i.typlog.com/yitianshijie/z_55cfa700504e87dfde66af0a2704b1aa.png?x-oss-process=style/sl"
+    },
+    "summary": "",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": ""
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        }
+    ],
+    "published": "Tue, 13 Dec 2016 07:00:00 +0000",
+    "published_parsed": [
+        2016,
+        12,
+        13,
+        7,
+        0,
+        0,
+        1,
+        348,
+        0
+    ]
+}

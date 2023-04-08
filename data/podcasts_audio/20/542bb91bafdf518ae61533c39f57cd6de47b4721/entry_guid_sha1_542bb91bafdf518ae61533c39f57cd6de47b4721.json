@@ -1,0 +1,81 @@
+{
+    "title": "番外01：好好说话 说人话",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "番外01：好好说话 说人话"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.theviewtalk.com/sp01"
+        },
+        {
+            "length": "23285697",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/d51b3bbc-b0be-4abc-a869-45647ca369b1.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.theviewtalk.com/sp01",
+    "id": "d51b3bbc-b0be-4abc-a869-45647ca369b1",
+    "guidislink": false,
+    "published": "Wed, 23 Dec 2020 22:00:00 +0800",
+    "published_parsed": [
+        2020,
+        12,
+        23,
+        14,
+        0,
+        0,
+        2,
+        358,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一画一话"
+        },
+        {
+            "name": "一画一话"
+        }
+    ],
+    "author": "一画一话",
+    "author_detail": {
+        "name": "一画一话"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "番外：《书城》美文分享。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "番外：《书城》美文分享。"
+    },
+    "itunes_duration": "24:15",
+    "itunes_explicit": null,
+    "summary": "<p>现实生活中，无论你是看学界文章，文学评论，艺术评论，都会看到不“好好说话”，甚至不“说人话”的情况。</p>\n\n<p>本期番外我们就分享一篇关于不好好说话现象的文章。来自2003年的《书城杂志》。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "<p>现实生活中，无论你是看学界文章，文学评论，艺术评论，都会看到不“好好说话”，甚至不“说人话”的情况。</p>\n\n<p>本期番外我们就分享一篇关于不好好说话现象的文章。来自2003年的《书城杂志》。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/theviewtalk/rss",
+            "value": "<p>现实生活中，无论你是看学界文章，文学评论，艺术评论，都会看到不“好好说话”，甚至不“说人话”的情况。</p>\n\n<p>本期番外我们就分享一篇关于不好好说话现象的文章。来自2003年的《书城杂志》。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yS2zkE2S+LUZvcx5-",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yS2zkE2S+LUZvcx5-\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

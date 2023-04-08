@@ -1,0 +1,75 @@
+{
+    "title": "第 0 期 Go 夜聊开篇",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 0 期 Go 夜聊开篇"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talkgo.fm/podcasts/0-opening/"
+        },
+        {
+            "length": "66058993",
+            "type": "audio/mpeg",
+            "href": "https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2020-0-7/42417068-44100-2-96dcc4fb83a13.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talkgo.fm/podcasts/0-opening/",
+    "published": "Fri, 30 Oct 2020 15:15:29 +0800",
+    "published_parsed": [
+        2020,
+        10,
+        30,
+        7,
+        15,
+        29,
+        4,
+        304,
+        0
+    ],
+    "id": "https://talkgo.fm/podcasts/0-opening/",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Go 夜聊"
+        },
+        {
+            "name": "Go 夜聊"
+        }
+    ],
+    "author": "Go 夜聊",
+    "author_detail": {
+        "name": "Go 夜聊"
+    },
+    "subtitle": "第 0 期 Go 夜聊开篇",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 0 期 Go 夜聊开篇"
+    },
+    "summary": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2020-0-7/42417068-44100-2-96dcc4fb83a13.mp3\" title=\"Go 夜聊，开篇\"></audio>\n\n<p><strong>Go 夜聊！</strong></p>\n\n\n<img src=\"https://talkgo.fm/images/episode/default.jpg\" width=\"50%\" />\n\n\n<p>Go 夜聊终于启动了，希望通过语音的方式跟大家度过通勤路程，如果能跟你产生帮助或者共鸣，我们会非常开心。</p>\n<h3 id=\"-相关链接\">🔗 相关链接</h3>\n<p><a href=\"https://maiyang.me/podcast_notes/\">播客重度听众群的分享</a></p>\n<h3 id=\"-联系我\">📝 联系我</h3>\n<p>欢迎你加入<a href=\"https://t.me/talkgofm\"> Go 夜聊听友群</a>。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2020-0-7/42417068-44100-2-96dcc4fb83a13.mp3\" title=\"Go 夜聊，开篇\"></audio>\n\n<p><strong>Go 夜聊！</strong></p>\n\n\n<img src=\"https://talkgo.fm/images/episode/default.jpg\" width=\"50%\" />\n\n\n<p>Go 夜聊终于启动了，希望通过语音的方式跟大家度过通勤路程，如果能跟你产生帮助或者共鸣，我们会非常开心。</p>\n<h3 id=\"-相关链接\">🔗 相关链接</h3>\n<p><a href=\"https://maiyang.me/podcast_notes/\">播客重度听众群的分享</a></p>\n<h3 id=\"-联系我\">📝 联系我</h3>\n<p>欢迎你加入<a href=\"https://t.me/talkgofm\"> Go 夜聊听友群</a>。</p>"
+    },
+    "itunes_duration": "2723",
+    "image": {
+        "href": "https://talkgo.fm/images/episode/default-social.jpg"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkgo.fm/index.xml",
+            "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2020-0-7/42417068-44100-2-96dcc4fb83a13.mp3\" title=\"Go 夜聊，开篇\"></audio>\n\n<p><strong>Go 夜聊！</strong></p>\n\n\n<img src=\"https://talkgo.fm/images/episode/default.jpg\" width=\"50%\" />\n\n\n<p>Go 夜聊终于启动了，希望通过语音的方式跟大家度过通勤路程，如果能跟你产生帮助或者共鸣，我们会非常开心。</p>\n<h3 id=\"-相关链接\">🔗 相关链接</h3>\n<p><a href=\"https://maiyang.me/podcast_notes/\">播客重度听众群的分享</a></p>\n<h3 id=\"-联系我\">📝 联系我</h3>\n<p>欢迎你加入<a href=\"https://t.me/talkgofm\"> Go 夜聊听友群</a>。</p>"
+        }
+    ]
+}

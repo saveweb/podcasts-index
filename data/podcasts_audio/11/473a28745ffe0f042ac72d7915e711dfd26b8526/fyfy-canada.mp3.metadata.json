@@ -1,0 +1,34 @@
+{
+    "http-content-length": 41921954,
+    "http-etag": "e2dfdc08271a637b83d9a64f7eeebe20-5",
+    "http-last-modified": "Mon, 20 Dec 2021 15:58:37 GMT",
+    "http-last-modified-float": 1639987117.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 41921954,
+    "actual-duration": 5282,
+    "sha1": "33713cd77e550b11026c5cc0bdae2c2fab79f023",
+    "md5": "292e70c86d7e42d455da09c74c33b09c",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/fyfy-canada.mp3",
+            "headers": {
+                "Etag": "\"e2dfdc08271a637b83d9a64f7eeebe20-5\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:48:00 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Mon, 20 Dec 2021 15:58:37 GMT",
+                "Content-Length": "41921954",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "4223924919201714684",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

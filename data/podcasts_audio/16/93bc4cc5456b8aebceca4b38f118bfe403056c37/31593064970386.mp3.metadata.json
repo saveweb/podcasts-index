@@ -1,0 +1,63 @@
+{
+    "http-content-length": 23602073,
+    "http-etag": "a34092252014706eb07a575694a2d3cc",
+    "http-last-modified": "Thu, 25 Jun 2020 06:02:53 GMT",
+    "http-last-modified-float": 1593036173.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 23602073,
+    "actual-duration": 737,
+    "sha1": "55b28b79cb98ba961479d8e02db3134facdff431",
+    "md5": "a34092252014706eb07a575694a2d3cc",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/9zhoaflm/31593064970386.mp3",
+            "headers": {
+                "Date": "Thu, 06 Apr 2023 00:15:42 GMT",
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "197",
+                "Connection": "keep-alive",
+                "Cache-Control": "no-cache, no-store, must-revalidate",
+                "Pragma": "no-cache",
+                "Expires": "-1",
+                "Location": "https://assets.pubpub.org/9zhoaflm/31593064970386.mp3",
+                "Server": "Microsoft-IIS/10.0",
+                "X-AspNetMvc-Version": "4.0",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Headers": "*",
+                "Access-Control-Allow-Credentials": "true",
+                "X-AspNet-Version": "4.0.30319",
+                "X-Machine": "WEST5",
+                "X-Powered-By": "ASP.NET"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://assets.pubpub.org/9zhoaflm/31593064970386.mp3",
+            "headers": {
+                "Date": "Thu, 06 Apr 2023 00:15:43 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "23602073",
+                "Connection": "keep-alive",
+                "x-amz-replication-status": "COMPLETED",
+                "Last-Modified": "Thu, 25 Jun 2020 06:02:53 GMT",
+                "ETag": "\"a34092252014706eb07a575694a2d3cc\"",
+                "x-amz-version-id": "u.r575tk4dTBIvB5QMBT7.iHqy0Y4OrO",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 f8a15a8fc1b85d4b46ae1fb0c9b456cc.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "LAX53-P3",
+                "X-Amz-Cf-Id": "W66Szh9rKN0PyMvjj9yvog3QjbC_M9fSX0AKy5x8rn0ICulArqu-9A==",
+                "Cache-Control": "max-age=2678400",
+                "CF-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=xAT%2B2Kx55VU%2FPyXPMqTCZ1w9bxq13HPiTl2LOE8tATPkWuYUYZD5F%2FGwcl53Rl34VOxgtdlsmwuAnIJhh4fA3oKt4QGiNriym%2B7M2Wn0OCdxDRm0wK%2BUdvvgRCJYPrvTwvRc\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "CF-RAY": "7b35d6850d0709f5-LAS"
+            }
+        }
+    }
+}

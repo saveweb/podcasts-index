@@ -1,0 +1,74 @@
+{
+    "authors": [
+        {
+            "name": "Limboy"
+        }
+    ],
+    "author": "Limboy",
+    "author_detail": {
+        "name": "Limboy"
+    },
+    "itunes_title": "跟 Shu Ding 聊聊在 Vercel 的工作体验和柏林的生活",
+    "itunes_episode": "8",
+    "title": "8. 跟 Shu Ding 聊聊在 Vercel 的工作体验和柏林的生活",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "8. 跟 Shu Ding 聊聊在 Vercel 的工作体验和柏林的生活"
+    },
+    "published": "Fri, 25 Nov 2022 00:00:00 +0000",
+    "published_parsed": [
+        2022,
+        11,
+        25,
+        0,
+        0,
+        0,
+        4,
+        329,
+        0
+    ],
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://bytetalk.fm/posts/episode-8/"
+        },
+        {
+            "length": "109999252",
+            "type": "audio/x-m4a",
+            "href": "https://bytetalk.fm/podcasts/episode-8.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://bytetalk.fm/posts/episode-8/",
+    "id": "https://bytetalk.fm/posts/episode-8/",
+    "guidislink": false,
+    "itunes_duration": "76:23",
+    "subtitle": "<p><a href=\"https://shud.in/\">Shu</a> 目前住在柏林，就职于 <a href=\"https://vercel.com/\">Vercel</a>（也是 Vercel 早期员工），主要 Focus 在 <a href=\"https://nextjs.org/\">Next.js</a> 的研发。高中就接触编程，在前端开发和设计上有较深的积累，有不少受欢迎的作品：如 <a href=\"https://swr.vercel.app/\">SWR</a>，<a href=\"https://github.com/vercel/satori\">Satori</a>, <a href=\"https://github.com/shuding/nextra\">Nextra</a>。本期播客我们就来聊聊 Shu 的故事。</p>",
+    "subtitle_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p><a href=\"https://shud.in/\">Shu</a> 目前住在柏林，就职于 <a href=\"https://vercel.com/\">Vercel</a>（也是 Vercel 早期员工），主要 Focus 在 <a href=\"https://nextjs.org/\">Next.js</a> 的研发。高中就接触编程，在前端开发和设计上有较深的积累，有不少受欢迎的作品：如 <a href=\"https://swr.vercel.app/\">SWR</a>，<a href=\"https://github.com/vercel/satori\">Satori</a>, <a href=\"https://github.com/shuding/nextra\">Nextra</a>。本期播客我们就来聊聊 Shu 的故事。</p>"
+    },
+    "summary": "<p><a href=\"https://shud.in/\">Shu</a> 目前住在柏林，就职于 <a href=\"https://vercel.com/\">Vercel</a>（也是 Vercel 早期员工），主要 Focus 在 <a href=\"https://nextjs.org/\">Next.js</a> 的研发。高中就接触编程，在前端开发和设计上有较深的积累，有不少受欢迎的作品：如 <a href=\"https://swr.vercel.app/\">SWR</a>，<a href=\"https://github.com/vercel/satori\">Satori</a>, <a href=\"https://github.com/shuding/nextra\">Nextra</a>。本期播客我们就来聊聊 Shu 的故事。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p><a href=\"https://shud.in/\">Shu</a> 目前住在柏林，就职于 <a href=\"https://vercel.com/\">Vercel</a>（也是 Vercel 早期员工），主要 Focus 在 <a href=\"https://nextjs.org/\">Next.js</a> 的研发。高中就接触编程，在前端开发和设计上有较深的积累，有不少受欢迎的作品：如 <a href=\"https://swr.vercel.app/\">SWR</a>，<a href=\"https://github.com/vercel/satori\">Satori</a>, <a href=\"https://github.com/shuding/nextra\">Nextra</a>。本期播客我们就来聊聊 Shu 的故事。</p>"
+    },
+    "image": {
+        "href": "https://bytetalk.fm/posts/episode-8/cover.jpg"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://bytetalk.fm/index.xml",
+            "value": "<p><a href=\"https://shud.in/\">Shu</a> 目前住在柏林，就职于 <a href=\"https://vercel.com/\">Vercel</a>（也是 Vercel 早期员工），主要 Focus 在 <a href=\"https://nextjs.org/\">Next.js</a> 的研发。高中就接触编程，在前端开发和设计上有较深的积累，有不少受欢迎的作品：如 <a href=\"https://swr.vercel.app/\">SWR</a>，<a href=\"https://github.com/vercel/satori\">Satori</a>, <a href=\"https://github.com/shuding/nextra\">Nextra</a>。本期播客我们就来聊聊 Shu 的故事。</p>\n<span id=\"continue-reading\"></span><h3 id=\"timeline\">Timeline</h3>\n<ul>\n<li>00:47 高中开始接触编程，在卡西欧计算器上写了一个小游戏。</li>\n<li>05:33 为什么会选择 Web 领域？</li>\n<li>07:32 Design 对 Coding 的影响。</li>\n<li>11:58 前端开发领域，算法的重要性如何？</li>\n<li>16:16 如何看待前端领域「学不过来」的现象，如何保持热情？</li>\n<li>20:15 在柏林的生活节奏是怎样的？</li>\n<li>26:53 柏林跟国内相比一些便利的和不便利的点。</li>\n<li>29:57 怎么加入 Vercel 的？</li>\n<li>33:53 <a href=\"https://swr.vercel.app/\">SWR</a> Library 背后的一些故事。</li>\n<li>38:20 Vercel 团队内部的做事方式。</li>\n<li>41:43 如何协调开源项目和公司指定项目之间的关系？</li>\n<li>44:39 Vercel 目前的团队规模。</li>\n<li>46:02 各路牛人的加入，带来的改变和影响。</li>\n<li>48:30 在 Vercel 遇到过的比较有挑战的项目。</li>\n<li>55:33 如何看最近比较热门的 Remix？</li>\n<li>58:58 平时的一些业余爱好。</li>\n<li>59:33 推荐的书。</li>\n<li>61:01 利器推荐。</li>\n<li>67:30 对目前的状态还满意吗？</li>\n<li>73:38 对 Shu 影响比较大的人。</li>\n</ul>\n<h3 id=\"shownotes\">ShowNotes</h3>\n<ul>\n<li>片头音乐：<a href=\"https://www.youtube.com/watch?v=OkpiwHo0Po0\">Johnny I Hardly Knew Ye</a></li>\n<li><a href=\"https://shud.in/\">Shu's Blog</a></li>\n<li><a href=\"https://vercel.com/\">Vercel</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Generative_art\">Generative Art</a></li>\n<li><a href=\"https://cleanshot.com/\">CleanShotX</a>: Capture your Mac’s screen like a pro.</li>\n<li><a href=\"https://www.raycast.com/\">Raycast</a>: a blazingly fast, totally extendable launcher.</li>\n<li><a href=\"https://endel.io/\">Endel</a>: Personalized soundscapes to help you focus, relax, and sleep.</li>\n<li><a href=\"https://book.douban.com/subject/26376049/\">阿兰的战争</a></li>\n<li><a href=\"https://store.steampowered.com/app/282070/This_War_of_Mine/\">This War of Mine</a></li>\n<li><a href=\"http://aaronsw.com/\">Aaron Swartz</a></li>\n</ul>\n<h3>节目收听方式</h3>\n\n<ul>\n  <li><a href=\"https://www.xiaoyuzhoufm.com/podcast/6177bab6b69226ed16a3ed41\">小宇宙</a></li>\n  <li><a href=\"https://castro.fm/podcast/8a2dbe21-67f8-4314-a22f-2425b22ab506\">Castro</a></li>\n  <li><a href=\"https://pca.st/lqakcfor\">Pocket Casts</a></li>\n  <li><a href=\"https://open.spotify.com/show/6nsetXjeNJdjk6BltaLgcZ?si=63d3a273c8c148b5\">Spotify</a></li>\n  <li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9ieXRldGFsay5mbS9pbmRleC54bWw\">Google Podcasts</a></li>\n  <li><a href=\"https://podcasts.apple.com/us/podcast/bytetalk/id1592129150\">Apple Podcasts (CN not available, idky)</a>\n  </li>\n  <li><a href=\"https://bytetalk.fm/index.xml\">Feed URL</a></li>\n</ul>\n\n\n<blockquote>\n  <p>和不同的人聊天，会收获很多不同的东西，作为一个「老」程序员，我想跟不同领域的程序员们聊聊他们的故事、经历和感悟，或许也可以给正在收听的你一些启发。</p>\n  <p>邮件沟通：limboy.me@gmail.com，一般会在两天内回复。</p>\n</blockquote>"
+        }
+    ]
+}

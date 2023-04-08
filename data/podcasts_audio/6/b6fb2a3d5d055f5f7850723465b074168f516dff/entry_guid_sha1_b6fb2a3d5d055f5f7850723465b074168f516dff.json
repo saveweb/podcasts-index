@@ -1,0 +1,107 @@
+{
+    "title": "Episode 8: 禅与浏览器开发艺术 feat. 螺丝 @ 「没有主题的闲聊」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Episode 8: 禅与浏览器开发艺术 feat. 螺丝 @ 「没有主题的闲聊」"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/8"
+        },
+        {
+            "length": "81110940",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/b54c1d00-dad8-4cc9-b6d5-7143d66e50b2.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/8",
+    "id": "b54c1d00-dad8-4cc9-b6d5-7143d66e50b2",
+    "guidislink": false,
+    "published": "Mon, 24 Oct 2022 07:00:00 +0800",
+    "published_parsed": [
+        2022,
+        10,
+        23,
+        23,
+        0,
+        0,
+        6,
+        296,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "就 Arc 浏览器「横空出世」一事，我们继续与友台「没有主题的闲聊」主播螺丝一起探讨Arc 宣称「想要改变」（事实上也非常混乱不堪）的互联网（原本）究竟应该是什么样子的。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "就 Arc 浏览器「横空出世」一事，我们继续与友台「没有主题的闲聊」主播螺丝一起探讨Arc 宣称「想要改变」（事实上也非常混乱不堪）的互联网（原本）究竟应该是什么样子的。"
+    },
+    "itunes_duration": "1:52:29",
+    "itunes_explicit": null,
+    "summary": "<p>就 Arc 浏览器「横空出世」一事，我们继续与友台「没有主题的闲聊」主播螺丝一起探讨Arc 宣称「想要改变」（事实上也非常混乱不堪）的互联网（原本）究竟应该是什么样子的。</p>\n\n<h3>节目章节</h3>\n\n<ul>\n<li>00:00:00 小福利：我们会在 <a href=\"https://www.echojspodcast.com/8\" rel=\"nofollow\">官网本期节目页面</a> 评论区送出 Arc 浏览器邀请码</li>\n<li>00:00:24 开场跑火车</li>\n<li>00:20:08 Web app 之风是谁刮起来的？</li>\n<li>00:41:54 大家都讨厌 Electron，大家都用 Electron</li>\n<li>01:07:54 操作系统的终点是浏览器？</li>\n<li>01:18:08 批判 Arc 浏览器：它是一个「功能服务于设计」的灾难</li>\n<li>01:47:22 尾声</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li><a href=\"https://thebrowser.company\" rel=\"nofollow\">The Browser Company 官网</a>，The Browser Company 即 Arc Browser 开发团队</li>\n<li><a href=\"https://sspai.com/post/75216\" rel=\"nofollow\">《弧光未照明路，新衣难解旧愁——评 Arc 浏览器》</a>：少数派发布的关于 Arc 浏览器的测评文章</li>\n<li><a href=\"https://musikcube.com/old/\" rel=\"nofollow\">musikcube</a>：使用 SQL 语句筛选音乐播放列表（00:13:09）</li>\n<li><a href=\"https://web.archive.org/web/19991013091817/http://amazon.com/\" rel=\"nofollow\">1999 年的 amazon.com 的网页存档</a>（00:26:31）</li>\n<li><a href=\"https://www.webdesignmuseum.org/exhibitions/pixel-art-in-web-design\" rel=\"nofollow\">Pixel Art in Web Design</a>（00:35:08）</li>\n<li><a href=\"https://www.webdesignmuseum.org/gallery/pepsi-1996\" rel=\"nofollow\">Pepsi in 1996</a>：Pixel Art in Web Design 收录的百事在 1996 年的营销网站（00:36:01）</li>\n<li><a href=\"https://www.youtube.com/watch?v=HZiaHEmE9PQ&amp;t=317s\" rel=\"nofollow\">Buying a Chromebook was a BIG MISTAKE</a>：Linus Tech Tips 介绍如何安装 ChromeOS Flex 的视频（00:43:28）</li>\n<li><a href=\"https://dart.dev/\" rel=\"nofollow\">Dart 编程语言</a>（01:11:39）</li>\n<li><a href=\"https://vivaldi.com/zh-hans/\" rel=\"nofollow\">Vivaldi 浏览器</a>（01:30:40）</li>\n<li><a href=\"https://github.com/recative/recative-system\" rel=\"nofollow\">recative-system</a>：统一浏览器自动播放行为的前端框架（01:47:22）</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a> 或 <a href=\"https://discord.gg/zE7r4Mbfxw\" rel=\"nofollow\">Discord 群组</a></li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p><p>Special Guest: 螺丝.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<p>就 Arc 浏览器「横空出世」一事，我们继续与友台「没有主题的闲聊」主播螺丝一起探讨Arc 宣称「想要改变」（事实上也非常混乱不堪）的互联网（原本）究竟应该是什么样子的。</p>\n\n<h3>节目章节</h3>\n\n<ul>\n<li>00:00:00 小福利：我们会在 <a href=\"https://www.echojspodcast.com/8\" rel=\"nofollow\">官网本期节目页面</a> 评论区送出 Arc 浏览器邀请码</li>\n<li>00:00:24 开场跑火车</li>\n<li>00:20:08 Web app 之风是谁刮起来的？</li>\n<li>00:41:54 大家都讨厌 Electron，大家都用 Electron</li>\n<li>01:07:54 操作系统的终点是浏览器？</li>\n<li>01:18:08 批判 Arc 浏览器：它是一个「功能服务于设计」的灾难</li>\n<li>01:47:22 尾声</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li><a href=\"https://thebrowser.company\" rel=\"nofollow\">The Browser Company 官网</a>，The Browser Company 即 Arc Browser 开发团队</li>\n<li><a href=\"https://sspai.com/post/75216\" rel=\"nofollow\">《弧光未照明路，新衣难解旧愁——评 Arc 浏览器》</a>：少数派发布的关于 Arc 浏览器的测评文章</li>\n<li><a href=\"https://musikcube.com/old/\" rel=\"nofollow\">musikcube</a>：使用 SQL 语句筛选音乐播放列表（00:13:09）</li>\n<li><a href=\"https://web.archive.org/web/19991013091817/http://amazon.com/\" rel=\"nofollow\">1999 年的 amazon.com 的网页存档</a>（00:26:31）</li>\n<li><a href=\"https://www.webdesignmuseum.org/exhibitions/pixel-art-in-web-design\" rel=\"nofollow\">Pixel Art in Web Design</a>（00:35:08）</li>\n<li><a href=\"https://www.webdesignmuseum.org/gallery/pepsi-1996\" rel=\"nofollow\">Pepsi in 1996</a>：Pixel Art in Web Design 收录的百事在 1996 年的营销网站（00:36:01）</li>\n<li><a href=\"https://www.youtube.com/watch?v=HZiaHEmE9PQ&amp;t=317s\" rel=\"nofollow\">Buying a Chromebook was a BIG MISTAKE</a>：Linus Tech Tips 介绍如何安装 ChromeOS Flex 的视频（00:43:28）</li>\n<li><a href=\"https://dart.dev/\" rel=\"nofollow\">Dart 编程语言</a>（01:11:39）</li>\n<li><a href=\"https://vivaldi.com/zh-hans/\" rel=\"nofollow\">Vivaldi 浏览器</a>（01:30:40）</li>\n<li><a href=\"https://github.com/recative/recative-system\" rel=\"nofollow\">recative-system</a>：统一浏览器自动播放行为的前端框架（01:47:22）</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a> 或 <a href=\"https://discord.gg/zE7r4Mbfxw\" rel=\"nofollow\">Discord 群组</a></li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p><p>Special Guest: 螺丝.</p>"
+    },
+    "tags": [
+        {
+            "term": "Arc 浏览器",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "web",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "前端",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "互联网",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<p>就 Arc 浏览器「横空出世」一事，我们继续与友台「没有主题的闲聊」主播螺丝一起探讨Arc 宣称「想要改变」（事实上也非常混乱不堪）的互联网（原本）究竟应该是什么样子的。</p>\n\n<h3>节目章节</h3>\n\n<ul>\n<li>00:00:00 小福利：我们会在 <a href=\"https://www.echojspodcast.com/8\" rel=\"nofollow\">官网本期节目页面</a> 评论区送出 Arc 浏览器邀请码</li>\n<li>00:00:24 开场跑火车</li>\n<li>00:20:08 Web app 之风是谁刮起来的？</li>\n<li>00:41:54 大家都讨厌 Electron，大家都用 Electron</li>\n<li>01:07:54 操作系统的终点是浏览器？</li>\n<li>01:18:08 批判 Arc 浏览器：它是一个「功能服务于设计」的灾难</li>\n<li>01:47:22 尾声</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li><a href=\"https://thebrowser.company\" rel=\"nofollow\">The Browser Company 官网</a>，The Browser Company 即 Arc Browser 开发团队</li>\n<li><a href=\"https://sspai.com/post/75216\" rel=\"nofollow\">《弧光未照明路，新衣难解旧愁——评 Arc 浏览器》</a>：少数派发布的关于 Arc 浏览器的测评文章</li>\n<li><a href=\"https://musikcube.com/old/\" rel=\"nofollow\">musikcube</a>：使用 SQL 语句筛选音乐播放列表（00:13:09）</li>\n<li><a href=\"https://web.archive.org/web/19991013091817/http://amazon.com/\" rel=\"nofollow\">1999 年的 amazon.com 的网页存档</a>（00:26:31）</li>\n<li><a href=\"https://www.webdesignmuseum.org/exhibitions/pixel-art-in-web-design\" rel=\"nofollow\">Pixel Art in Web Design</a>（00:35:08）</li>\n<li><a href=\"https://www.webdesignmuseum.org/gallery/pepsi-1996\" rel=\"nofollow\">Pepsi in 1996</a>：Pixel Art in Web Design 收录的百事在 1996 年的营销网站（00:36:01）</li>\n<li><a href=\"https://www.youtube.com/watch?v=HZiaHEmE9PQ&amp;t=317s\" rel=\"nofollow\">Buying a Chromebook was a BIG MISTAKE</a>：Linus Tech Tips 介绍如何安装 ChromeOS Flex 的视频（00:43:28）</li>\n<li><a href=\"https://dart.dev/\" rel=\"nofollow\">Dart 编程语言</a>（01:11:39）</li>\n<li><a href=\"https://vivaldi.com/zh-hans/\" rel=\"nofollow\">Vivaldi 浏览器</a>（01:30:40）</li>\n<li><a href=\"https://github.com/recative/recative-system\" rel=\"nofollow\">recative-system</a>：统一浏览器自动播放行为的前端框架（01:47:22）</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a> 或 <a href=\"https://discord.gg/zE7r4Mbfxw\" rel=\"nofollow\">Discord 群组</a></li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p><p>Special Guest: 螺丝.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+pwNOW1nX",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+pwNOW1nX\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_chapters": {
+        "url": "https://feeds.fireside.fm/echojs/json/episodes/b54c1d00-dad8-4cc9-b6d5-7143d66e50b2/chapters",
+        "type": "application/json"
+    },
+    "podcast_person": {
+        "email": "",
+        "href": "https://roriri.one",
+        "role": "guest"
+    }
+}

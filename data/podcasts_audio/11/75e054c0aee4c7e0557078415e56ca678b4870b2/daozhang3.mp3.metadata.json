@@ -1,0 +1,34 @@
+{
+    "http-content-length": 56548760,
+    "http-etag": "1b164c9600b43cb8a4b3a18e1189ce5f-54",
+    "http-last-modified": "Sun, 29 Mar 2020 02:25:27 GMT",
+    "http-last-modified-float": 1585419927.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 56548760,
+    "actual-duration": 3526,
+    "sha1": "f0ccd700d57c4fe492b84fad1f8357b6e6134e68",
+    "md5": "ee30702cb53e3b10d389281a29e4072f",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/daozhang3.mp3",
+            "headers": {
+                "Etag": "\"1b164c9600b43cb8a4b3a18e1189ce5f-54\"",
+                "Content-Type": "audio/mp3",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:44:51 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Sun, 29 Mar 2020 02:25:27 GMT",
+                "Content-Length": "56548760",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "8938495763909368266",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "links": [
+        {
+            "length": "26175552",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo1NSwiZSI6MzE5MywicCI6MiwidSI6IjJmYmEubXAzIn0.2f85cgcuqQvocngTZtAm_ASW_po/yitianshijie/z_7a1de60b9e321653f506f2098cbb2fba.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://yitianshijie.net/episodes/45"
+        }
+    ],
+    "title": "Episode 45: 作为听觉 AR 的 AirPods",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": "Episode 45: 作为听觉 AR 的 AirPods"
+    },
+    "id": "https://yitianshijie.net/episodes/45",
+    "guidislink": true,
+    "link": "https://yitianshijie.net/episodes/45",
+    "authors": [
+        {
+            "name": "不鳥萬如一"
+        }
+    ],
+    "author": "不鳥萬如一",
+    "author_detail": {
+        "name": "不鳥萬如一"
+    },
+    "itunes_duration": "36:12",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "image": {
+        "href": "https://i.typlog.com/yitianshijie/z_96e9e5f6c3fcaee6eabbbe8675b2f498.png?x-oss-process=style/sl"
+    },
+    "summary": "",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": ""
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        }
+    ],
+    "published": "Fri, 23 Dec 2016 12:00:00 +0000",
+    "published_parsed": [
+        2016,
+        12,
+        23,
+        12,
+        0,
+        0,
+        4,
+        358,
+        0
+    ]
+}

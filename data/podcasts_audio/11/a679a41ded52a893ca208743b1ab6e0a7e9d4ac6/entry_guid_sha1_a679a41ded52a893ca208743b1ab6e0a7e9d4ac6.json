@@ -1,0 +1,110 @@
+{
+    "title": "游戏加速纵横谈",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "游戏加速纵横谈"
+    },
+    "itunes_episode": "44",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "142121509",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/44.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 10 Sep 2019 07:20:00 CDT",
+    "published_parsed": [
+        2019,
+        9,
+        10,
+        12,
+        20,
+        0,
+        1,
+        253,
+        0
+    ],
+    "summary": "<p>一期关于游戏、加速器和创业的杂谈，聊得非常过瘾，希望大家也能听得过瘾！</p>\n\n<p>“加速器只有两种，一种是没人用的，另一种是垃圾加速器。”</p>\n\n<p>前段时间请羊神来录了 UU 加速器的开发日常，更多的是从开发者的角度来聊。这次请到了爆炸大哥，他曾经和朋友创业做过加速器，四年时间，经历了加速器行业从无到有的整个过程，从另一个角度带大家体验一下那段有趣又鲜为人知的经历。</p>\n\n<p>第一部分我们先从游戏开始聊起，说说为什么产生了加速器这个需求。然后详细的讲讲爆炸大哥的创业经历，有两年的困难时期，也有需求井喷带来的高速发展。接着聊技术，爆炸大哥非常详细的介绍了加速器的技术难题和现在行业内的解决方案。这段干货非常多，大家一定要听仔细。</p>\n\n<p>第二部分聊点轻松的。先说整个创业过程中的趣事，被游戏公司当做外挂封号，被 PUBG 渣运维折磨的全体同行，满足用户虚荣心的假延迟，还有各种做客服遇到的小故事。接着聊聊加速器江湖。看名字就知道是个特别危险的话题，各种市场推广手段，主播合作，互相攻击。作为一个公开的播客节目，能讲出来的只是冰山一角。但哪怕是这一角，我也听得津津有味，大家一定不要错过。</p>\n\n<p>第三部分讨论几个独立的话题。首先是接着上一期，补充一些网络编程的学习方法。然后聊聊远程工作带来的问题和思考。爆炸大哥有丰富的远程工作经验，也管理着远程工作团队，从公司层面提出了很多看法，我觉得很有价值。最后，聊聊技术人绕不开的话题——创业。还是那句话，创业须谨慎。</p>\n\n<p>内容非常丰富的一期，希望大家听得过瘾，听得开心！</p>\n\n<p>说明：</p>\n<ul>\n    <li>利润部分，爆炸大哥提到的三成是毛利润，不是净利润。精算后的净利润应该在 10% 左右，是个苦命行业。所以也没有资本来追逐。</li>\n    <li>这期短短三天剪辑过程中，出现了两个相关新闻，迅游：https://finance.sina.com.cn/stock/relnews/cn/2019-09-07/doc-iicezueu4063406.shtml，ZOOM：https://www.zoom.cn/zoomnews/2019/0909/943.html</li>\n</ul>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>《UU 加速器和 macOS 开发》：https://talk.swift.gg/39</li>\n<li>提到的技术：LSP（Layered Service Provider），WFP（Windows Filtering Platform），TDI（Transport Driver Interface），NDIS（Network Driver Interface Specification），DPDK（Data Plane Development Kit），腾讯的 F-Stack</li>\n<li>《TCP/IP 详解》：https://item.jd.com/11311644.html</li>\n<li>《Unix 网络编程》：https://item.jd.com/11728741.html，https://item.jd.com/11728727.html</li>\n<li>《Wireshark 网络分析的艺术》：https://item.jd.com/11863992.html#none</li>\n<li>《Linux 多线程服务端编程》：https://item.jd.com/11163782.html</li>\n<li>《“家里蹲”到底什么感觉》：https://talk.swift.gg/24</li>\n<li>之前录的三期《创业那点事》：https://talk.swift.gg/9，https://talk.swift.gg/10，https://talk.swift.gg/11</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:21  自我介绍</li>\n<li>02:33  游戏的发展过程 + 我们玩过的游戏</li>\n<li>13:33  爆炸大哥的加速器创业经历</li>\n<li>38:01  加速器的技术含量到底高不高</li>\n<li>40:38  “线路”到底是什么</li>\n<li>47:50  加速技术的两大难题</li>\n<li>01:05:15  不同平台的加速方案对比</li>\n<li>01:10:00  加速器与游戏趣事</li>\n<li>01:26:02  加速器江湖</li>\n<li>01:49:57  如何学习网络编程</li>\n<li>01:55:49  聊聊远程工作</li>\n<li>02:16:58  聊聊创业</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>一期关于游戏、加速器和创业的杂谈，聊得非常过瘾，希望大家也能听得过瘾！</p>\n\n<p>“加速器只有两种，一种是没人用的，另一种是垃圾加速器。”</p>\n\n<p>前段时间请羊神来录了 UU 加速器的开发日常，更多的是从开发者的角度来聊。这次请到了爆炸大哥，他曾经和朋友创业做过加速器，四年时间，经历了加速器行业从无到有的整个过程，从另一个角度带大家体验一下那段有趣又鲜为人知的经历。</p>\n\n<p>第一部分我们先从游戏开始聊起，说说为什么产生了加速器这个需求。然后详细的讲讲爆炸大哥的创业经历，有两年的困难时期，也有需求井喷带来的高速发展。接着聊技术，爆炸大哥非常详细的介绍了加速器的技术难题和现在行业内的解决方案。这段干货非常多，大家一定要听仔细。</p>\n\n<p>第二部分聊点轻松的。先说整个创业过程中的趣事，被游戏公司当做外挂封号，被 PUBG 渣运维折磨的全体同行，满足用户虚荣心的假延迟，还有各种做客服遇到的小故事。接着聊聊加速器江湖。看名字就知道是个特别危险的话题，各种市场推广手段，主播合作，互相攻击。作为一个公开的播客节目，能讲出来的只是冰山一角。但哪怕是这一角，我也听得津津有味，大家一定不要错过。</p>\n\n<p>第三部分讨论几个独立的话题。首先是接着上一期，补充一些网络编程的学习方法。然后聊聊远程工作带来的问题和思考。爆炸大哥有丰富的远程工作经验，也管理着远程工作团队，从公司层面提出了很多看法，我觉得很有价值。最后，聊聊技术人绕不开的话题——创业。还是那句话，创业须谨慎。</p>\n\n<p>内容非常丰富的一期，希望大家听得过瘾，听得开心！</p>\n\n<p>说明：</p>\n<ul>\n    <li>利润部分，爆炸大哥提到的三成是毛利润，不是净利润。精算后的净利润应该在 10% 左右，是个苦命行业。所以也没有资本来追逐。</li>\n    <li>这期短短三天剪辑过程中，出现了两个相关新闻，迅游：https://finance.sina.com.cn/stock/relnews/cn/2019-09-07/doc-iicezueu4063406.shtml，ZOOM：https://www.zoom.cn/zoomnews/2019/0909/943.html</li>\n</ul>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>《UU 加速器和 macOS 开发》：https://talk.swift.gg/39</li>\n<li>提到的技术：LSP（Layered Service Provider），WFP（Windows Filtering Platform），TDI（Transport Driver Interface），NDIS（Network Driver Interface Specification），DPDK（Data Plane Development Kit），腾讯的 F-Stack</li>\n<li>《TCP/IP 详解》：https://item.jd.com/11311644.html</li>\n<li>《Unix 网络编程》：https://item.jd.com/11728741.html，https://item.jd.com/11728727.html</li>\n<li>《Wireshark 网络分析的艺术》：https://item.jd.com/11863992.html#none</li>\n<li>《Linux 多线程服务端编程》：https://item.jd.com/11163782.html</li>\n<li>《“家里蹲”到底什么感觉》：https://talk.swift.gg/24</li>\n<li>之前录的三期《创业那点事》：https://talk.swift.gg/9，https://talk.swift.gg/10，https://talk.swift.gg/11</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:21  自我介绍</li>\n<li>02:33  游戏的发展过程 + 我们玩过的游戏</li>\n<li>13:33  爆炸大哥的加速器创业经历</li>\n<li>38:01  加速器的技术含量到底高不高</li>\n<li>40:38  “线路”到底是什么</li>\n<li>47:50  加速技术的两大难题</li>\n<li>01:05:15  不同平台的加速方案对比</li>\n<li>01:10:00  加速器与游戏趣事</li>\n<li>01:26:02  加速器江湖</li>\n<li>01:49:57  如何学习网络编程</li>\n<li>01:55:49  聊聊远程工作</li>\n<li>02:16:58  聊聊创业</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/44.mp3",
+    "guidislink": false,
+    "itunes_duration": "02:28:02",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n一期关于游戏、加速器和创业的杂谈，聊得非常过瘾，希望大家也能听得过瘾！</p>\n\n<p>“加速器只有两种，一种是没人用的，另一种是垃圾加速器。”</p>\n\n<p>前段时间请羊神来录了 UU 加速器的开发日常，更多的是从开发者的角度来聊。这次请到了爆炸大哥，他曾经和朋友创业做过加速器，四年时间，经历了加速器行业从无到有的整个过程，从另一个角度带大家体验一下那段有趣又鲜为人知的经历。</p>\n\n<p>第一部分我们先从游戏开始聊起，说说为什么产生了加速器这个需求。然后详细的讲讲爆炸大哥的创业经历，有两年的困难时期，也有需求井喷带来的高速发展。接着聊技术，爆炸大哥非常详细的介绍了加速器的技术难题和现在行业内的解决方案。这段干货非常多，大家一定要听仔细。</p>\n\n<p>第二部分聊点轻松的。先说整个创业过程中的趣事，被游戏公司当做外挂封号，被 PUBG 渣运维折磨的全体同行，满足用户虚荣心的假延迟，还有各种做客服遇到的小故事。接着聊聊加速器江湖。看名字就知道是个特别危险的话题，各种市场推广手段，主播合作，互相攻击。作为一个公开的播客节目，能讲出来的只是冰山一角。但哪怕是这一角，我也听得津津有味，大家一定不要错过。</p>\n\n<p>第三部分讨论几个独立的话题。首先是接着上一期，补充一些网络编程的学习方法。然后聊聊远程工作带来的问题和思考。爆炸大哥有丰富的远程工作经验，也管理着远程工作团队，从公司层面提出了很多看法，我觉得很有价值。最后，聊聊技术人绕不开的话题——创业。还是那句话，创业须谨慎。</p>\n\n<p>内容非常丰富的一期，希望大家听得过瘾，听得开心！</p>\n\n<p>说明：</p>\n<ul>\n    <li>利润部分，爆炸大哥提到的三成是毛利润，不是净利润。精算后的净利润应该在 10% 左右，是个苦命行业。所以也没有资本来追逐。</li>\n    <li>这期短短三天剪辑过程中，出现了两个相关新闻，迅游：https://finance.sina.com.cn/stock/relnews/cn/2019-09-07/doc-iicezueu4063406.shtml，ZOOM：https://www.zoom.cn/zoomnews/2019/0909/943.html</li>\n</ul>\n\n<p>参考链接：</p>\n<ul>\n<li>ggtalk 听众交流群，请添加我的 wx：lj925184928，注明 ggtalk</li>\n<li>《UU 加速器和 macOS 开发》：https://talk.swift.gg/39</li>\n<li>提到的技术：LSP（Layered Service Provider），WFP（Windows Filtering Platform），TDI（Transport Driver Interface），NDIS（Network Driver Interface Specification），DPDK（Data Plane Development Kit），腾讯的 F-Stack</li>\n<li>《TCP/IP 详解》：https://item.jd.com/11311644.html</li>\n<li>《Unix 网络编程》：https://item.jd.com/11728741.html，https://item.jd.com/11728727.html</li>\n<li>《Wireshark 网络分析的艺术》：https://item.jd.com/11863992.html#none</li>\n<li>《Linux 多线程服务端编程》：https://item.jd.com/11163782.html</li>\n<li>《“家里蹲”到底什么感觉》：https://talk.swift.gg/24</li>\n<li>之前录的三期《创业那点事》：https://talk.swift.gg/9，https://talk.swift.gg/10，https://talk.swift.gg/11</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:21  自我介绍</li>\n<li>02:33  游戏的发展过程 + 我们玩过的游戏</li>\n<li>13:33  爆炸大哥的加速器创业经历</li>\n<li>38:01  加速器的技术含量到底高不高</li>\n<li>40:38  “线路”到底是什么</li>\n<li>47:50  加速技术的两大难题</li>\n<li>01:05:15  不同平台的加速方案对比</li>\n<li>01:10:00  加速器与游戏趣事</li>\n<li>01:26:02  加速器江湖</li>\n<li>01:49:57  如何学习网络编程</li>\n<li>01:55:49  聊聊远程工作</li>\n<li>02:16:58  聊聊创业</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "加速器",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "游戏",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "远程工作",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "网络编程",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "创业",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

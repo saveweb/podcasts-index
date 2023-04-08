@@ -1,0 +1,34 @@
+{
+    "http-content-length": 50031050,
+    "http-etag": "5f9c6c15e18b953cbbfa3af489995261-48",
+    "http-last-modified": "Sun, 21 Jun 2020 17:42:53 GMT",
+    "http-last-modified-float": 1592732573.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 50031050,
+    "actual-duration": 6238,
+    "sha1": "20fdeda1d0d357f3a29e70a5f4fc1fbd9440fe12",
+    "md5": "2dfe5d86f9328dd5de67ea39d6cbc3cf",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/zhiyebing.mp3",
+            "headers": {
+                "Etag": "\"5f9c6c15e18b953cbbfa3af489995261-48\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_CC5",
+                "Date": "Wed, 05 Apr 2023 15:45:18 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Sun, 21 Jun 2020 17:42:53 GMT",
+                "Content-Length": "50031050",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "3032286442959311756",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

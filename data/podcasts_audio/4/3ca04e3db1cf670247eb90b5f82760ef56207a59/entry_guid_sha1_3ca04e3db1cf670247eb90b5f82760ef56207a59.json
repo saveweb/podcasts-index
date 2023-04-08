@@ -1,0 +1,74 @@
+{
+    "authors": [
+        {
+            "name": "Limboy"
+        }
+    ],
+    "author": "Limboy",
+    "author_detail": {
+        "name": "Limboy"
+    },
+    "itunes_title": "跟 Xiaohanyu 聊聊在 gojek 的工作经历、远程工作和不同城市的风貌",
+    "itunes_episode": "9",
+    "title": "9. 跟 Xiaohanyu 聊聊在 gojek 的工作经历、远程工作和不同城市的风貌",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "9. 跟 Xiaohanyu 聊聊在 gojek 的工作经历、远程工作和不同城市的风貌"
+    },
+    "published": "Thu, 15 Dec 2022 00:00:00 +0000",
+    "published_parsed": [
+        2022,
+        12,
+        15,
+        0,
+        0,
+        0,
+        3,
+        349,
+        0
+    ],
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://bytetalk.fm/posts/episode-9/"
+        },
+        {
+            "length": "122089766",
+            "type": "audio/x-m4a",
+            "href": "https://bytetalk.fm/podcasts/episode-9.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://bytetalk.fm/posts/episode-9/",
+    "id": "https://bytetalk.fm/posts/episode-9/",
+    "guidislink": false,
+    "itunes_duration": "84:47",
+    "subtitle": "<p><a href=\"https://www.douban.com/people/xiaohanyu/\">Xiaohanyu</a> 在多家国外公司工作过（<a href=\"https://shopee.com/\">Shopee</a>、<a href=\"https://www.gojek.com/en-id/\">gojek</a>），旅居过多个城市，是一名全栈工程师，也是热文 <a href=\"https://www.douban.com/note/606247970/?_i=10382350XILVIp\">教育对人的改变有多大？</a> 的作者，本期播客就跟 Xiaohanyu 来聊聊他的故事。</p>",
+    "subtitle_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p><a href=\"https://www.douban.com/people/xiaohanyu/\">Xiaohanyu</a> 在多家国外公司工作过（<a href=\"https://shopee.com/\">Shopee</a>、<a href=\"https://www.gojek.com/en-id/\">gojek</a>），旅居过多个城市，是一名全栈工程师，也是热文 <a href=\"https://www.douban.com/note/606247970/?_i=10382350XILVIp\">教育对人的改变有多大？</a> 的作者，本期播客就跟 Xiaohanyu 来聊聊他的故事。</p>"
+    },
+    "summary": "<p><a href=\"https://www.douban.com/people/xiaohanyu/\">Xiaohanyu</a> 在多家国外公司工作过（<a href=\"https://shopee.com/\">Shopee</a>、<a href=\"https://www.gojek.com/en-id/\">gojek</a>），旅居过多个城市，是一名全栈工程师，也是热文 <a href=\"https://www.douban.com/note/606247970/?_i=10382350XILVIp\">教育对人的改变有多大？</a> 的作者，本期播客就跟 Xiaohanyu 来聊聊他的故事。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p><a href=\"https://www.douban.com/people/xiaohanyu/\">Xiaohanyu</a> 在多家国外公司工作过（<a href=\"https://shopee.com/\">Shopee</a>、<a href=\"https://www.gojek.com/en-id/\">gojek</a>），旅居过多个城市，是一名全栈工程师，也是热文 <a href=\"https://www.douban.com/note/606247970/?_i=10382350XILVIp\">教育对人的改变有多大？</a> 的作者，本期播客就跟 Xiaohanyu 来聊聊他的故事。</p>"
+    },
+    "image": {
+        "href": "https://bytetalk.fm/posts/episode-9/cover.jpg"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://bytetalk.fm/index.xml",
+            "value": "<p><a href=\"https://www.douban.com/people/xiaohanyu/\">Xiaohanyu</a> 在多家国外公司工作过（<a href=\"https://shopee.com/\">Shopee</a>、<a href=\"https://www.gojek.com/en-id/\">gojek</a>），旅居过多个城市，是一名全栈工程师，也是热文 <a href=\"https://www.douban.com/note/606247970/?_i=10382350XILVIp\">教育对人的改变有多大？</a> 的作者，本期播客就跟 Xiaohanyu 来聊聊他的故事。</p>\n<span id=\"continue-reading\"></span>\n<p>PS: 本次访谈中会有较详细的 Sprint、结对编程相关的内容，感兴趣的同学可以关注下。</p>\n<h3 id=\"timeline\">Timeline</h3>\n<ul>\n<li>08:35 远程工作的感受。\n<ul>\n<li>自由度高，办公空间可以高度定制，不容易被打断，有明确的上下班时间点，但容易产生孤独感和对同事的陌生感，需要定时线下聚一聚。</li>\n</ul>\n</li>\n<li>17:51 那些印象深刻的城市。\n<ul>\n<li>墨尔本的自然环境和人文环境都不错；悉尼更现代化些；新加坡的山海拔偏低、城市干净、很舒服，自然环境的层次性和丰富性差了些；三藩有山有海挺不错；国内定居会倾向于杭州。</li>\n</ul>\n</li>\n<li>27:31 为什么会选择 gojek。\n<ul>\n<li>Shopee 做到后面不太称心，猎头介绍 gojek，调研后觉得可以考虑，interview 的 process 很有意思，会有结对编程。</li>\n</ul>\n</li>\n<li>37:18 聊聊结对编程。\n<ul>\n<li>没有摸鱼时间，更高效，知识的传承，代码质量提高。</li>\n</ul>\n</li>\n<li>43:45 gojek 的 sprint workflow。\n<ul>\n<li>ticket 有优先级，一个 sprint 会有多个 ticket，ticket 会有 points，一个 sprint 走完后会有 review，比如目标没达成的原因，之后如何避免等等，不太会 blame 个人，而是从团队整体去考虑，工作量是团队认可的，而不仅仅是一个人单独估的。</li>\n</ul>\n</li>\n<li>64:00 ticket 是 assign 的，还是自己提的？\n<ul>\n<li>自己写，完成一个 ticket 后，再从池子里挑一个来做。</li>\n</ul>\n</li>\n<li>76:43 「教育对人的改变有多大？」这篇文章带来的影响。</li>\n<li>80:49 看过的觉得不错的书推荐。</li>\n</ul>\n<h3 id=\"show-notes\">Show Notes</h3>\n<ul>\n<li>片头曲：Starry Starry Night (Lianne La Havas)</li>\n<li><a href=\"https://www.douban.com/note/606247970/?_i=10415570XILVIp\">教育对人的改变有多大？</a></li>\n<li><a href=\"https://book.douban.com/subject/35546622/\">置身事内</a></li>\n<li><a href=\"https://book.douban.com/subject/26759191/\">邓稼先传</a></li>\n</ul>\n<h3>节目收听方式</h3>\n\n<ul>\n  <li><a href=\"https://www.xiaoyuzhoufm.com/podcast/6177bab6b69226ed16a3ed41\">小宇宙</a></li>\n  <li><a href=\"https://castro.fm/podcast/8a2dbe21-67f8-4314-a22f-2425b22ab506\">Castro</a></li>\n  <li><a href=\"https://pca.st/lqakcfor\">Pocket Casts</a></li>\n  <li><a href=\"https://open.spotify.com/show/6nsetXjeNJdjk6BltaLgcZ?si=63d3a273c8c148b5\">Spotify</a></li>\n  <li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9ieXRldGFsay5mbS9pbmRleC54bWw\">Google Podcasts</a></li>\n  <li><a href=\"https://podcasts.apple.com/us/podcast/bytetalk/id1592129150\">Apple Podcasts (CN not available, idky)</a>\n  </li>\n  <li><a href=\"https://bytetalk.fm/index.xml\">Feed URL</a></li>\n</ul>\n\n\n<blockquote>\n  <p>和不同的人聊天，会收获很多不同的东西，作为一个「老」程序员，我想跟不同领域的程序员们聊聊他们的故事、经历和感悟，或许也可以给正在收听的你一些启发。</p>\n  <p>邮件沟通：limboy.me@gmail.com，一般会在两天内回复。</p>\n</blockquote>"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "第 8 期：泛型来了！",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 8 期：泛型来了！"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talkgo.fm/podcasts/8-go-generics/"
+        },
+        {
+            "length": "128501469",
+            "type": "audio/mpeg",
+            "href": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-8-30/288455306-22050-1-6ce3e1bebc472.m4a",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talkgo.fm/podcasts/8-go-generics/",
+    "published": "Fri, 30 Sep 2022 08:35:00 +0800",
+    "published_parsed": [
+        2022,
+        9,
+        30,
+        0,
+        35,
+        0,
+        4,
+        273,
+        0
+    ],
+    "id": "https://talkgo.fm/podcasts/8-go-generics/",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Go 夜聊"
+        },
+        {
+            "name": "Go 夜聊"
+        }
+    ],
+    "author": "Go 夜聊",
+    "author_detail": {
+        "name": "Go 夜聊"
+    },
+    "subtitle": "第 8 期：泛型来了！",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 8 期：泛型来了！"
+    },
+    "summary": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-8-30/288455306-22050-1-6ce3e1bebc472.m4a\" title=\"这是 Go 夜聊的第八期节目，我们和 Go 语言 101 的作者一起聊了聊期待已久的泛型，我们聊到了为什么需要泛型，设计的优点、讨论时的期望与正式发布时的失望。新出现的类型集是什么？comparable 又是什么？目前的泛型设计在未来还有多大的改进空间？\"></audio>\n\n<h1 id=\"第-8-期泛型来了\">第 8 期：泛型来了！</h1>\n<p>录制时间： <strong>2022-05-06</strong></p>\n<ul>\n<li>嘉宾：<a href=\"https://gfw.tapirgames.com/\">老貘</a></li>\n<li>主持：<a href=\"https://maiyang.me/\">杨文</a>，<a href=\"https://changkun.de/\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第八期节目，我们和 Go 语言 101 的作者一起聊了聊期待已久的泛型，我们聊到了为什么需要泛型，设计的优点、讨论时的期望与正式发布时的失望。新出现的类型集是什么？comparable 又是什么？目前的泛型设计在未来还有多大的改进空间？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:12 开场</li>\n<li>01:10 接触 Go 语言的动机</li>\n<li>03:30 编写《Go 101》的原因</li>\n<li>04:42 活跃在 Go 语言社区</li>\n<li>09:27 独立游戏的行业经历</li>\n<li>12:11 用 Go 语言做游戏</li>\n<li>13:51 泛型产生的动机，与 Go Generate 的对比</li>\n<li>20:21 接口、类型集、类型约束的关系</li>\n<li>28:36 类型集与泛型的关系</li>\n<li>30:40 接口与类型集是同一个概念吗？</li>\n<li>31:34 comparable 类型、它能解决什么问题、它还有哪些争议</li>\n<li>37:42 接口作为值类型</li>\n<li>42:45 泛型设计的其他优点</li>\n<li>48:10 泛型设计的缺点</li>\n<li>58:09 泛型设计的限制</li>\n<li>66:09 对泛型未来的期望与失望</li>\n<li>68:20 Go 团队排外吗？</li>\n<li>71:35 Go 语言 101 背后的故事</li>\n<li>83:38 结尾推荐</li>\n<li>87:55 尾声</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://gfw.tapirgames.com/\">老貘的主页</a></li>\n<li><a href=\"https://go101.org/\">Go 语言 101</a></li>\n<li><a href=\"https://go101.org/generics/101.html\">Go 泛型 101</a></li>\n<li><a href=\"https://go.dev/doc/tutorial/generics\">泛型的官方上手教程</a></li>\n<li><a href=\"https://go-review.googlesource.com/c/go/+/401874\">观点：类型集和接口不等价</a></li>\n<li><a href=\"https://go.dev/issue/50646\">spec: document definition of comparable</a></li>\n<li><a href=\"https://go.dev/issue/51257\">spec: any no longer implements comparable</a></li>\n<li><a href=\"https://go.dev/issue/51338\">proposal: spec: permit values to have type &ldquo;comparable&rdquo;</a></li>\n<li><a href=\"https://go.dev/issue/52474\">proposal: spec: permit non-interface types that support == to satisfy the comparable constraint</a></li>\n<li><a href=\"https://go.dev/issue/52509\">proposal: spec: allow interface types to instantiate comparable type parameters</a></li>\n<li><a href=\"https://go.dev/issue/52531\">proposal: spec: add new constraint kind satisfied by types that support == (including interface types)</a></li>\n<li><a href=\"https://go.dev/issue/52614\">proposal: type parameters are comparable unless they exclude comparable types</a></li>\n<li><a href=\"https://go.dev/issue/52624\">proposal: the comparable interface represents the comparable subset of run-time values</a></li>\n<li><a href=\"https://go.dev/issue/48287\">how to update APIs for generics</a></li>\n<li><a href=\"https://go.dev/issue/49085\">proposal: spec: allow type parameters in methods</a></li>\n<li><a href=\"https://book.douban.com/subject/1770782/\">追风筝的人</a></li>\n<li><a href=\"https://book.douban.com/subject/2143732/\">灿烂千阳</a></li>\n<li><a href=\"https://book.douban.com/subject/24845582/\">群山回唱</a></li>\n<li><a href=\"https://book.douban.com/subject/3206314/\">理解自由意志</a></li>\n<li><a href=\"https://book.douban.com/subject/35149258/\">AI 新生</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-8-30/288455306-22050-1-6ce3e1bebc472.m4a\" title=\"这是 Go 夜聊的第八期节目，我们和 Go 语言 101 的作者一起聊了聊期待已久的泛型，我们聊到了为什么需要泛型，设计的优点、讨论时的期望与正式发布时的失望。新出现的类型集是什么？comparable 又是什么？目前的泛型设计在未来还有多大的改进空间？\"></audio>\n\n<h1 id=\"第-8-期泛型来了\">第 8 期：泛型来了！</h1>\n<p>录制时间： <strong>2022-05-06</strong></p>\n<ul>\n<li>嘉宾：<a href=\"https://gfw.tapirgames.com/\">老貘</a></li>\n<li>主持：<a href=\"https://maiyang.me/\">杨文</a>，<a href=\"https://changkun.de/\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第八期节目，我们和 Go 语言 101 的作者一起聊了聊期待已久的泛型，我们聊到了为什么需要泛型，设计的优点、讨论时的期望与正式发布时的失望。新出现的类型集是什么？comparable 又是什么？目前的泛型设计在未来还有多大的改进空间？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:12 开场</li>\n<li>01:10 接触 Go 语言的动机</li>\n<li>03:30 编写《Go 101》的原因</li>\n<li>04:42 活跃在 Go 语言社区</li>\n<li>09:27 独立游戏的行业经历</li>\n<li>12:11 用 Go 语言做游戏</li>\n<li>13:51 泛型产生的动机，与 Go Generate 的对比</li>\n<li>20:21 接口、类型集、类型约束的关系</li>\n<li>28:36 类型集与泛型的关系</li>\n<li>30:40 接口与类型集是同一个概念吗？</li>\n<li>31:34 comparable 类型、它能解决什么问题、它还有哪些争议</li>\n<li>37:42 接口作为值类型</li>\n<li>42:45 泛型设计的其他优点</li>\n<li>48:10 泛型设计的缺点</li>\n<li>58:09 泛型设计的限制</li>\n<li>66:09 对泛型未来的期望与失望</li>\n<li>68:20 Go 团队排外吗？</li>\n<li>71:35 Go 语言 101 背后的故事</li>\n<li>83:38 结尾推荐</li>\n<li>87:55 尾声</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://gfw.tapirgames.com/\">老貘的主页</a></li>\n<li><a href=\"https://go101.org/\">Go 语言 101</a></li>\n<li><a href=\"https://go101.org/generics/101.html\">Go 泛型 101</a></li>\n<li><a href=\"https://go.dev/doc/tutorial/generics\">泛型的官方上手教程</a></li>\n<li><a href=\"https://go-review.googlesource.com/c/go/+/401874\">观点：类型集和接口不等价</a></li>\n<li><a href=\"https://go.dev/issue/50646\">spec: document definition of comparable</a></li>\n<li><a href=\"https://go.dev/issue/51257\">spec: any no longer implements comparable</a></li>\n<li><a href=\"https://go.dev/issue/51338\">proposal: spec: permit values to have type &ldquo;comparable&rdquo;</a></li>\n<li><a href=\"https://go.dev/issue/52474\">proposal: spec: permit non-interface types that support == to satisfy the comparable constraint</a></li>\n<li><a href=\"https://go.dev/issue/52509\">proposal: spec: allow interface types to instantiate comparable type parameters</a></li>\n<li><a href=\"https://go.dev/issue/52531\">proposal: spec: add new constraint kind satisfied by types that support == (including interface types)</a></li>\n<li><a href=\"https://go.dev/issue/52614\">proposal: type parameters are comparable unless they exclude comparable types</a></li>\n<li><a href=\"https://go.dev/issue/52624\">proposal: the comparable interface represents the comparable subset of run-time values</a></li>\n<li><a href=\"https://go.dev/issue/48287\">how to update APIs for generics</a></li>\n<li><a href=\"https://go.dev/issue/49085\">proposal: spec: allow type parameters in methods</a></li>\n<li><a href=\"https://book.douban.com/subject/1770782/\">追风筝的人</a></li>\n<li><a href=\"https://book.douban.com/subject/2143732/\">灿烂千阳</a></li>\n<li><a href=\"https://book.douban.com/subject/24845582/\">群山回唱</a></li>\n<li><a href=\"https://book.douban.com/subject/3206314/\">理解自由意志</a></li>\n<li><a href=\"https://book.douban.com/subject/35149258/\">AI 新生</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>"
+    },
+    "itunes_duration": "5354",
+    "image": {
+        "href": "https://talkgo.fm/images/episode/ep08-go-generics.png"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkgo.fm/index.xml",
+            "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-8-30/288455306-22050-1-6ce3e1bebc472.m4a\" title=\"这是 Go 夜聊的第八期节目，我们和 Go 语言 101 的作者一起聊了聊期待已久的泛型，我们聊到了为什么需要泛型，设计的优点、讨论时的期望与正式发布时的失望。新出现的类型集是什么？comparable 又是什么？目前的泛型设计在未来还有多大的改进空间？\"></audio>\n\n<h1 id=\"第-8-期泛型来了\">第 8 期：泛型来了！</h1>\n<p>录制时间： <strong>2022-05-06</strong></p>\n<ul>\n<li>嘉宾：<a href=\"https://gfw.tapirgames.com/\">老貘</a></li>\n<li>主持：<a href=\"https://maiyang.me/\">杨文</a>，<a href=\"https://changkun.de/\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第八期节目，我们和 Go 语言 101 的作者一起聊了聊期待已久的泛型，我们聊到了为什么需要泛型，设计的优点、讨论时的期望与正式发布时的失望。新出现的类型集是什么？comparable 又是什么？目前的泛型设计在未来还有多大的改进空间？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:12 开场</li>\n<li>01:10 接触 Go 语言的动机</li>\n<li>03:30 编写《Go 101》的原因</li>\n<li>04:42 活跃在 Go 语言社区</li>\n<li>09:27 独立游戏的行业经历</li>\n<li>12:11 用 Go 语言做游戏</li>\n<li>13:51 泛型产生的动机，与 Go Generate 的对比</li>\n<li>20:21 接口、类型集、类型约束的关系</li>\n<li>28:36 类型集与泛型的关系</li>\n<li>30:40 接口与类型集是同一个概念吗？</li>\n<li>31:34 comparable 类型、它能解决什么问题、它还有哪些争议</li>\n<li>37:42 接口作为值类型</li>\n<li>42:45 泛型设计的其他优点</li>\n<li>48:10 泛型设计的缺点</li>\n<li>58:09 泛型设计的限制</li>\n<li>66:09 对泛型未来的期望与失望</li>\n<li>68:20 Go 团队排外吗？</li>\n<li>71:35 Go 语言 101 背后的故事</li>\n<li>83:38 结尾推荐</li>\n<li>87:55 尾声</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://gfw.tapirgames.com/\">老貘的主页</a></li>\n<li><a href=\"https://go101.org/\">Go 语言 101</a></li>\n<li><a href=\"https://go101.org/generics/101.html\">Go 泛型 101</a></li>\n<li><a href=\"https://go.dev/doc/tutorial/generics\">泛型的官方上手教程</a></li>\n<li><a href=\"https://go-review.googlesource.com/c/go/+/401874\">观点：类型集和接口不等价</a></li>\n<li><a href=\"https://go.dev/issue/50646\">spec: document definition of comparable</a></li>\n<li><a href=\"https://go.dev/issue/51257\">spec: any no longer implements comparable</a></li>\n<li><a href=\"https://go.dev/issue/51338\">proposal: spec: permit values to have type &ldquo;comparable&rdquo;</a></li>\n<li><a href=\"https://go.dev/issue/52474\">proposal: spec: permit non-interface types that support == to satisfy the comparable constraint</a></li>\n<li><a href=\"https://go.dev/issue/52509\">proposal: spec: allow interface types to instantiate comparable type parameters</a></li>\n<li><a href=\"https://go.dev/issue/52531\">proposal: spec: add new constraint kind satisfied by types that support == (including interface types)</a></li>\n<li><a href=\"https://go.dev/issue/52614\">proposal: type parameters are comparable unless they exclude comparable types</a></li>\n<li><a href=\"https://go.dev/issue/52624\">proposal: the comparable interface represents the comparable subset of run-time values</a></li>\n<li><a href=\"https://go.dev/issue/48287\">how to update APIs for generics</a></li>\n<li><a href=\"https://go.dev/issue/49085\">proposal: spec: allow type parameters in methods</a></li>\n<li><a href=\"https://book.douban.com/subject/1770782/\">追风筝的人</a></li>\n<li><a href=\"https://book.douban.com/subject/2143732/\">灿烂千阳</a></li>\n<li><a href=\"https://book.douban.com/subject/24845582/\">群山回唱</a></li>\n<li><a href=\"https://book.douban.com/subject/3206314/\">理解自由意志</a></li>\n<li><a href=\"https://book.douban.com/subject/35149258/\">AI 新生</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>"
+        }
+    ]
+}

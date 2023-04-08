@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "112498939",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2Njk1LCJwIjoyLCJ1IjoiZWU4Mi5tcDMifQ.QIQtD_7D32PJ6Yt8uZ1sL0I6CMc/nicktalk-new/z_509752109fa0e538d269456559abee82.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/17"
+        }
+    ],
+    "title": "NTP #17 蘋果不是你想破，想破就能破",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #17 蘋果不是你想破，想破就能破"
+    },
+    "id": "http://nicktalk.com/episodes/17",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/17",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "本期節目為 Nick 和付付的科技主題閒聊。兩人談到了法鯊版的電影《喬布斯》、Tim Cook 拒絕 FBI 在 iOS 中植入後門的要求及 Kindle Unlimited 服務入華，並就中國消費者消費模式和消費心理的轉變與升級展開討論。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "本期節目為 Nick 和付付的科技主題閒聊。兩人談到了法鯊版的電影《喬布斯》、Tim Cook 拒絕 FBI 在 iOS 中植入後門的要求及 Kindle Unlimited 服務入華，並就中國消費者消費模式和消費心理的轉變與升級展開討論。"
+    },
+    "itunes_duration": "1:17:45",
+    "itunes_explicit": null,
+    "itunes_episode": "17",
+    "podcast_episode": "17",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_7b40feb14f6fe4454de14fc4da75beb9.jpg?x-oss-process=style/sl"
+    },
+    "summary": "本期節目為 Nick 和付付的科技主題閒聊。兩人談到了法鯊版的電影《喬布斯》、Tim Cook 拒絕 FBI 在 iOS 中植入後門的要求及 Kindle Unlimited 服務入華，並就中國消費者消費模式和消費心理的轉變與升級展開討論。相關鏈接 Tim Cook 在蘋果官網上的公開信 Kindle Unlimited for China 水門事件",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "本期節目為 Nick 和付付的科技主題閒聊。兩人談到了法鯊版的電影《喬布斯》、Tim Cook 拒絕 FBI 在 iOS 中植入後門的要求及 Kindle Unlimited 服務入華，並就中國消費者消費模式和消費心理的轉變與升級展開討論。相關鏈接 Tim Cook 在蘋果官網上的公開信 Kindle Unlimited for China 水門事件"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>本期節目為 Nick 和付付的科技主題閒聊。兩人談到了法鯊版的電影《喬布斯》、Tim Cook 拒絕 FBI 在 iOS 中植入後門的要求及 Kindle Unlimited 服務入華，並就中國消費者消費模式和消費心理的轉變與升級展開討論。<br /><strong>相關鏈接</strong><ul></p>\n<li><a href=\"http://www.apple.com/customer-letter/\">Tim Cook 在蘋果官網上的公開信</a></li>\n<li><a href=\"https://www.amazon.cn/gp/kindle/ku/sign-up\">Kindle Unlimited for China</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%B0%B4%E9%97%A8%E4%BA%8B%E4%BB%B6\">水門事件</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>本期節目為 Nick 和付付的科技主題閒聊。兩人談到了法鯊版的電影《喬布斯》、Tim Cook 拒絕 FBI 在 iOS 中植入後門的要求及 Kindle Unlimited 服務入華，並就中國消費者消費模式和消費心理的轉變與升級展開討論。<br /><strong>相關鏈接</strong><ul></p>\n<li><a href=\"http://www.apple.com/customer-letter/\">Tim Cook 在蘋果官網上的公開信</a></li>\n<li><a href=\"https://www.amazon.cn/gp/kindle/ku/sign-up\">Kindle Unlimited for China</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%B0%B4%E9%97%A8%E4%BA%8B%E4%BB%B6\">水門事件</a></li>\n</ul>"
+        }
+    ],
+    "published": "Sun, 21 Feb 2016 04:00:00 +0000",
+    "published_parsed": [
+        2016,
+        2,
+        21,
+        4,
+        0,
+        0,
+        6,
+        52,
+        0
+    ]
+}

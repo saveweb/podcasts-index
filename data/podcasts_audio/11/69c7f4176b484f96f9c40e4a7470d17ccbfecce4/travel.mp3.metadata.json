@@ -1,0 +1,34 @@
+{
+    "http-content-length": 48094350,
+    "http-etag": "7db689074f5ff88a29f372704000914a-6",
+    "http-last-modified": "Sun, 25 Dec 2022 04:12:55 GMT",
+    "http-last-modified-float": 1671912775.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 48094350,
+    "actual-duration": 5996,
+    "sha1": "48f2511fbb71ed5e8959906d2ab90492cb6bb6f8",
+    "md5": "854319b5fcaf032d54843b2a47379bcf",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/travel.mp3",
+            "headers": {
+                "Last-Modified": "Sun, 25 Dec 2022 04:12:55 GMT",
+                "Etag": "\"7db689074f5ff88a29f372704000914a-6\"",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "48094350",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "9959864584340371698",
+                "Connection": "keep-alive",
+                "Server": "Lego Server",
+                "Date": "Wed, 05 Apr 2023 15:49:13 GMT",
+                "X-Cache-Lookup": "Cache Hit",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

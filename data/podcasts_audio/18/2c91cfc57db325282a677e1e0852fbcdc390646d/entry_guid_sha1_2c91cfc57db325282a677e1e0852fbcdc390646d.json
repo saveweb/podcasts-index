@@ -1,0 +1,81 @@
+{
+    "title": "27 评选「黑幕」Three Critics",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "27 评选「黑幕」Three Critics"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.arbretalk.com/27"
+        },
+        {
+            "length": "56346515",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/8ecd4d04-d9eb-48ed-bafc-9ab55e67c940/43fbe2cd-6b49-4643-b139-6b1484050c5c.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.arbretalk.com/27",
+    "id": "43fbe2cd-6b49-4643-b139-6b1484050c5c",
+    "guidislink": false,
+    "published": "Mon, 04 Nov 2019 15:00:00 +0800",
+    "published_parsed": [
+        2019,
+        11,
+        4,
+        7,
+        0,
+        0,
+        0,
+        308,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一树Arbre"
+        },
+        {
+            "name": "一树Arbre"
+        }
+    ],
+    "author": "一树Arbre",
+    "author_detail": {
+        "name": "一树Arbre"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "一树Arbre「黄金周摄影大赛」评委点评现场录音。\n评委：Lavi，Shane，Val",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "一树Arbre「黄金周摄影大赛」评委点评现场录音。\n评委：Lavi，Shane，Val"
+    },
+    "itunes_duration": "1:18:08",
+    "itunes_explicit": null,
+    "summary": "<p><strong>友情提示：本期适合用作白噪音</strong></p>\n\n<p>一树Arbre「黄金周摄影大赛」评委点评现场录音。<br />\n评委：Lavi，Shane，Val </p>\n\n<p>评选结果请关注微信公众号：一树Arbre</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "<p><strong>友情提示：本期适合用作白噪音</strong></p>\n\n<p>一树Arbre「黄金周摄影大赛」评委点评现场录音。<br />\n评委：Lavi，Shane，Val </p>\n\n<p>评选结果请关注微信公众号：一树Arbre</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/arbretalk/rss",
+            "value": "<p><strong>友情提示：本期适合用作白噪音</strong></p>\n\n<p>一树Arbre「黄金周摄影大赛」评委点评现场录音。<br />\n评委：Lavi，Shane，Val </p>\n\n<p>评选结果请关注微信公众号：一树Arbre</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/RF2PpSZw+Bc3Lzv-K",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/RF2PpSZw+Bc3Lzv-K\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://hanggao.squarespace.com/",
+        "role": "host"
+    }
+}

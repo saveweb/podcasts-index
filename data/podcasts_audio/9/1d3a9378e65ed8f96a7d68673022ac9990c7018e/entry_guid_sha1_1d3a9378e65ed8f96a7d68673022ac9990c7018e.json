@@ -1,0 +1,103 @@
+{
+    "title": "#6 - Lightning Network 的技术演化史",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#6 - Lightning Network 的技术演化史"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/6"
+        },
+        {
+            "length": "20155790",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/10667ffd-c136-4554-bbac-96781262f582.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/6",
+    "id": "10667ffd-c136-4554-bbac-96781262f582",
+    "guidislink": false,
+    "published": "Wed, 24 Apr 2019 19:00:00 +0800",
+    "published_parsed": [
+        2019,
+        4,
+        24,
+        11,
+        0,
+        0,
+        2,
+        114,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "命名系统的不可能三角是什么、为什么区块链可能打破这个不可能三角？Payment Channel 最早可以追溯到中本聪，在演进过程中它发生了哪些变化？为什么说 Lightning Network 是 Payment Channel 和 Network 的集大成者？\n\nJan 和 Terry 相隔三年，再一次单独录制节目，给你带来满满干货。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "命名系统的不可能三角是什么、为什么区块链可能打破这个不可能三角？Payment Channel 最早可以追溯到中本聪，在演进过程中它发生了哪些变化？为什么说 Lightning Network 是 Payment Channel 和 Network 的集大成者？\n\nJan 和 Terry 相隔三年，再一次单独录制节目，给你带来满满干货。"
+    },
+    "itunes_duration": "41:58",
+    "itunes_explicit": null,
+    "summary": "<p>命名系统的不可能三角是什么、为什么区块链可能打破这个不可能三角？Payment Channel 最早可以追溯到中本聪，在演进过程中它发生了哪些变化？为什么说 Lightning Network 是 Payment Channel 和 Network 的集大成者？</p>\n\n<p>Jan 和 Terry 相隔三年，再一次单独录制节目，给你带来满满干货。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Show Notes</h3>\n\n<ul>\n<li><p><a href=\"http://teahour.fm/2015/12/27/talk-with-jan-about-bitcoin-and-blockchain.html\" rel=\"nofollow\">聊聊比特币背后的技术和Blockchain - Teahour.fm</a></p></li>\n<li><p><a href=\"https://mitbitcoinexpo.org/\" rel=\"nofollow\">MIT Bitcoin Expo</a></p></li>\n<li><p><a href=\"https://github.com/mit-dci/utreexo\" rel=\"nofollow\">Utreexo</a></p></li>\n<li><p><a href=\"https://twitter.com/tdryja\" rel=\"nofollow\">Thaddeus Dryja</a></p></li>\n<li><p><a href=\"https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto\" rel=\"nofollow\">Dagger Hashimoto</a> </p></li>\n<li><p><a href=\"https://twitter.com/jcp\" rel=\"nofollow\">Joseph Poon</a></p></li>\n<li><p><a href=\"https://handshake.org/\" rel=\"nofollow\">Handshake</a></p></li>\n<li><p><a href=\"https://namecoin.org/\" rel=\"nofollow\">Namecoin</a></p></li>\n<li><p><a href=\"https://twitter.com/zooko\" rel=\"nofollow\">zooko</a> </p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Zooko%27s_triangle\" rel=\"nofollow\">Zooko's triangle</a></p></li>\n<li><p><a href=\"https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8\" rel=\"nofollow\">Aaron Swartz</a> </p></li>\n<li><p><a href=\"https://en.bitcoin.it/wiki/Payment_channels\" rel=\"nofollow\">Payment Channel History</a> </p></li>\n<li><p><a href=\"https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki\" rel=\"nofollow\">BIP 65</a> </p></li>\n<li><p><a href=\"https://twitter.com/peterktodd\" rel=\"nofollow\">Peter Todd</a> </p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/SegWit\" rel=\"nofollow\">SegWit - Wikipedia </a></p></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>命名系统的不可能三角是什么、为什么区块链可能打破这个不可能三角？Payment Channel 最早可以追溯到中本聪，在演进过程中它发生了哪些变化？为什么说 Lightning Network 是 Payment Channel 和 Network 的集大成者？</p>\n\n<p>Jan 和 Terry 相隔三年，再一次单独录制节目，给你带来满满干货。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Show Notes</h3>\n\n<ul>\n<li><p><a href=\"http://teahour.fm/2015/12/27/talk-with-jan-about-bitcoin-and-blockchain.html\" rel=\"nofollow\">聊聊比特币背后的技术和Blockchain - Teahour.fm</a></p></li>\n<li><p><a href=\"https://mitbitcoinexpo.org/\" rel=\"nofollow\">MIT Bitcoin Expo</a></p></li>\n<li><p><a href=\"https://github.com/mit-dci/utreexo\" rel=\"nofollow\">Utreexo</a></p></li>\n<li><p><a href=\"https://twitter.com/tdryja\" rel=\"nofollow\">Thaddeus Dryja</a></p></li>\n<li><p><a href=\"https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto\" rel=\"nofollow\">Dagger Hashimoto</a> </p></li>\n<li><p><a href=\"https://twitter.com/jcp\" rel=\"nofollow\">Joseph Poon</a></p></li>\n<li><p><a href=\"https://handshake.org/\" rel=\"nofollow\">Handshake</a></p></li>\n<li><p><a href=\"https://namecoin.org/\" rel=\"nofollow\">Namecoin</a></p></li>\n<li><p><a href=\"https://twitter.com/zooko\" rel=\"nofollow\">zooko</a> </p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Zooko%27s_triangle\" rel=\"nofollow\">Zooko's triangle</a></p></li>\n<li><p><a href=\"https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8\" rel=\"nofollow\">Aaron Swartz</a> </p></li>\n<li><p><a href=\"https://en.bitcoin.it/wiki/Payment_channels\" rel=\"nofollow\">Payment Channel History</a> </p></li>\n<li><p><a href=\"https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki\" rel=\"nofollow\">BIP 65</a> </p></li>\n<li><p><a href=\"https://twitter.com/peterktodd\" rel=\"nofollow\">Peter Todd</a> </p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/SegWit\" rel=\"nofollow\">SegWit - Wikipedia </a></p></li>\n</ul>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>命名系统的不可能三角是什么、为什么区块链可能打破这个不可能三角？Payment Channel 最早可以追溯到中本聪，在演进过程中它发生了哪些变化？为什么说 Lightning Network 是 Payment Channel 和 Network 的集大成者？</p>\n\n<p>Jan 和 Terry 相隔三年，再一次单独录制节目，给你带来满满干货。</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>Show Notes</h3>\n\n<ul>\n<li><p><a href=\"http://teahour.fm/2015/12/27/talk-with-jan-about-bitcoin-and-blockchain.html\" rel=\"nofollow\">聊聊比特币背后的技术和Blockchain - Teahour.fm</a></p></li>\n<li><p><a href=\"https://mitbitcoinexpo.org/\" rel=\"nofollow\">MIT Bitcoin Expo</a></p></li>\n<li><p><a href=\"https://github.com/mit-dci/utreexo\" rel=\"nofollow\">Utreexo</a></p></li>\n<li><p><a href=\"https://twitter.com/tdryja\" rel=\"nofollow\">Thaddeus Dryja</a></p></li>\n<li><p><a href=\"https://github.com/ethereum/wiki/wiki/Dagger-Hashimoto\" rel=\"nofollow\">Dagger Hashimoto</a> </p></li>\n<li><p><a href=\"https://twitter.com/jcp\" rel=\"nofollow\">Joseph Poon</a></p></li>\n<li><p><a href=\"https://handshake.org/\" rel=\"nofollow\">Handshake</a></p></li>\n<li><p><a href=\"https://namecoin.org/\" rel=\"nofollow\">Namecoin</a></p></li>\n<li><p><a href=\"https://twitter.com/zooko\" rel=\"nofollow\">zooko</a> </p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Zooko%27s_triangle\" rel=\"nofollow\">Zooko's triangle</a></p></li>\n<li><p><a href=\"https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8\" rel=\"nofollow\">Aaron Swartz</a> </p></li>\n<li><p><a href=\"https://en.bitcoin.it/wiki/Payment_channels\" rel=\"nofollow\">Payment Channel History</a> </p></li>\n<li><p><a href=\"https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki\" rel=\"nofollow\">BIP 65</a> </p></li>\n<li><p><a href=\"https://twitter.com/peterktodd\" rel=\"nofollow\">Peter Todd</a> </p></li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/SegWit\" rel=\"nofollow\">SegWit - Wikipedia </a></p></li>\n</ul>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+wNemK7Rc",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+wNemK7Rc\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

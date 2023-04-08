@@ -1,0 +1,43 @@
+{
+    "http-content-length": 110163539,
+    "http-etag": "lva_LVgpmPISbxA3QkZVjnjJEKBd",
+    "http-last-modified": "Tue, 17 Aug 2021 15:32:58 GMT",
+    "http-last-modified-float": 1629185578.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline; filename=\"37.Olympics.mp3\"; filename*=utf-8''37.Olympics.mp3",
+    "http-content-disposition-filename": "37.Olympics.mp3",
+    "actual-size": 110163539,
+    "actual-duration": 2748,
+    "sha1": "fc3695ad63467f207e92d4f4b91f55c7e362cf23",
+    "md5": "8601c94b40076807689be42ad028d989",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/37.Olympics.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:02:34 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "110163539",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"37.Olympics.mp3\"; filename*=utf-8''37.Olympics.mp3",
+                "Content-Md5": "hgHJS0AHaAdom+Qq0CjZiQ==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lva_LVgpmPISbxA3QkZVjnjJEKBd\"",
+                "Last-Modified": "Tue, 17 Aug 2021 15:32:58 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-8;QNM:gzh134;SRCPROXY:gzh48;SRC:70;SRCPROXY:70;QNM3:74;QNM3:257",
+                "X-M-Reqid": "EHOYUzRem",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss",
+                "X-Reqid": "qjwAAABbuNEqH1MX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

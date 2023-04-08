@@ -1,0 +1,74 @@
+{
+    "authors": [
+        {
+            "name": "Limboy"
+        }
+    ],
+    "author": "Limboy",
+    "author_detail": {
+        "name": "Limboy"
+    },
+    "itunes_title": "跟 Linghao 聊聊在 Google 的工作经历、科幻小说和独立游戏",
+    "itunes_episode": "10",
+    "title": "10. 跟 Linghao 聊聊在 Google 的工作经历、科幻小说和独立游戏",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "10. 跟 Linghao 聊聊在 Google 的工作经历、科幻小说和独立游戏"
+    },
+    "published": "Wed, 18 Jan 2023 00:00:00 +0000",
+    "published_parsed": [
+        2023,
+        1,
+        18,
+        0,
+        0,
+        0,
+        2,
+        18,
+        0
+    ],
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://bytetalk.fm/posts/episode-10/"
+        },
+        {
+            "length": "127689583",
+            "type": "audio/x-m4a",
+            "href": "https://bytetalk.fm/podcasts/episode-10.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://bytetalk.fm/posts/episode-10/",
+    "id": "https://bytetalk.fm/posts/episode-10/",
+    "guidislink": false,
+    "itunes_duration": "88:40",
+    "subtitle": "<p><a href=\"https://linghao.io/\">Linghao</a> 曾就读于 CMU，目前在 Google 工作，生活在湾区，偏爱科幻小说和独立游戏，喜欢写作和分享。本次访谈会聊到他在 CMU 学习的一些经历，在 Google 从事的具体工作，从 Engineer 到 TL 到 TLM 角色的转变带来的心态和做事方式上的改变，时间管理，对科幻小说和独立游戏的一些见解和推荐，以及写作与分享方面的心得。内容较多，可以挑感兴趣的收听，相信会有所收获。</p>",
+    "subtitle_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p><a href=\"https://linghao.io/\">Linghao</a> 曾就读于 CMU，目前在 Google 工作，生活在湾区，偏爱科幻小说和独立游戏，喜欢写作和分享。本次访谈会聊到他在 CMU 学习的一些经历，在 Google 从事的具体工作，从 Engineer 到 TL 到 TLM 角色的转变带来的心态和做事方式上的改变，时间管理，对科幻小说和独立游戏的一些见解和推荐，以及写作与分享方面的心得。内容较多，可以挑感兴趣的收听，相信会有所收获。</p>"
+    },
+    "summary": "<p><a href=\"https://linghao.io/\">Linghao</a> 曾就读于 CMU，目前在 Google 工作，生活在湾区，偏爱科幻小说和独立游戏，喜欢写作和分享。本次访谈会聊到他在 CMU 学习的一些经历，在 Google 从事的具体工作，从 Engineer 到 TL 到 TLM 角色的转变带来的心态和做事方式上的改变，时间管理，对科幻小说和独立游戏的一些见解和推荐，以及写作与分享方面的心得。内容较多，可以挑感兴趣的收听，相信会有所收获。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p><a href=\"https://linghao.io/\">Linghao</a> 曾就读于 CMU，目前在 Google 工作，生活在湾区，偏爱科幻小说和独立游戏，喜欢写作和分享。本次访谈会聊到他在 CMU 学习的一些经历，在 Google 从事的具体工作，从 Engineer 到 TL 到 TLM 角色的转变带来的心态和做事方式上的改变，时间管理，对科幻小说和独立游戏的一些见解和推荐，以及写作与分享方面的心得。内容较多，可以挑感兴趣的收听，相信会有所收获。</p>"
+    },
+    "image": {
+        "href": "https://bytetalk.fm/posts/episode-10/cover.jpg"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://bytetalk.fm/index.xml",
+            "value": "<p><a href=\"https://linghao.io/\">Linghao</a> 曾就读于 CMU，目前在 Google 工作，生活在湾区，偏爱科幻小说和独立游戏，喜欢写作和分享。本次访谈会聊到他在 CMU 学习的一些经历，在 Google 从事的具体工作，从 Engineer 到 TL 到 TLM 角色的转变带来的心态和做事方式上的改变，时间管理，对科幻小说和独立游戏的一些见解和推荐，以及写作与分享方面的心得。内容较多，可以挑感兴趣的收听，相信会有所收获。</p>\n<span id=\"continue-reading\"></span><h3 id=\"timeline\">Timeline</h3>\n<ul>\n<li>01:05 在 CMU 上学的经历和感受。</li>\n<li>09:15 在旧金山湾区的生活状态。</li>\n<li>15:39 在 Google 工作的具体内容，细聊 Looker Studio。</li>\n<li>36:06 从 Engineer 到 TL 到 TLM，角色的转变带来的心态和做事方式上的改变。</li>\n<li>52:03 软件开发领域值得推荐的书（The Effective Engineer）。</li>\n<li>53:54 时间管理方面的一些心得。</li>\n<li>62:05 科幻小说推荐。</li>\n<li>69:17 独立游戏推荐，对游戏的一些思考。</li>\n<li>79:18 近几年做过的最棒的投资，展开聊聊写作与分享。</li>\n<li>83:32 书、影视、游戏推荐。</li>\n</ul>\n<h3 id=\"show-notes\">Show Notes</h3>\n<ul>\n<li>片头曲：Old Pine (Ben Howard)</li>\n<li>Linghao 的 <a href=\"https://twitter.com/instante_42\">Twitter</a></li>\n<li><a href=\"https://lookerstudio.google.com/overview\">Looker Studio</a></li>\n<li><a href=\"https://book.douban.com/subject/35359917/\">Staff Engineer</a></li>\n<li><a href=\"https://book.douban.com/subject/26360716/\">The Effective Engineer</a></li>\n<li><a href=\"https://book.douban.com/series/18228\">阿瑟克拉克科幻作品</a></li>\n<li><a href=\"https://book.douban.com/subject/25829693/\">永恒的终结</a></li>\n<li><a href=\"https://book.douban.com/subject/26295448/\">你一生的故事</a></li>\n<li><a href=\"https://book.douban.com/subject/34672176/\">呼吸</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Outer_Wilds\">Outer Wilds Game</a></li>\n<li><a href=\"https://movie.douban.com/subject/35769174/\">万湖会议</a></li>\n<li><a href=\"https://book.douban.com/subject/35221093/\">复杂生命的起源</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Carto_(video_game)\">Carto Game</a></li>\n</ul>\n<h3>节目收听方式</h3>\n\n<ul>\n  <li><a href=\"https://www.xiaoyuzhoufm.com/podcast/6177bab6b69226ed16a3ed41\">小宇宙</a></li>\n  <li><a href=\"https://castro.fm/podcast/8a2dbe21-67f8-4314-a22f-2425b22ab506\">Castro</a></li>\n  <li><a href=\"https://pca.st/lqakcfor\">Pocket Casts</a></li>\n  <li><a href=\"https://open.spotify.com/show/6nsetXjeNJdjk6BltaLgcZ?si=63d3a273c8c148b5\">Spotify</a></li>\n  <li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9ieXRldGFsay5mbS9pbmRleC54bWw\">Google Podcasts</a></li>\n  <li><a href=\"https://podcasts.apple.com/us/podcast/bytetalk/id1592129150\">Apple Podcasts (CN not available, idky)</a>\n  </li>\n  <li><a href=\"https://bytetalk.fm/index.xml\">Feed URL</a></li>\n</ul>\n\n\n<blockquote>\n  <p>和不同的人聊天，会收获很多不同的东西，作为一个「老」程序员，我想跟不同领域的程序员们聊聊他们的故事、经历和感悟，或许也可以给正在收听的你一些启发。</p>\n  <p>邮件沟通：limboy.me@gmail.com，一般会在两天内回复。</p>\n</blockquote>"
+        }
+    ]
+}

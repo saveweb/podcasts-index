@@ -1,0 +1,43 @@
+{
+    "http-content-length": 130770071,
+    "http-etag": "lrYilpZO8QM1D8-_43S0OU3HYyWh",
+    "http-last-modified": "Sun, 13 Mar 2022 13:39:29 GMT",
+    "http-last-modified-float": 1647149969.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline; filename=\"41.ultra_new.mp3\"; filename*=utf-8''41.ultra_new.mp3",
+    "http-content-disposition-filename": "\"41.ultra_new.mp3\"; filename*=utf-8''41.ultra_new.mp3",
+    "actual-size": 130770071,
+    "actual-duration": 3268,
+    "sha1": "f0eb60beeeb2b04f40ce1215505abdebcc6c4a12",
+    "md5": "6082ff46a3293c7a03380ec3f783cb16",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/41.ultra_new.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 18:36:28 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "130770071",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"41.ultra_new.mp3\"; filename*=utf-8''41.ultra_new.mp3",
+                "Content-Md5": "YIL/RqMpPHoDOA7D94PLFg==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lrYilpZO8QM1D8-_43S0OU3HYyWh\"",
+                "Last-Modified": "Sun, 13 Mar 2022 13:39:29 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-4;QNM:gzh130;SRCPROXY:gzh46;SRC:63;SRCPROXY:63;QNM3:72;QNM3:261",
+                "X-M-Reqid": "6iFV2uUPS",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss",
+                "X-Reqid": "ZKUAAAD8mAe-HVMX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

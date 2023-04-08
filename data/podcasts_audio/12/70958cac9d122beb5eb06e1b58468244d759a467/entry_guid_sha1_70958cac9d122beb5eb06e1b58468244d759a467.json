@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "107689441",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2NzE3LCJwIjoyLCJ1IjoiNjI3MC5tcDMifQ.yyB3wNCPJ34mgDGIZMQW8_lbUZQ/nicktalk-new/z_18fc4dd9d8a09449b3f0c39143f16270.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/38"
+        }
+    ],
+    "title": "NTP #38 科學上網指南",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #38 科學上網指南"
+    },
+    "id": "http://nicktalk.com/episodes/38",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/38",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "Nick 和 hb 一起探討和分享了如何科學上網。這期節目的主要內容在於解釋科學上網相關名詞，並幫助新手用戶找到適合自己的翻牆途徑。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "Nick 和 hb 一起探討和分享了如何科學上網。這期節目的主要內容在於解釋科學上網相關名詞，並幫助新手用戶找到適合自己的翻牆途徑。"
+    },
+    "itunes_duration": "1:14:44",
+    "itunes_explicit": null,
+    "itunes_episode": "38",
+    "podcast_episode": "38",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_1a4f81f603924632d546743fd4c2f643.jpg?x-oss-process=style/sl"
+    },
+    "summary": "Nick 和 hb 一起探討和分享了如何科學上網。這期節目的主要內容在於解釋科學上網相關名詞，並幫助新手用戶找到適合自己的翻牆途徑。你將在節目裡聽到 VPN 不等於翻牆，翻牆也不等於 VPN 「科學上網」原本是「翻牆」的委婉說法，但兩者其實含義不完全相同 如果你科學上網的第一目的是更快速、直接地訪問完整的互聯網，那很顯然 VPN 不應該是你的第一選擇 GFW 的基本工作原理：DNS 污染、IP 封鎖、國際網路出口封鎖、運營商封鎖、關鍵詞監控、白名單機制 DNS（域名機制） 最常見的幾種翻牆形式：修改 hosts 文件、使用 VPN、使用 shadowsocks、使用 .pac 或描述文件、使用 Tor 如何在 Windows 下修改 hosts 如何在 macOS 下修改 hosts Nick 不推薦用 VPN（虛擬私人網路） 來翻牆的原因：速度普遍較慢、牆內外線路切換麻煩、容易被 GFW 針對 VPN 的優點是安全，兩位主播都鼓勵聽眾常備一個 VPN，用來在網路環境不安全的地方保護自己的隱私和信息安全 Nick 推薦 Shadowsocks 的原因，在於這種翻牆形式從一開始就不是為了安全而是為了穿透 GFW 而設計的 Shadowsocks 的優點：智能分流，無縫在牆內和牆外傳行 Shadowsocks 的缺點：安全性差；在 iOS 9 及以下版本的 iOS 設備上很難配置 ShadowsocksR iOS 上比較正規、人氣較高且支援 Shadowsocks 的客戶端：Surge、ShadowRocket（小火箭）、Potatso（土豆絲） Tor Deep Web（暗網） 如何挑選科學上網服務 看看官網和註冊流程靠不靠譜 貴就是好 看看附加服務：穩定性、流量限制、客戶端和配置教程、中繼服務、多線路、視頻服務專線等 貴到什麼樣才合適？ 自建服務器靠譜嗎？ 如果你一定要自建服務器的話，Nick 推薦 Google Cloud Platform 如何挑選線路 代理服務器所在的地理位置對外網訪問速度有很大影響，建議優先選擇香港、臺灣、日本、韓國和新加坡的線路 一些冷門國家的線路或許會有驚喜 網路延遲和帶寬 如果你需要收看 Netflix、Hulu 等視頻服務，一定要選擇支援對應服務的線路才能觀看 為了你的安全，盡量不要連接任何公共 Wi-Fi，把錢花在流量包上 狡兔三窟，手裡常備多個梯子服務 反馈请写信至 Nick：nick@nicktalk.com hb：hb@renjianzhinan.fm 人物介紹 張奕源 Nick：NickTalk Podcast 主播 hb：一個南京人，人間指南 Podcast 主播",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "Nick 和 hb 一起探討和分享了如何科學上網。這期節目的主要內容在於解釋科學上網相關名詞，並幫助新手用戶找到適合自己的翻牆途徑。你將在節目裡聽到 VPN 不等於翻牆，翻牆也不等於 VPN 「科學上網」原本是「翻牆」的委婉說法，但兩者其實含義不完全相同 如果你科學上網的第一目的是更快速、直接地訪問完整的互聯網，那很顯然 VPN 不應該是你的第一選擇 GFW 的基本工作原理：DNS 污染、IP 封鎖、國際網路出口封鎖、運營商封鎖、關鍵詞監控、白名單機制 DNS（域名機制） 最常見的幾種翻牆形式：修改 hosts 文件、使用 VPN、使用 shadowsocks、使用 .pac 或描述文件、使用 Tor 如何在 Windows 下修改 hosts 如何在 macOS 下修改 hosts Nick 不推薦用 VPN（虛擬私人網路） 來翻牆的原因：速度普遍較慢、牆內外線路切換麻煩、容易被 GFW 針對 VPN 的優點是安全，兩位主播都鼓勵聽眾常備一個 VPN，用來在網路環境不安全的地方保護自己的隱私和信息安全 Nick 推薦 Shadowsocks 的原因，在於這種翻牆形式從一開始就不是為了安全而是為了穿透 GFW 而設計的 Shadowsocks 的優點：智能分流，無縫在牆內和牆外傳行 Shadowsocks 的缺點：安全性差；在 iOS 9 及以下版本的 iOS 設備上很難配置 ShadowsocksR iOS 上比較正規、人氣較高且支援 Shadowsocks 的客戶端：Surge、ShadowRocket（小火箭）、Potatso（土豆絲） Tor Deep Web（暗網） 如何挑選科學上網服務 看看官網和註冊流程靠不靠譜 貴就是好 看看附加服務：穩定性、流量限制、客戶端和配置教程、中繼服務、多線路、視頻服務專線等 貴到什麼樣才合適？ 自建服務器靠譜嗎？ 如果你一定要自建服務器的話，Nick 推薦 Google Cloud Platform 如何挑選線路 代理服務器所在的地理位置對外網訪問速度有很大影響，建議優先選擇香港、臺灣、日本、韓國和新加坡的線路 一些冷門國家的線路或許會有驚喜 網路延遲和帶寬 如果你需要收看 Netflix、Hulu 等視頻服務，一定要選擇支援對應服務的線路才能觀看 為了你的安全，盡量不要連接任何公共 Wi-Fi，把錢花在流量包上 狡兔三窟，手裡常備多個梯子服務 反馈请写信至 Nick：nick@nicktalk.com hb：hb@renjianzhinan.fm 人物介紹 張奕源 Nick：NickTalk Podcast 主播 hb：一個南京人，人間指南 Podcast 主播"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>Nick 和 hb 一起探討和分享了如何科學上網。這期節目的主要內容在於解釋科學上網相關名詞，並幫助新手用戶找到適合自己的翻牆途徑。<br /><br /><strong>你將在節目裡聽到</strong><ul></p>\n<li>VPN 不等於翻牆，翻牆也不等於 VPN</li>\n<li>「科學上網」原本是「翻牆」的委婉說法，但兩者其實含義不完全相同</li>\n<li>如果你科學上網的第一目的是更快速、直接地訪問完整的互聯網，那很顯然 VPN 不應該是你的第一選擇</li>\n<li>GFW 的基本工作原理：DNS 污染、IP 封鎖、國際網路出口封鎖、運營商封鎖、關鍵詞監控、白名單機制</li>\n<li><a href=\"https://www.nicktalk.com/%5Bhttps://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D%E7%B3%BB%E7%BB%9F%5D\">DNS（域名機制）</a></li>\n<li>最常見的幾種翻牆形式：修改 hosts 文件、使用 VPN、使用 shadowsocks、使用 .pac 或描述文件、使用 Tor<ul>\n<li><a href=\"https://www.nicktalk.com/%5Bhttp://jingyan.baidu.com/article/b907e627d86be046e6891c41.html%5D\">如何在 Windows 下修改 hosts</a></li>\n<li><a href=\"https://www.jianshu.com/p/752211238c1b\">如何在 macOS 下修改 hosts</a></li>\n<li>Nick 不推薦用 <a href=\"https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF\">VPN（虛擬私人網路）</a> 來翻牆的原因：速度普遍較慢、牆內外線路切換麻煩、容易被 GFW 針對</li>\n<li>VPN 的優點是安全，兩位主播都鼓勵聽眾常備一個 VPN，用來在網路環境不安全的地方保護自己的隱私和信息安全</li>\n<li>Nick 推薦 Shadowsocks 的原因，在於這種翻牆形式從一開始就不是為了安全而是為了穿透 GFW 而設計的</li>\n<li>Shadowsocks 的優點：智能分流，無縫在牆內和牆外傳行</li>\n<li>Shadowsocks 的缺點：安全性差；在 iOS 9 及以下版本的 iOS 設備上很難配置</li>\n<li><a href=\"https://github.com/breakwa11/shadowsocks-rss\">ShadowsocksR</a></li>\n<li>iOS 上比較正規、人氣較高且支援 Shadowsocks 的客戶端：<a href=\"https://itunes.apple.com/us/app/surge-web-developer-tool-and-proxy-utility/id1040100637?mt=8\">Surge</a>、<a href=\"https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8\">ShadowRocket（小火箭）</a>、<a href=\"https://itunes.apple.com/us/app/potatso-2-ultimate-network-tool-for-power-users/id1162704202?mt=8\">Potatso（土豆絲）</a>\n</li>\n<li><a href=\"https://www.torproject.org/\">Tor</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%B7%B1%E7%BD%91\">Deep Web（暗網）</a></li>\n</ul>\n</li>\n<li>如何挑選科學上網服務<ul>\n<li>看看官網和註冊流程靠不靠譜</li>\n<li><strong>貴就是好</strong></li>\n<li>看看附加服務：穩定性、流量限制、客戶端和配置教程、中繼服務、多線路、視頻服務專線等</li>\n<li>貴到什麼樣才合適？</li>\n<li>自建服務器靠譜嗎？</li>\n<li>如果你一定要自建服務器的話，Nick 推薦 <a href=\"https://cloud.google.com/\">Google Cloud Platform</a>\n</li>\n</ul>\n</li>\n<li>如何挑選線路<ul>\n<li>代理服務器所在的地理位置對外網訪問速度有很大影響，建議優先選擇香港、臺灣、日本、韓國和新加坡的線路</li>\n<li>一些冷門國家的線路或許會有驚喜</li>\n<li>網路延遲和帶寬</li>\n<li>如果你需要收看 Netflix、Hulu 等視頻服務，一定要選擇支援對應服務的線路才能觀看</li>\n</ul>\n</li>\n<li>為了你的安全，盡量不要連接任何公共 Wi-Fi，把錢花在流量包上</li>\n<li>狡兔三窟，手裡常備多個梯子服務</li>\n</ul><strong>反馈请写信至</strong><ul>\n<li>Nick：nick@nicktalk.com</li>\n<li>hb：hb@renjianzhinan.fm</li>\n</ul><strong>人物介紹</strong><ul>\n<li>張奕源 Nick：NickTalk Podcast 主播</li>\n<li>hb：一個南京人，<a href=\"https://www.renjianzhinan.fm/\">人間指南 Podcast</a> 主播</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>Nick 和 hb 一起探討和分享了如何科學上網。這期節目的主要內容在於解釋科學上網相關名詞，並幫助新手用戶找到適合自己的翻牆途徑。<br /><br /><strong>你將在節目裡聽到</strong><ul></p>\n<li>VPN 不等於翻牆，翻牆也不等於 VPN</li>\n<li>「科學上網」原本是「翻牆」的委婉說法，但兩者其實含義不完全相同</li>\n<li>如果你科學上網的第一目的是更快速、直接地訪問完整的互聯網，那很顯然 VPN 不應該是你的第一選擇</li>\n<li>GFW 的基本工作原理：DNS 污染、IP 封鎖、國際網路出口封鎖、運營商封鎖、關鍵詞監控、白名單機制</li>\n<li><a href=\"https://www.nicktalk.com/%5Bhttps://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D%E7%B3%BB%E7%BB%9F%5D\">DNS（域名機制）</a></li>\n<li>最常見的幾種翻牆形式：修改 hosts 文件、使用 VPN、使用 shadowsocks、使用 .pac 或描述文件、使用 Tor<ul>\n<li><a href=\"https://www.nicktalk.com/%5Bhttp://jingyan.baidu.com/article/b907e627d86be046e6891c41.html%5D\">如何在 Windows 下修改 hosts</a></li>\n<li><a href=\"https://www.jianshu.com/p/752211238c1b\">如何在 macOS 下修改 hosts</a></li>\n<li>Nick 不推薦用 <a href=\"https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF\">VPN（虛擬私人網路）</a> 來翻牆的原因：速度普遍較慢、牆內外線路切換麻煩、容易被 GFW 針對</li>\n<li>VPN 的優點是安全，兩位主播都鼓勵聽眾常備一個 VPN，用來在網路環境不安全的地方保護自己的隱私和信息安全</li>\n<li>Nick 推薦 Shadowsocks 的原因，在於這種翻牆形式從一開始就不是為了安全而是為了穿透 GFW 而設計的</li>\n<li>Shadowsocks 的優點：智能分流，無縫在牆內和牆外傳行</li>\n<li>Shadowsocks 的缺點：安全性差；在 iOS 9 及以下版本的 iOS 設備上很難配置</li>\n<li><a href=\"https://github.com/breakwa11/shadowsocks-rss\">ShadowsocksR</a></li>\n<li>iOS 上比較正規、人氣較高且支援 Shadowsocks 的客戶端：<a href=\"https://itunes.apple.com/us/app/surge-web-developer-tool-and-proxy-utility/id1040100637?mt=8\">Surge</a>、<a href=\"https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8\">ShadowRocket（小火箭）</a>、<a href=\"https://itunes.apple.com/us/app/potatso-2-ultimate-network-tool-for-power-users/id1162704202?mt=8\">Potatso（土豆絲）</a>\n</li>\n<li><a href=\"https://www.torproject.org/\">Tor</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%B7%B1%E7%BD%91\">Deep Web（暗網）</a></li>\n</ul>\n</li>\n<li>如何挑選科學上網服務<ul>\n<li>看看官網和註冊流程靠不靠譜</li>\n<li><strong>貴就是好</strong></li>\n<li>看看附加服務：穩定性、流量限制、客戶端和配置教程、中繼服務、多線路、視頻服務專線等</li>\n<li>貴到什麼樣才合適？</li>\n<li>自建服務器靠譜嗎？</li>\n<li>如果你一定要自建服務器的話，Nick 推薦 <a href=\"https://cloud.google.com/\">Google Cloud Platform</a>\n</li>\n</ul>\n</li>\n<li>如何挑選線路<ul>\n<li>代理服務器所在的地理位置對外網訪問速度有很大影響，建議優先選擇香港、臺灣、日本、韓國和新加坡的線路</li>\n<li>一些冷門國家的線路或許會有驚喜</li>\n<li>網路延遲和帶寬</li>\n<li>如果你需要收看 Netflix、Hulu 等視頻服務，一定要選擇支援對應服務的線路才能觀看</li>\n</ul>\n</li>\n<li>為了你的安全，盡量不要連接任何公共 Wi-Fi，把錢花在流量包上</li>\n<li>狡兔三窟，手裡常備多個梯子服務</li>\n</ul><strong>反馈请写信至</strong><ul>\n<li>Nick：nick@nicktalk.com</li>\n<li>hb：hb@renjianzhinan.fm</li>\n</ul><strong>人物介紹</strong><ul>\n<li>張奕源 Nick：NickTalk Podcast 主播</li>\n<li>hb：一個南京人，<a href=\"https://www.renjianzhinan.fm/\">人間指南 Podcast</a> 主播</li>\n</ul>"
+        }
+    ],
+    "published": "Sun, 28 May 2017 04:00:00 +0000",
+    "published_parsed": [
+        2017,
+        5,
+        28,
+        4,
+        0,
+        0,
+        6,
+        148,
+        0
+    ]
+}

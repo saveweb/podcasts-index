@@ -1,0 +1,105 @@
+{
+    "title": "创业那点事：逆流而上的泊学",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "创业那点事：逆流而上的泊学"
+    },
+    "itunes_episode": "12",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "73786016",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/12.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 8 Jan 2019 08:00:00 CDT",
+    "published_parsed": [
+        2019,
+        1,
+        8,
+        13,
+        0,
+        0,
+        1,
+        8,
+        0
+    ],
+    "summary": "<p>本期是创业系列第三期。前两期都是失败故事，这一期请来了两位正在创业的朋友，回顾一下他们三年多的创业历程，聊聊其中的酸甜苦辣。</p>\n\n<p>这期的两位嘉宾是崔轶和一凌，泊学的两位创始人。说到这儿可能你以为这期是广告，很遗憾，这期真不是（真的会有人找我们这种小节目打广告嘛= =）。我在深圳组织第二届 @Swift 大会期间，崔轶和一凌帮了我很大的忙，可以说如果没有他们帮忙，大会很难真正办成，在这里我还是要正式的感谢他们。</p>\n\n<p>作为一个全栈工程师的自学网站，泊学已经创办了三年。和一般的创业公司不一样，崔轶和一凌没有拿投资，靠着一股拼劲坚持到了今天。为什么不拿投资？为什么选择自制视频？创业过程中遇到过哪些困难？有哪些难忘的事？借着这期节目，我问了所有我感兴趣的问题，听到了很多意料之外的答案，创业这两个字真的是知易行难。</p>\n\n<p>这期节目很长，但是我真心希望大家能听完，看看真实的、努力的、走心的创业公司到底是什么样。</p>\n\n<p>\n参考链接：</p>\n<ul>\n<li>泊学：https://boxueio.com/</li>\n<li>泊学的公众号：boxueio</li>\n<li>崔轶提到的两位 C++ 大咖：侯捷，孟岩</li>\n<li>Laraval 框架学习网站，Laracasts：https://laracasts.com/</li>\n<li>梁杰提到的命令行工具，iTerms2：https://www.iterm2.com/</li>\n<li>Safari 浏览器的 HLS 格式：https://developer.apple.com/streaming/</li>\n<li>Chrome 浏览器支持的 WebM 格式：https://www.webmproject.org/</li>\n<li>崔轶提到的视频录制工具，ScreenFlow：https://www.telestream.net/screenflow/</li>\n<li>泊学官方微博：@泊学（https://weibo.com/boxueio）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:03  自我介绍</li>\n<li>09:21  泊学的现状</li>\n<li>12:29  最初为什么要创办泊学？</li>\n<li>22:35  创业过程中，遇到过哪些压力？</li>\n<li>28:57  为什么决定做视频？</li>\n<li>34:29  编程类的视频有什么缺点</li>\n<li>43:20  4K 视频对带宽和服务器压力大吗？</li>\n<li>45:34  做一个视频，一般有哪些步骤？</li>\n<li>49:21  一凌做视频剪辑的感受</li>\n<li>52:42  技术更新之后，怎么同步更新视频内容？</li>\n<li>57:13  有没有考虑过招人做视频？</li>\n<li>58:22  为什么没有选择融资？</li>\n<li>01:02:10  创业过程中印象深刻的事</li>\n<li>01:11:56  最后有什么话想说？</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>本期是创业系列第三期。前两期都是失败故事，这一期请来了两位正在创业的朋友，回顾一下他们三年多的创业历程，聊聊其中的酸甜苦辣。</p>\n\n<p>这期的两位嘉宾是崔轶和一凌，泊学的两位创始人。说到这儿可能你以为这期是广告，很遗憾，这期真不是（真的会有人找我们这种小节目打广告嘛= =）。我在深圳组织第二届 @Swift 大会期间，崔轶和一凌帮了我很大的忙，可以说如果没有他们帮忙，大会很难真正办成，在这里我还是要正式的感谢他们。</p>\n\n<p>作为一个全栈工程师的自学网站，泊学已经创办了三年。和一般的创业公司不一样，崔轶和一凌没有拿投资，靠着一股拼劲坚持到了今天。为什么不拿投资？为什么选择自制视频？创业过程中遇到过哪些困难？有哪些难忘的事？借着这期节目，我问了所有我感兴趣的问题，听到了很多意料之外的答案，创业这两个字真的是知易行难。</p>\n\n<p>这期节目很长，但是我真心希望大家能听完，看看真实的、努力的、走心的创业公司到底是什么样。</p>\n\n<p>\n参考链接：</p>\n<ul>\n<li>泊学：https://boxueio.com/</li>\n<li>泊学的公众号：boxueio</li>\n<li>崔轶提到的两位 C++ 大咖：侯捷，孟岩</li>\n<li>Laraval 框架学习网站，Laracasts：https://laracasts.com/</li>\n<li>梁杰提到的命令行工具，iTerms2：https://www.iterm2.com/</li>\n<li>Safari 浏览器的 HLS 格式：https://developer.apple.com/streaming/</li>\n<li>Chrome 浏览器支持的 WebM 格式：https://www.webmproject.org/</li>\n<li>崔轶提到的视频录制工具，ScreenFlow：https://www.telestream.net/screenflow/</li>\n<li>泊学官方微博：@泊学（https://weibo.com/boxueio）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:03  自我介绍</li>\n<li>09:21  泊学的现状</li>\n<li>12:29  最初为什么要创办泊学？</li>\n<li>22:35  创业过程中，遇到过哪些压力？</li>\n<li>28:57  为什么决定做视频？</li>\n<li>34:29  编程类的视频有什么缺点</li>\n<li>43:20  4K 视频对带宽和服务器压力大吗？</li>\n<li>45:34  做一个视频，一般有哪些步骤？</li>\n<li>49:21  一凌做视频剪辑的感受</li>\n<li>52:42  技术更新之后，怎么同步更新视频内容？</li>\n<li>57:13  有没有考虑过招人做视频？</li>\n<li>58:22  为什么没有选择融资？</li>\n<li>01:02:10  创业过程中印象深刻的事</li>\n<li>01:11:56  最后有什么话想说？</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/12.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:16:51",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n本期是创业系列第三期。前两期都是失败故事，这一期请来了两位正在创业的朋友，回顾一下他们三年多的创业历程，聊聊其中的酸甜苦辣。</p>\n\n<p>这期的两位嘉宾是崔轶和一凌，泊学的两位创始人。说到这儿可能你以为这期是广告，很遗憾，这期真不是（真的会有人找我们这种小节目打广告嘛= =）。我在深圳组织第二届 @Swift 大会期间，崔轶和一凌帮了我很大的忙，可以说如果没有他们帮忙，大会很难真正办成，在这里我还是要正式的感谢他们。</p>\n\n<p>作为一个全栈工程师的自学网站，泊学已经创办了三年。和一般的创业公司不一样，崔轶和一凌没有拿投资，靠着一股拼劲坚持到了今天。为什么不拿投资？为什么选择自制视频？创业过程中遇到过哪些困难？有哪些难忘的事？借着这期节目，我问了所有我感兴趣的问题，听到了很多意料之外的答案，创业这两个字真的是知易行难。</p>\n\n<p>这期节目很长，但是我真心希望大家能听完，看看真实的、努力的、走心的创业公司到底是什么样。</p>\n\n<p>\n参考链接：</p>\n<ul>\n<li>泊学：https://boxueio.com/</li>\n<li>泊学的公众号：boxueio</li>\n<li>崔轶提到的两位 C++ 大咖：侯捷，孟岩</li>\n<li>Laraval 框架学习网站，Laracasts：https://laracasts.com/</li>\n<li>梁杰提到的命令行工具，iTerms2：https://www.iterm2.com/</li>\n<li>Safari 浏览器的 HLS 格式：https://developer.apple.com/streaming/</li>\n<li>Chrome 浏览器支持的 WebM 格式：https://www.webmproject.org/</li>\n<li>崔轶提到的视频录制工具，ScreenFlow：https://www.telestream.net/screenflow/</li>\n<li>泊学官方微博：@泊学（https://weibo.com/boxueio）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>01:03  自我介绍</li>\n<li>09:21  泊学的现状</li>\n<li>12:29  最初为什么要创办泊学？</li>\n<li>22:35  创业过程中，遇到过哪些压力？</li>\n<li>28:57  为什么决定做视频？</li>\n<li>34:29  编程类的视频有什么缺点</li>\n<li>43:20  4K 视频对带宽和服务器压力大吗？</li>\n<li>45:34  做一个视频，一般有哪些步骤？</li>\n<li>49:21  一凌做视频剪辑的感受</li>\n<li>52:42  技术更新之后，怎么同步更新视频内容？</li>\n<li>57:13  有没有考虑过招人做视频？</li>\n<li>58:22  为什么没有选择融资？</li>\n<li>01:02:10  创业过程中印象深刻的事</li>\n<li>01:11:56  最后有什么话想说？</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "翻译组",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "创业",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "创业故事",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "泊学",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

@@ -1,0 +1,95 @@
+{
+    "title": "如何（连续两次）获得 WWDC Scholarship",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "如何（连续两次）获得 WWDC Scholarship"
+    },
+    "itunes_episode": "21",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "48819641",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/21.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 5 Mar 2019 07:30:00 CDT",
+    "published_parsed": [
+        2019,
+        3,
+        5,
+        12,
+        30,
+        0,
+        1,
+        64,
+        0
+    ],
+    "summary": "<p>WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活动，哪怕你不是 iOS 开发者。除了主要内容，苹果每年有一个特殊的奖项，叫 WWDC Scholarship，全球的学生都可以提交申请。如果被苹果审核通过，就可以免费获得 WWDC 门票（价值 1599 美元并且需要靠抽签购买），包住宿，还有一系列专属的参观和交流活动。</p>\n\n<p>这次请到了目前还是高中生的朱同学，他已经连续两年获得 WWDC Scholarship 并参加 WWDC。作为一名经验丰富的获奖者和参会者，朱同学会详细讲讲他的申请过程和参会过程，并给出他的申请建议。</p>\n\n<p>如果你还是学生，并且对 Swift 感兴趣，可以按照朱同学的建议来尝试申请；\n如果你已经工作，也别错过这期，看看“苹果春晚” WWDC 都有什么；\n如果你参加过 WWDC，那更要仔细听一听，看看苹果给获奖者提供了什么特别活动，也可以了解到更多 WWDC 相关信息，帮助你更好地参与活动。</p>\n\n<p>总之，听就对了！</p>\n\n<p>参考链接：</p>\n<ul>\n<li>WWDC Scholarship 申请要求：https://developer.apple.com/wwdc/scholarships/</li>\n<li>Swift Playground 介绍：https://www.apple.com/cn/swift/playgrounds/</li>\n<li>朱同学第一次申请时写的项目：https://github.com/ApolloZhu/Swifty-Karel/</li>\n<li>喵神写的《写给初次参加 WWDC 的开发者的简明攻略》：https://onevcat.com/2016/04/first-wwdc/</li>\n<li>WWDC 的 Consulation 预约：https://developer.apple.com/wwdc/consultations/</li>\n<li>Craig Federighi：https://www.apple.com/leadership/craig-federighi/</li>\n<li>朱同学的 WWDC Scholarship 介绍文章：https://apollozhu.github.io/2018/03/16/wwdc18-scholarships-info-cn/</li>\n<li>朱同学第二次申请时写的项目：https://github.com/ApolloZhu/Pong-Hau-K-i/</li>\n<li>宋奎熹：https://www.weibo.com/krayc4/</li>\n<li>WWDC 官方特殊活动查询：https://developer.apple.com/wwdc/special-events/</li>\n<li>WWDC 周边活动查询：https://developer.apple.com/wwdc/more/</li>\n<li>朱同学写的 Mac App 自动深色模式：https://github.com/ApolloZhu/Dynamic-Dark-Mode/</li>\n<li>WWDC Scholarship 2017 项目列表：https://github.com/wwdc/2017/</li>\n<li>WWDC Scholarship 2018 项目列表：https://github.com/wwdc/2018/</li>\n<li>Swift Playground 文档：https://developer.apple.com/documentation/swift_playgrounds/</li>\n<li>Swift Playground Markup 文档：https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/</li>\n<li>Swift Playground CustomPlaygroundDisplayConvertible 文档：https://developer.apple.com/documentation/swift/customplaygrounddisplayconvertible</li>\n<li>朱同学博客关于 WWDC 的文章：https://apollozhu.github.io/tags/WWDC/</li>\n<li>朱同学的微博：@ApolloZhiyu（https://www.weibo.com/u/2607042732）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:38  个人介绍</li>\n<li>04:27  第一次申请以及 WWDC 参会经历</li>\n<li>33:06  第二次申请的过程</li>\n<li>39:57  今年还申请吗？</li>\n<li>42:37  获奖对学习和生活有没有什么影响？</li>\n<li>45:01  苹果到底看重的是什么</li>\n<li>47:18  如果其他同学也想申请，有什么建议？</li>\n<li>48:20  未来有什么规划？</li>\n<li>49:42  最后有什么话想说？</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>WWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活动，哪怕你不是 iOS 开发者。除了主要内容，苹果每年有一个特殊的奖项，叫 WWDC Scholarship，全球的学生都可以提交申请。如果被苹果审核通过，就可以免费获得 WWDC 门票（价值 1599 美元并且需要靠抽签购买），包住宿，还有一系列专属的参观和交流活动。</p>\n\n<p>这次请到了目前还是高中生的朱同学，他已经连续两年获得 WWDC Scholarship 并参加 WWDC。作为一名经验丰富的获奖者和参会者，朱同学会详细讲讲他的申请过程和参会过程，并给出他的申请建议。</p>\n\n<p>如果你还是学生，并且对 Swift 感兴趣，可以按照朱同学的建议来尝试申请；\n如果你已经工作，也别错过这期，看看“苹果春晚” WWDC 都有什么；\n如果你参加过 WWDC，那更要仔细听一听，看看苹果给获奖者提供了什么特别活动，也可以了解到更多 WWDC 相关信息，帮助你更好地参与活动。</p>\n\n<p>总之，听就对了！</p>\n\n<p>参考链接：</p>\n<ul>\n<li>WWDC Scholarship 申请要求：https://developer.apple.com/wwdc/scholarships/</li>\n<li>Swift Playground 介绍：https://www.apple.com/cn/swift/playgrounds/</li>\n<li>朱同学第一次申请时写的项目：https://github.com/ApolloZhu/Swifty-Karel/</li>\n<li>喵神写的《写给初次参加 WWDC 的开发者的简明攻略》：https://onevcat.com/2016/04/first-wwdc/</li>\n<li>WWDC 的 Consulation 预约：https://developer.apple.com/wwdc/consultations/</li>\n<li>Craig Federighi：https://www.apple.com/leadership/craig-federighi/</li>\n<li>朱同学的 WWDC Scholarship 介绍文章：https://apollozhu.github.io/2018/03/16/wwdc18-scholarships-info-cn/</li>\n<li>朱同学第二次申请时写的项目：https://github.com/ApolloZhu/Pong-Hau-K-i/</li>\n<li>宋奎熹：https://www.weibo.com/krayc4/</li>\n<li>WWDC 官方特殊活动查询：https://developer.apple.com/wwdc/special-events/</li>\n<li>WWDC 周边活动查询：https://developer.apple.com/wwdc/more/</li>\n<li>朱同学写的 Mac App 自动深色模式：https://github.com/ApolloZhu/Dynamic-Dark-Mode/</li>\n<li>WWDC Scholarship 2017 项目列表：https://github.com/wwdc/2017/</li>\n<li>WWDC Scholarship 2018 项目列表：https://github.com/wwdc/2018/</li>\n<li>Swift Playground 文档：https://developer.apple.com/documentation/swift_playgrounds/</li>\n<li>Swift Playground Markup 文档：https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/</li>\n<li>Swift Playground CustomPlaygroundDisplayConvertible 文档：https://developer.apple.com/documentation/swift/customplaygrounddisplayconvertible</li>\n<li>朱同学博客关于 WWDC 的文章：https://apollozhu.github.io/tags/WWDC/</li>\n<li>朱同学的微博：@ApolloZhiyu（https://www.weibo.com/u/2607042732）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:38  个人介绍</li>\n<li>04:27  第一次申请以及 WWDC 参会经历</li>\n<li>33:06  第二次申请的过程</li>\n<li>39:57  今年还申请吗？</li>\n<li>42:37  获奖对学习和生活有没有什么影响？</li>\n<li>45:01  苹果到底看重的是什么</li>\n<li>47:18  如果其他同学也想申请，有什么建议？</li>\n<li>48:20  未来有什么规划？</li>\n<li>49:42  最后有什么话想说？</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/21.mp3",
+    "guidislink": false,
+    "itunes_duration": "00:50:50",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\nWWDC 是苹果每年最重要的开发者活动，相信大家都听过这个活动，哪怕你不是 iOS 开发者。除了主要内容，苹果每年有一个特殊的奖项，叫 WWDC Scholarship，全球的学生都可以提交申请。如果被苹果审核通过，就可以免费获得 WWDC 门票（价值 1599 美元并且需要靠抽签购买），包住宿，还有一系列专属的参观和交流活动。</p>\n\n<p>这次请到了目前还是高中生的朱同学，他已经连续两年获得 WWDC Scholarship 并参加 WWDC。作为一名经验丰富的获奖者和参会者，朱同学会详细讲讲他的申请过程和参会过程，并给出他的申请建议。</p>\n\n<p>如果你还是学生，并且对 Swift 感兴趣，可以按照朱同学的建议来尝试申请；\n如果你已经工作，也别错过这期，看看“苹果春晚” WWDC 都有什么；\n如果你参加过 WWDC，那更要仔细听一听，看看苹果给获奖者提供了什么特别活动，也可以了解到更多 WWDC 相关信息，帮助你更好地参与活动。</p>\n\n<p>总之，听就对了！</p>\n\n<p>参考链接：</p>\n<ul>\n<li>WWDC Scholarship 申请要求：https://developer.apple.com/wwdc/scholarships/</li>\n<li>Swift Playground 介绍：https://www.apple.com/cn/swift/playgrounds/</li>\n<li>朱同学第一次申请时写的项目：https://github.com/ApolloZhu/Swifty-Karel/</li>\n<li>喵神写的《写给初次参加 WWDC 的开发者的简明攻略》：https://onevcat.com/2016/04/first-wwdc/</li>\n<li>WWDC 的 Consulation 预约：https://developer.apple.com/wwdc/consultations/</li>\n<li>Craig Federighi：https://www.apple.com/leadership/craig-federighi/</li>\n<li>朱同学的 WWDC Scholarship 介绍文章：https://apollozhu.github.io/2018/03/16/wwdc18-scholarships-info-cn/</li>\n<li>朱同学第二次申请时写的项目：https://github.com/ApolloZhu/Pong-Hau-K-i/</li>\n<li>宋奎熹：https://www.weibo.com/krayc4/</li>\n<li>WWDC 官方特殊活动查询：https://developer.apple.com/wwdc/special-events/</li>\n<li>WWDC 周边活动查询：https://developer.apple.com/wwdc/more/</li>\n<li>朱同学写的 Mac App 自动深色模式：https://github.com/ApolloZhu/Dynamic-Dark-Mode/</li>\n<li>WWDC Scholarship 2017 项目列表：https://github.com/wwdc/2017/</li>\n<li>WWDC Scholarship 2018 项目列表：https://github.com/wwdc/2018/</li>\n<li>Swift Playground 文档：https://developer.apple.com/documentation/swift_playgrounds/</li>\n<li>Swift Playground Markup 文档：https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/</li>\n<li>Swift Playground CustomPlaygroundDisplayConvertible 文档：https://developer.apple.com/documentation/swift/customplaygrounddisplayconvertible</li>\n<li>朱同学博客关于 WWDC 的文章：https://apollozhu.github.io/tags/WWDC/</li>\n<li>朱同学的微博：@ApolloZhiyu（https://www.weibo.com/u/2607042732）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:38  个人介绍</li>\n<li>04:27  第一次申请以及 WWDC 参会经历</li>\n<li>33:06  第二次申请的过程</li>\n<li>39:57  今年还申请吗？</li>\n<li>42:37  获奖对学习和生活有没有什么影响？</li>\n<li>45:01  苹果到底看重的是什么</li>\n<li>47:18  如果其他同学也想申请，有什么建议？</li>\n<li>48:20  未来有什么规划？</li>\n<li>49:42  最后有什么话想说？</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "wwdc",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "scholarship",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

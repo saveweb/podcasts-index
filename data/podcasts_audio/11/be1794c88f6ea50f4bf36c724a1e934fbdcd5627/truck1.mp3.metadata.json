@@ -1,0 +1,34 @@
+{
+    "http-content-length": 26364247,
+    "http-etag": "06fee778c716802b8185ebef53b4c499-4",
+    "http-last-modified": "Wed, 11 May 2022 02:23:16 GMT",
+    "http-last-modified-float": 1652206996.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 26364247,
+    "actual-duration": 3280,
+    "sha1": "9101a675c92bc25b8cc3583d745025d68e785fda",
+    "md5": "f6f6e019b4d2e78f6c8679e4629dc458",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/truck1.mp3",
+            "headers": {
+                "Etag": "\"06fee778c716802b8185ebef53b4c499-4\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_CC5",
+                "Date": "Wed, 05 Apr 2023 15:48:24 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Wed, 11 May 2022 02:23:16 GMT",
+                "Content-Length": "26364247",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "16550142901051499803",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

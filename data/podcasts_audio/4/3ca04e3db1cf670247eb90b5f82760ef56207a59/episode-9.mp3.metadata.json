@@ -1,0 +1,36 @@
+{
+    "http-content-length": 122089766,
+    "http-etag": "6399ff63-746f126",
+    "http-last-modified": "Wed, 14 Dec 2022 16:52:51 GMT",
+    "http-last-modified-float": 1671007971.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 122089766,
+    "actual-duration": 5086,
+    "sha1": "4b16a0a9dd1bb84bac6823ca3be94ac49e176d6c",
+    "md5": "97cfbdfb6e07753e68c5a5e0b4a4e386",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://bytetalk.fm/podcasts/episode-9.mp3",
+            "headers": {
+                "Date": "Wed, 05 Apr 2023 13:34:26 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "122089766",
+                "Connection": "keep-alive",
+                "Last-Modified": "Wed, 14 Dec 2022 16:52:51 GMT",
+                "ETag": "\"6399ff63-746f126\"",
+                "Cache-Control": "max-age=14400",
+                "CF-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=4AQFAl8%2BHxA%2FD44p0GpoviIBJLrbMoEH4h%2F2%2FZt26%2B8qx1V2YhmCgJxX7kCBuCYSyKEbvQuJiXSXDkmg8ITc%2BIhojg7HrDL1zXbmMj2yqMheQ5dOyrgNt6r2z0afQA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "CF-RAY": "7b322b23aac009f3-LAS",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        }
+    }
+}

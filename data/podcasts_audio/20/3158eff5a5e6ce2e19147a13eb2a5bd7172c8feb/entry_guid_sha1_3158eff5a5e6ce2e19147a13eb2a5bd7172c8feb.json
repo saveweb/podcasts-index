@@ -1,0 +1,168 @@
+{
+    "title": "番外03: 失落的“上海共和国”",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "番外03: 失落的“上海共和国”"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.theviewtalk.com/sp03"
+        },
+        {
+            "length": "40636233",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/3aaf97f0-0a87-4091-b516-9630d0c9de3f.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.theviewtalk.com/sp03",
+    "id": "3aaf97f0-0a87-4091-b516-9630d0c9de3f",
+    "guidislink": false,
+    "published": "Wed, 10 Feb 2021 19:00:00 +0800",
+    "published_parsed": [
+        2021,
+        2,
+        10,
+        11,
+        0,
+        0,
+        2,
+        41,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一画一话"
+        },
+        {
+            "name": "一画一话"
+        }
+    ],
+    "author": "一画一话",
+    "author_detail": {
+        "name": "一画一话"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": ""
+    },
+    "itunes_duration": "42:19",
+    "itunes_explicit": null,
+    "summary": "<p>19世纪末，第一个新共和国还未见胎形，上海却已经有机会独立自治。</p>\n\n<p>这期节目我们继续捧读2003年的《书城》杂志，揭开一段上海前史。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "<p>19世纪末，第一个新共和国还未见胎形，上海却已经有机会独立自治。</p>\n\n<p>这期节目我们继续捧读2003年的《书城》杂志，揭开一段上海前史。</p>"
+    },
+    "tags": [
+        {
+            "term": "上海",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "清朝",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "民国",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "独立",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "自治",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "租借",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "租界",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "殖民",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "纳税",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "港口",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "香港",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "澳门",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "广州",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "出口贸易",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "英国",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "法国",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "美国",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/theviewtalk/rss",
+            "value": "<p>19世纪末，第一个新共和国还未见胎形，上海却已经有机会独立自治。</p>\n\n<p>这期节目我们继续捧读2003年的《书城》杂志，揭开一段上海前史。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yS2zkE2S+GMjPV0Hr",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yS2zkE2S+GMjPV0Hr\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

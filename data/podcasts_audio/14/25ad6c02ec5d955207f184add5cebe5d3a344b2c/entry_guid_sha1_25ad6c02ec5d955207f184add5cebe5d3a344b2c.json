@@ -1,0 +1,77 @@
+{
+    "links": [
+        {
+            "length": "33702915",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjE0MTYsInAiOjIsInUiOiJlMzM1Lm1wMyJ9.2fGCOW8kFBfNIODJ2_PaBL7IJc0/uxcoffee/z_8fb4c8eccf4817bc35687aa8befee335.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/34"
+        }
+    ],
+    "title": "#34：VR、AR 的一百种可能性（谷歌 VR 团队用研负责人张晶华 - 上）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#34：VR、AR 的一百种可能性（谷歌 VR 团队用研负责人张晶华 - 上）"
+    },
+    "id": "https://uxcoffee.com/episodes/34",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/34",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "itunes_duration": "35:06",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "34",
+    "podcast_episode": "34",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/z_b2da90d19a0d79fa599010d11b1e410e.jpg?x-oss-process=style/sl"
+    },
+    "summary": "今天我们要来聊一聊这两年来非常火的话题 VR（虚拟现实）和 AR（增强现实）。做客这期节目的嘉宾是 Goolge VR、AR 团队 Daydream 用户研究的负责人张晶华。 她对于 VR/AR 技术有着极大的热情和信心。去年年初，她选择离开工作七年的公司 Mozilla，回到老东家 Google，就是专门回来做 VR 和 AR 的。 时间轴 01:34 VR 会是下一代计算平台吗？ 06:36 为什么 VR 还没有走进普通消费者的生活？ 11:20 Google VR 的产品战略 16:47 VR 画笔 Tilt Brush 18:20 Google Earth — 空间和时间的任意门 20:42 VR 会在哪些领域先火起来？ 25:19 AR 会比 VR 更先进入大众生活吗？ 27:52 开个脑洞：日常生活中如何引入 AR 技术 30:01 VR 有可能改变人类的行为和认知吗？ 参考链接 Google VR 官方网站： https://vr.google.com/ Google Design：从产品设计到虚拟现实 — http://uxren.cn/?p=25577 迪士尼首席动画师 Glen Keane 用 Tilt Brush 演绎 VR 绘画 — http://v.youku.com/v_show/id_XMTMzNjI5NjkyMA==.html 嘉宾联系方式 领英：https://www.linkedin.com/in/jinghuaz/",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "今天我们要来聊一聊这两年来非常火的话题 VR（虚拟现实）和 AR（增强现实）。做客这期节目的嘉宾是 Goolge VR、AR 团队 Daydream 用户研究的负责人张晶华。 她对于 VR/AR 技术有着极大的热情和信心。去年年初，她选择离开工作七年的公司 Mozilla，回到老东家 Google，就是专门回来做 VR 和 AR 的。 时间轴 01:34 VR 会是下一代计算平台吗？ 06:36 为什么 VR 还没有走进普通消费者的生活？ 11:20 Google VR 的产品战略 16:47 VR 画笔 Tilt Brush 18:20 Google Earth — 空间和时间的任意门 20:42 VR 会在哪些领域先火起来？ 25:19 AR 会比 VR 更先进入大众生活吗？ 27:52 开个脑洞：日常生活中如何引入 AR 技术 30:01 VR 有可能改变人类的行为和认知吗？ 参考链接 Google VR 官方网站： https://vr.google.com/ Google Design：从产品设计到虚拟现实 — http://uxren.cn/?p=25577 迪士尼首席动画师 Glen Keane 用 Tilt Brush 演绎 VR 绘画 — http://v.youku.com/v_show/id_XMTMzNjI5NjkyMA==.html 嘉宾联系方式 领英：https://www.linkedin.com/in/jinghuaz/"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>今天我们要来聊一聊这两年来非常火的话题 VR（虚拟现实）和 AR（增强现实）。做客这期节目的嘉宾是 Goolge VR、AR 团队 Daydream 用户研究的负责人张晶华。 她对于 VR/AR 技术有着极大的热情和信心。去年年初，她选择离开工作七年的公司 Mozilla，回到老东家 Google，就是专门回来做 VR 和 AR 的。</p>\n<br />\n<h2>时间轴</h2>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=01:34\">01:34</a> VR 会是下一代计算平台吗？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=06:36\">06:36</a> 为什么 VR 还没有走进普通消费者的生活？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=11:20\">11:20</a> Google VR 的产品战略</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=16:47\">16:47</a> VR 画笔 Tilt Brush</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=18:20\">18:20</a> Google Earth — 空间和时间的任意门</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=20:42\">20:42</a> VR 会在哪些领域先火起来？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=25:19\">25:19</a> AR 会比 VR 更先进入大众生活吗？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=27:52\">27:52</a> 开个脑洞：日常生活中如何引入 AR 技术</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=30:01\">30:01</a> VR 有可能改变人类的行为和认知吗？</p>\n<br />\n<h2>参考链接</h2>\n<p>Google VR 官方网站： <a href=\"https://vr.google.com/\">https://vr.google.com/</a></p>\n<p>Google Design：从产品设计到虚拟现实 — <a href=\"http://uxren.cn/?p=25577\">http://uxren.cn/?p=25577</a></p>\n<p>迪士尼首席动画师 Glen Keane 用 Tilt Brush 演绎 VR 绘画 — <a href=\"http://v.youku.com/v_show/id_XMTMzNjI5NjkyMA==.html\">http://v.youku.com/v_show/id_XMTMzNjI5NjkyMA==.html</a></p>\n<br />\n<h2>嘉宾联系方式</h2>\n<p>领英：<a href=\"https://www.linkedin.com/in/jinghuaz/\">https://www.linkedin.com/in/jinghuaz/</a></p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>今天我们要来聊一聊这两年来非常火的话题 VR（虚拟现实）和 AR（增强现实）。做客这期节目的嘉宾是 Goolge VR、AR 团队 Daydream 用户研究的负责人张晶华。 她对于 VR/AR 技术有着极大的热情和信心。去年年初，她选择离开工作七年的公司 Mozilla，回到老东家 Google，就是专门回来做 VR 和 AR 的。</p>\n<br />\n<h2>时间轴</h2>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=01:34\">01:34</a> VR 会是下一代计算平台吗？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=06:36\">06:36</a> 为什么 VR 还没有走进普通消费者的生活？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=11:20\">11:20</a> Google VR 的产品战略</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=16:47\">16:47</a> VR 画笔 Tilt Brush</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=18:20\">18:20</a> Google Earth — 空间和时间的任意门</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=20:42\">20:42</a> VR 会在哪些领域先火起来？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=25:19\">25:19</a> AR 会比 VR 更先进入大众生活吗？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=27:52\">27:52</a> 开个脑洞：日常生活中如何引入 AR 技术</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=30:01\">30:01</a> VR 有可能改变人类的行为和认知吗？</p>\n<br />\n<h2>参考链接</h2>\n<p>Google VR 官方网站： <a href=\"https://vr.google.com/\">https://vr.google.com/</a></p>\n<p>Google Design：从产品设计到虚拟现实 — <a href=\"http://uxren.cn/?p=25577\">http://uxren.cn/?p=25577</a></p>\n<p>迪士尼首席动画师 Glen Keane 用 Tilt Brush 演绎 VR 绘画 — <a href=\"http://v.youku.com/v_show/id_XMTMzNjI5NjkyMA==.html\">http://v.youku.com/v_show/id_XMTMzNjI5NjkyMA==.html</a></p>\n<br />\n<h2>嘉宾联系方式</h2>\n<p>领英：<a href=\"https://www.linkedin.com/in/jinghuaz/\">https://www.linkedin.com/in/jinghuaz/</a></p>"
+        }
+    ],
+    "published": "Tue, 29 Aug 2017 23:17:00 +0000",
+    "published_parsed": [
+        2017,
+        8,
+        29,
+        23,
+        17,
+        0,
+        1,
+        241,
+        0
+    ]
+}

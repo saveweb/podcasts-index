@@ -1,0 +1,42 @@
+{
+    "http-content-length": 138372967,
+    "http-etag": "lpe3AwLZYRcar7EysKH8CEf-LFHO",
+    "http-last-modified": "Sat, 21 Mar 2020 10:40:00 GMT",
+    "http-last-modified-float": 1584758400.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline; filename=\"26.ipadpro.mp3\"; filename*=utf-8''26.ipadpro.mp3",
+    "http-content-disposition-filename": "26.ipadpro.mp3",
+    "actual-size": 138372967,
+    "actual-duration": 3436,
+    "sha1": "7ab515fa192d4f8e734281758cfc099dd250bbd8",
+    "md5": "1551b393b1d890e3eb6d4b1ecdbf9537",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://podcast.webview.tech/26.ipadpro.mp3",
+            "headers": {
+                "Server": "openresty",
+                "Date": "Wed, 05 Apr 2023 19:08:18 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "138372967",
+                "Connection": "keep-alive",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"26.ipadpro.mp3\"; filename*=utf-8''26.ipadpro.mp3",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lpe3AwLZYRcar7EysKH8CEf-LFHO\"",
+                "Last-Modified": "Sat, 21 Mar 2020 10:40:00 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:cdn-cache-dls-gzgy-gy-3;QNM:gzh138;SRCPROXY:gzh438;SRC:75;SRCPROXY:75;QNM3:94;QNM3:265",
+                "X-M-Reqid": "V88AAC0Qb",
+                "X-Qiniu-Zone": "0",
+                "X-Qnm-Cache": "Miss",
+                "X-Reqid": "pfwAAACOPb16H1MX",
+                "X-Svr": "IO"
+            }
+        }
+    }
+}

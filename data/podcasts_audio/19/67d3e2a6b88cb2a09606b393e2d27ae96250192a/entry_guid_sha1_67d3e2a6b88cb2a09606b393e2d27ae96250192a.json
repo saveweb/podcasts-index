@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "42043802",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo2NDI4LCJwIjoyLCJ1IjoiN2JhYS5tcDMifQ.UbCpXN4ogRH4g-DBEfzHzyTcJoU/sspai/z_370b7191d7089787d617f3c77af37baa.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/ep1"
+        }
+    ],
+    "title": "聊聊 Apple 2019 秋季发布会",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "聊聊 Apple 2019 秋季发布会"
+    },
+    "id": "https://sspai.typlog.io/episodes/ep1",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/ep1",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "少数派编辑部的同事们聚在一起聊了聊 Apple 2019 秋季发布会。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "少数派编辑部的同事们聚在一起聊了聊 Apple 2019 秋季发布会。"
+    },
+    "itunes_duration": "43:38",
+    "itunes_explicit": null,
+    "itunes_episode": "1",
+    "podcast_episode": "1",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8385411888_894555.jpg?x-oss-process=style/sl"
+    },
+    "summary": "这是少数派旗下播客「一派·Podcast」的第一期节目。节目尚处内测阶段，如果你听到了这期节目，欢迎给我们留言提出反馈和意见。感谢你的收听。 登场人物 主持人：张奕源 Nick 杜特（nerd_du），少数派编辑部主编 OscarLiu，少数派编辑部副主编 Vanilla，少数派编辑 联系我们 微博：少数派sspai 网站：sspai.com 邮箱：nick@sspai.com",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "这是少数派旗下播客「一派·Podcast」的第一期节目。节目尚处内测阶段，如果你听到了这期节目，欢迎给我们留言提出反馈和意见。感谢你的收听。 登场人物 主持人：张奕源 Nick 杜特（nerd_du），少数派编辑部主编 OscarLiu，少数派编辑部副主编 Vanilla，少数派编辑 联系我们 微博：少数派sspai 网站：sspai.com 邮箱：nick@sspai.com"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>这是少数派旗下播客「一派·Podcast」的第一期节目。节目尚处内测阶段，如果你听到了这期节目，欢迎给我们留言提出反馈和意见。感谢你的收听。</p>\n\n<h3>登场人物</h3>\n\n<ul>\n<li>主持人：张奕源 Nick</li>\n<li>杜特（nerd_du），少数派编辑部主编</li>\n<li>OscarLiu，少数派编辑部副主编</li>\n<li>Vanilla，少数派编辑</li>\n</ul>\n\n<h3>联系我们</h3>\n\n<ul>\n<li>微博：少数派sspai</li>\n<li>网站：sspai.com</li>\n<li>邮箱：<a href=\"mailto:nick@sspai.com\" rel=\"nofollow\">nick@sspai.com</a></li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>这是少数派旗下播客「一派·Podcast」的第一期节目。节目尚处内测阶段，如果你听到了这期节目，欢迎给我们留言提出反馈和意见。感谢你的收听。</p>\n\n<h3>登场人物</h3>\n\n<ul>\n<li>主持人：张奕源 Nick</li>\n<li>杜特（nerd_du），少数派编辑部主编</li>\n<li>OscarLiu，少数派编辑部副主编</li>\n<li>Vanilla，少数派编辑</li>\n</ul>\n\n<h3>联系我们</h3>\n\n<ul>\n<li>微博：少数派sspai</li>\n<li>网站：sspai.com</li>\n<li>邮箱：<a href=\"mailto:nick@sspai.com\" rel=\"nofollow\">nick@sspai.com</a></li>\n</ul>"
+        }
+    ],
+    "published": "Thu, 12 Sep 2019 08:00:00 +0000",
+    "published_parsed": [
+        2019,
+        9,
+        12,
+        8,
+        0,
+        0,
+        3,
+        255,
+        0
+    ]
+}

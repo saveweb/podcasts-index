@@ -1,0 +1,34 @@
+{
+    "http-content-length": 68626309,
+    "http-etag": "2bf9633abc864a1e49c188afefe92301-66",
+    "http-last-modified": "Tue, 21 Jan 2020 22:38:43 GMT",
+    "http-last-modified-float": 1579617523.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 68626309,
+    "actual-duration": 4288,
+    "sha1": "5113b2132a49c53f0f363a782ff54f8bc7de8d91",
+    "md5": "46298a69577c7d17138b541fdca051ba",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/2020_chunjie_1.mp3",
+            "headers": {
+                "Etag": "\"2bf9633abc864a1e49c188afefe92301-66\"",
+                "Content-Type": "audio/mp3",
+                "Server": "stsoc_lego_CC5",
+                "Date": "Wed, 05 Apr 2023 15:43:47 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Tue, 21 Jan 2020 22:38:43 GMT",
+                "Content-Length": "68626309",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "15611655213792092199",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

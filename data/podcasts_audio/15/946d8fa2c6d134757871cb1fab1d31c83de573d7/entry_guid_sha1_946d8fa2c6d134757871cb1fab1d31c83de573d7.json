@@ -1,0 +1,100 @@
+{
+    "title": "18. 怀着被苹果下架的心情，我们来聊下WWDC",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "18. 怀着被苹果下架的心情，我们来聊下WWDC"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://webview.tech/1259/"
+        },
+        {
+            "length": "115255564",
+            "type": "audio/mpeg",
+            "href": "https://podcast.webview.tech/18.wwdc.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://webview.tech/1259/",
+    "comments": "https://webview.tech/1259/#respond",
+    "published": "Wed, 05 Jun 2019 08:26:21 +0000",
+    "published_parsed": [
+        2019,
+        6,
+        5,
+        8,
+        26,
+        21,
+        2,
+        156,
+        0
+    ],
+    "authors": [
+        {
+            "name": "王隐"
+        },
+        {
+            "name": "王隐，敬礼"
+        }
+    ],
+    "author": "王隐，敬礼",
+    "author_detail": {
+        "name": "王隐"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "P3色域",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "WWDC",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "苹果",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "https://webview.tech/?p=1259",
+    "guidislink": false,
+    "summary": "总体来看，这是一场惊喜颇多的发布会。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "总体来看，这是一场惊喜颇多的发布会。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://webview.tech/category/podcast/feed/",
+            "value": "<h2>SHOWNOTE：</h2>\n\n\n\n<ul><li>WEB VIEW<a href=\"https://webview.tech/\">主站链接</a></li><li>WEB VIEW<a href=\"http://music.163.com/radio/527159632?userid=6856346\">网易云收听链接</a></li><li>techcrunch<a href=\"https://techcrunch.com/2019/06/04/apple-restricts-chinese-podcasts/\">《apple restricts chinese podcasts》</a></li><li>新苹果显示器<ul><li>P3色域</li><li>全局色彩管理机制</li><li>对比度</li><li>HDR vs SDR</li></ul></li><li>iPad OS：谈 iPad 生产力<ul><li>PS、lightroom</li><li>多窗口，多任务</li><li>性能过剩</li></ul></li><li>暗黑模式<ul><li>OLED 与像素老化</li><li>省电</li></ul></li></ul>\n\n\n\n<ul><li>滑动输入法<ul><li>Gboard</li><li>震动引擎</li></ul></li><li>Apple ID<ul><li>隐私安全</li><li>注册成本</li></ul></li><li>Project Catalyst<ul><li>iPad 应用迁移 Mac</li><li>英特尔的基带技术</li><li>Catalyst 对英特尔的不利影响？</li></ul></li><li>图片处理<ul><li>Face ID 前置摄像头的3D建模</li><li>为什么苹果拍照不去掉雀斑？</li><li>谷歌相册 feature：一键隐藏</li></ul></li></ul>\n\n\n\n<ul><li>Apple Pencil：打字 VS 写字</li><li>home kit<ul><li>语音，智能家居的入口？</li><li>米家：<a href=\"https://baike.baidu.com/item/ZigBee\">ZigBee工控协议</a></li><li>物联网安全与 home kit 认证</li><li>数据安全 VS 跳舞的猪</li></ul></li></ul>\n\n\n\n<h2>主持：</h2>\n\n\n\n<p>王隐（<a href=\"http://weibo.com/recwangyin\">@王隐在录音</a>）</p>\n\n\n\n<h2>嘉宾：</h2>\n\n\n\n<p>欧阳洋葱（微博<a href=\"https://weibo.com/illumi\">@欧阳洋葱</a>）</p>\n\n\n\n<h2>playlist：</h2>\n\n\n\n<p>Beautiful Ones – Suede</p>\n\n\n\n<h2>联系我们：</h2>\n\n\n\n<p>你可以通过邮件向我们反馈节目中的问题和建议： <a href=\"mailto://hi@webview.tech\">hi@webview.tech</a></p>\n\n\n\n<p>微博：<a href=\"https://weibo.com/u/7159686921\">@网页观点</a></p>\n\n\n\n<p>我们的网站： <a href=\"https://webview.tech/\">webview.tech</a></p>"
+        }
+    ],
+    "wfw_commentrss": "https://webview.tech/1259/feed/",
+    "slash_comments": "0",
+    "subtitle": "总体来看，这是一场惊喜颇多的发布会。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "总体来看，这是一场惊喜颇多的发布会。"
+    },
+    "itunes_episode": "18",
+    "itunes_title": "怀着被苹果下架的心情，我们来聊下WWDC",
+    "itunes_explicit": false,
+    "itunes_duration": "1:20:00"
+}

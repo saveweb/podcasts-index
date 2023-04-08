@@ -1,0 +1,103 @@
+{
+    "title": "#7 - 深度剖析 Lightning Network 技术细节",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#7 - 深度剖析 Lightning Network 技术细节"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/7"
+        },
+        {
+            "length": "34303291",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/82f00441-5a99-4d3f-b85c-9a67e7858c1c.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/7",
+    "id": "82f00441-5a99-4d3f-b85c-9a67e7858c1c",
+    "guidislink": false,
+    "published": "Sat, 11 May 2019 12:00:00 +0800",
+    "published_parsed": [
+        2019,
+        5,
+        11,
+        4,
+        0,
+        0,
+        5,
+        131,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "LN 在网络方面是怎么集大成的？它之前的诸多技术方案是什么？为什么是 LN 最终获得了成功？而促成它成功的因素又是什么？\n\nJan 在播客中还对 HTLC 和 Channel 构造等诸多技术进行了详细的分析，超 Hardcore，热爱技术的你一定不要错过～",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "LN 在网络方面是怎么集大成的？它之前的诸多技术方案是什么？为什么是 LN 最终获得了成功？而促成它成功的因素又是什么？\n\nJan 在播客中还对 HTLC 和 Channel 构造等诸多技术进行了详细的分析，超 Hardcore，热爱技术的你一定不要错过～"
+    },
+    "itunes_duration": "1:11:27",
+    "itunes_explicit": null,
+    "summary": "<p>本期 Fork It 继续和大家探讨 Lightning Network。LN 在网络方面是怎么集大成的？它之前的诸多技术方案是什么？LN 因天时地利人和最终获得成功，这些因素又是什么呢？</p>\n\n<p>播客中还对 HTLC 和 Channel 构造等诸多技术进行了详细的分析，超 Hardcore，热爱技术的你一定不要错过～</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，你还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://twitter.com/gavinandresen\" rel=\"nofollow\">Gavin Andresen</a> </li>\n<li><a href=\"https://en.wikipedia.org/wiki/Craig_Steven_Wright\" rel=\"nofollow\">CSW </a></li>\n<li><a href=\"http://gavintech.blogspot.com/2012/07/off-chain-transactions.html\" rel=\"nofollow\">Gavin ' Blog  「Off-the-chain transactions」</a></li>\n<li><a href=\"https://twitter.com/MeniRosenfeld\" rel=\"nofollow\">Meni Rosenfeld</a> / <a href=\"https://bitcointalk.org/index.php?topic=91732.0\" rel=\"nofollow\">Meni Rosenfeld's talk at Bitcointalk </a></li>\n<li><a href=\"https://bitcoin.org/en/glossary/signature-hash\" rel=\"nofollow\">SigHash</a></li>\n<li><a href=\"https://cornwarecjp.github.io/amiko-pay/\" rel=\"nofollow\">Amiko Pay </a></li>\n<li><a href=\"https://bitpay.com/\" rel=\"nofollow\">Bitpay</a> / <a href=\"https://cointelegraph.com/news/bitpay-proposes-zero-confirmation-instant-payments-solution\" rel=\"nofollow\">Impulse </a></li>\n<li><a href=\"https://www.strawpay.com/\" rel=\"nofollow\">Strawpay</a> / <a href=\"https://www.strawpay.com/docs/stroem-factsheet.pdf\" rel=\"nofollow\">Stroem</a></li>\n<li><a href=\"https://www.tik.ee.ethz.ch/file/716b955c130e6c703fac336ea17b1670/duplex-micropayment-channels.pdf\" rel=\"nofollow\">A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Roger_Wattenhofer\" rel=\"nofollow\">Roger Wattenhofer</a> / <a href=\"https://twitter.com/Snyke\" rel=\"nofollow\">Christian Decker</a> </li>\n<li><a href=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html\" rel=\"nofollow\">Gregory Maxwell 's Blog about Scale</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Timelock\" rel=\"nofollow\">Timelock</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Hash_Time_Locked_Contracts\" rel=\"nofollow\">Hash Time Locked Contract(HTLC)</a></li>\n<li><a href=\"https://zmnscpxj.github.io/offchain/generalized.html\" rel=\"nofollow\">Funding Transactions</a> / <a href=\"https://bitcoin.stackexchange.com/questions/tagged/ln-breach-remedy\" rel=\"nofollow\">Breach Remedy Transaction</a></li>\n<li><a href=\"http://webhdwallet.github.io/\" rel=\"nofollow\">HD Wallet</a></li>\n<li><a href=\"https://github.com/lightningnetwork/lightning-rfc\" rel=\"nofollow\">Lightning RFC</a></li>\n<li><a href=\"https://github.com/lightningnetwork/lnd\" rel=\"nofollow\">LND</a> / <a href=\"https://github.com/mit-dci/lit\" rel=\"nofollow\">Lit</a> / <a href=\"https://github.com/ACINQ/eclair\" rel=\"nofollow\">Eclair</a></li>\n<li><a href=\"https://github.com/ElementsProject/lightning\" rel=\"nofollow\">Blockstream ElementsProject</a></li>\n<li><a href=\"https://monitor.firefox.com/\" rel=\"nofollow\">Firefox Monitor</a></li>\n<li><a href=\"https://brave.com/kre925?gclid=CjwKCAjw_MnmBRAoEiwAPRRWW1mJ0n73Wtg7qfsJsoFR5kCSQN5l9ASv3VZcuL4yoEIi7euyDytWDRoCa54QAvD_BwE\" rel=\"nofollow\">Brave</a><br /></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>本期 Fork It 继续和大家探讨 Lightning Network。LN 在网络方面是怎么集大成的？它之前的诸多技术方案是什么？LN 因天时地利人和最终获得成功，这些因素又是什么呢？</p>\n\n<p>播客中还对 HTLC 和 Channel 构造等诸多技术进行了详细的分析，超 Hardcore，热爱技术的你一定不要错过～</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，你还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://twitter.com/gavinandresen\" rel=\"nofollow\">Gavin Andresen</a> </li>\n<li><a href=\"https://en.wikipedia.org/wiki/Craig_Steven_Wright\" rel=\"nofollow\">CSW </a></li>\n<li><a href=\"http://gavintech.blogspot.com/2012/07/off-chain-transactions.html\" rel=\"nofollow\">Gavin ' Blog  「Off-the-chain transactions」</a></li>\n<li><a href=\"https://twitter.com/MeniRosenfeld\" rel=\"nofollow\">Meni Rosenfeld</a> / <a href=\"https://bitcointalk.org/index.php?topic=91732.0\" rel=\"nofollow\">Meni Rosenfeld's talk at Bitcointalk </a></li>\n<li><a href=\"https://bitcoin.org/en/glossary/signature-hash\" rel=\"nofollow\">SigHash</a></li>\n<li><a href=\"https://cornwarecjp.github.io/amiko-pay/\" rel=\"nofollow\">Amiko Pay </a></li>\n<li><a href=\"https://bitpay.com/\" rel=\"nofollow\">Bitpay</a> / <a href=\"https://cointelegraph.com/news/bitpay-proposes-zero-confirmation-instant-payments-solution\" rel=\"nofollow\">Impulse </a></li>\n<li><a href=\"https://www.strawpay.com/\" rel=\"nofollow\">Strawpay</a> / <a href=\"https://www.strawpay.com/docs/stroem-factsheet.pdf\" rel=\"nofollow\">Stroem</a></li>\n<li><a href=\"https://www.tik.ee.ethz.ch/file/716b955c130e6c703fac336ea17b1670/duplex-micropayment-channels.pdf\" rel=\"nofollow\">A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Roger_Wattenhofer\" rel=\"nofollow\">Roger Wattenhofer</a> / <a href=\"https://twitter.com/Snyke\" rel=\"nofollow\">Christian Decker</a> </li>\n<li><a href=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html\" rel=\"nofollow\">Gregory Maxwell 's Blog about Scale</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Timelock\" rel=\"nofollow\">Timelock</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Hash_Time_Locked_Contracts\" rel=\"nofollow\">Hash Time Locked Contract(HTLC)</a></li>\n<li><a href=\"https://zmnscpxj.github.io/offchain/generalized.html\" rel=\"nofollow\">Funding Transactions</a> / <a href=\"https://bitcoin.stackexchange.com/questions/tagged/ln-breach-remedy\" rel=\"nofollow\">Breach Remedy Transaction</a></li>\n<li><a href=\"http://webhdwallet.github.io/\" rel=\"nofollow\">HD Wallet</a></li>\n<li><a href=\"https://github.com/lightningnetwork/lightning-rfc\" rel=\"nofollow\">Lightning RFC</a></li>\n<li><a href=\"https://github.com/lightningnetwork/lnd\" rel=\"nofollow\">LND</a> / <a href=\"https://github.com/mit-dci/lit\" rel=\"nofollow\">Lit</a> / <a href=\"https://github.com/ACINQ/eclair\" rel=\"nofollow\">Eclair</a></li>\n<li><a href=\"https://github.com/ElementsProject/lightning\" rel=\"nofollow\">Blockstream ElementsProject</a></li>\n<li><a href=\"https://monitor.firefox.com/\" rel=\"nofollow\">Firefox Monitor</a></li>\n<li><a href=\"https://brave.com/kre925?gclid=CjwKCAjw_MnmBRAoEiwAPRRWW1mJ0n73Wtg7qfsJsoFR5kCSQN5l9ASv3VZcuL4yoEIi7euyDytWDRoCa54QAvD_BwE\" rel=\"nofollow\">Brave</a><br /></li>\n</ul>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>本期 Fork It 继续和大家探讨 Lightning Network。LN 在网络方面是怎么集大成的？它之前的诸多技术方案是什么？LN 因天时地利人和最终获得成功，这些因素又是什么呢？</p>\n\n<p>播客中还对 HTLC 和 Channel 构造等诸多技术进行了详细的分析，超 Hardcore，热爱技术的你一定不要错过～</p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，你还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let’s Fork It!</p>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://twitter.com/gavinandresen\" rel=\"nofollow\">Gavin Andresen</a> </li>\n<li><a href=\"https://en.wikipedia.org/wiki/Craig_Steven_Wright\" rel=\"nofollow\">CSW </a></li>\n<li><a href=\"http://gavintech.blogspot.com/2012/07/off-chain-transactions.html\" rel=\"nofollow\">Gavin ' Blog  「Off-the-chain transactions」</a></li>\n<li><a href=\"https://twitter.com/MeniRosenfeld\" rel=\"nofollow\">Meni Rosenfeld</a> / <a href=\"https://bitcointalk.org/index.php?topic=91732.0\" rel=\"nofollow\">Meni Rosenfeld's talk at Bitcointalk </a></li>\n<li><a href=\"https://bitcoin.org/en/glossary/signature-hash\" rel=\"nofollow\">SigHash</a></li>\n<li><a href=\"https://cornwarecjp.github.io/amiko-pay/\" rel=\"nofollow\">Amiko Pay </a></li>\n<li><a href=\"https://bitpay.com/\" rel=\"nofollow\">Bitpay</a> / <a href=\"https://cointelegraph.com/news/bitpay-proposes-zero-confirmation-instant-payments-solution\" rel=\"nofollow\">Impulse </a></li>\n<li><a href=\"https://www.strawpay.com/\" rel=\"nofollow\">Strawpay</a> / <a href=\"https://www.strawpay.com/docs/stroem-factsheet.pdf\" rel=\"nofollow\">Stroem</a></li>\n<li><a href=\"https://www.tik.ee.ethz.ch/file/716b955c130e6c703fac336ea17b1670/duplex-micropayment-channels.pdf\" rel=\"nofollow\">A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Roger_Wattenhofer\" rel=\"nofollow\">Roger Wattenhofer</a> / <a href=\"https://twitter.com/Snyke\" rel=\"nofollow\">Christian Decker</a> </li>\n<li><a href=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html\" rel=\"nofollow\">Gregory Maxwell 's Blog about Scale</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Timelock\" rel=\"nofollow\">Timelock</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Hash_Time_Locked_Contracts\" rel=\"nofollow\">Hash Time Locked Contract(HTLC)</a></li>\n<li><a href=\"https://zmnscpxj.github.io/offchain/generalized.html\" rel=\"nofollow\">Funding Transactions</a> / <a href=\"https://bitcoin.stackexchange.com/questions/tagged/ln-breach-remedy\" rel=\"nofollow\">Breach Remedy Transaction</a></li>\n<li><a href=\"http://webhdwallet.github.io/\" rel=\"nofollow\">HD Wallet</a></li>\n<li><a href=\"https://github.com/lightningnetwork/lightning-rfc\" rel=\"nofollow\">Lightning RFC</a></li>\n<li><a href=\"https://github.com/lightningnetwork/lnd\" rel=\"nofollow\">LND</a> / <a href=\"https://github.com/mit-dci/lit\" rel=\"nofollow\">Lit</a> / <a href=\"https://github.com/ACINQ/eclair\" rel=\"nofollow\">Eclair</a></li>\n<li><a href=\"https://github.com/ElementsProject/lightning\" rel=\"nofollow\">Blockstream ElementsProject</a></li>\n<li><a href=\"https://monitor.firefox.com/\" rel=\"nofollow\">Firefox Monitor</a></li>\n<li><a href=\"https://brave.com/kre925?gclid=CjwKCAjw_MnmBRAoEiwAPRRWW1mJ0n73Wtg7qfsJsoFR5kCSQN5l9ASv3VZcuL4yoEIi7euyDytWDRoCa54QAvD_BwE\" rel=\"nofollow\">Brave</a><br /></li>\n</ul>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+aQeaIyPk",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+aQeaIyPk\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

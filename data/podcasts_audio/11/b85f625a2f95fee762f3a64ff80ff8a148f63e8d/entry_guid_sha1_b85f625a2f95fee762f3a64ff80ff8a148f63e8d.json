@@ -1,0 +1,95 @@
+{
+    "title": "聊聊我们的编程启蒙经历",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "聊聊我们的编程启蒙经历"
+    },
+    "itunes_episode": "28",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "122576901",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/28.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 23 Apr 2019 07:10:00 CDT",
+    "published_parsed": [
+        2019,
+        4,
+        23,
+        12,
+        10,
+        0,
+        1,
+        113,
+        0
+    ],
+    "summary": "<p>70 后的李亮老师，大概能算作国内第一批程序员。从最早的小型机、软盘、磁带开始用起，到现在已经工作了将近 30 年。最难得的是，李亮老师现在仍然在写代码，值得敬佩。</p>\n\n<p>80 后的莲叔，初中时期因为一个偶然的机会得到一本《Visual Basic 程序设计教程》，从此踏上编程之路。高中和大学的宽松环境给了莲叔充足的时间进行探索和学习，也为毕业之后的工作打下了坚实的基础。</p>\n\n<p>90 后的梁杰，初中时期因为一个偶然的机会（为什么这句话这么眼熟）得到一本《黑客手册》。经过最初的一段迷茫时期，最终找到了入门的正确方式，也通过编程赚到了自己的第一勺金，培养起对编程的兴趣。</p>\n\n<p>这期讲了三个“非典型”程序员的故事，希望大家听得开心。如果你也想聊聊自己的编程启蒙经历，可以发给我：lj925184928@gmail.com，微博@梁杰_numbbbbb。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>李亮老师提到的机器、技术等关键字：Macintosh II，Basic，四个现代化，Fortran，Control Data Corporation（CDC 计算机公司），GW-Basic，KILL 杀毒软件，CCDOS，天汇，UCDOS，巨人汉卡，WPS，CCED，dBase，FoxBASE（FoxPro），Solaris，HP-UX</li>\n<li>（莲叔）大学之后才收到的奖状：https://talkcdn.swift.gg/static/images/28/1-min.jpg，莲叔原话：“这里面还有个趣事，就是申请表是手填的，但我写字太烂了，我写的明明是 ImageStreet……结果奖状两个单词都没拼对”</li>\n<li>（梁杰）计算机启蒙的那本《黑客手册》：https://talkcdn.swift.gg/static/images/28/2-min.jpg</li>\n<li>（梁杰）大学入学之前买的各种书：https://talkcdn.swift.gg/static/images/28/4-min.jpg</li>\n<li>（梁杰）家里保留的软盘：https://talkcdn.swift.gg/static/images/28/9-min.jpg</li>\n<li>（梁杰）入门时期保留到现在的一些书：https://talkcdn.swift.gg/static/images/28/5-min.jpg，https://talkcdn.swift.gg/static/images/28/6-min.jpg，https://talkcdn.swift.gg/static/images/28/7-min.jpg，https://talkcdn.swift.gg/static/images/28/8-min.jpg</li>\n<li>（梁杰）一个彩蛋，当年同学送我的侠盗秘籍：https://talkcdn.swift.gg/static/images/28/3-min.jpg</li>\n<li>李亮老师的微博：@hollylee8102（https://weibo.com/u/6735733356）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:43  个人介绍</li>\n<li>07:35  李亮老师的编程启蒙经历</li>\n<li>33:21  莲叔的编程启蒙经历</li>\n<li>01:01:15  梁杰的编程启蒙经历</li>\n<li>01:26:38  聊聊所谓的“中年危机”</li>\n<li>01:42:05  “追赶技术潮流”以及“正确的功利”</li>\n<li>01:55:04  小孩应该如何入门编程</li>\n<li>02:06:37  最后还有什么话要说</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>70 后的李亮老师，大概能算作国内第一批程序员。从最早的小型机、软盘、磁带开始用起，到现在已经工作了将近 30 年。最难得的是，李亮老师现在仍然在写代码，值得敬佩。</p>\n\n<p>80 后的莲叔，初中时期因为一个偶然的机会得到一本《Visual Basic 程序设计教程》，从此踏上编程之路。高中和大学的宽松环境给了莲叔充足的时间进行探索和学习，也为毕业之后的工作打下了坚实的基础。</p>\n\n<p>90 后的梁杰，初中时期因为一个偶然的机会（为什么这句话这么眼熟）得到一本《黑客手册》。经过最初的一段迷茫时期，最终找到了入门的正确方式，也通过编程赚到了自己的第一勺金，培养起对编程的兴趣。</p>\n\n<p>这期讲了三个“非典型”程序员的故事，希望大家听得开心。如果你也想聊聊自己的编程启蒙经历，可以发给我：lj925184928@gmail.com，微博@梁杰_numbbbbb。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>李亮老师提到的机器、技术等关键字：Macintosh II，Basic，四个现代化，Fortran，Control Data Corporation（CDC 计算机公司），GW-Basic，KILL 杀毒软件，CCDOS，天汇，UCDOS，巨人汉卡，WPS，CCED，dBase，FoxBASE（FoxPro），Solaris，HP-UX</li>\n<li>（莲叔）大学之后才收到的奖状：https://talkcdn.swift.gg/static/images/28/1-min.jpg，莲叔原话：“这里面还有个趣事，就是申请表是手填的，但我写字太烂了，我写的明明是 ImageStreet……结果奖状两个单词都没拼对”</li>\n<li>（梁杰）计算机启蒙的那本《黑客手册》：https://talkcdn.swift.gg/static/images/28/2-min.jpg</li>\n<li>（梁杰）大学入学之前买的各种书：https://talkcdn.swift.gg/static/images/28/4-min.jpg</li>\n<li>（梁杰）家里保留的软盘：https://talkcdn.swift.gg/static/images/28/9-min.jpg</li>\n<li>（梁杰）入门时期保留到现在的一些书：https://talkcdn.swift.gg/static/images/28/5-min.jpg，https://talkcdn.swift.gg/static/images/28/6-min.jpg，https://talkcdn.swift.gg/static/images/28/7-min.jpg，https://talkcdn.swift.gg/static/images/28/8-min.jpg</li>\n<li>（梁杰）一个彩蛋，当年同学送我的侠盗秘籍：https://talkcdn.swift.gg/static/images/28/3-min.jpg</li>\n<li>李亮老师的微博：@hollylee8102（https://weibo.com/u/6735733356）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:43  个人介绍</li>\n<li>07:35  李亮老师的编程启蒙经历</li>\n<li>33:21  莲叔的编程启蒙经历</li>\n<li>01:01:15  梁杰的编程启蒙经历</li>\n<li>01:26:38  聊聊所谓的“中年危机”</li>\n<li>01:42:05  “追赶技术潮流”以及“正确的功利”</li>\n<li>01:55:04  小孩应该如何入门编程</li>\n<li>02:06:37  最后还有什么话要说</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/28.mp3",
+    "guidislink": false,
+    "itunes_duration": "02:07:40",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n70 后的李亮老师，大概能算作国内第一批程序员。从最早的小型机、软盘、磁带开始用起，到现在已经工作了将近 30 年。最难得的是，李亮老师现在仍然在写代码，值得敬佩。</p>\n\n<p>80 后的莲叔，初中时期因为一个偶然的机会得到一本《Visual Basic 程序设计教程》，从此踏上编程之路。高中和大学的宽松环境给了莲叔充足的时间进行探索和学习，也为毕业之后的工作打下了坚实的基础。</p>\n\n<p>90 后的梁杰，初中时期因为一个偶然的机会（为什么这句话这么眼熟）得到一本《黑客手册》。经过最初的一段迷茫时期，最终找到了入门的正确方式，也通过编程赚到了自己的第一勺金，培养起对编程的兴趣。</p>\n\n<p>这期讲了三个“非典型”程序员的故事，希望大家听得开心。如果你也想聊聊自己的编程启蒙经历，可以发给我：lj925184928@gmail.com，微博@梁杰_numbbbbb。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>李亮老师提到的机器、技术等关键字：Macintosh II，Basic，四个现代化，Fortran，Control Data Corporation（CDC 计算机公司），GW-Basic，KILL 杀毒软件，CCDOS，天汇，UCDOS，巨人汉卡，WPS，CCED，dBase，FoxBASE（FoxPro），Solaris，HP-UX</li>\n<li>（莲叔）大学之后才收到的奖状：https://talkcdn.swift.gg/static/images/28/1-min.jpg，莲叔原话：“这里面还有个趣事，就是申请表是手填的，但我写字太烂了，我写的明明是 ImageStreet——结果奖状两个单词都没拼对”</li>\n<li>（梁杰）计算机启蒙的那本《黑客手册》：https://talkcdn.swift.gg/static/images/28/2-min.jpg</li>\n<li>（梁杰）大学入学之前买的各种书：https://talkcdn.swift.gg/static/images/28/4-min.jpg</li>\n<li>（梁杰）家里保留的软盘：https://talkcdn.swift.gg/static/images/28/9-min.jpg</li>\n<li>（梁杰）入门时期保留到现在的一些书：https://talkcdn.swift.gg/static/images/28/5-min.jpg，https://talkcdn.swift.gg/static/images/28/6-min.jpg，https://talkcdn.swift.gg/static/images/28/7-min.jpg，https://talkcdn.swift.gg/static/images/28/8-min.jpg</li>\n<li>（梁杰）一个彩蛋，当年同学送我的侠盗秘籍：https://talkcdn.swift.gg/static/images/28/3-min.jpg</li>\n<li>李亮老师的微博：@hollylee8102（https://weibo.com/u/6735733356）</li>\n<li>莲叔的微博：@aaaron7（https://weibo.com/aaaron7）</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:43  个人介绍</li>\n<li>07:35  李亮老师的编程启蒙经历</li>\n<li>33:21  莲叔的编程启蒙经历</li>\n<li>01:01:15  梁杰的编程启蒙经历</li>\n<li>01:26:38  聊聊所谓的“中年危机”</li>\n<li>01:42:05  “追赶技术潮流”以及“正确的功利”</li>\n<li>01:55:04  小孩应该如何入门编程</li>\n<li>02:06:37  最后还有什么话要说</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "老程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "编程启蒙",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

@@ -1,0 +1,77 @@
+{
+    "links": [
+        {
+            "length": "31806634",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjE0MTcsInAiOjIsInUiOiJkNjA2Lm1wMyJ9.DsOLQZspYiofJwnBw85QDy6aIRk/uxcoffee/z_cd8319b89751262788bc8dd97946d606.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/35"
+        }
+    ],
+    "title": "#35：从二维到三维，VR、AR 的产品设计要怎么做？（谷歌 VR 团队用研负责人张晶华 - 下）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#35：从二维到三维，VR、AR 的产品设计要怎么做？（谷歌 VR 团队用研负责人张晶华 - 下）"
+    },
+    "id": "https://uxcoffee.com/episodes/35",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/35",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "itunes_duration": "33:07",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "35",
+    "podcast_episode": "35",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/z_e739ff46217df2080676fe091dddb2ce.jpg?x-oss-process=style/sl"
+    },
+    "summary": "今天我们要继续和 Goolge VR、AR 团队 Daydream 用户调研的负责人张晶华聊一聊VR、AR 领域中的产品设计。上期节目，张晶华向我们介绍了 VR、AR 在日常生活中许多有趣的应用场景和这两个领域将来发展的各种可能性。那么在 Google Daydream团队，VR、AR 产品的用户研究具体是怎么样展开的，这类产品的开发流程和2d产品相比又有什么区别呢？ 时间轴 01:08 做 VR、AR 的团队组成是什么样的？ 03:28 为了做 VR、AR 产品用研，我们自己建了一个实验室 05:39 愿景创造主题的调研怎么做？ 07:40 在 Google 一周就能完成一个 VR 原型 09:52 VR、AR 产品开发过程中设计师的职责是什么？ 13:36 VR、AR 产品设计的四层需求准则 19:13 对 VR 设计感兴趣的你该如何开始？ 23:05 不懂设计的产品经理不是好的用户研究员 30:10 人生能走多远是由你的长板决定的 参考链接 Google VR 设计流程：http://www.iqiyi.com/w_19rsrdf2f1.html IXDC2017大会张晶华演讲文字报道：https://ixdc.org/2017/news-articrle.php?id=864 IXDC2017大会张晶华演讲视频：https://meia.me/course/169326/ 嘉宾联系方式 领英：https://www.linkedin.com/in/jinghuaz/",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "今天我们要继续和 Goolge VR、AR 团队 Daydream 用户调研的负责人张晶华聊一聊VR、AR 领域中的产品设计。上期节目，张晶华向我们介绍了 VR、AR 在日常生活中许多有趣的应用场景和这两个领域将来发展的各种可能性。那么在 Google Daydream团队，VR、AR 产品的用户研究具体是怎么样展开的，这类产品的开发流程和2d产品相比又有什么区别呢？ 时间轴 01:08 做 VR、AR 的团队组成是什么样的？ 03:28 为了做 VR、AR 产品用研，我们自己建了一个实验室 05:39 愿景创造主题的调研怎么做？ 07:40 在 Google 一周就能完成一个 VR 原型 09:52 VR、AR 产品开发过程中设计师的职责是什么？ 13:36 VR、AR 产品设计的四层需求准则 19:13 对 VR 设计感兴趣的你该如何开始？ 23:05 不懂设计的产品经理不是好的用户研究员 30:10 人生能走多远是由你的长板决定的 参考链接 Google VR 设计流程：http://www.iqiyi.com/w_19rsrdf2f1.html IXDC2017大会张晶华演讲文字报道：https://ixdc.org/2017/news-articrle.php?id=864 IXDC2017大会张晶华演讲视频：https://meia.me/course/169326/ 嘉宾联系方式 领英：https://www.linkedin.com/in/jinghuaz/"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>今天我们要继续和 Goolge VR、AR 团队 Daydream 用户调研的负责人张晶华聊一聊VR、AR 领域中的产品设计。上期节目，张晶华向我们介绍了 VR、AR 在日常生活中许多有趣的应用场景和这两个领域将来发展的各种可能性。那么在 Google Daydream团队，VR、AR 产品的用户研究具体是怎么样展开的，这类产品的开发流程和2d产品相比又有什么区别呢？</p>\n<br />\n<h2>时间轴</h2>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=01:08\">01:08</a> 做 VR、AR 的团队组成是什么样的？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=03:28\">03:28</a> 为了做 VR、AR 产品用研，我们自己建了一个实验室</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=05:39\">05:39</a> 愿景创造主题的调研怎么做？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=07:40\">07:40</a> 在 Google 一周就能完成一个 VR 原型</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=09:52\">09:52</a> VR、AR 产品开发过程中设计师的职责是什么？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=13:36\">13:36</a> VR、AR 产品设计的四层需求准则</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=19:13\">19:13</a> 对 VR 设计感兴趣的你该如何开始？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=23:05\">23:05</a> 不懂设计的产品经理不是好的用户研究员</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=30:10\">30:10</a> 人生能走多远是由你的长板决定的</p>\n<br />\n<h2>参考链接</h2>\n<p>Google VR 设计流程：<a href=\"http://www.iqiyi.com/w_19rsrdf2f1.html\">http://www.iqiyi.com/w_19rsrdf2f1.html</a></p>\n<p>IXDC2017大会张晶华演讲文字报道：<a href=\"https://ixdc.org/2017/news-articrle.php?id=864\">https://ixdc.org/2017/news-articrle.php?id=864</a></p>\n<p>IXDC2017大会张晶华演讲视频：<a href=\"https://meia.me/course/169326/\">https://meia.me/course/169326/</a></p>\n<br />\n<h2>嘉宾联系方式</h2>\n<p>领英：<a href=\"https://www.linkedin.com/in/jinghuaz/\">https://www.linkedin.com/in/jinghuaz/</a> </p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>今天我们要继续和 Goolge VR、AR 团队 Daydream 用户调研的负责人张晶华聊一聊VR、AR 领域中的产品设计。上期节目，张晶华向我们介绍了 VR、AR 在日常生活中许多有趣的应用场景和这两个领域将来发展的各种可能性。那么在 Google Daydream团队，VR、AR 产品的用户研究具体是怎么样展开的，这类产品的开发流程和2d产品相比又有什么区别呢？</p>\n<br />\n<h2>时间轴</h2>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=01:08\">01:08</a> 做 VR、AR 的团队组成是什么样的？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=03:28\">03:28</a> 为了做 VR、AR 产品用研，我们自己建了一个实验室</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=05:39\">05:39</a> 愿景创造主题的调研怎么做？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=07:40\">07:40</a> 在 Google 一周就能完成一个 VR 原型</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=09:52\">09:52</a> VR、AR 产品开发过程中设计师的职责是什么？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=13:36\">13:36</a> VR、AR 产品设计的四层需求准则</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=19:13\">19:13</a> 对 VR 设计感兴趣的你该如何开始？</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=23:05\">23:05</a> 不懂设计的产品经理不是好的用户研究员</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=30:10\">30:10</a> 人生能走多远是由你的长板决定的</p>\n<br />\n<h2>参考链接</h2>\n<p>Google VR 设计流程：<a href=\"http://www.iqiyi.com/w_19rsrdf2f1.html\">http://www.iqiyi.com/w_19rsrdf2f1.html</a></p>\n<p>IXDC2017大会张晶华演讲文字报道：<a href=\"https://ixdc.org/2017/news-articrle.php?id=864\">https://ixdc.org/2017/news-articrle.php?id=864</a></p>\n<p>IXDC2017大会张晶华演讲视频：<a href=\"https://meia.me/course/169326/\">https://meia.me/course/169326/</a></p>\n<br />\n<h2>嘉宾联系方式</h2>\n<p>领英：<a href=\"https://www.linkedin.com/in/jinghuaz/\">https://www.linkedin.com/in/jinghuaz/</a> </p>"
+        }
+    ],
+    "published": "Tue, 05 Sep 2017 05:33:00 +0000",
+    "published_parsed": [
+        2017,
+        9,
+        5,
+        5,
+        33,
+        0,
+        1,
+        248,
+        0
+    ]
+}

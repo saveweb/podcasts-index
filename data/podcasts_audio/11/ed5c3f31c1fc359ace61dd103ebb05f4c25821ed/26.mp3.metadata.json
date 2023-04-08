@@ -1,0 +1,35 @@
+{
+    "http-content-length": 92736286,
+    "http-etag": "3c8e330d76a1fa6b6165b01cfac2d3b3",
+    "http-last-modified": "Tue, 15 Oct 2019 14:39:17 GMT",
+    "http-last-modified-float": 1571121557.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 92736286,
+    "actual-duration": 5795,
+    "sha1": "e04b9daa0d3f1723febb426f354b079dc279e424",
+    "md5": "3c8e330d76a1fa6b6165b01cfac2d3b3",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/26.mp3",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Date": "Wed, 05 Apr 2023 15:34:44 GMT",
+                "ETag": "\"3c8e330d76a1fa6b6165b01cfac2d3b3\"",
+                "Server": "tencent-cos",
+                "x-cos-request-id": "NjQyZDk1MTNfNzU1MjQ0MGJfMmVjYmFfYzI1ZmFhYQ==",
+                "X-Cache-Lookup": "Cache Miss, Hit From Upstream Cluster, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Tue, 15 Oct 2019 14:39:17 GMT",
+                "Content-Length": "92736286",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "401681928391547650",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

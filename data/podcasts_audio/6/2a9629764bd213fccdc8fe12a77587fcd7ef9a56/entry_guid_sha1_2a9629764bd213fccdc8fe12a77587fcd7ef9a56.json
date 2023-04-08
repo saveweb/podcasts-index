@@ -1,0 +1,85 @@
+{
+    "title": "Episode 1: 前端开发吐槽大会",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Episode 1: 前端开发吐槽大会"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/1"
+        },
+        {
+            "length": "35105187",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/f33fa99d-f210-4bc9-8ac9-6fed10bb2a63.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/1",
+    "id": "b9a2c15f-a4b8-4b92-b674-f24624b4cbbc",
+    "guidislink": false,
+    "published": "Mon, 15 Jun 2020 00:00:00 +0800",
+    "published_parsed": [
+        2020,
+        6,
+        14,
+        16,
+        0,
+        0,
+        6,
+        166,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": ""
+    },
+    "itunes_duration": "57:51",
+    "itunes_explicit": null,
+    "summary": "<blockquote>\n<p>白羊：我觉得我们录完没说到一起去啊。<br />Astrian：怎么讲？我觉得还成？<br />白羊：我一直在说元素排版的问题，你一直在说分辨率的事儿。<br />Astrian：🙄🙄🙄</p>\n</blockquote>\n\n<p>久等了！因为这期的剪辑出了一点小问题，因此让大家等待的时间有点长，非常抱歉。</p>\n\n<p>Echo.js（真正的）第一期节目，两位点了不少前端技能点的主播，简单谈了谈有关前端开发（网页开发）的历史，吐槽有关 HTML 历史遗留问题带来的各种奇形怪状的问题，其中就包括多屏幕适配、长期以来的排版样式问题，以及目前前端开发技术栈被替代的可能性。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:01:17 为什么要吐槽前端开发？</li><br />\n<li>00:04:00 响应式前端开发的由来</li><br />\n<li>00:10:17 HTML 的「流式布局」</li><br />\n<li>00:15:34 正常流程下做响应式网页的方法</li><br />\n<li>00:19:41 让人又爱又恨的栅格系统</li><br />\n<li>00:26:21 向 flex 开炮</li><br />\n<li>00:33:38 Flex 是一个比栅格系统更灵活的排版系统</li><br />\n<li>00:36:50 在网页做排版是一件「逆天而行」的事情</li><br />\n<li>00:38:13 另类适配方案</li><br />\n<li>00:55:43 马后槽：虽然会造成各种各样的问题，但意外很好用的…… 表格排版法</li><br />\n<li>00:56:43 尾声</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：白羊<br />特别感谢：Christopher</p><br />\n<h2 id=\"➤-补遗\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-补遗\" title=\"➤ 补遗\"></a>➤ 补遗</h2><p>Christopher 在事后提醒我们，显像管显示器显示比例通常是 4:3 的重要原因是，更接近正方形的显像管显示器更容易以低成本方式生产。</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li>知乎上有关显像管显示器比例的讨论：<a href=\"https://www.zhihu.com/question/68339359/answer/526086056\" rel=\"noopener\" target=\"_blank\">为什么早期屏幕是 4:3 比例？</a></li><br />\n<li>有关 WAP 的维基百科资料：<a href=\"https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E5%BA%94%E7%94%A8%E5%8D%8F%E8%AE%AE\" rel=\"noopener\" target=\"_blank\">无线应用协议</a></li><br />\n<li>节目中提到的几个前端视觉框架：<a href=\"https://getbootstrap.com/\" rel=\"noopener\" target=\"_blank\">Bootstrap</a>、<a href=\"https://www.iviewui.com/\" rel=\"noopener\" target=\"_blank\">iView</a> 和 <a href=\"https://element.eleme.cn\" rel=\"noopener\" target=\"_blank\">Element</a></li><br />\n<li>拯救前端开发者们的 flex 样式特性的 <a href=\"https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex\" rel=\"noopener\" target=\"_blank\">官方文档</a></li><br />\n<li>通过绘制的草图生成 HTML 的工具：<a href=\"https://sketch2code.azurewebsites.net/\" rel=\"noopener\" target=\"_blank\">Sketch2Code</a>。我们当时看的好像不是微软做的，不过原理似乎差不太多。</li><br />\n<li>在没有 Flex 的时候，设前后左右都是 50% 的居中方式：<a href=\"https://blog.csdn.net/qq_32623363/article/details/77101971\" rel=\"noopener\" target=\"_blank\">HTML+CSS，让 div 在屏幕中居中（水平居中 + 垂直居中）方法总结</a></li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？可以来小宇宙 app 订阅 Echo.js 并给节目发评论，也可以发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场音乐：Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]. Music provided by NoCopyrightSounds. Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\"><a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a></a>, Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\"><a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></a></p></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<blockquote>\n<p>白羊：我觉得我们录完没说到一起去啊。<br />Astrian：怎么讲？我觉得还成？<br />白羊：我一直在说元素排版的问题，你一直在说分辨率的事儿。<br />Astrian：🙄🙄🙄</p>\n</blockquote>\n\n<p>久等了！因为这期的剪辑出了一点小问题，因此让大家等待的时间有点长，非常抱歉。</p>\n\n<p>Echo.js（真正的）第一期节目，两位点了不少前端技能点的主播，简单谈了谈有关前端开发（网页开发）的历史，吐槽有关 HTML 历史遗留问题带来的各种奇形怪状的问题，其中就包括多屏幕适配、长期以来的排版样式问题，以及目前前端开发技术栈被替代的可能性。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:01:17 为什么要吐槽前端开发？</li><br />\n<li>00:04:00 响应式前端开发的由来</li><br />\n<li>00:10:17 HTML 的「流式布局」</li><br />\n<li>00:15:34 正常流程下做响应式网页的方法</li><br />\n<li>00:19:41 让人又爱又恨的栅格系统</li><br />\n<li>00:26:21 向 flex 开炮</li><br />\n<li>00:33:38 Flex 是一个比栅格系统更灵活的排版系统</li><br />\n<li>00:36:50 在网页做排版是一件「逆天而行」的事情</li><br />\n<li>00:38:13 另类适配方案</li><br />\n<li>00:55:43 马后槽：虽然会造成各种各样的问题，但意外很好用的…… 表格排版法</li><br />\n<li>00:56:43 尾声</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：白羊<br />特别感谢：Christopher</p><br />\n<h2 id=\"➤-补遗\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-补遗\" title=\"➤ 补遗\"></a>➤ 补遗</h2><p>Christopher 在事后提醒我们，显像管显示器显示比例通常是 4:3 的重要原因是，更接近正方形的显像管显示器更容易以低成本方式生产。</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li>知乎上有关显像管显示器比例的讨论：<a href=\"https://www.zhihu.com/question/68339359/answer/526086056\" rel=\"noopener\" target=\"_blank\">为什么早期屏幕是 4:3 比例？</a></li><br />\n<li>有关 WAP 的维基百科资料：<a href=\"https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E5%BA%94%E7%94%A8%E5%8D%8F%E8%AE%AE\" rel=\"noopener\" target=\"_blank\">无线应用协议</a></li><br />\n<li>节目中提到的几个前端视觉框架：<a href=\"https://getbootstrap.com/\" rel=\"noopener\" target=\"_blank\">Bootstrap</a>、<a href=\"https://www.iviewui.com/\" rel=\"noopener\" target=\"_blank\">iView</a> 和 <a href=\"https://element.eleme.cn\" rel=\"noopener\" target=\"_blank\">Element</a></li><br />\n<li>拯救前端开发者们的 flex 样式特性的 <a href=\"https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex\" rel=\"noopener\" target=\"_blank\">官方文档</a></li><br />\n<li>通过绘制的草图生成 HTML 的工具：<a href=\"https://sketch2code.azurewebsites.net/\" rel=\"noopener\" target=\"_blank\">Sketch2Code</a>。我们当时看的好像不是微软做的，不过原理似乎差不太多。</li><br />\n<li>在没有 Flex 的时候，设前后左右都是 50% 的居中方式：<a href=\"https://blog.csdn.net/qq_32623363/article/details/77101971\" rel=\"noopener\" target=\"_blank\">HTML+CSS，让 div 在屏幕中居中（水平居中 + 垂直居中）方法总结</a></li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？可以来小宇宙 app 订阅 Echo.js 并给节目发评论，也可以发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场音乐：Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]. Music provided by NoCopyrightSounds. Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\"><a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a></a>, Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\"><a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></a></p></p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<blockquote>\n<p>白羊：我觉得我们录完没说到一起去啊。<br />Astrian：怎么讲？我觉得还成？<br />白羊：我一直在说元素排版的问题，你一直在说分辨率的事儿。<br />Astrian：🙄🙄🙄</p>\n</blockquote>\n\n<p>久等了！因为这期的剪辑出了一点小问题，因此让大家等待的时间有点长，非常抱歉。</p>\n\n<p>Echo.js（真正的）第一期节目，两位点了不少前端技能点的主播，简单谈了谈有关前端开发（网页开发）的历史，吐槽有关 HTML 历史遗留问题带来的各种奇形怪状的问题，其中就包括多屏幕适配、长期以来的排版样式问题，以及目前前端开发技术栈被替代的可能性。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:01:17 为什么要吐槽前端开发？</li><br />\n<li>00:04:00 响应式前端开发的由来</li><br />\n<li>00:10:17 HTML 的「流式布局」</li><br />\n<li>00:15:34 正常流程下做响应式网页的方法</li><br />\n<li>00:19:41 让人又爱又恨的栅格系统</li><br />\n<li>00:26:21 向 flex 开炮</li><br />\n<li>00:33:38 Flex 是一个比栅格系统更灵活的排版系统</li><br />\n<li>00:36:50 在网页做排版是一件「逆天而行」的事情</li><br />\n<li>00:38:13 另类适配方案</li><br />\n<li>00:55:43 马后槽：虽然会造成各种各样的问题，但意外很好用的…… 表格排版法</li><br />\n<li>00:56:43 尾声</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：白羊<br />特别感谢：Christopher</p><br />\n<h2 id=\"➤-补遗\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-补遗\" title=\"➤ 补遗\"></a>➤ 补遗</h2><p>Christopher 在事后提醒我们，显像管显示器显示比例通常是 4:3 的重要原因是，更接近正方形的显像管显示器更容易以低成本方式生产。</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li>知乎上有关显像管显示器比例的讨论：<a href=\"https://www.zhihu.com/question/68339359/answer/526086056\" rel=\"noopener\" target=\"_blank\">为什么早期屏幕是 4:3 比例？</a></li><br />\n<li>有关 WAP 的维基百科资料：<a href=\"https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E5%BA%94%E7%94%A8%E5%8D%8F%E8%AE%AE\" rel=\"noopener\" target=\"_blank\">无线应用协议</a></li><br />\n<li>节目中提到的几个前端视觉框架：<a href=\"https://getbootstrap.com/\" rel=\"noopener\" target=\"_blank\">Bootstrap</a>、<a href=\"https://www.iviewui.com/\" rel=\"noopener\" target=\"_blank\">iView</a> 和 <a href=\"https://element.eleme.cn\" rel=\"noopener\" target=\"_blank\">Element</a></li><br />\n<li>拯救前端开发者们的 flex 样式特性的 <a href=\"https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex\" rel=\"noopener\" target=\"_blank\">官方文档</a></li><br />\n<li>通过绘制的草图生成 HTML 的工具：<a href=\"https://sketch2code.azurewebsites.net/\" rel=\"noopener\" target=\"_blank\">Sketch2Code</a>。我们当时看的好像不是微软做的，不过原理似乎差不太多。</li><br />\n<li>在没有 Flex 的时候，设前后左右都是 50% 的居中方式：<a href=\"https://blog.csdn.net/qq_32623363/article/details/77101971\" rel=\"noopener\" target=\"_blank\">HTML+CSS，让 div 在屏幕中居中（水平居中 + 垂直居中）方法总结</a></li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？可以来小宇宙 app 订阅 Echo.js 并给节目发评论，也可以发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场音乐：Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]. Music provided by NoCopyrightSounds. Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\"><a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"nofollow\">https://youtu.be/HV7mLcsUp5U</a></a>, Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\"><a href=\"http://ncs.io/GetUp\" rel=\"nofollow\">http://ncs.io/GetUp</a></a></p></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+VEW_qpiM",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+VEW_qpiM\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_chapters": {
+        "url": "https://feeds.fireside.fm/echojs/json/episodes/f33fa99d-f210-4bc9-8ac9-6fed10bb2a63/chapters",
+        "type": "application/json"
+    },
+    "podcast_person": {
+        "email": "",
+        "href": "https://astrianzheng.cn",
+        "role": "host"
+    }
+}

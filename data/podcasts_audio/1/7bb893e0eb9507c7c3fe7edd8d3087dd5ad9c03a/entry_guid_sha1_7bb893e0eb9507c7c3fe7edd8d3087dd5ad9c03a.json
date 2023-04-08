@@ -1,0 +1,75 @@
+{
+    "title": "第 6 期：Go 语言的编译器",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 6 期：Go 语言的编译器"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talkgo.fm/podcasts/6-go-compiler/"
+        },
+        {
+            "length": "77543258",
+            "type": "audio/mpeg",
+            "href": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-23/29bd6831-7ea2-ba48-3c99-55ec1aaca2a5.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talkgo.fm/podcasts/6-go-compiler/",
+    "published": "Mon, 23 Aug 2021 17:00:00 +0800",
+    "published_parsed": [
+        2021,
+        8,
+        23,
+        9,
+        0,
+        0,
+        0,
+        235,
+        0
+    ],
+    "id": "https://talkgo.fm/podcasts/6-go-compiler/",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Go 夜聊"
+        },
+        {
+            "name": "Go 夜聊"
+        }
+    ],
+    "author": "Go 夜聊",
+    "author_detail": {
+        "name": "Go 夜聊"
+    },
+    "subtitle": "第 6 期：Go 语言的编译器",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 6 期：Go 语言的编译器"
+    },
+    "summary": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-23/29bd6831-7ea2-ba48-3c99-55ec1aaca2a5.mp3\" title=\"本期主要是和史斌一起聊了聊编译器相关的技术和相关行业的一些未来。Go 语言的编译器有什么特点？还有哪些可以改进的空间？从事芯片和编译技术相关的工作又有哪些挑战？\"></audio>\n\n<h1 id=\"第-6-期go-语言的编译器\">第 6 期：Go 语言的编译器</h1>\n<ul>\n<li>嘉宾：<a href=\"https://github.com/benshi001\">史斌</a></li>\n<li>主持：<a href=\"https://maiyang.me\">杨文</a>，<a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第六期节目，这期我们有幸请到了目前在 Go 语言仓库贡献排行榜上前全球前五十的贡献者——史斌，并和他一起聊了聊编译器相关的技术和相关行业的一些未来。Go 语言的编译器有什么特点？还有哪些可以改进的空间？从事芯片和编译技术相关的工作又有哪些挑战？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场</li>\n<li>01:00 接触 Go 语言的起因</li>\n<li>03:31 Go 语言在芯片行业的现状</li>\n<li>04:57 成为中国 Go 语言贡献者排名第一的经历</li>\n<li>12:30 加入 Go 团队的 GitHub 组织</li>\n<li>19:11 Go 语言中国贡献者俱乐部的成立过程</li>\n<li>21:57 Go 语言在芯片行业的困境</li>\n<li>26:26 基于 SSA 的 Go 编译器</li>\n<li>32:02 现阶段编译器的改进空间</li>\n<li>35:10 基于寄存器的调用规约</li>\n<li>38:24 gccgo 和 gollvm</li>\n<li>42:19 编译技术和行业的未来</li>\n<li>47:30 推荐</li>\n<li>50:05 尾声</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://golang.org/issue/19141\">乘法指令生成错误</a></li>\n<li><a href=\"https://golang.org/issue/24907\">寄存器索引 LOAD/STORE</a></li>\n<li><a href=\"https://github.com/golang/go/tree/master/test/bench/go1\">Go 1 Benchmark</a></li>\n<li><a href=\"https://github.com/orgs/golang/people\">Go 团队在 GitHub 的组织</a></li>\n<li><a href=\"https://github.com/bradfitz\">前 Go 团队成员 Brad Fitzpartrick</a></li>\n<li><a href=\"https://github.com/cherrymui\">Go 团队成员 Cherry Zhang</a></li>\n<li><a href=\"https://github.com/oiooj\">Go 语言贡献者李保坤</a></li>\n<li><a href=\"https://github.com/mengzhuo\">Go 语言贡献者蒙卓</a></li>\n<li><a href=\"https://golangcn.org\">Go 语言中国贡献者俱乐部</a></li>\n<li><a href=\"https://github.com/gopherchina/conference/blob/master/2020/2.1.5%20Go%E8%AF%AD%E8%A8%80%E7%BC%96%E8%AF%91%E5%99%A8%E7%AE%80%E4%BB%8B.pdf\">史斌在 GopherChina 2020 上关于 Go 编译器的演讲</a></li>\n<li><a href=\"https://www.erlang.org/\">Erlang</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Communicating_sequential_processes\">CSP 顺序进程通信</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Rob_Pike\">Rob Pike</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Ken_Thompson\">Ken Thompson</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Static_single_assignment_form\">SSA 静态单赋值形式</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intermediate_representation\">IR 中间语言</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intrinsic_function\">Intrinsic 内建函数</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Array_programming\">阵列编程与向量化</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Loop_optimization\">循环优化</a></li>\n<li><a href=\"https://golang.org/issue/24240\">Go 语言增加循环优化的讨论 Issue 24240</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Instruction_pipelining\">指令流水</a></li>\n<li><a href=\"https://gcc.gnu.org/\">GCC</a></li>\n<li><a href=\"https://llvm.org/\">LLVM</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Calling_convention\">调用规约</a></li>\n<li><a href=\"https://golang.org/doc/install/gccgo\">gccgo</a></li>\n<li><a href=\"https://go.googlesource.com/gollvm/\">gollvm</a></li>\n<li><a href=\"https://tinygo.org/\">TinyGo</a></li>\n<li><a href=\"https://proebsting.cs.arizona.edu/law.html\">Proebsting 定律</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Moore%27s_law\">Moore 定律</a></li>\n<li><a href=\"https://book.douban.com/subject/1836555/\">书籍:《史记》</a></li>\n<li><a href=\"https://book.douban.com/subject/1107841/\">书籍:《战国策》</a></li>\n<li><a href=\"https://book.douban.com/subject/35102294/\">书籍:《不拘一格》</a></li>\n<li><a href=\"https://0011.one/\">播客: 从零道一</a></li>\n<li><a href=\"https://www.realtimerendering.com/raytracinggems/rtg2/index.html\">书籍:《Ray Tracing Gems II》</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-23/29bd6831-7ea2-ba48-3c99-55ec1aaca2a5.mp3\" title=\"本期主要是和史斌一起聊了聊编译器相关的技术和相关行业的一些未来。Go 语言的编译器有什么特点？还有哪些可以改进的空间？从事芯片和编译技术相关的工作又有哪些挑战？\"></audio>\n\n<h1 id=\"第-6-期go-语言的编译器\">第 6 期：Go 语言的编译器</h1>\n<ul>\n<li>嘉宾：<a href=\"https://github.com/benshi001\">史斌</a></li>\n<li>主持：<a href=\"https://maiyang.me\">杨文</a>，<a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第六期节目，这期我们有幸请到了目前在 Go 语言仓库贡献排行榜上前全球前五十的贡献者——史斌，并和他一起聊了聊编译器相关的技术和相关行业的一些未来。Go 语言的编译器有什么特点？还有哪些可以改进的空间？从事芯片和编译技术相关的工作又有哪些挑战？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场</li>\n<li>01:00 接触 Go 语言的起因</li>\n<li>03:31 Go 语言在芯片行业的现状</li>\n<li>04:57 成为中国 Go 语言贡献者排名第一的经历</li>\n<li>12:30 加入 Go 团队的 GitHub 组织</li>\n<li>19:11 Go 语言中国贡献者俱乐部的成立过程</li>\n<li>21:57 Go 语言在芯片行业的困境</li>\n<li>26:26 基于 SSA 的 Go 编译器</li>\n<li>32:02 现阶段编译器的改进空间</li>\n<li>35:10 基于寄存器的调用规约</li>\n<li>38:24 gccgo 和 gollvm</li>\n<li>42:19 编译技术和行业的未来</li>\n<li>47:30 推荐</li>\n<li>50:05 尾声</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://golang.org/issue/19141\">乘法指令生成错误</a></li>\n<li><a href=\"https://golang.org/issue/24907\">寄存器索引 LOAD/STORE</a></li>\n<li><a href=\"https://github.com/golang/go/tree/master/test/bench/go1\">Go 1 Benchmark</a></li>\n<li><a href=\"https://github.com/orgs/golang/people\">Go 团队在 GitHub 的组织</a></li>\n<li><a href=\"https://github.com/bradfitz\">前 Go 团队成员 Brad Fitzpartrick</a></li>\n<li><a href=\"https://github.com/cherrymui\">Go 团队成员 Cherry Zhang</a></li>\n<li><a href=\"https://github.com/oiooj\">Go 语言贡献者李保坤</a></li>\n<li><a href=\"https://github.com/mengzhuo\">Go 语言贡献者蒙卓</a></li>\n<li><a href=\"https://golangcn.org\">Go 语言中国贡献者俱乐部</a></li>\n<li><a href=\"https://github.com/gopherchina/conference/blob/master/2020/2.1.5%20Go%E8%AF%AD%E8%A8%80%E7%BC%96%E8%AF%91%E5%99%A8%E7%AE%80%E4%BB%8B.pdf\">史斌在 GopherChina 2020 上关于 Go 编译器的演讲</a></li>\n<li><a href=\"https://www.erlang.org/\">Erlang</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Communicating_sequential_processes\">CSP 顺序进程通信</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Rob_Pike\">Rob Pike</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Ken_Thompson\">Ken Thompson</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Static_single_assignment_form\">SSA 静态单赋值形式</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intermediate_representation\">IR 中间语言</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intrinsic_function\">Intrinsic 内建函数</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Array_programming\">阵列编程与向量化</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Loop_optimization\">循环优化</a></li>\n<li><a href=\"https://golang.org/issue/24240\">Go 语言增加循环优化的讨论 Issue 24240</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Instruction_pipelining\">指令流水</a></li>\n<li><a href=\"https://gcc.gnu.org/\">GCC</a></li>\n<li><a href=\"https://llvm.org/\">LLVM</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Calling_convention\">调用规约</a></li>\n<li><a href=\"https://golang.org/doc/install/gccgo\">gccgo</a></li>\n<li><a href=\"https://go.googlesource.com/gollvm/\">gollvm</a></li>\n<li><a href=\"https://tinygo.org/\">TinyGo</a></li>\n<li><a href=\"https://proebsting.cs.arizona.edu/law.html\">Proebsting 定律</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Moore%27s_law\">Moore 定律</a></li>\n<li><a href=\"https://book.douban.com/subject/1836555/\">书籍:《史记》</a></li>\n<li><a href=\"https://book.douban.com/subject/1107841/\">书籍:《战国策》</a></li>\n<li><a href=\"https://book.douban.com/subject/35102294/\">书籍:《不拘一格》</a></li>\n<li><a href=\"https://0011.one/\">播客: 从零道一</a></li>\n<li><a href=\"https://www.realtimerendering.com/raytracinggems/rtg2/index.html\">书籍:《Ray Tracing Gems II》</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>"
+    },
+    "itunes_duration": "3230",
+    "image": {
+        "href": "https://talkgo.fm/images/episode/ep06-go-compiler.png"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkgo.fm/index.xml",
+            "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-7-23/29bd6831-7ea2-ba48-3c99-55ec1aaca2a5.mp3\" title=\"本期主要是和史斌一起聊了聊编译器相关的技术和相关行业的一些未来。Go 语言的编译器有什么特点？还有哪些可以改进的空间？从事芯片和编译技术相关的工作又有哪些挑战？\"></audio>\n\n<h1 id=\"第-6-期go-语言的编译器\">第 6 期：Go 语言的编译器</h1>\n<ul>\n<li>嘉宾：<a href=\"https://github.com/benshi001\">史斌</a></li>\n<li>主持：<a href=\"https://maiyang.me\">杨文</a>，<a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第六期节目，这期我们有幸请到了目前在 Go 语言仓库贡献排行榜上前全球前五十的贡献者——史斌，并和他一起聊了聊编译器相关的技术和相关行业的一些未来。Go 语言的编译器有什么特点？还有哪些可以改进的空间？从事芯片和编译技术相关的工作又有哪些挑战？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场</li>\n<li>01:00 接触 Go 语言的起因</li>\n<li>03:31 Go 语言在芯片行业的现状</li>\n<li>04:57 成为中国 Go 语言贡献者排名第一的经历</li>\n<li>12:30 加入 Go 团队的 GitHub 组织</li>\n<li>19:11 Go 语言中国贡献者俱乐部的成立过程</li>\n<li>21:57 Go 语言在芯片行业的困境</li>\n<li>26:26 基于 SSA 的 Go 编译器</li>\n<li>32:02 现阶段编译器的改进空间</li>\n<li>35:10 基于寄存器的调用规约</li>\n<li>38:24 gccgo 和 gollvm</li>\n<li>42:19 编译技术和行业的未来</li>\n<li>47:30 推荐</li>\n<li>50:05 尾声</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://golang.org/issue/19141\">乘法指令生成错误</a></li>\n<li><a href=\"https://golang.org/issue/24907\">寄存器索引 LOAD/STORE</a></li>\n<li><a href=\"https://github.com/golang/go/tree/master/test/bench/go1\">Go 1 Benchmark</a></li>\n<li><a href=\"https://github.com/orgs/golang/people\">Go 团队在 GitHub 的组织</a></li>\n<li><a href=\"https://github.com/bradfitz\">前 Go 团队成员 Brad Fitzpartrick</a></li>\n<li><a href=\"https://github.com/cherrymui\">Go 团队成员 Cherry Zhang</a></li>\n<li><a href=\"https://github.com/oiooj\">Go 语言贡献者李保坤</a></li>\n<li><a href=\"https://github.com/mengzhuo\">Go 语言贡献者蒙卓</a></li>\n<li><a href=\"https://golangcn.org\">Go 语言中国贡献者俱乐部</a></li>\n<li><a href=\"https://github.com/gopherchina/conference/blob/master/2020/2.1.5%20Go%E8%AF%AD%E8%A8%80%E7%BC%96%E8%AF%91%E5%99%A8%E7%AE%80%E4%BB%8B.pdf\">史斌在 GopherChina 2020 上关于 Go 编译器的演讲</a></li>\n<li><a href=\"https://www.erlang.org/\">Erlang</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Communicating_sequential_processes\">CSP 顺序进程通信</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Rob_Pike\">Rob Pike</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Ken_Thompson\">Ken Thompson</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Static_single_assignment_form\">SSA 静态单赋值形式</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intermediate_representation\">IR 中间语言</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Intrinsic_function\">Intrinsic 内建函数</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Array_programming\">阵列编程与向量化</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Loop_optimization\">循环优化</a></li>\n<li><a href=\"https://golang.org/issue/24240\">Go 语言增加循环优化的讨论 Issue 24240</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Instruction_pipelining\">指令流水</a></li>\n<li><a href=\"https://gcc.gnu.org/\">GCC</a></li>\n<li><a href=\"https://llvm.org/\">LLVM</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Calling_convention\">调用规约</a></li>\n<li><a href=\"https://golang.org/doc/install/gccgo\">gccgo</a></li>\n<li><a href=\"https://go.googlesource.com/gollvm/\">gollvm</a></li>\n<li><a href=\"https://tinygo.org/\">TinyGo</a></li>\n<li><a href=\"https://proebsting.cs.arizona.edu/law.html\">Proebsting 定律</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Moore%27s_law\">Moore 定律</a></li>\n<li><a href=\"https://book.douban.com/subject/1836555/\">书籍:《史记》</a></li>\n<li><a href=\"https://book.douban.com/subject/1107841/\">书籍:《战国策》</a></li>\n<li><a href=\"https://book.douban.com/subject/35102294/\">书籍:《不拘一格》</a></li>\n<li><a href=\"https://0011.one/\">播客: 从零道一</a></li>\n<li><a href=\"https://www.realtimerendering.com/raytracinggems/rtg2/index.html\">书籍:《Ray Tracing Gems II》</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>"
+        }
+    ]
+}

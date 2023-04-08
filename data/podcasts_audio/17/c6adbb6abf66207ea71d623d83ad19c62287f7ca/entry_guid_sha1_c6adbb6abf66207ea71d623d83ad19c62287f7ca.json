@@ -1,0 +1,73 @@
+{
+    "links": [
+        {
+            "length": "31333424",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo1NSwiZSI6MzIwMSwicCI6MiwidSI6Ijg0MDAubXAzIn0.Wj8c2KO54WQf1vnS9dIMxa2xvYk/yitianshijie/z_d0f7b280d6ae6b7e1575e002c9f68400.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://yitianshijie.net/episodes/53"
+        }
+    ],
+    "title": "Episode 53: 声东击西 X 一天世界: 星球大战四十年了，它的粉丝有什么不一样？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": "Episode 53: 声东击西 X 一天世界: 星球大战四十年了，它的粉丝有什么不一样？"
+    },
+    "id": "https://yitianshijie.net/episodes/53",
+    "guidislink": true,
+    "link": "https://yitianshijie.net/episodes/53",
+    "authors": [
+        {
+            "name": "不鳥萬如一"
+        }
+    ],
+    "author": "不鳥萬如一",
+    "author_detail": {
+        "name": "不鳥萬如一"
+    },
+    "itunes_duration": "43:22",
+    "itunes_explicit": null,
+    "itunes_episodetype": "None",
+    "image": {
+        "href": "https://i.typlog.com/yitianshijie/z_f7129bed9b1f7ad369d3670abe990ac1.png?x-oss-process=style/sl"
+    },
+    "summary": "",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://yitianshijie.net/feed/audio.xml",
+        "value": ""
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://yitianshijie.net/feed/audio.xml",
+            "value": ""
+        }
+    ],
+    "published": "Fri, 21 Apr 2017 03:00:00 +0000",
+    "published_parsed": [
+        2017,
+        4,
+        21,
+        3,
+        0,
+        0,
+        4,
+        111,
+        0
+    ]
+}

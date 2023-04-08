@@ -1,0 +1,40 @@
+{
+    "http-content-length": 51113429,
+    "http-etag": "08d324051f50ffebcd2044cda7677655",
+    "http-last-modified": "Tue, 19 Jun 2018 07:03:06 GMT",
+    "http-last-modified-float": 1529362986.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 51113429,
+    "actual-duration": 4223,
+    "sha1": "f2b3f2fcbac39f9a30fce098f9865e258a10a2a7",
+    "md5": "08d324051f50ffebcd2044cda7677655",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://a.anw.red/audio/anyway-55.mp3",
+            "headers": {
+                "Server": "marco/2.19",
+                "Date": "Wed, 05 Apr 2023 13:24:10 GMT",
+                "Content-Type": "audio/mp3",
+                "Content-Length": "51113429",
+                "Connection": "keep-alive",
+                "X-Request-Id": "4c352c093614f11c3e6f7f3a39a240f0; eabd6b89130f081585c56201325d175d",
+                "X-Source": "U/200",
+                "X-Upyun-Content-Length": "51113429",
+                "ETag": "\"08d324051f50ffebcd2044cda7677655\"",
+                "Last-Modified": "Tue, 19 Jun 2018 07:03:06 GMT",
+                "X-Upyun-Content-Type": "audio/mp3",
+                "X-Slice-Complete-Length": "51113429",
+                "X-Slice-ETag": "08d324051f50ffebcd2044cda7677655",
+                "X-Slice-Size": "1048576",
+                "Expires": "Tue, 11 Apr 2023 15:59:56 GMT",
+                "Cache-Control": "max-age=691200",
+                "Accept-Ranges": "bytes",
+                "Age": "163454",
+                "Via": "T.216.M, V.mix-hz-fdi1-216, T.140.H, M.cmn-js-xiq-137"
+            }
+        }
+    }
+}

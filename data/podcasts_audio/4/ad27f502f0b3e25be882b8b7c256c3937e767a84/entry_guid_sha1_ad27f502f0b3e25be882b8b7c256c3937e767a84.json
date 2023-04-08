@@ -1,0 +1,74 @@
+{
+    "authors": [
+        {
+            "name": "Limboy"
+        }
+    ],
+    "author": "Limboy",
+    "author_detail": {
+        "name": "Limboy"
+    },
+    "itunes_title": "跟 Randy 聊聊博客、编程、创作那些事",
+    "itunes_episode": "4",
+    "title": "4. 跟 Randy 聊聊博客、编程、创作那些事",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "4. 跟 Randy 聊聊博客、编程、创作那些事"
+    },
+    "published": "Wed, 17 Nov 2021 00:00:00 +0000",
+    "published_parsed": [
+        2021,
+        11,
+        17,
+        0,
+        0,
+        0,
+        2,
+        321,
+        0
+    ],
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://bytetalk.fm/posts/episode-4/"
+        },
+        {
+            "length": "102473479",
+            "type": "audio/x-m4a",
+            "href": "https://bytetalk.fm/podcasts/episode-4.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://bytetalk.fm/posts/episode-4/",
+    "id": "https://files.bytetalk.fm/file/bytetalk/episode-4.mp3",
+    "guidislink": false,
+    "itunes_duration": "71:10",
+    "subtitle": "<p>本期访谈的嘉宾是 <a href=\"https://lutaonan.com\">Randy</a>，他目前在微软中国工作，从 14 年就开始写<a href=\"https://lutaonan.com\">博客</a>。能感受到他对编程的热情和一种理想主义情怀，就摘录他博客上的一段话作为嘉宾介绍吧：</p>",
+    "subtitle_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p>本期访谈的嘉宾是 <a href=\"https://lutaonan.com\">Randy</a>，他目前在微软中国工作，从 14 年就开始写<a href=\"https://lutaonan.com\">博客</a>。能感受到他对编程的热情和一种理想主义情怀，就摘录他博客上的一段话作为嘉宾介绍吧：</p>"
+    },
+    "summary": "<p>本期访谈的嘉宾是 <a href=\"https://lutaonan.com\">Randy</a>，他目前在微软中国工作，从 14 年就开始写<a href=\"https://lutaonan.com\">博客</a>。能感受到他对编程的热情和一种理想主义情怀，就摘录他博客上的一段话作为嘉宾介绍吧：</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bytetalk.fm/index.xml",
+        "value": "<p>本期访谈的嘉宾是 <a href=\"https://lutaonan.com\">Randy</a>，他目前在微软中国工作，从 14 年就开始写<a href=\"https://lutaonan.com\">博客</a>。能感受到他对编程的热情和一种理想主义情怀，就摘录他博客上的一段话作为嘉宾介绍吧：</p>"
+    },
+    "image": {
+        "href": "https://bytetalk.fm/posts/episode-4/cover.jpg"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://bytetalk.fm/index.xml",
+            "value": "<p>本期访谈的嘉宾是 <a href=\"https://lutaonan.com\">Randy</a>，他目前在微软中国工作，从 14 年就开始写<a href=\"https://lutaonan.com\">博客</a>。能感受到他对编程的热情和一种理想主义情怀，就摘录他博客上的一段话作为嘉宾介绍吧：</p>\n<span id=\"continue-reading\"></span>\n<blockquote>\n<p>我叫卢涛南 (Randy Lu), 1995 年出生于广东中山。好编程，阅读，音乐，写作以及一切创造类活动。 2008 年起学习编程至今。</p>\n<p>2014 年参加高考，录取「广州大学华软软件学院」，本科一年后退学。曾在奇志科技、阿里巴巴、蚂蚁金服、虎牙直播工作。目前在微软中国工作。</p>\n<p>小时候的理想是成为一名程序员，用技术改变世界。现在的理想是用技术创造价值 —— 做出有人觉得好用的产品或服务，并愿意为之付费。</p>\n</blockquote>\n<h3 id=\"shi-jian-zhou\">时间轴</h3>\n<ul>\n<li>01:19 - 02:07 Randy 的开场介绍</li>\n<li>02:07 - 05:04 开特斯拉从广州到苏州的经历</li>\n<li>05:04 - 06:30 买特斯拉的原因</li>\n<li>06:30 - 09:01 苏州给你的感觉是怎样的</li>\n<li>09:01 - 10:34 如何接触编程的</li>\n<li>10:34 - 11:54 接触编程后带来的一些变化</li>\n<li>11:54 - 13:50 前端编程的乐趣</li>\n<li>13:50 - 20:44 退学的那些事</li>\n<li>20:44 - 32:36 写博客的那些事(为什么写，难在哪里，有什么收获）</li>\n<li>32:36 - 38:01 做过的一些项目</li>\n<li>38:01 - 38:50 觉得不错的创造者（下面有附相关链接）</li>\n<li>38:50 - 41:08 影响创作的最大阻碍</li>\n<li>41:08 - 46:04 如何想到要去微软的，微软面试题目和流程</li>\n<li>46:04 - 49:39 微软的工作节奏</li>\n<li>49:39 - 56:22 健身 Tips 和健身带来的变化</li>\n<li>56:22 - 64:50 书和利器推荐</li>\n<li>64:50 - 66:54 简单聊聊冥想</li>\n<li>66:54 - 68:48 年轻的心态</li>\n<li>68:48 - 70:10 有没有欣赏的人可以来聊一聊的</li>\n</ul>\n<h3 id=\"xiang-guan-xin-xi\">相关信息</h3>\n<ul>\n<li><a href=\"https://lutaonan.com\">Randy's Blog</a></li>\n<li><a href=\"https://www.11ty.dev\">Eleventy</a></li>\n<li><a href=\"https://book.douban.com/subject/6021440/\">黑客与画家</a></li>\n<li><a href=\"https://lutaonan.com/blog/trip-from-guangzhou-to-suzhou/\">开着特斯拉从广州到苏州的小记</a></li>\n<li><a href=\"https://lutaonan.com/blog/talking-about-dropout-again/\">再谈辍学</a></li>\n<li><a href=\"https://lutaonan.com/blog/letters-from-reader/\">回顾了一些读者来信</a></li>\n<li><a href=\"http://www.paulgraham.com/articles.html\">Paul Graham</a></li>\n<li><a href=\"https://cusdis.com\">Cusdis</a></li>\n<li><a href=\"https://book.douban.com/subject/26954760/\">月亮与六便士</a></li>\n<li><a href=\"https://book.douban.com/subject/2035162/\">刀锋</a></li>\n<li><a href=\"https://book.douban.com/subject/6756090/\">松本行弘的程序世界</a></li>\n<li><a href=\"https://book.douban.com/subject/2154713/\">精通正则表达式</a></li>\n<li><a href=\"https://logseq.com\">Logseq</a></li>\n</ul>\n<h3 id=\"randy-ti-dao-de-chuang-zuo-zhe-de-list\">Randy 提到的创作者的 List</h3>\n<ul>\n<li><a href=\"https://twitter.com/waylybaye\">Baye</a> 熊猫吃短信、ServerCat、后续、DAMA 作者</li>\n<li><a href=\"https://twitter.com/tualatrix\">图拉鼎</a> Manico、One Switch、PasteNow 作者</li>\n<li><a href=\"https://github.com/egoist\">egoist</a> 一个用开源实现自由职业的开发者。</li>\n<li><a href=\"https://www.swyx.io/\">swyx</a> 一个关注 Developer Experience 的开发者，有很多不错的 talk 和博客文章。</li>\n<li><a href=\"https://thesephist.com/\">Linus</a> 会给自己做很多有意思的工具，看他的博客能学到很多。</li>\n<li><a href=\"https://luolei.org/\">罗磊</a> 在旅行、摄影、数码产品方面都会写一些高质量内容的前端工程师。</li>\n</ul>\n<h3>节目收听方式</h3>\n\n<ul>\n  <li><a href=\"https://www.xiaoyuzhoufm.com/podcast/6177bab6b69226ed16a3ed41\">小宇宙</a></li>\n  <li><a href=\"https://castro.fm/podcast/8a2dbe21-67f8-4314-a22f-2425b22ab506\">Castro</a></li>\n  <li><a href=\"https://pca.st/lqakcfor\">Pocket Casts</a></li>\n  <li><a href=\"https://open.spotify.com/show/6nsetXjeNJdjk6BltaLgcZ?si=63d3a273c8c148b5\">Spotify</a></li>\n  <li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9ieXRldGFsay5mbS9pbmRleC54bWw\">Google Podcasts</a></li>\n  <li><a href=\"https://podcasts.apple.com/us/podcast/bytetalk/id1592129150\">Apple Podcasts (CN not available, idky)</a>\n  </li>\n  <li><a href=\"https://bytetalk.fm/index.xml\">Feed URL</a></li>\n</ul>\n\n\n<blockquote>\n  <p>和不同的人聊天，会收获很多不同的东西，作为一个「老」程序员，我想跟不同领域的程序员们聊聊他们的故事、经历和感悟，或许也可以给正在收听的你一些启发。</p>\n  <p>邮件沟通：limboy.me@gmail.com，一般会在两天内回复。</p>\n</blockquote>"
+        }
+    ]
+}

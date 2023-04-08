@@ -1,0 +1,107 @@
+{
+    "title": "Episode 7: 交互视频、Flash 和万人唾弃的 Safari feat. 螺丝 @「没有主题的闲聊」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Episode 7: 交互视频、Flash 和万人唾弃的 Safari feat. 螺丝 @「没有主题的闲聊」"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/7"
+        },
+        {
+            "length": "63849850",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/13e90d9a-ebd8-4d8a-94dc-695550f1904c.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/7",
+    "id": "13e90d9a-ebd8-4d8a-94dc-695550f1904c",
+    "guidislink": false,
+    "published": "Mon, 17 Oct 2022 15:00:00 +0800",
+    "published_parsed": [
+        2022,
+        10,
+        17,
+        7,
+        0,
+        0,
+        0,
+        290,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "本期是一期联动节目。Astrian 和白羊与友台「没有主题的闲聊」主播螺丝一起，从螺丝供职的基本操作团队开始，聊聊有关交互视频开发秘辛、前端与跨平台 app 的未来。另外，还有对「烂苹果」的各种吐槽。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "本期是一期联动节目。Astrian 和白羊与友台「没有主题的闲聊」主播螺丝一起，从螺丝供职的基本操作团队开始，聊聊有关交互视频开发秘辛、前端与跨平台 app 的未来。另外，还有对「烂苹果」的各种吐槽。"
+    },
+    "itunes_duration": "2:12:47",
+    "itunes_explicit": null,
+    "summary": "<p>本期是一期串台节目。Astrian 和白羊与友台「没有主题的闲聊」主播螺丝一起，从螺丝供职的基本操作团队开始，聊聊有关交互视频开发秘辛、前端与跨平台 app 的未来。另外，还有对「烂苹果」的各种吐槽。</p>\n\n<p>由于本期节目的原始音频是通过 Zoom 云录制功能录制的，因此音质可能不会很好，敬请谅解。</p>\n\n<h3>章节</h3>\n\n<ul>\n<li>00:00:00 开场、串台主播介绍，以及何为「基本操作」</li>\n<li>00:11:03 「交互视频」遇到了一万种技术问题</li>\n<li>00:24:05 Apple 开发吐槽大会：Safari 是用于正确渲染 apple.com 的浏览器</li>\n<li>01:09:24 现在看来，Flash 去世是很可惜的</li>\n<li>02:11:32 尾声</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li><a href=\"https://jibencaozuo.com\" rel=\"nofollow\">基本操作官网</a></li>\n<li>螺丝在其个人博客撰写的、有关交互视频开发过程相关的 <a href=\"https://roriri.one/2022/06/11/behind-the-scenes-interactive-video-player/\" rel=\"nofollow\">技术博客文章</a></li>\n<li>用 Flash 的方式来做 HTML 5 动画的软件 <a href=\"https://setapp.com/apps/hype\" rel=\"nofollow\">Hype</a> （00:09:50）</li>\n<li><a href=\"https://animejs.com/\" rel=\"nofollow\">Animate.js</a>（00:10:00）</li>\n<li>螺丝的 Telegram 频道「<a href=\"https://t.me/im_RORIRI\" rel=\"nofollow\">螺莉莉的黑板报</a>」（00:13:33）</li>\n<li>螺丝在 Safari 调试时遇到的 <a href=\"https://t.me/im_RORIRI/4695\" rel=\"nofollow\">0.18 ZB bug</a>（00:36:08）</li>\n<li>针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的 <a href=\"https://t.me/WebK_en/5\" rel=\"nofollow\">契文</a>（00:38:04）</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p><p>Special Guest: 螺丝.</p><p>Links:</p><ul><li><a href=\"https://jibencaozuo.com\" rel=\"nofollow\" title=\"基本操作官网\">基本操作官网</a></li><li><a href=\"https://roriri.one/2022/06/11/behind-the-scenes-interactive-video-player/\" rel=\"nofollow\" title=\"幕后故事：交互视频播放器的技术发展历史\">幕后故事：交互视频播放器的技术发展历史</a> &mdash; 螺丝在其个人博客撰写的、有关交互视频开发过程相关的技术博客文章\n</li><li><a href=\"https://setapp.com/apps/hype\" rel=\"nofollow\" title=\"Hype\">Hype</a> &mdash; 用 Flash 的方式来做 HTML 5 动画的软件 Hype。</li><li><a href=\"https://animejs.com/\" rel=\"nofollow\" title=\"Animate.js\">Animate.js</a>\n</li><li><a href=\"https://t.me/im_RORIRI\" rel=\"nofollow\" title=\"螺莉莉的黑板报\">螺莉莉的黑板报</a> &mdash; 螺丝的 Telegram 频道\n</li><li><a href=\"https://t.me/im_RORIRI/4695\" rel=\"nofollow\" title=\"0.18 ZB bug\">0.18 ZB bug</a> &mdash; 螺丝在 Safari 调试时遇到的 bug。\n</li><li><a href=\"https://t.me/WebK_en/5\" rel=\"nofollow\" title=\"针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文\">针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文</a> &mdash; 针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文。</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<p>本期是一期串台节目。Astrian 和白羊与友台「没有主题的闲聊」主播螺丝一起，从螺丝供职的基本操作团队开始，聊聊有关交互视频开发秘辛、前端与跨平台 app 的未来。另外，还有对「烂苹果」的各种吐槽。</p>\n\n<p>由于本期节目的原始音频是通过 Zoom 云录制功能录制的，因此音质可能不会很好，敬请谅解。</p>\n\n<h3>章节</h3>\n\n<ul>\n<li>00:00:00 开场、串台主播介绍，以及何为「基本操作」</li>\n<li>00:11:03 「交互视频」遇到了一万种技术问题</li>\n<li>00:24:05 Apple 开发吐槽大会：Safari 是用于正确渲染 apple.com 的浏览器</li>\n<li>01:09:24 现在看来，Flash 去世是很可惜的</li>\n<li>02:11:32 尾声</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li><a href=\"https://jibencaozuo.com\" rel=\"nofollow\">基本操作官网</a></li>\n<li>螺丝在其个人博客撰写的、有关交互视频开发过程相关的 <a href=\"https://roriri.one/2022/06/11/behind-the-scenes-interactive-video-player/\" rel=\"nofollow\">技术博客文章</a></li>\n<li>用 Flash 的方式来做 HTML 5 动画的软件 <a href=\"https://setapp.com/apps/hype\" rel=\"nofollow\">Hype</a> （00:09:50）</li>\n<li><a href=\"https://animejs.com/\" rel=\"nofollow\">Animate.js</a>（00:10:00）</li>\n<li>螺丝的 Telegram 频道「<a href=\"https://t.me/im_RORIRI\" rel=\"nofollow\">螺莉莉的黑板报</a>」（00:13:33）</li>\n<li>螺丝在 Safari 调试时遇到的 <a href=\"https://t.me/im_RORIRI/4695\" rel=\"nofollow\">0.18 ZB bug</a>（00:36:08）</li>\n<li>针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的 <a href=\"https://t.me/WebK_en/5\" rel=\"nofollow\">契文</a>（00:38:04）</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p><p>Special Guest: 螺丝.</p><p>Links:</p><ul><li><a href=\"https://jibencaozuo.com\" rel=\"nofollow\" title=\"基本操作官网\">基本操作官网</a></li><li><a href=\"https://roriri.one/2022/06/11/behind-the-scenes-interactive-video-player/\" rel=\"nofollow\" title=\"幕后故事：交互视频播放器的技术发展历史\">幕后故事：交互视频播放器的技术发展历史</a> &mdash; 螺丝在其个人博客撰写的、有关交互视频开发过程相关的技术博客文章\n</li><li><a href=\"https://setapp.com/apps/hype\" rel=\"nofollow\" title=\"Hype\">Hype</a> &mdash; 用 Flash 的方式来做 HTML 5 动画的软件 Hype。</li><li><a href=\"https://animejs.com/\" rel=\"nofollow\" title=\"Animate.js\">Animate.js</a>\n</li><li><a href=\"https://t.me/im_RORIRI\" rel=\"nofollow\" title=\"螺莉莉的黑板报\">螺莉莉的黑板报</a> &mdash; 螺丝的 Telegram 频道\n</li><li><a href=\"https://t.me/im_RORIRI/4695\" rel=\"nofollow\" title=\"0.18 ZB bug\">0.18 ZB bug</a> &mdash; 螺丝在 Safari 调试时遇到的 bug。\n</li><li><a href=\"https://t.me/WebK_en/5\" rel=\"nofollow\" title=\"针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文\">针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文</a> &mdash; 针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文。</li></ul>"
+    },
+    "tags": [
+        {
+            "term": "Apple",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "前端",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "基本操作",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术哲学",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<p>本期是一期串台节目。Astrian 和白羊与友台「没有主题的闲聊」主播螺丝一起，从螺丝供职的基本操作团队开始，聊聊有关交互视频开发秘辛、前端与跨平台 app 的未来。另外，还有对「烂苹果」的各种吐槽。</p>\n\n<p>由于本期节目的原始音频是通过 Zoom 云录制功能录制的，因此音质可能不会很好，敬请谅解。</p>\n\n<h3>章节</h3>\n\n<ul>\n<li>00:00:00 开场、串台主播介绍，以及何为「基本操作」</li>\n<li>00:11:03 「交互视频」遇到了一万种技术问题</li>\n<li>00:24:05 Apple 开发吐槽大会：Safari 是用于正确渲染 apple.com 的浏览器</li>\n<li>01:09:24 现在看来，Flash 去世是很可惜的</li>\n<li>02:11:32 尾声</li>\n</ul>\n\n<h3>相关链接</h3>\n\n<ul>\n<li><a href=\"https://jibencaozuo.com\" rel=\"nofollow\">基本操作官网</a></li>\n<li>螺丝在其个人博客撰写的、有关交互视频开发过程相关的 <a href=\"https://roriri.one/2022/06/11/behind-the-scenes-interactive-video-player/\" rel=\"nofollow\">技术博客文章</a></li>\n<li>用 Flash 的方式来做 HTML 5 动画的软件 <a href=\"https://setapp.com/apps/hype\" rel=\"nofollow\">Hype</a> （00:09:50）</li>\n<li><a href=\"https://animejs.com/\" rel=\"nofollow\">Animate.js</a>（00:10:00）</li>\n<li>螺丝的 Telegram 频道「<a href=\"https://t.me/im_RORIRI\" rel=\"nofollow\">螺莉莉的黑板报</a>」（00:13:33）</li>\n<li>螺丝在 Safari 调试时遇到的 <a href=\"https://t.me/im_RORIRI/4695\" rel=\"nofollow\">0.18 ZB bug</a>（00:36:08）</li>\n<li>针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的 <a href=\"https://t.me/WebK_en/5\" rel=\"nofollow\">契文</a>（00:38:04）</li>\n</ul>\n\n<h3>关于 Echo.js &amp; 联系我们</h3>\n\n<p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 <a href=\"http://www.echojspodcast.com\" rel=\"nofollow\">www.echojspodcast.com</a> 。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>    发到官网评论区</li>\n<li>    来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>    <a href=\"https://www.echojspodcast.com/qq\" rel=\"nofollow\">加入听众反馈 QQ 群</a>（白羊说进群可以教学编程，包教包会）</li>\n<li>    发邮件至 hello(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"nofollow\">Telegram 频道</a></p><p>Special Guest: 螺丝.</p><p>Links:</p><ul><li><a href=\"https://jibencaozuo.com\" rel=\"nofollow\" title=\"基本操作官网\">基本操作官网</a></li><li><a href=\"https://roriri.one/2022/06/11/behind-the-scenes-interactive-video-player/\" rel=\"nofollow\" title=\"幕后故事：交互视频播放器的技术发展历史\">幕后故事：交互视频播放器的技术发展历史</a> &mdash; 螺丝在其个人博客撰写的、有关交互视频开发过程相关的技术博客文章\n</li><li><a href=\"https://setapp.com/apps/hype\" rel=\"nofollow\" title=\"Hype\">Hype</a> &mdash; 用 Flash 的方式来做 HTML 5 动画的软件 Hype。</li><li><a href=\"https://animejs.com/\" rel=\"nofollow\" title=\"Animate.js\">Animate.js</a>\n</li><li><a href=\"https://t.me/im_RORIRI\" rel=\"nofollow\" title=\"螺莉莉的黑板报\">螺莉莉的黑板报</a> &mdash; 螺丝的 Telegram 频道\n</li><li><a href=\"https://t.me/im_RORIRI/4695\" rel=\"nofollow\" title=\"0.18 ZB bug\">0.18 ZB bug</a> &mdash; 螺丝在 Safari 调试时遇到的 bug。\n</li><li><a href=\"https://t.me/WebK_en/5\" rel=\"nofollow\" title=\"针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文\">针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文</a> &mdash; 针对 Safari 内存泄露问题，Telegram WebK 团队在其官方频道撰写的契文。</li></ul>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+yjlFjNo5",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+yjlFjNo5\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_chapters": {
+        "url": "https://feeds.fireside.fm/echojs/json/episodes/13e90d9a-ebd8-4d8a-94dc-695550f1904c/chapters",
+        "type": "application/json"
+    },
+    "podcast_person": {
+        "email": "",
+        "href": "https://roriri.one",
+        "role": "guest"
+    }
+}

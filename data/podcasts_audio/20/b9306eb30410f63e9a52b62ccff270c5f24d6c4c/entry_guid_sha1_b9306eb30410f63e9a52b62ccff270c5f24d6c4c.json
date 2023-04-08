@@ -1,0 +1,81 @@
+{
+    "title": "番外10: 《巴黎评论》：村上春树访谈",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "番外10: 《巴黎评论》：村上春树访谈"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.theviewtalk.com/sp10"
+        },
+        {
+            "length": "51747198",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/00f67b40-220b-4ce6-b7af-700c0af331d6.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.theviewtalk.com/sp10",
+    "id": "00f67b40-220b-4ce6-b7af-700c0af331d6",
+    "guidislink": false,
+    "published": "Sat, 26 Nov 2022 16:00:00 +0800",
+    "published_parsed": [
+        2022,
+        11,
+        26,
+        8,
+        0,
+        0,
+        5,
+        330,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一画一话"
+        },
+        {
+            "name": "一画一话"
+        }
+    ],
+    "author": "一画一话",
+    "author_detail": {
+        "name": "一画一话"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": ""
+    },
+    "itunes_duration": "53:54",
+    "itunes_explicit": null,
+    "summary": "<p>原刊载于2004年《巴黎评论》夏季号。</p>\n\n<p>音乐：<br />\nacid accident - lost in the fog (feat. zhiyong wen)</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "<p>原刊载于2004年《巴黎评论》夏季号。</p>\n\n<p>音乐：<br />\nacid accident - lost in the fog (feat. zhiyong wen)</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/theviewtalk/rss",
+            "value": "<p>原刊载于2004年《巴黎评论》夏季号。</p>\n\n<p>音乐：<br />\nacid accident - lost in the fog (feat. zhiyong wen)</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yS2zkE2S+kSB_Q4Tm",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yS2zkE2S+kSB_Q4Tm\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

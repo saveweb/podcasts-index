@@ -1,0 +1,75 @@
+{
+    "title": "旅游漫谈",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "旅游漫谈"
+    },
+    "itunes_episode": "91",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "48094350",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/travel.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Sat, 24 Dec 2022 22:00:00 CDT",
+    "published_parsed": [
+        2022,
+        12,
+        25,
+        3,
+        0,
+        0,
+        6,
+        359,
+        0
+    ],
+    "summary": "<p>假期即将到来，按耐不住期待，这期找了正在旅程中的爆炸来聊聊旅游。从今年去哪玩开始，想到哪聊到哪，要的就是开心快乐。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>假期即将到来，按耐不住期待，这期找了正在旅程中的爆炸来聊聊旅游。从今年去哪玩开始，想到哪聊到哪，要的就是开心快乐。</p>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/travel.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:39:56",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>假期即将到来，按耐不住期待，这期找了正在旅程中的爆炸来聊聊旅游。从今年去哪玩开始，想到哪聊到哪，要的就是开心快乐。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

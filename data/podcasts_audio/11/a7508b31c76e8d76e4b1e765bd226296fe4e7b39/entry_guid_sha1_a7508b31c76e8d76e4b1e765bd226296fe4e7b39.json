@@ -1,0 +1,95 @@
+{
+    "title": "某 C 的微信入职经验分享",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "某 C 的微信入职经验分享"
+    },
+    "itunes_episode": "33",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "58972706",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/33.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Tue, 28 May 2019 05:30:00 CDT",
+    "published_parsed": [
+        2019,
+        5,
+        28,
+        10,
+        30,
+        0,
+        1,
+        148,
+        0
+    ],
+    "summary": "<p>听过前面跳槽节目的朋友应该还记得，那期有一位不愿意透露姓名的某 C。最新消息，某 C 已经成功入职微信，这期就再次请他来聊聊跳槽这件事，也回顾和总结下他的成长过程，希望给大家一些参考。</p>\n\n<p>可能你会觉得，微信这种级别的公司，需要的都是顶尖牛人、名校毕业生，普通开发者根本没机会。但是我想告诉大家，某 C 并不是这类人。他是一个普通 211 的本科毕业生，之前的工作也不是顶尖一线公司，甚至都不是在主流的大城市。能入职微信，靠的就是自己的不断努力。</p>\n\n<p>我觉得某 C 非常符合 ggtalk 的定位。在第一期我就说过，不想请那些 CEO、CTO，也不想请那些天赋异禀实力超群的天才。我想请的就是和你我一样的普通人，聊聊他们做的那些有意思、有意义的事，让大家看到，只要想提升，你永远可以做得更好。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>之前的节目：狭义跳槽论：面试官，大厂新人和准备起跳的某 C（https://talk.swift.gg/12）</li>\n<li>欧盟的 GDPR：https://en.wikipedia.org/wiki/General_Data_Protection_Regulation</li>\n<li>BNC 的博客：https://bignerdcoding.com</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:43  个人介绍 + 上集回顾 + 闲聊</li>\n<li>04:28  历史最长免责声明（不愧是微信员工）</li>\n<li>08:42  在微信工作感觉如何</li>\n<li>10:40  讲讲面试过程</li>\n<li>15:04  简历有什么亮点？如何打动面试官？</li>\n<li>19:15  当时有没有面试其他公司 + 讨论是否要刷算法题</li>\n<li>27:14  回顾一下毕业这几年，讲讲自己的成长过程</li>\n<li>43:52  现在还有哪些不足之处 + 未来的职业规划</li>\n<li>46:40  聊聊我们翻译组 + 参与兴趣小组的作用 + 如何参与/组建兴趣小组</li>\n<li>58:51  最后还有什么话要说</li></ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>听过前面跳槽节目的朋友应该还记得，那期有一位不愿意透露姓名的某 C。最新消息，某 C 已经成功入职微信，这期就再次请他来聊聊跳槽这件事，也回顾和总结下他的成长过程，希望给大家一些参考。</p>\n\n<p>可能你会觉得，微信这种级别的公司，需要的都是顶尖牛人、名校毕业生，普通开发者根本没机会。但是我想告诉大家，某 C 并不是这类人。他是一个普通 211 的本科毕业生，之前的工作也不是顶尖一线公司，甚至都不是在主流的大城市。能入职微信，靠的就是自己的不断努力。</p>\n\n<p>我觉得某 C 非常符合 ggtalk 的定位。在第一期我就说过，不想请那些 CEO、CTO，也不想请那些天赋异禀实力超群的天才。我想请的就是和你我一样的普通人，聊聊他们做的那些有意思、有意义的事，让大家看到，只要想提升，你永远可以做得更好。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>之前的节目：狭义跳槽论：面试官，大厂新人和准备起跳的某 C（https://talk.swift.gg/12）</li>\n<li>欧盟的 GDPR：https://en.wikipedia.org/wiki/General_Data_Protection_Regulation</li>\n<li>BNC 的博客：https://bignerdcoding.com</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:43  个人介绍 + 上集回顾 + 闲聊</li>\n<li>04:28  历史最长免责声明（不愧是微信员工）</li>\n<li>08:42  在微信工作感觉如何</li>\n<li>10:40  讲讲面试过程</li>\n<li>15:04  简历有什么亮点？如何打动面试官？</li>\n<li>19:15  当时有没有面试其他公司 + 讨论是否要刷算法题</li>\n<li>27:14  回顾一下毕业这几年，讲讲自己的成长过程</li>\n<li>43:52  现在还有哪些不足之处 + 未来的职业规划</li>\n<li>46:40  聊聊我们翻译组 + 参与兴趣小组的作用 + 如何参与/组建兴趣小组</li>\n<li>58:51  最后还有什么话要说</li></ul>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/33.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:01:26",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>\n听过前面跳槽节目的朋友应该还记得，那期有一位不愿意透露姓名的某 C。最新消息，某 C 已经成功入职微信，这期就再次请他来聊聊跳槽这件事，也回顾和总结下他的成长过程，希望给大家一些参考。</p>\n\n<p>可能你会觉得，微信这种级别的公司，需要的都是顶尖牛人、名校毕业生，普通开发者根本没机会。但是我想告诉大家，某 C 并不是这类人。他是一个普通 211 的本科毕业生，之前的工作也不是顶尖一线公司，甚至都不是在主流的大城市。能入职微信，靠的就是自己的不断努力。</p>\n\n<p>我觉得某 C 非常符合 ggtalk 的定位。在第一期我就说过，不想请那些 CEO、CTO，也不想请那些天赋异禀实力超群的天才。我想请的就是和你我一样的普通人，聊聊他们做的那些有意思、有意义的事，让大家看到，只要想提升，你永远可以做得更好。</p>\n\n<p>参考链接：</p>\n<ul>\n<li>之前的节目：狭义跳槽论：面试官，大厂新人和准备起跳的某 C（https://talk.swift.gg/12）</li>\n<li>欧盟的 GDPR：https://en.wikipedia.org/wiki/General_Data_Protection_Regulation</li>\n<li>BNC 的博客：https://bignerdcoding.com</li>\n<li>梁杰的微博：@梁杰_numbbbbb（https://www.weibo.com/numbbbbb）</li>\n</ul>\n\n<p>时间线：</p>\n<ul>\n<li>00:43  个人介绍 + 上集回顾 + 闲聊</li>\n<li>04:28  历史最长免责声明（不愧是微信员工）</li>\n<li>08:42  在微信工作感觉如何</li>\n<li>10:40  讲讲面试过程</li>\n<li>15:04  简历有什么亮点？如何打动面试官？</li>\n<li>19:15  当时有没有面试其他公司 + 讨论是否要刷算法题</li>\n<li>27:14  回顾一下毕业这几年，讲讲自己的成长过程</li>\n<li>43:52  现在还有哪些不足之处 + 未来的职业规划</li>\n<li>46:40  聊聊我们翻译组 + 参与兴趣小组的作用 + 如何参与/组建兴趣小组</li>\n<li>58:51  最后还有什么话要说</li></ul>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swift",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "swiftgg",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "微信入职",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "面试经验",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

@@ -1,0 +1,81 @@
+{
+    "title": "06 Something about exhibition：墙上挂的那幅画就是展览吗",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "06 Something about exhibition：墙上挂的那幅画就是展览吗"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.arbretalk.com/6"
+        },
+        {
+            "length": "59128436",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/8ecd4d04-d9eb-48ed-bafc-9ab55e67c940/7d22dc2b-41d7-4e9f-9a67-d3973334af8b.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.arbretalk.com/6",
+    "id": "57024f04cf80a1095e5abf84:5911bd2415cf7de17422cbc1:5acc9cf2562fa79982d15dc5",
+    "guidislink": false,
+    "published": "Tue, 10 Apr 2018 19:00:00 +0800",
+    "published_parsed": [
+        2018,
+        4,
+        10,
+        11,
+        0,
+        0,
+        1,
+        100,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一树Arbre"
+        },
+        {
+            "name": "一树Arbre"
+        }
+    ],
+    "author": "一树Arbre",
+    "author_detail": {
+        "name": "一树Arbre"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "展览的定义一直都在变，\n但是展览的内涵和意义到底有没有变化呢？\n我们也在questioning，那就一起来聊聊吧。\nSomething about exhibition, go.",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "展览的定义一直都在变，\n但是展览的内涵和意义到底有没有变化呢？\n我们也在questioning，那就一起来聊聊吧。\nSomething about exhibition, go."
+    },
+    "itunes_duration": "1:01:24",
+    "itunes_explicit": null,
+    "summary": "<p>展览的定义一直都在变，<br />\n但是展览的内涵和意义到底有没有变化呢？<br />\n我们也在questioning，那就一起来聊聊吧。<br />\nSomething about exhibition, go.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "<p>展览的定义一直都在变，<br />\n但是展览的内涵和意义到底有没有变化呢？<br />\n我们也在questioning，那就一起来聊聊吧。<br />\nSomething about exhibition, go.</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/arbretalk/rss",
+            "value": "<p>展览的定义一直都在变，<br />\n但是展览的内涵和意义到底有没有变化呢？<br />\n我们也在questioning，那就一起来聊聊吧。<br />\nSomething about exhibition, go.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/RF2PpSZw+Q1Te8xWt",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/RF2PpSZw+Q1Te8xWt\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://www.lavitaching.com/",
+        "role": "host"
+    }
+}

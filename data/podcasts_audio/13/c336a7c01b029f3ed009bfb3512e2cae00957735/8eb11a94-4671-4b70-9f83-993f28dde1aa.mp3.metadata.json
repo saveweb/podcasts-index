@@ -1,0 +1,63 @@
+{
+    "http-content-length": 90442365,
+    "http-etag": null,
+    "http-last-modified": "Wed, 05 Apr 2023 16:47:07 GMT",
+    "http-last-modified-float": 1680684427.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 90442365,
+    "actual-duration": 5566,
+    "sha1": "f04c22aa02744e76909cc271d483cb1ec91bb8b8",
+    "md5": "8af92ee4d337a6b8b8422f5c1527823e",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://aphid.fireside.fm/d/1437767933/b25803c6-0112-476c-9dbf-3e0f961a0e9d/8eb11a94-4671-4b70-9f83-993f28dde1aa.mp3",
+            "headers": {
+                "server": "nginx",
+                "date": "Wed, 05 Apr 2023 16:47:06 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "x-frame-options": "SAMEORIGIN",
+                "x-xss-protection": "1; mode=block",
+                "x-content-type-options": "nosniff",
+                "x-download-options": "noopen",
+                "x-permitted-cross-domain-policies": "none",
+                "referrer-policy": "strict-origin-when-cross-origin",
+                "access-control-allow-origin": "*",
+                "access-control-allow-methods": "GET",
+                "access-control-request-method": "*",
+                "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept, Authorization",
+                "location": "https://media.fireside.fm/file/fireside-audio/podcasts/audio/b/b25803c6-0112-476c-9dbf-3e0f961a0e9d/episodes/8/8eb11a94-4671-4b70-9f83-993f28dde1aa/8eb11a94-4671-4b70-9f83-993f28dde1aa.mp3",
+                "cache-control": "no-cache",
+                "x-request-id": "ed881422-1520-4289-9f49-7e3958cdb110",
+                "x-runtime": "0.004823",
+                "x-backend-server": "web01.fireside.fm",
+                "x-served-by": "Fireside",
+                "connection": "close"
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://media.fireside.fm/file/fireside-audio/podcasts/audio/b/b25803c6-0112-476c-9dbf-3e0f961a0e9d/episodes/8/8eb11a94-4671-4b70-9f83-993f28dde1aa/8eb11a94-4671-4b70-9f83-993f28dde1aa.mp3",
+            "headers": {
+                "Date": "Wed, 05 Apr 2023 16:47:07 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "90442365",
+                "Connection": "keep-alive",
+                "x-bz-file-name": "podcasts/audio/b/b25803c6-0112-476c-9dbf-3e0f961a0e9d/episodes/8/8eb11a94-4671-4b70-9f83-993f28dde1aa/8eb11a94-4671-4b70-9f83-993f28dde1aa.mp3",
+                "x-bz-file-id": "4_z125a778b4015af03668a081e_f119f705bf9ce322f_d20210228_m165510_c001_v0001145_t0007",
+                "x-bz-content-sha1": "f04c22aa02744e76909cc271d483cb1ec91bb8b8",
+                "X-Bz-Upload-Timestamp": "1614531310000",
+                "Cache-Control": "max-age=604800",
+                "Last-Modified": "Wed, 05 Apr 2023 16:47:07 GMT",
+                "CF-Cache-Status": "MISS",
+                "Accept-Ranges": "bytes",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "CF-RAY": "7b33456419dea700-PHX"
+            }
+        }
+    }
+}

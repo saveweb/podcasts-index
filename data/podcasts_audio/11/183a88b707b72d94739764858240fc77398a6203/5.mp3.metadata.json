@@ -1,0 +1,34 @@
+{
+    "http-content-length": 45288304,
+    "http-etag": "2a88c5799ac8517fe0f54ddd4dfc2a6b",
+    "http-last-modified": "Mon, 14 Oct 2019 00:16:20 GMT",
+    "http-last-modified-float": 1570983380.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 45288304,
+    "actual-duration": 2830,
+    "sha1": "5f8817bf915193c568d7c9e2ea3cdfb456d2329e",
+    "md5": "2a88c5799ac8517fe0f54ddd4dfc2a6b",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/5.mp3",
+            "headers": {
+                "Etag": "\"2a88c5799ac8517fe0f54ddd4dfc2a6b\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_CC5",
+                "Date": "Wed, 05 Apr 2023 15:30:03 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Mon, 14 Oct 2019 00:16:20 GMT",
+                "Content-Length": "45288304",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "1021437685139096534",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

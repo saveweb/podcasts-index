@@ -1,0 +1,40 @@
+{
+    "http-content-length": 28872918,
+    "http-etag": "8fd1e7d27412e1658941a97dc5c6575c-6",
+    "http-last-modified": "Sun, 11 Jul 2021 03:34:34 GMT",
+    "http-last-modified-float": 1625945674.0,
+    "http-content-type": "audio/mp4",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 28872918,
+    "actual-duration": 3566,
+    "sha1": "d512340ee8d6712687dfd4061254405c17a25c8e",
+    "md5": "6c32a20da0700c569027a17e0754568d",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://aod.cos.tx.xmcdn.com/storages/0a32-audiofreehighqps/ED/08/CKwRIJEEwCnKAbiQ1gDGQ4Ab.m4a",
+            "headers": {
+                "Date": "Wed, 05 Apr 2023 15:05:56 GMT",
+                "Content-Type": "audio/mp4",
+                "Content-Length": "28872918",
+                "Connection": "keep-alive",
+                "Server": "openresty",
+                "Etag": "\"8fd1e7d27412e1658941a97dc5c6575c-6\"",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss, Hit From Upstream Cluster",
+                "Last-Modified": "Sun, 11 Jul 2021 03:34:34 GMT",
+                "X-NWS-LOG-UUID": "8027496317650598957",
+                "X-CCDN-Expires": "2293199",
+                "via": "CHN-CQ-AREACMCC1-CACHE9[70],CHN-CQ-AREACMCC1-CACHE19[59,TCP_MISS,69],CHN-GDdongguan-GLOBAL1-CACHE52[25],CHN-GDdongguan-GLOBAL1-CACHE19[0,TCP_HIT,22]",
+                "x-hcs-proxy-type": "1",
+                "X-CCDN-CacheTTL": "2592000",
+                "Age": "1",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Expose-Headers": "*",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,POST,OPTIONS",
+                "Access-Control-Max-Age": "600"
+            }
+        }
+    }
+}

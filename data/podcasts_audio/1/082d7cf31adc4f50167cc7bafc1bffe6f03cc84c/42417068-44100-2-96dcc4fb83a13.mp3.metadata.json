@@ -1,0 +1,32 @@
+{
+    "http-content-length": 66058993,
+    "http-etag": "849bba0af9eba73a228b2c39c1696291",
+    "http-last-modified": "Tue, 07 Jan 2020 15:54:25 GMT",
+    "http-last-modified-float": 1578383665.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 66058993,
+    "actual-duration": 2752,
+    "sha1": "9958e72416c195788bede71d841834105b3bec49",
+    "md5": "849bba0af9eba73a228b2c39c1696291",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2020-0-7/42417068-44100-2-96dcc4fb83a13.mp3",
+            "headers": {
+                "x-amz-id-2": "BV5TSRsjKQCjlnxma3wrl3pASivaw1bjbP2WI9BO075tZhg0Rpha9y2TkGMG+EGMFeYfB+EogL4=",
+                "x-amz-request-id": "V5BJETPYY3QJ9WZ4",
+                "Date": "Wed, 05 Apr 2023 12:51:56 GMT",
+                "Last-Modified": "Tue, 07 Jan 2020 15:54:25 GMT",
+                "ETag": "\"849bba0af9eba73a228b2c39c1696291\"",
+                "x-amz-storage-class": "INTELLIGENT_TIERING",
+                "x-amz-meta-content-type": "audio/mpeg",
+                "Accept-Ranges": "bytes",
+                "Content-Type": "audio/mpeg",
+                "Server": "AmazonS3",
+                "Content-Length": "66058993"
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Episode 4: 说是要聊「可视化编程」，结果聊了大半天的快捷指令和游戏编程",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Episode 4: 说是要聊「可视化编程」，结果聊了大半天的快捷指令和游戏编程"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/4"
+        },
+        {
+            "length": "99829962",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/aa51a489-a1d1-4c33-b739-733de52712ce.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/4",
+    "id": "568cbfa5-1594-4033-b03e-b8c2da0c4b8f",
+    "guidislink": false,
+    "published": "Fri, 16 Jul 2021 14:00:00 +0800",
+    "published_parsed": [
+        2021,
+        7,
+        16,
+        6,
+        0,
+        0,
+        4,
+        197,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": ""
+    },
+    "itunes_duration": "51:47",
+    "itunes_explicit": null,
+    "summary": "<p>各位 Echo.js 的听众朋友们，我们鸽了一年，终于回来了！ 🙇</p>\n\n<p>本期，我们从越来越火热的可视化编程概念开始，探讨这个只需要拖拖拽拽就能「写代码」的方式到底对我们生活有什么样的影响。省流小助手：对于普通人做做自动化、或是刚刚开始接触编程来说，帮助还是很大的；但它目前对程序员来说，还是不太友好。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:00:53 道歉大会、近况介绍和一些公告</li><br />\n<li>00:04:26 什么是可视化编程？</li><br />\n<li>00:12:42 程序员编程时候并不会用它（大概吧）</li><br />\n<li>00:19:20 可视化编程与自动化</li><br />\n<li>00:27:03 用可视化编程做游戏</li><br />\n<li>00:35:53 吐槽一些公司内部使用的「可视化工具」有多难用</li><br />\n<li>00:44:06 说是总结，又不小心聊了一大堆东西</li><br />\n<li>00:50:54 尾声</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：Astrian</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li><a href=\"https://codemao.cn/\" rel=\"noopener\" target=\"_blank\">编程猫</a>：在节目中提到的有关青少年编程教育的创业公司之一</li><br />\n<li><a href=\"https://developers.google.com/blockly\" rel=\"noopener\" target=\"_blank\">Google Blockly</a> 和 <a href=\"https://scratch.mit.edu/\" rel=\"noopener\" target=\"_blank\">MIT Scratch</a></li><br />\n<li>H5 魔塔 <a href=\"https://h5mota.com/\" rel=\"noopener\" target=\"_blank\">官网</a> 和 <a href=\"https://github.com/ckcz123/mota-js\" rel=\"noopener\" target=\"_blank\">关卡编辑器</a></li><br />\n<li>通过组合函数块完成流逻辑编辑的 <a href=\"https://nodered.org/\" rel=\"noopener\" target=\"_blank\">node-red</a></li><br />\n<li>Apple 设备上的 <a href=\"https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334\" rel=\"noopener\" target=\"_blank\">快捷指令 app</a></li><br />\n<li>《附带导航！一做就上手 第一次的游戏程序设计》在美国任天堂的 <a href=\"https://www.nintendo.com/games/detail/game-builder-garage-switch/\" rel=\"noopener\" target=\"_blank\">官方主页</a></li><br />\n<li>我台主播 Astrian 做的「第一次的游戏程序设计」<a href=\"https://www.bilibili.com/video/av716022893/\" rel=\"noopener\" target=\"_blank\">攻略</a>（对，这玩意甚至可以有攻略）</li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>发到官网评论区</li>\n<li>来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>加入听众反馈 QQ 群：639587959（白羊说进群可以教学编程，包教包会）</li>\n<li>发邮件至 podcast(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p><strong>开场/尾声音乐：</strong></p></p>\n\n<p>Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]<br />Music provided by NoCopyrightSounds.<br />Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\">https://youtu.be/HV7mLcsUp5U</a><br />Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\">http://ncs.io/GetUp</a></p>\n\n<p>Play the Flappy Duck game: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\">http://ncs.io/GetUp</a></p>\n\n<p><strong>奏间音乐：</strong></p>\n\n<p>来自北京干燥文化传媒有限公司。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<p>各位 Echo.js 的听众朋友们，我们鸽了一年，终于回来了！ 🙇</p>\n\n<p>本期，我们从越来越火热的可视化编程概念开始，探讨这个只需要拖拖拽拽就能「写代码」的方式到底对我们生活有什么样的影响。省流小助手：对于普通人做做自动化、或是刚刚开始接触编程来说，帮助还是很大的；但它目前对程序员来说，还是不太友好。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:00:53 道歉大会、近况介绍和一些公告</li><br />\n<li>00:04:26 什么是可视化编程？</li><br />\n<li>00:12:42 程序员编程时候并不会用它（大概吧）</li><br />\n<li>00:19:20 可视化编程与自动化</li><br />\n<li>00:27:03 用可视化编程做游戏</li><br />\n<li>00:35:53 吐槽一些公司内部使用的「可视化工具」有多难用</li><br />\n<li>00:44:06 说是总结，又不小心聊了一大堆东西</li><br />\n<li>00:50:54 尾声</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：Astrian</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li><a href=\"https://codemao.cn/\" rel=\"noopener\" target=\"_blank\">编程猫</a>：在节目中提到的有关青少年编程教育的创业公司之一</li><br />\n<li><a href=\"https://developers.google.com/blockly\" rel=\"noopener\" target=\"_blank\">Google Blockly</a> 和 <a href=\"https://scratch.mit.edu/\" rel=\"noopener\" target=\"_blank\">MIT Scratch</a></li><br />\n<li>H5 魔塔 <a href=\"https://h5mota.com/\" rel=\"noopener\" target=\"_blank\">官网</a> 和 <a href=\"https://github.com/ckcz123/mota-js\" rel=\"noopener\" target=\"_blank\">关卡编辑器</a></li><br />\n<li>通过组合函数块完成流逻辑编辑的 <a href=\"https://nodered.org/\" rel=\"noopener\" target=\"_blank\">node-red</a></li><br />\n<li>Apple 设备上的 <a href=\"https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334\" rel=\"noopener\" target=\"_blank\">快捷指令 app</a></li><br />\n<li>《附带导航！一做就上手 第一次的游戏程序设计》在美国任天堂的 <a href=\"https://www.nintendo.com/games/detail/game-builder-garage-switch/\" rel=\"noopener\" target=\"_blank\">官方主页</a></li><br />\n<li>我台主播 Astrian 做的「第一次的游戏程序设计」<a href=\"https://www.bilibili.com/video/av716022893/\" rel=\"noopener\" target=\"_blank\">攻略</a>（对，这玩意甚至可以有攻略）</li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>发到官网评论区</li>\n<li>来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>加入听众反馈 QQ 群：639587959（白羊说进群可以教学编程，包教包会）</li>\n<li>发邮件至 podcast(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p><strong>开场/尾声音乐：</strong></p></p>\n\n<p>Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]<br />Music provided by NoCopyrightSounds.<br />Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\">https://youtu.be/HV7mLcsUp5U</a><br />Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\">http://ncs.io/GetUp</a></p>\n\n<p>Play the Flappy Duck game: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\">http://ncs.io/GetUp</a></p>\n\n<p><strong>奏间音乐：</strong></p>\n\n<p>来自北京干燥文化传媒有限公司。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<p>各位 Echo.js 的听众朋友们，我们鸽了一年，终于回来了！ 🙇</p>\n\n<p>本期，我们从越来越火热的可视化编程概念开始，探讨这个只需要拖拖拽拽就能「写代码」的方式到底对我们生活有什么样的影响。省流小助手：对于普通人做做自动化、或是刚刚开始接触编程来说，帮助还是很大的；但它目前对程序员来说，还是不太友好。</p>\n\n<p><h2 id=\"➤-节目索引\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-节目索引\" title=\"➤ 节目索引\"></a>➤ 节目索引</h2><ul><br />\n<li>00:00:00 开场</li><br />\n<li>00:00:53 道歉大会、近况介绍和一些公告</li><br />\n<li>00:04:26 什么是可视化编程？</li><br />\n<li>00:12:42 程序员编程时候并不会用它（大概吧）</li><br />\n<li>00:19:20 可视化编程与自动化</li><br />\n<li>00:27:03 用可视化编程做游戏</li><br />\n<li>00:35:53 吐槽一些公司内部使用的「可视化工具」有多难用</li><br />\n<li>00:44:06 说是总结，又不小心聊了一大堆东西</li><br />\n<li>00:50:54 尾声</li><br />\n</ul><br />\n<h2 id=\"➤-STAFF\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-STAFF\" title=\"➤ STAFF\"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br />剪辑：Astrian</p><br />\n<h2 id=\"➤-相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-相关链接\" title=\"➤ 相关链接\"></a>➤ 相关链接</h2><ul><br />\n<li><a href=\"https://codemao.cn/\" rel=\"noopener\" target=\"_blank\">编程猫</a>：在节目中提到的有关青少年编程教育的创业公司之一</li><br />\n<li><a href=\"https://developers.google.com/blockly\" rel=\"noopener\" target=\"_blank\">Google Blockly</a> 和 <a href=\"https://scratch.mit.edu/\" rel=\"noopener\" target=\"_blank\">MIT Scratch</a></li><br />\n<li>H5 魔塔 <a href=\"https://h5mota.com/\" rel=\"noopener\" target=\"_blank\">官网</a> 和 <a href=\"https://github.com/ckcz123/mota-js\" rel=\"noopener\" target=\"_blank\">关卡编辑器</a></li><br />\n<li>通过组合函数块完成流逻辑编辑的 <a href=\"https://nodered.org/\" rel=\"noopener\" target=\"_blank\">node-red</a></li><br />\n<li>Apple 设备上的 <a href=\"https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334\" rel=\"noopener\" target=\"_blank\">快捷指令 app</a></li><br />\n<li>《附带导航！一做就上手 第一次的游戏程序设计》在美国任天堂的 <a href=\"https://www.nintendo.com/games/detail/game-builder-garage-switch/\" rel=\"noopener\" target=\"_blank\">官方主页</a></li><br />\n<li>我台主播 Astrian 做的「第一次的游戏程序设计」<a href=\"https://www.bilibili.com/video/av716022893/\" rel=\"noopener\" target=\"_blank\">攻略</a>（对，这玩意甚至可以有攻略）</li><br />\n</ul><br />\n<h2 id=\"➤-关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-关于-Echo-js-amp-联系我们\" title=\"➤ 关于 Echo.js &amp; 联系我们\"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？你可以：</p>\n\n<ul>\n<li>发到官网评论区</li>\n<li>来小宇宙 app 订阅 Echo.js 并给节目发评论</li>\n<li>加入听众反馈 QQ 群：639587959（白羊说进群可以教学编程，包教包会）</li>\n<li>发邮件至 podcast(a)astrianzheng.com</li>\n</ul>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a>、<a href=\"https://twitter.com/echojspodcast\" rel=\"noopener\" target=\"_blank\">Twitter</a></p>\n\n<p><h2 id=\"➤-COPYRIGHT-DISCLIMER\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#➤-COPYRIGHT-DISCLIMER\" title=\"➤ COPYRIGHT DISCLIMER\"></a>➤ COPYRIGHT DISCLIMER</h2><p><strong>开场/尾声音乐：</strong></p></p>\n\n<p>Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]<br />Music provided by NoCopyrightSounds.<br />Watch: <a href=\"https://youtu.be/HV7mLcsUp5U\" rel=\"noopener\" target=\"_blank\">https://youtu.be/HV7mLcsUp5U</a><br />Free Download / Stream: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\">http://ncs.io/GetUp</a></p>\n\n<p>Play the Flappy Duck game: <a href=\"http://ncs.io/GetUp\" rel=\"noopener\" target=\"_blank\">http://ncs.io/GetUp</a></p>\n\n<p><strong>奏间音乐：</strong></p>\n\n<p>来自北京干燥文化传媒有限公司。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+z61xJ0zb",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+z61xJ0zb\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_chapters": {
+        "url": "https://feeds.fireside.fm/echojs/json/episodes/aa51a489-a1d1-4c33-b739-733de52712ce/chapters",
+        "type": "application/json"
+    },
+    "podcast_person": {
+        "email": "",
+        "href": "https://astrianzheng.cn",
+        "role": "host"
+    }
+}

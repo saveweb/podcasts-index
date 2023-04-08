@@ -1,0 +1,84 @@
+{
+    "title": "Introducing Casticle with Kevin Lee",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/casticle/rss",
+        "value": "Introducing Casticle with Kevin Lee"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://casticle.fm/pre-10"
+        },
+        {
+            "length": "6911227",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/9fa66de1-c6c8-4d46-b218-eda34eaed4dc/37ab80e0-d34e-4e14-b0c9-349b38a522ad.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://casticle.fm/pre-10",
+    "id": "37ab80e0-d34e-4e14-b0c9-349b38a522ad",
+    "guidislink": false,
+    "published": "Tue, 10 Dec 2019 21:00:00 +0800",
+    "published_parsed": [
+        2019,
+        12,
+        10,
+        13,
+        0,
+        0,
+        1,
+        344,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Mavis Wang"
+        },
+        {
+            "name": "Mavis Wang"
+        }
+    ],
+    "author": "Mavis Wang",
+    "author_detail": {
+        "name": "Mavis Wang"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/casticle/rss",
+        "value": ""
+    },
+    "itunes_duration": "4:47",
+    "itunes_explicit": null,
+    "image": {
+        "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9fa66de1-c6c8-4d46-b218-eda34eaed4dc/cover.jpg?v=3"
+    },
+    "summary": "<p>【节目预告】Casticle第一次全英文嘉宾访谈将在明晚发布，明天见！<br />\nIntroducing the very first English episode of Casticle and our guest Kevin Lee</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/casticle/rss",
+        "value": "<p>【节目预告】Casticle第一次全英文嘉宾访谈将在明晚发布，明天见！<br />\nIntroducing the very first English episode of Casticle and our guest Kevin Lee</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/casticle/rss",
+            "value": "<p>【节目预告】Casticle第一次全英文嘉宾访谈将在明晚发布，明天见！<br />\nIntroducing the very first English episode of Casticle and our guest Kevin Lee</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/a6yK4IFl+GrLsaRWY",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/a6yK4IFl+GrLsaRWY\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://casticle.fm",
+        "role": "host"
+    }
+}

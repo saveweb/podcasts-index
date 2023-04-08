@@ -1,0 +1,84 @@
+{
+    "links": [
+        {
+            "length": "65870726",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjEzNjgsInAiOjIsInUiOiJkN2EyLm1wMyJ9.bzxx7ugLmHaDywXniWjazD4xeZs/uxcoffee/z_1fcdb1b453a8d06e951d331220e8d7a2.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/20"
+        }
+    ],
+    "title": "#20：从零开始，设计一款让自己骄傲的相机 app (Google 设计师李昀临)",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#20：从零开始，设计一款让自己骄傲的相机 app (Google 设计师李昀临)"
+    },
+    "id": "https://uxcoffee.com/episodes/20",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/20",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "subtitle": "本期节目，我们请到了 Google 设计师李昀临。她从事用户体验近 10 年，现在正在为 Google 去年刚刚推出的 PIxel 手机做操作系统的设计。在加入 Google 之前，她在摩托罗拉工作了 4 年，为摩托罗拉当时的旗舰机之一 Moto X 设计了系统的相机应用和通知中心。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "本期节目，我们请到了 Google 设计师李昀临。她从事用户体验近 10 年，现在正在为 Google 去年刚刚推出的 PIxel 手机做操作系统的设计。在加入 Google 之前，她在摩托罗拉工作了 4 年，为摩托罗拉当时的旗舰机之一 Moto X 设计了系统的相机应用和通知中心。"
+    },
+    "itunes_duration": "1:08:36",
+    "itunes_explicit": null,
+    "itunes_season": "1",
+    "podcast_season": "1",
+    "itunes_episode": "20",
+    "podcast_episode": "20",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/8420846843_807423.jpg?x-oss-process=style/sl"
+    },
+    "summary": "本期节目，我们请到了 Google 设计师李昀临。她从事用户体验近 10 年，现在正在为 Google 去年刚刚推出的 PIxel 手机做操作系统的设计。在加入 Google 之前，她在摩托罗拉工作了 4 年，为摩托罗拉当时的旗舰机之一 Moto X 设计了系统的相机应用和通知中心。 节目大纲 00:01:38 新闻学与设计的关联 00:03:48 网络新闻媒体的趋势 00:06:40 卡耐基梅陇大学的娱乐科技专业是学什么的 00:15:14 「我们要做一款不一样的 Moto 手机」 00:17:56 从零开始，设计一款极简相机 app 00:24:50 手势功能的「可发现性」 00:30:07 用 Flash 做用户测试原型 00:34:12 如何在团队中克服阻力，推动项目 00:40:00 设计最省电的手机通知 00:46:56 设计 Google 的「亲儿子」Pixel 手机操作系统 00:51:48 如何权衡「自动」和「用户控制感」 00:55:56 如何记录逻辑复杂的设计 01:00:58 设计 Pixel 的拆箱体验 参考链接 Moto X 系统相机快评 - 少数派 嘉宾联系方式 yunlingl@gmail.com",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "本期节目，我们请到了 Google 设计师李昀临。她从事用户体验近 10 年，现在正在为 Google 去年刚刚推出的 PIxel 手机做操作系统的设计。在加入 Google 之前，她在摩托罗拉工作了 4 年，为摩托罗拉当时的旗舰机之一 Moto X 设计了系统的相机应用和通知中心。 节目大纲 00:01:38 新闻学与设计的关联 00:03:48 网络新闻媒体的趋势 00:06:40 卡耐基梅陇大学的娱乐科技专业是学什么的 00:15:14 「我们要做一款不一样的 Moto 手机」 00:17:56 从零开始，设计一款极简相机 app 00:24:50 手势功能的「可发现性」 00:30:07 用 Flash 做用户测试原型 00:34:12 如何在团队中克服阻力，推动项目 00:40:00 设计最省电的手机通知 00:46:56 设计 Google 的「亲儿子」Pixel 手机操作系统 00:51:48 如何权衡「自动」和「用户控制感」 00:55:56 如何记录逻辑复杂的设计 01:00:58 设计 Pixel 的拆箱体验 参考链接 Moto X 系统相机快评 - 少数派 嘉宾联系方式 yunlingl@gmail.com"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>本期节目，我们请到了 Google 设计师李昀临。她从事用户体验近 10 年，现在正在为 Google 去年刚刚推出的 PIxel 手机做操作系统的设计。在加入 Google 之前，她在摩托罗拉工作了 4 年，为摩托罗拉当时的旗舰机之一 Moto X 设计了系统的相机应用和通知中心。</p>\n<br />\n<p>节目大纲</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:01:38\">00:01:38</a> 新闻学与设计的关联</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:03:48\">00:03:48</a> 网络新闻媒体的趋势</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:06:40\">00:06:40</a> 卡耐基梅陇大学的娱乐科技专业是学什么的</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:15:14\">00:15:14</a> 「我们要做一款不一样的 Moto 手机」</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:17:56\">00:17:56</a> 从零开始，设计一款极简相机 app</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:24:50\">00:24:50</a> 手势功能的「可发现性」</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:30:07\">00:30:07</a> 用 Flash 做用户测试原型</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:34:12\">00:34:12</a> 如何在团队中克服阻力，推动项目</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:40:00\">00:40:00</a> 设计最省电的手机通知</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:46:56\">00:46:56</a> 设计 Google 的「亲儿子」Pixel 手机操作系统</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:51:48\">00:51:48</a> 如何权衡「自动」和「用户控制感」</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:55:56\">00:55:56</a> 如何记录逻辑复杂的设计</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=01:00:58\">01:00:58</a> 设计 Pixel 的拆箱体验</p>\n<br />\n<p>参考链接</p>\n<p><a href=\"http://sspai.com/23759\">Moto X 系统相机快评 - 少数派 </a></p>\n<br />\n<p>嘉宾联系方式</p>\n<p><a href=\"mailto:yunlingl@gmail.com\">yunlingl@gmail.com</a></p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>本期节目，我们请到了 Google 设计师李昀临。她从事用户体验近 10 年，现在正在为 Google 去年刚刚推出的 PIxel 手机做操作系统的设计。在加入 Google 之前，她在摩托罗拉工作了 4 年，为摩托罗拉当时的旗舰机之一 Moto X 设计了系统的相机应用和通知中心。</p>\n<br />\n<p>节目大纲</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:01:38\">00:01:38</a> 新闻学与设计的关联</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:03:48\">00:03:48</a> 网络新闻媒体的趋势</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:06:40\">00:06:40</a> 卡耐基梅陇大学的娱乐科技专业是学什么的</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:15:14\">00:15:14</a> 「我们要做一款不一样的 Moto 手机」</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:17:56\">00:17:56</a> 从零开始，设计一款极简相机 app</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:24:50\">00:24:50</a> 手势功能的「可发现性」</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:30:07\">00:30:07</a> 用 Flash 做用户测试原型</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:34:12\">00:34:12</a> 如何在团队中克服阻力，推动项目</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:40:00\">00:40:00</a> 设计最省电的手机通知</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:46:56\">00:46:56</a> 设计 Google 的「亲儿子」Pixel 手机操作系统</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:51:48\">00:51:48</a> 如何权衡「自动」和「用户控制感」</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=00:55:56\">00:55:56</a> 如何记录逻辑复杂的设计</p>\n<p><a href=\"https://uxcoffee.com/feed/audio.xml#t=01:00:58\">01:00:58</a> 设计 Pixel 的拆箱体验</p>\n<br />\n<p>参考链接</p>\n<p><a href=\"http://sspai.com/23759\">Moto X 系统相机快评 - 少数派 </a></p>\n<br />\n<p>嘉宾联系方式</p>\n<p><a href=\"mailto:yunlingl@gmail.com\">yunlingl@gmail.com</a></p>"
+        }
+    ],
+    "published": "Mon, 06 Feb 2017 07:50:00 +0000",
+    "published_parsed": [
+        2017,
+        2,
+        6,
+        7,
+        50,
+        0,
+        0,
+        37,
+        0
+    ]
+}

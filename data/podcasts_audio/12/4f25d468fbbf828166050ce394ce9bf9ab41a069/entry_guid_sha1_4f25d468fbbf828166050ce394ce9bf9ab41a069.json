@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "107704323",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2NjkxLCJwIjoyLCJ1IjoiY2I1Yy5tcDMifQ.t6Di7kYSwuqpWN3FIxqwASQ9o3k/nicktalk-new/z_2bc98b81a06c2db77db332c2c522cb5c.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/14-1"
+        }
+    ],
+    "title": "NTP #14 閒話遊戲（上）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #14 閒話遊戲（上）"
+    },
+    "id": "http://nicktalk.com/episodes/14-1",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/14-1",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "本期節目，Nick 和嘉賓付付以遊戲為話題主線，針對近期熱點話題和遊戲展開了討論和閒聊。節目分為上下半場，上半場主要聊到的話題包括：Apple Pay 入華、第二屆全球互聯網大會、小米待發筆記本電腦的傳言、「黑色星期五」遊戲優惠活動及《輻射 4》。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "本期節目，Nick 和嘉賓付付以遊戲為話題主線，針對近期熱點話題和遊戲展開了討論和閒聊。節目分為上下半場，上半場主要聊到的話題包括：Apple Pay 入華、第二屆全球互聯網大會、小米待發筆記本電腦的傳言、「黑色星期五」遊戲優惠活動及《輻射 4》。"
+    },
+    "itunes_duration": "1:14:25",
+    "itunes_explicit": null,
+    "itunes_episode": "14",
+    "podcast_episode": "14",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_06e367745a3896fd3df6595b1686cf2b.jpg?x-oss-process=style/sl"
+    },
+    "summary": "本期節目，Nick 和嘉賓付付以遊戲為話題主線，針對近期熱點話題和遊戲展開了討論和閒聊。節目分為上下半場，上半場主要聊到的話題包括：Apple Pay 入華、第二屆全球互聯網大會、小米待發筆記本電腦的傳言、「黑色星期五」遊戲優惠活動及《輻射 4》。修正：節目中 Nick 關於支持 Apple Pay 的終端設備的描述並不準確，iPad 和 Apple Watch 也可以使用 Apple Pay。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "本期節目，Nick 和嘉賓付付以遊戲為話題主線，針對近期熱點話題和遊戲展開了討論和閒聊。節目分為上下半場，上半場主要聊到的話題包括：Apple Pay 入華、第二屆全球互聯網大會、小米待發筆記本電腦的傳言、「黑色星期五」遊戲優惠活動及《輻射 4》。修正：節目中 Nick 關於支持 Apple Pay 的終端設備的描述並不準確，iPad 和 Apple Watch 也可以使用 Apple Pay。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>本期節目，Nick 和嘉賓付付以遊戲為話題主線，針對近期熱點話題和遊戲展開了討論和閒聊。節目分為上下半場，上半場主要聊到的話題包括：Apple Pay 入華、第二屆全球互聯網大會、小米待發筆記本電腦的傳言、「黑色星期五」遊戲優惠活動及《輻射 4》。<br /><br />修正：節目中 Nick 關於支持 Apple Pay 的終端設備的描述並不準確，iPad 和 Apple Watch 也可以使用 Apple Pay。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>本期節目，Nick 和嘉賓付付以遊戲為話題主線，針對近期熱點話題和遊戲展開了討論和閒聊。節目分為上下半場，上半場主要聊到的話題包括：Apple Pay 入華、第二屆全球互聯網大會、小米待發筆記本電腦的傳言、「黑色星期五」遊戲優惠活動及《輻射 4》。<br /><br />修正：節目中 Nick 關於支持 Apple Pay 的終端設備的描述並不準確，iPad 和 Apple Watch 也可以使用 Apple Pay。</p>"
+        }
+    ],
+    "published": "Sun, 20 Dec 2015 04:00:00 +0000",
+    "published_parsed": [
+        2015,
+        12,
+        20,
+        4,
+        0,
+        0,
+        6,
+        354,
+        0
+    ]
+}

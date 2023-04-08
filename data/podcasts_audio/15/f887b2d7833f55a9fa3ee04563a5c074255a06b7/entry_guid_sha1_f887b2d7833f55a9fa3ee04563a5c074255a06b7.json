@@ -1,0 +1,110 @@
+{
+    "title": "32. Mac换芯，换新Mac？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "32. Mac换芯，换新Mac？"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://webview.tech/2039/"
+        },
+        {
+            "length": "137726760",
+            "type": "audio/mpeg",
+            "href": "https://podcast.webview.tech/32.m1cpu.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://webview.tech/2039/",
+    "comments": "https://webview.tech/2039/#respond",
+    "published": "Sun, 15 Nov 2020 00:00:00 +0000",
+    "published_parsed": [
+        2020,
+        11,
+        15,
+        0,
+        0,
+        0,
+        6,
+        320,
+        0
+    ],
+    "authors": [
+        {
+            "name": "王隐"
+        },
+        {
+            "name": "王隐，敬礼"
+        }
+    ],
+    "author": "王隐，敬礼",
+    "author_detail": {
+        "name": "王隐"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "ARM",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "M1芯片",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "MacBook Air",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "MacBook Pro",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "苹果新品发布会",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "https://webview.tech/?p=2039",
+    "guidislink": false,
+    "summary": "11月11日，苹果发布首批自研芯片Mac，对于普通消费者的影响力或许没有iPhone大，但对于行业几乎失效的摩尔定律，苹果好像起到了鲶鱼般的推进作用。这当然离不开它强大的软硬件、上下游整合能力，这也是微软、英特尔阵营目前所缺乏的关键能力。本期节目带你回顾苹果发布会上的Mac新品及我们的关注重点：M1芯片。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "11月11日，苹果发布首批自研芯片Mac，对于普通消费者的影响力或许没有iPhone大，但对于行业几乎失效的摩尔定律，苹果好像起到了鲶鱼般的推进作用。这当然离不开它强大的软硬件、上下游整合能力，这也是微软、英特尔阵营目前所缺乏的关键能力。本期节目带你回顾苹果发布会上的Mac新品及我们的关注重点：M1芯片。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://webview.tech/category/podcast/feed/",
+            "value": "<p>11月11日，苹果发布首批自研芯片Mac，对于普通消费者的影响力或许没有iPhone大，但对于行业几乎失效的摩尔定律，苹果好像起到了鲶鱼般的推进作用。这当然离不开它强大的软硬件、上下游整合能力，这也是微软、英特尔阵营目前缺乏的关键能力。</p>\n\n\n\n<p>本期节目带你回顾苹果发布会上的Mac新品及我们的关注重点：M1芯片。</p>\n\n\n\n<h2>SHOWNOTE：</h2>\n\n\n\n<ul><li>MacBook Air<ul><li>砍掉风扇，Air 还能当工作站吗？</li><li>屏幕补上 P3 色域，看中轻薄的创作者用户可以考虑了吗？</li><li>雷电接口仍保留，和 Intel 的和平分手？</li><li>GPU 阉割，但游戏还能玩？</li></ul></li><li>MacBook Pro<ul><li>芯片、内存和 Air 都一样，还有必要买 Pro 吗？</li><li>13寸的 Pro，最高选配 16G，SoC 封装真的装不下？</li><li>推出 M1 芯片的同时，为什么也保留了Intel 版本？</li></ul></li><li>Mac mini<ul><li>DIY 玩家面临的 SoC 内存危机</li></ul></li></ul>\n\n\n\n<ul><li><strong>苹果自研的M1芯片（本期重点）</strong><ul><li>发布会大数字：夸张，还是确有其事？</li><li>M1 VS Tigerlake（Intel 11代酷睿）</li><li>M1 VS AMD Zen</li><li>制程：M1 5nm VS 台积电 7nm VS Intel 10nm</li><li>能效比：功耗和性能的线性提升？大小核？</li><li>统一内存架构：比 AMD 更大胆的推行策略？（微架构）</li><li>上下游生态整合：专用单元 VS 通用单元（微架构）</li><li>8-wide 的 Decoder（微架构） </li><li>M1 准备好面向高端领域了吗？</li><li>普通用户选购，需要担忧软件适配吗？</li></ul></li></ul>\n\n\n\n<h2>2020苹果发布会相关节目：</h2>\n\n\n\n<ul><li>10 月 iPhone：<a href=\"https://webview.tech/1998/\">31. 中大杯苹果，加量又加价</a></li><li>9 月 iPad：<a href=\"https://webview.tech/1987/\">30. 片儿汤话01：揪心的iPad和漫长的垃圾分类</a></li><li>6 月 WWDC：<a href=\"https://webview.tech/1878/\">28. WWDC20：在Mac上玩荒野乱斗</a></li><li>3 月 iPad Pro 及妙控键盘：<a href=\"https://webview.tech/1805/\">26. 新发布的 iPad Pro + 妙控键盘比 Mac 还贵，选谁？</a></li></ul>\n\n\n\n<h2>主持：</h2>\n\n\n\n<p>王隐</p>\n\n\n\n<h2>嘉宾：</h2>\n\n\n\n<p>欧阳洋葱（微博<a href=\"https://weibo.com/illumi\">@_欧阳洋葱</a>）</p>\n\n\n\n<h2>Playlist：</h2>\n\n\n\n<p>Beautiful Ones – Suede</p>\n\n\n\n<h2>联系我们：</h2>\n\n\n\n<p>你可以通过邮件向我们反馈节目中的问题和建议：&nbsp;<a href=\"mailto://hi@webview.tech\">hi@webview.tech</a></p>\n\n\n\n<p>微博：<a href=\"https://www.weibo.com/u/7159686921\">@WEB VIEW播客</a></p>\n\n\n\n<p>我们的网站：&nbsp;<a href=\"https://webview.tech/\">webview.tech</a></p>"
+        }
+    ],
+    "wfw_commentrss": "https://webview.tech/2039/feed/",
+    "slash_comments": "0",
+    "subtitle": "11月11日，苹果发布首批自研芯片Mac，对于普通消费者的影响力或许没有iPhone大，但对于行业几乎失效的摩尔定律，苹果好像起到了鲶鱼般的推进作用。这当然离不开它强大的软硬件、上下游整合能力，这也是微软、英特尔阵营目前所缺乏的关键能力。本期节目带你回顾苹果发布会上的Mac新品及我们的关注重点：M1芯片。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "11月11日，苹果发布首批自研芯片Mac，对于普通消费者的影响力或许没有iPhone大，但对于行业几乎失效的摩尔定律，苹果好像起到了鲶鱼般的推进作用。这当然离不开它强大的软硬件、上下游整合能力，这也是微软、英特尔阵营目前所缺乏的关键能力。本期节目带你回顾苹果发布会上的Mac新品及我们的关注重点：M1芯片。"
+    },
+    "itunes_episode": "32",
+    "itunes_title": "Mac换芯，换新Mac？",
+    "itunes_explicit": false,
+    "itunes_duration": "57:23"
+}

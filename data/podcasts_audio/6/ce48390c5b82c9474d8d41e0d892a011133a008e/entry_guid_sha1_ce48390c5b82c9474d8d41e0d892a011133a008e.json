@@ -1,0 +1,81 @@
+{
+    "title": "Episode 0: 「喂，喂，一二三，能听见吗？」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Episode 0: 「喂，喂，一二三，能听见吗？」"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/0"
+        },
+        {
+            "length": "10360409",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/c06e424f-5092-4b4c-9a87-bd883098ce18.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/0",
+    "id": "8c0b48eb-ce8f-4c0d-a2f7-794d74bc428e",
+    "guidislink": false,
+    "published": "Sun, 31 May 2020 00:00:00 +0800",
+    "published_parsed": [
+        2020,
+        5,
+        30,
+        16,
+        0,
+        0,
+        5,
+        151,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": ""
+    },
+    "itunes_duration": "21:17",
+    "itunes_explicit": null,
+    "summary": "<p><h2 id=\"本期介绍\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#本期介绍\" title=\"本期介绍\"></a>本期介绍</h2><p>这是 Echo.js 的非正式录制节目，俗称「试音集」。目的是测试从录制到剪辑的全过程。</p></p>\n\n<p>作为临时起意而诞生的播客，两位主播之间并没有多少磨合的时间。因此，你会在这个试音集里听到各种充满湿气的尬聊。包括一开始尬出血的「这档播客是如何诞生的」，以及后面（个人觉得）稍微好一些的、简单谈论的关于 WSL 与 Deno 和 Vue 3.0 的事情。</p>\n\n<p>你大可以将它看作一场表演前，几乎每个工作人员为话筒试音会说的那句：「喂，喂，一二三，能听见吗？」</p>\n\n<p>总之，下一期开始我们会给大家真正「晒干一些」的货。请大家多多关照。鞠躬。</p>\n\n<p><h2 id=\"相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#相关链接\" title=\"相关链接\"></a>相关链接</h2><ul><br />\n<li><a href=\"https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features\" rel=\"noopener\" target=\"_blank\">Windows 10 WSL 支持 Linux GUI apps 的报道</a></li><br />\n<li><a href=\"https://devblogs.microsoft.com/directx/directx-heart-linux/\" rel=\"noopener\" target=\"_blank\">微软 DirectX 团队宣布其支持 Linux 的官方博客通稿</a></li><br />\n<li>Deno 的 <a href=\"https://deno.land/\" rel=\"noopener\" target=\"_blank\">官网</a> 和 <a href=\"https://github.com/denoland/deno\" rel=\"noopener\" target=\"_blank\">源码仓库</a></li><br />\n<li><a href=\"https://www.infoq.cn/article/rTS3OweiTlA8OldIidBz\" rel=\"noopener\" target=\"_blank\">InfoQ 转载的尤雨溪关于 Vue 3.0 的展望</a></li><br />\n</ul><br />\n<hr /><br />\n<h2 id=\"关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#关于-Echo-js-amp-联系我们\" title=\"关于 Echo.js &amp; 联系我们\"></a>关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？听众反馈可发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<p><h2 id=\"本期介绍\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#本期介绍\" title=\"本期介绍\"></a>本期介绍</h2><p>这是 Echo.js 的非正式录制节目，俗称「试音集」。目的是测试从录制到剪辑的全过程。</p></p>\n\n<p>作为临时起意而诞生的播客，两位主播之间并没有多少磨合的时间。因此，你会在这个试音集里听到各种充满湿气的尬聊。包括一开始尬出血的「这档播客是如何诞生的」，以及后面（个人觉得）稍微好一些的、简单谈论的关于 WSL 与 Deno 和 Vue 3.0 的事情。</p>\n\n<p>你大可以将它看作一场表演前，几乎每个工作人员为话筒试音会说的那句：「喂，喂，一二三，能听见吗？」</p>\n\n<p>总之，下一期开始我们会给大家真正「晒干一些」的货。请大家多多关照。鞠躬。</p>\n\n<p><h2 id=\"相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#相关链接\" title=\"相关链接\"></a>相关链接</h2><ul><br />\n<li><a href=\"https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features\" rel=\"noopener\" target=\"_blank\">Windows 10 WSL 支持 Linux GUI apps 的报道</a></li><br />\n<li><a href=\"https://devblogs.microsoft.com/directx/directx-heart-linux/\" rel=\"noopener\" target=\"_blank\">微软 DirectX 团队宣布其支持 Linux 的官方博客通稿</a></li><br />\n<li>Deno 的 <a href=\"https://deno.land/\" rel=\"noopener\" target=\"_blank\">官网</a> 和 <a href=\"https://github.com/denoland/deno\" rel=\"noopener\" target=\"_blank\">源码仓库</a></li><br />\n<li><a href=\"https://www.infoq.cn/article/rTS3OweiTlA8OldIidBz\" rel=\"noopener\" target=\"_blank\">InfoQ 转载的尤雨溪关于 Vue 3.0 的展望</a></li><br />\n</ul><br />\n<hr /><br />\n<h2 id=\"关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#关于-Echo-js-amp-联系我们\" title=\"关于 Echo.js &amp; 联系我们\"></a>关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？听众反馈可发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a></p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<p><h2 id=\"本期介绍\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#本期介绍\" title=\"本期介绍\"></a>本期介绍</h2><p>这是 Echo.js 的非正式录制节目，俗称「试音集」。目的是测试从录制到剪辑的全过程。</p></p>\n\n<p>作为临时起意而诞生的播客，两位主播之间并没有多少磨合的时间。因此，你会在这个试音集里听到各种充满湿气的尬聊。包括一开始尬出血的「这档播客是如何诞生的」，以及后面（个人觉得）稍微好一些的、简单谈论的关于 WSL 与 Deno 和 Vue 3.0 的事情。</p>\n\n<p>你大可以将它看作一场表演前，几乎每个工作人员为话筒试音会说的那句：「喂，喂，一二三，能听见吗？」</p>\n\n<p>总之，下一期开始我们会给大家真正「晒干一些」的货。请大家多多关照。鞠躬。</p>\n\n<p><h2 id=\"相关链接\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#相关链接\" title=\"相关链接\"></a>相关链接</h2><ul><br />\n<li><a href=\"https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features\" rel=\"noopener\" target=\"_blank\">Windows 10 WSL 支持 Linux GUI apps 的报道</a></li><br />\n<li><a href=\"https://devblogs.microsoft.com/directx/directx-heart-linux/\" rel=\"noopener\" target=\"_blank\">微软 DirectX 团队宣布其支持 Linux 的官方博客通稿</a></li><br />\n<li>Deno 的 <a href=\"https://deno.land/\" rel=\"noopener\" target=\"_blank\">官网</a> 和 <a href=\"https://github.com/denoland/deno\" rel=\"noopener\" target=\"_blank\">源码仓库</a></li><br />\n<li><a href=\"https://www.infoq.cn/article/rTS3OweiTlA8OldIidBz\" rel=\"noopener\" target=\"_blank\">InfoQ 转载的尤雨溪关于 Vue 3.0 的展望</a></li><br />\n</ul><br />\n<hr /><br />\n<h2 id=\"关于-Echo-js-amp-联系我们\"><a class=\"headerlink\" href=\"https://feeds.fireside.fm/echojs/rss#关于-Echo-js-amp-联系我们\" title=\"关于 Echo.js &amp; 联系我们\"></a>关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p></p>\n\n<p>有话想说？听众反馈可发邮件至 podcast(a)astrianzheng.com。</p>\n\n<p>关注我们的：<a href=\"https://t.me/echojspodcast\" rel=\"noopener\" target=\"_blank\">Telegram 频道</a></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+SGoOkt93",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+SGoOkt93\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://astrianzheng.cn",
+        "role": "host"
+    }
+}

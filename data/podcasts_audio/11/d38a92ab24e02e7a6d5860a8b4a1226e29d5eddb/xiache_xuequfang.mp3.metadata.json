@@ -1,0 +1,34 @@
+{
+    "http-content-length": 9848707,
+    "http-etag": "66b6c83608309bfcec3fb55d83f86df4-2",
+    "http-last-modified": "Tue, 23 Mar 2021 01:36:12 GMT",
+    "http-last-modified-float": 1616434572.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 9848707,
+    "actual-duration": 615,
+    "sha1": "97f79330eafa401a36333788d7f2d9e7a9cb4be8",
+    "md5": "81996f9f160d93d731c5db1d486325e5",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/xiache_xuequfang.mp3",
+            "headers": {
+                "Etag": "\"66b6c83608309bfcec3fb55d83f86df4-2\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:46:55 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Tue, 23 Mar 2021 01:36:12 GMT",
+                "Content-Length": "9848707",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "9131112157103509991",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

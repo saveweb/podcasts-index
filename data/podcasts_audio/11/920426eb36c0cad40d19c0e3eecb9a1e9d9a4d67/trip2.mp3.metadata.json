@@ -1,0 +1,36 @@
+{
+    "http-content-length": 41660312,
+    "http-etag": "82a8fbbccdf621c385cbfadaf129bf98-5",
+    "http-last-modified": "Wed, 11 May 2022 02:23:16 GMT",
+    "http-last-modified-float": 1652206996.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 41660312,
+    "actual-duration": 5192,
+    "sha1": "96a5151d8fdf20523aa904f14cae1941d36d9be2",
+    "md5": "cc59522b574f14ef88038de5faaa60ec",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/trip2.mp3",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Date": "Wed, 05 Apr 2023 15:48:14 GMT",
+                "ETag": "\"82a8fbbccdf621c385cbfadaf129bf98-5\"",
+                "Server": "tencent-cos",
+                "x-cos-hash-crc64ecma": "17173789561962332424",
+                "x-cos-request-id": "NjQyZDk4M2VfMzBkMDM4MGJfMmUzNmRfMTc5NTQyMmY=",
+                "X-Cache-Lookup": "Cache Miss, Hit From Upstream Cluster, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Wed, 11 May 2022 02:23:16 GMT",
+                "Content-Length": "41660312",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "8327096062475048003",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

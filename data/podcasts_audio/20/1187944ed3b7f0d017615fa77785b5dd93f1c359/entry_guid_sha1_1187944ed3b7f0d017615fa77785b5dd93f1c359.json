@@ -1,0 +1,81 @@
+{
+    "title": "番外09: 村上春树《谢肉祭》",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "番外09: 村上春树《谢肉祭》"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.theviewtalk.com/sp09"
+        },
+        {
+            "length": "45975084",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/4fc0b5fa-5f4e-401d-aab5-5760c894c7b6.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.theviewtalk.com/sp09",
+    "id": "4fc0b5fa-5f4e-401d-aab5-5760c894c7b6",
+    "guidislink": false,
+    "published": "Mon, 11 Jul 2022 19:00:00 +0800",
+    "published_parsed": [
+        2022,
+        7,
+        11,
+        11,
+        0,
+        0,
+        0,
+        192,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一画一话"
+        },
+        {
+            "name": "一画一话"
+        }
+    ],
+    "author": "一画一话",
+    "author_detail": {
+        "name": "一画一话"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": ""
+    },
+    "itunes_duration": "47:53",
+    "itunes_explicit": null,
+    "summary": "<p>村上春树短篇小说，《狂欢节 Carnaval》。</p>\n\n<p>出自短篇小说集《第一人称单数》。</p>\n\n<p>译者烨伊。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "<p>村上春树短篇小说，《狂欢节 Carnaval》。</p>\n\n<p>出自短篇小说集《第一人称单数》。</p>\n\n<p>译者烨伊。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/theviewtalk/rss",
+            "value": "<p>村上春树短篇小说，《狂欢节 Carnaval》。</p>\n\n<p>出自短篇小说集《第一人称单数》。</p>\n\n<p>译者烨伊。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yS2zkE2S+goPJ1Fxv",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yS2zkE2S+goPJ1Fxv\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

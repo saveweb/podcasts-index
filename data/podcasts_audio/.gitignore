@@ -1,0 +1,5 @@
+*.*
+!.gitignore
+!*.metadata.json
+!entry_guid_sha1_*.json
+!=TITLE==*.mark

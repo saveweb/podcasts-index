@@ -1,0 +1,75 @@
+{
+    "title": "第 7 期：依赖与模块",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 7 期：依赖与模块"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talkgo.fm/podcasts/7-go-modules/"
+        },
+        {
+            "length": "201890092",
+            "type": "audio/mpeg",
+            "href": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-17/cf955b69-e901-af54-50fa-f02a2ae54fc4.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talkgo.fm/podcasts/7-go-modules/",
+    "published": "Thu, 17 Mar 2022 13:24:00 +0800",
+    "published_parsed": [
+        2022,
+        3,
+        17,
+        5,
+        24,
+        0,
+        3,
+        76,
+        0
+    ],
+    "id": "https://talkgo.fm/podcasts/7-go-modules/",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Go 夜聊"
+        },
+        {
+            "name": "Go 夜聊"
+        }
+    ],
+    "author": "Go 夜聊",
+    "author_detail": {
+        "name": "Go 夜聊"
+    },
+    "subtitle": "第 7 期：依赖与模块",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "第 7 期：依赖与模块"
+    },
+    "summary": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-17/cf955b69-e901-af54-50fa-f02a2ae54fc4.mp3\" title=\"这是 Go 夜聊的第七期节目，我们和 goproxy.cn 的作者在 Go 1.17 发布时聊了聊在 Go 语言中的依赖管理、模块等相关的机制。Go 语言中的 Modules 走到今天这一步经历了哪些波折？看似在其他语言里早已攻克的代码依赖管理，在 Go 语言的情景下，又有哪些不为人知的努力？\"></audio>\n\n<h1 id=\"第-7-期依赖与模块\">第 7 期：依赖与模块</h1>\n<p>录制时间： <strong>2021-08-29</strong></p>\n<ul>\n<li>嘉宾：<a href=\"https://aofeisheng.com\">盛傲飞</a></li>\n<li>主持：<a href=\"https://maiyang.me\">杨文</a>，<a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第七期节目，我们和 goproxy.cn 的作者在 Go 1.17 发布时聊了聊在 Go 语言中的依赖管理、模块等相关的机制。Go 语言中的 Modules 走到今天这一步经历了哪些波折？看似在其他语言里早已攻克的代码依赖管理，在 Go 语言的情景下，又有哪些不为人知的努力？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场白</li>\n<li>01:06 接触 Go 语言的契机</li>\n<li>02:57 Beego 等一系列 Web 框架的对比</li>\n<li>04:37 自己动手写 Web 框架</li>\n<li>06:33 Go Modules 之前的依赖管理</li>\n<li>16:12 Monorepo 代码管理的优劣</li>\n<li>22:24 &ldquo;臭名昭著&rdquo; 的 GOPATH 和 vendor</li>\n<li>28:36 dep 的风波</li>\n<li>37:46 &ldquo;独裁式&rdquo; 管理风格下的需求工程</li>\n<li>43:52 进入 Go Module 时代</li>\n<li>46:47 Go Modules 的基本原理</li>\n<li>52:40 godoc 和 pkg.go.dev</li>\n<li>54:57 从 golang.org 合并到 go.dev 域名</li>\n<li>66:22 Go Modules 的最小版本选择算法 MVS</li>\n<li>70:27 环境变量 GOPRIVATE</li>\n<li>72:25 模块的懒加载</li>\n<li>77:36 模块别名机制</li>\n<li>82:10 GOPATH 的废除与 Go 1 兼容性保证</li>\n<li>84:43 Go Workspace 工作区</li>\n<li>86:17 构建 goproxy.cn 的经历</li>\n<li>89:57 搭建代理的难点及其与镜像站的区别</li>\n<li>96:42 七牛云接管 goproxy.cn 的运营</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://github.com/beego/beego\">谢大 astaxie 写的 Beego</a></li>\n<li><a href=\"https://github.com/gin-gonic/gin\">知名 Web 框架 Gin</a></li>\n<li><a href=\"https://github.com/go-martini/martini\">曾经的知名 Web 框架 Martini</a></li>\n<li><a href=\"https://echo.labstack.com/\">知名 Web 框架 Echo</a></li>\n<li><a href=\"https://github.com/aofei/air\">傲飞 aofei 写的 Web 框架 air</a></li>\n<li><a href=\"https://pkg.go.dev/net/http\">标准库 net/http</a></li>\n<li><a href=\"https://github.com/kr/goven\">曾经的依赖管理工具 goven</a></li>\n<li><a href=\"https://labix.org/gopkg.in\">gopkg.in</a></li>\n<li><a href=\"https://github.com/go-yaml/yaml\">yaml 包</a></li>\n<li><a href=\"https://github.com/go-ini/ini\">无闻编写的 ini 解析包</a></li>\n<li><a href=\"https://github.com/gpmgo/gopm\">曾经的依赖管理工具 gopm</a></li>\n<li><a href=\"https://github.com/kardianos/govendor\">曾经的依赖管理工具 govendor</a></li>\n<li><a href=\"https://github.com/golang/dep\">曾经的依赖管理工具 dep</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=F8nrpe0XWRg\">Russ Cox 关于 vgo 依赖管理的演讲</a></li>\n<li><a href=\"https://github.com/golang/vgo\">Go Modules 的前身 vgo</a></li>\n<li><a href=\"https://go.dev/ref/mod\">Go Modules 规范</a></li>\n<li><a href=\"https://pkg.go.dev/github.com/google/licensecheck\">Russ Cox 和 Rob Pike 开发的 licensecheck</a></li>\n<li><a href=\"https://github.com/bcmills\">模块功能目前的主要开发者 Bryan C. Mills</a></li>\n<li><a href=\"https://goproxy.cn/\">傲飞开发的 Go 模块代理站 goproxy.cn</a></li>\n<li><a href=\"https://goproxy.io/\">李保坤开发的 Go 模块代理站 goproxy.io</a></li>\n<li><a href=\"https://github.com/golang/gddo\">曾经的文包文档站 godoc.org 的源码</a></li>\n<li><a href=\"https://go.dev/design/45713-workspace\">Go 语言的多模块工作区 Workspace 的提案</a></li>\n<li><a href=\"https://go.dev/issue/26904\">模块别名功能的相关讨论</a></li>\n<li><a href=\"https://jellyfin.org/\">尾声推荐：jellyfin.org</a></li>\n<li><a href=\"https://www.amazon.com/Art-Multiprocessor-Programming-Maurice-Herlihy/dp/0124159508/\">嘉宾推荐：The Art of Multiprocessor Programming (2nd Edition)</a></li>\n<li><a href=\"https://github.com/golang-design/go2generics\">嘉宾推荐：golang.design/go2generics</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkgo.fm/index.xml",
+        "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-17/cf955b69-e901-af54-50fa-f02a2ae54fc4.mp3\" title=\"这是 Go 夜聊的第七期节目，我们和 goproxy.cn 的作者在 Go 1.17 发布时聊了聊在 Go 语言中的依赖管理、模块等相关的机制。Go 语言中的 Modules 走到今天这一步经历了哪些波折？看似在其他语言里早已攻克的代码依赖管理，在 Go 语言的情景下，又有哪些不为人知的努力？\"></audio>\n\n<h1 id=\"第-7-期依赖与模块\">第 7 期：依赖与模块</h1>\n<p>录制时间： <strong>2021-08-29</strong></p>\n<ul>\n<li>嘉宾：<a href=\"https://aofeisheng.com\">盛傲飞</a></li>\n<li>主持：<a href=\"https://maiyang.me\">杨文</a>，<a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第七期节目，我们和 goproxy.cn 的作者在 Go 1.17 发布时聊了聊在 Go 语言中的依赖管理、模块等相关的机制。Go 语言中的 Modules 走到今天这一步经历了哪些波折？看似在其他语言里早已攻克的代码依赖管理，在 Go 语言的情景下，又有哪些不为人知的努力？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场白</li>\n<li>01:06 接触 Go 语言的契机</li>\n<li>02:57 Beego 等一系列 Web 框架的对比</li>\n<li>04:37 自己动手写 Web 框架</li>\n<li>06:33 Go Modules 之前的依赖管理</li>\n<li>16:12 Monorepo 代码管理的优劣</li>\n<li>22:24 &ldquo;臭名昭著&rdquo; 的 GOPATH 和 vendor</li>\n<li>28:36 dep 的风波</li>\n<li>37:46 &ldquo;独裁式&rdquo; 管理风格下的需求工程</li>\n<li>43:52 进入 Go Module 时代</li>\n<li>46:47 Go Modules 的基本原理</li>\n<li>52:40 godoc 和 pkg.go.dev</li>\n<li>54:57 从 golang.org 合并到 go.dev 域名</li>\n<li>66:22 Go Modules 的最小版本选择算法 MVS</li>\n<li>70:27 环境变量 GOPRIVATE</li>\n<li>72:25 模块的懒加载</li>\n<li>77:36 模块别名机制</li>\n<li>82:10 GOPATH 的废除与 Go 1 兼容性保证</li>\n<li>84:43 Go Workspace 工作区</li>\n<li>86:17 构建 goproxy.cn 的经历</li>\n<li>89:57 搭建代理的难点及其与镜像站的区别</li>\n<li>96:42 七牛云接管 goproxy.cn 的运营</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://github.com/beego/beego\">谢大 astaxie 写的 Beego</a></li>\n<li><a href=\"https://github.com/gin-gonic/gin\">知名 Web 框架 Gin</a></li>\n<li><a href=\"https://github.com/go-martini/martini\">曾经的知名 Web 框架 Martini</a></li>\n<li><a href=\"https://echo.labstack.com/\">知名 Web 框架 Echo</a></li>\n<li><a href=\"https://github.com/aofei/air\">傲飞 aofei 写的 Web 框架 air</a></li>\n<li><a href=\"https://pkg.go.dev/net/http\">标准库 net/http</a></li>\n<li><a href=\"https://github.com/kr/goven\">曾经的依赖管理工具 goven</a></li>\n<li><a href=\"https://labix.org/gopkg.in\">gopkg.in</a></li>\n<li><a href=\"https://github.com/go-yaml/yaml\">yaml 包</a></li>\n<li><a href=\"https://github.com/go-ini/ini\">无闻编写的 ini 解析包</a></li>\n<li><a href=\"https://github.com/gpmgo/gopm\">曾经的依赖管理工具 gopm</a></li>\n<li><a href=\"https://github.com/kardianos/govendor\">曾经的依赖管理工具 govendor</a></li>\n<li><a href=\"https://github.com/golang/dep\">曾经的依赖管理工具 dep</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=F8nrpe0XWRg\">Russ Cox 关于 vgo 依赖管理的演讲</a></li>\n<li><a href=\"https://github.com/golang/vgo\">Go Modules 的前身 vgo</a></li>\n<li><a href=\"https://go.dev/ref/mod\">Go Modules 规范</a></li>\n<li><a href=\"https://pkg.go.dev/github.com/google/licensecheck\">Russ Cox 和 Rob Pike 开发的 licensecheck</a></li>\n<li><a href=\"https://github.com/bcmills\">模块功能目前的主要开发者 Bryan C. Mills</a></li>\n<li><a href=\"https://goproxy.cn/\">傲飞开发的 Go 模块代理站 goproxy.cn</a></li>\n<li><a href=\"https://goproxy.io/\">李保坤开发的 Go 模块代理站 goproxy.io</a></li>\n<li><a href=\"https://github.com/golang/gddo\">曾经的文包文档站 godoc.org 的源码</a></li>\n<li><a href=\"https://go.dev/design/45713-workspace\">Go 语言的多模块工作区 Workspace 的提案</a></li>\n<li><a href=\"https://go.dev/issue/26904\">模块别名功能的相关讨论</a></li>\n<li><a href=\"https://jellyfin.org/\">尾声推荐：jellyfin.org</a></li>\n<li><a href=\"https://www.amazon.com/Art-Multiprocessor-Programming-Maurice-Herlihy/dp/0124159508/\">嘉宾推荐：The Art of Multiprocessor Programming (2nd Edition)</a></li>\n<li><a href=\"https://github.com/golang-design/go2generics\">嘉宾推荐：golang.design/go2generics</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>"
+    },
+    "itunes_duration": "6309",
+    "image": {
+        "href": "https://talkgo.fm/images/episode/ep07-go-modules.jpg"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkgo.fm/index.xml",
+            "value": "<audio class=\"customPlayer\" controls=\"controls\" src=\"https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-2-17/cf955b69-e901-af54-50fa-f02a2ae54fc4.mp3\" title=\"这是 Go 夜聊的第七期节目，我们和 goproxy.cn 的作者在 Go 1.17 发布时聊了聊在 Go 语言中的依赖管理、模块等相关的机制。Go 语言中的 Modules 走到今天这一步经历了哪些波折？看似在其他语言里早已攻克的代码依赖管理，在 Go 语言的情景下，又有哪些不为人知的努力？\"></audio>\n\n<h1 id=\"第-7-期依赖与模块\">第 7 期：依赖与模块</h1>\n<p>录制时间： <strong>2021-08-29</strong></p>\n<ul>\n<li>嘉宾：<a href=\"https://aofeisheng.com\">盛傲飞</a></li>\n<li>主持：<a href=\"https://maiyang.me\">杨文</a>，<a href=\"https://changkun.de\">欧长坤</a></li>\n</ul>\n<p>本期摘要：这是 Go 夜聊的第七期节目，我们和 goproxy.cn 的作者在 Go 1.17 发布时聊了聊在 Go 语言中的依赖管理、模块等相关的机制。Go 语言中的 Modules 走到今天这一步经历了哪些波折？看似在其他语言里早已攻克的代码依赖管理，在 Go 语言的情景下，又有哪些不为人知的努力？</p>\n<h2 id=\"时间线\">时间线</h2>\n<ul>\n<li>00:00 开场白</li>\n<li>01:06 接触 Go 语言的契机</li>\n<li>02:57 Beego 等一系列 Web 框架的对比</li>\n<li>04:37 自己动手写 Web 框架</li>\n<li>06:33 Go Modules 之前的依赖管理</li>\n<li>16:12 Monorepo 代码管理的优劣</li>\n<li>22:24 &ldquo;臭名昭著&rdquo; 的 GOPATH 和 vendor</li>\n<li>28:36 dep 的风波</li>\n<li>37:46 &ldquo;独裁式&rdquo; 管理风格下的需求工程</li>\n<li>43:52 进入 Go Module 时代</li>\n<li>46:47 Go Modules 的基本原理</li>\n<li>52:40 godoc 和 pkg.go.dev</li>\n<li>54:57 从 golang.org 合并到 go.dev 域名</li>\n<li>66:22 Go Modules 的最小版本选择算法 MVS</li>\n<li>70:27 环境变量 GOPRIVATE</li>\n<li>72:25 模块的懒加载</li>\n<li>77:36 模块别名机制</li>\n<li>82:10 GOPATH 的废除与 Go 1 兼容性保证</li>\n<li>84:43 Go Workspace 工作区</li>\n<li>86:17 构建 goproxy.cn 的经历</li>\n<li>89:57 搭建代理的难点及其与镜像站的区别</li>\n<li>96:42 七牛云接管 goproxy.cn 的运营</li>\n</ul>\n<h2 id=\"相关链接\">相关链接</h2>\n<ul>\n<li><a href=\"https://github.com/beego/beego\">谢大 astaxie 写的 Beego</a></li>\n<li><a href=\"https://github.com/gin-gonic/gin\">知名 Web 框架 Gin</a></li>\n<li><a href=\"https://github.com/go-martini/martini\">曾经的知名 Web 框架 Martini</a></li>\n<li><a href=\"https://echo.labstack.com/\">知名 Web 框架 Echo</a></li>\n<li><a href=\"https://github.com/aofei/air\">傲飞 aofei 写的 Web 框架 air</a></li>\n<li><a href=\"https://pkg.go.dev/net/http\">标准库 net/http</a></li>\n<li><a href=\"https://github.com/kr/goven\">曾经的依赖管理工具 goven</a></li>\n<li><a href=\"https://labix.org/gopkg.in\">gopkg.in</a></li>\n<li><a href=\"https://github.com/go-yaml/yaml\">yaml 包</a></li>\n<li><a href=\"https://github.com/go-ini/ini\">无闻编写的 ini 解析包</a></li>\n<li><a href=\"https://github.com/gpmgo/gopm\">曾经的依赖管理工具 gopm</a></li>\n<li><a href=\"https://github.com/kardianos/govendor\">曾经的依赖管理工具 govendor</a></li>\n<li><a href=\"https://github.com/golang/dep\">曾经的依赖管理工具 dep</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=F8nrpe0XWRg\">Russ Cox 关于 vgo 依赖管理的演讲</a></li>\n<li><a href=\"https://github.com/golang/vgo\">Go Modules 的前身 vgo</a></li>\n<li><a href=\"https://go.dev/ref/mod\">Go Modules 规范</a></li>\n<li><a href=\"https://pkg.go.dev/github.com/google/licensecheck\">Russ Cox 和 Rob Pike 开发的 licensecheck</a></li>\n<li><a href=\"https://github.com/bcmills\">模块功能目前的主要开发者 Bryan C. Mills</a></li>\n<li><a href=\"https://goproxy.cn/\">傲飞开发的 Go 模块代理站 goproxy.cn</a></li>\n<li><a href=\"https://goproxy.io/\">李保坤开发的 Go 模块代理站 goproxy.io</a></li>\n<li><a href=\"https://github.com/golang/gddo\">曾经的文包文档站 godoc.org 的源码</a></li>\n<li><a href=\"https://go.dev/design/45713-workspace\">Go 语言的多模块工作区 Workspace 的提案</a></li>\n<li><a href=\"https://go.dev/issue/26904\">模块别名功能的相关讨论</a></li>\n<li><a href=\"https://jellyfin.org/\">尾声推荐：jellyfin.org</a></li>\n<li><a href=\"https://www.amazon.com/Art-Multiprocessor-Programming-Maurice-Herlihy/dp/0124159508/\">嘉宾推荐：The Art of Multiprocessor Programming (2nd Edition)</a></li>\n<li><a href=\"https://github.com/golang-design/go2generics\">嘉宾推荐：golang.design/go2generics</a></li>\n</ul>\n<h2 id=\"-联系我们\">📝 联系我们</h2>\n<ul>\n<li>来信 <a href=\"mailto:hi@talkgo.fm\">hi@talkgo.fm</a></li>\n<li><a href=\"https://t.me/talkgofm\">Telegram 听众群</a></li>\n</ul>"
+        }
+    ]
+}

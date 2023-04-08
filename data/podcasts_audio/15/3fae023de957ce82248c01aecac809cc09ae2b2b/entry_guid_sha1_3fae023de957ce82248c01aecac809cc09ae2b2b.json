@@ -1,0 +1,97 @@
+{
+    "title": "2. 世界杯 VAR 与漂亮演员",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "2. 世界杯 VAR 与漂亮演员"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://webview.tech/229/"
+        },
+        {
+            "length": "39080721",
+            "type": "audio/mpeg",
+            "href": "http://podcast.webview.tech/2.var.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://webview.tech/229/",
+    "published": "Tue, 03 Jul 2018 09:54:53 +0000",
+    "published_parsed": [
+        2018,
+        7,
+        3,
+        9,
+        54,
+        53,
+        1,
+        184,
+        0
+    ],
+    "authors": [
+        {
+            "name": "王隐"
+        },
+        {
+            "name": "王隐，敬礼"
+        }
+    ],
+    "author": "王隐，敬礼",
+    "author_detail": {
+        "name": "王隐"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "世界杯var",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "争议",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "滤镜",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "http://webview.tech/?p=229",
+    "guidislink": false,
+    "summary": "本期节目和大家聊下世界杯中的 VAR 技术，节目后半部分谈到了美颜滤镜和漂亮演员。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "本期节目和大家聊下世界杯中的 VAR 技术，节目后半部分谈到了美颜滤镜和漂亮演员。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://webview.tech/category/podcast/feed/",
+            "value": "<p>本期节目和大家聊下世界杯中的 VAR 技术，节目后半部分谈到了美颜滤镜和漂亮演员。</p>\n<h2>本期内容：</h2>\n<ul>\n<li>世界杯 var 争议\n<ul>\n<li> 为什么网球「鹰眼」没有很大争议</li>\n<li>足球比赛误判是否常见</li>\n<li>误判很少，出现就会很致命</li>\n<li>足球比赛连贯性与观赏性的权衡</li>\n<li>var 能提升多少程度的公平性</li>\n<li>如何正确触发 var？不好量化</li>\n<li>人们对 var 抱有正确预设，主裁的权威性被弱化</li>\n<li>足球的「不可控性」</li>\n<li>FIFA 对 var 的态度——将裁决权交还给人类裁判</li>\n<li>足篮球中换人规则的不同对比赛的影响</li>\n</ul>\n</li>\n<li>var 、滤镜美颜与漂亮演员\n<ul>\n<li>滤镜美颜和 var 的区别和联系</li>\n<li>为什么国产电视剧会用「漂亮滤镜」来取悦观众</li>\n<li>优秀电视剧的「审丑追求」</li>\n<li><a href=\"https://movie.douban.com/subject/1864810/\">87版红楼梦</a></li>\n<li>苹果广告为什么会展示有雀斑的女性</li>\n<li>照片的记录性被削弱，传播性被增强——社交网络的兴盛</li>\n<li>为什么赌球不赌「谁先开球」</li>\n</ul>\n</li>\n</ul>\n<h2>playlist：</h2>\n<p>dont look back in anger &#8211; 绿洲<br />\nhymn for the weekend &#8211; coldplay<br />\nparanoid &#8211; black sabbath<br />\nrootless tree &#8211; damien rice<br />\ni was made for loving you &#8211; kiss<br />\nfrederick &#8211; patti smith group<br />\nthe look &#8211; roxette</p>\n<h2>本期主播/嘉宾：</h2>\n<ul>\n<li>王隐</li>\n<li>敬礼</li>\n</ul>"
+        }
+    ],
+    "subtitle": "本期节目和大家聊下世界杯中的 VAR 技术，节目后半部分谈到了美颜滤镜和漂亮演员。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "本期节目和大家聊下世界杯中的 VAR 技术，节目后半部分谈到了美颜滤镜和漂亮演员。"
+    },
+    "itunes_episode": "2",
+    "itunes_title": "世界杯 VAR 与漂亮演员",
+    "itunes_explicit": false,
+    "itunes_duration": "27:07"
+}

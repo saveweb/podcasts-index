@@ -1,0 +1,91 @@
+{
+    "title": "【特點04】亲密的困局：家庭",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "【特點04】亲密的困局：家庭"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.theviewtalk.com/bt04"
+        },
+        {
+            "length": "18914703",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/527cd594-0c1e-4a70-86aa-4c60d9398bcc.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.theviewtalk.com/bt04",
+    "id": "527cd594-0c1e-4a70-86aa-4c60d9398bcc",
+    "guidislink": false,
+    "published": "Wed, 15 Mar 2023 20:00:00 +0800",
+    "published_parsed": [
+        2023,
+        3,
+        15,
+        12,
+        0,
+        0,
+        2,
+        74,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一画一话"
+        },
+        {
+            "name": "一画一话"
+        }
+    ],
+    "author": "一画一话",
+    "author_detail": {
+        "name": "一画一话"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": ""
+    },
+    "itunes_duration": "19:42",
+    "itunes_explicit": null,
+    "image": {
+        "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/2/271eaae7-5c3a-4a2c-aed6-39e245b9fb53/episodes/5/527cd594-0c1e-4a70-86aa-4c60d9398bcc/cover.jpg"
+    },
+    "summary": "<p>本周加更一期「特點」，聊聊家庭中的那些看似来历不明的情绪。</p>\n\n<p>·</p>\n\n<p>【特点】节目是订阅听友专享节目，收听完整版，请在“爱发电”或“Patreon”订阅。<br />\n一画一话 @爱发电<br />\n<a href=\"https://afdian.net/a/theviewtalk\" rel=\"nofollow\">https://afdian.net/a/theviewtalk</a></p>\n\n<p>一画一话 theViewTalk @Patreon<br />\n<a href=\"https://www.patreon.com/theviewtalk\" rel=\"nofollow\">https://www.patreon.com/theviewtalk</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/theviewtalk/rss",
+        "value": "<p>本周加更一期「特點」，聊聊家庭中的那些看似来历不明的情绪。</p>\n\n<p>·</p>\n\n<p>【特点】节目是订阅听友专享节目，收听完整版，请在“爱发电”或“Patreon”订阅。<br />\n一画一话 @爱发电<br />\n<a href=\"https://afdian.net/a/theviewtalk\" rel=\"nofollow\">https://afdian.net/a/theviewtalk</a></p>\n\n<p>一画一话 theViewTalk @Patreon<br />\n<a href=\"https://www.patreon.com/theviewtalk\" rel=\"nofollow\">https://www.patreon.com/theviewtalk</a></p>"
+    },
+    "tags": [
+        {
+            "term": "特點",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/theviewtalk/rss",
+            "value": "<p>本周加更一期「特點」，聊聊家庭中的那些看似来历不明的情绪。</p>\n\n<p>·</p>\n\n<p>【特点】节目是订阅听友专享节目，收听完整版，请在“爱发电”或“Patreon”订阅。<br />\n一画一话 @爱发电<br />\n<a href=\"https://afdian.net/a/theviewtalk\" rel=\"nofollow\">https://afdian.net/a/theviewtalk</a></p>\n\n<p>一画一话 theViewTalk @Patreon<br />\n<a href=\"https://www.patreon.com/theviewtalk\" rel=\"nofollow\">https://www.patreon.com/theviewtalk</a></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yS2zkE2S+z072QTs9",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yS2zkE2S+z072QTs9\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

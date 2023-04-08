@@ -1,0 +1,81 @@
+{
+    "title": "42 「素描之间」展览开幕对谈",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "42 「素描之间」展览开幕对谈"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.arbretalk.com/42"
+        },
+        {
+            "length": "44161615",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/8ecd4d04-d9eb-48ed-bafc-9ab55e67c940/06776bbd-5ffd-448c-ac0f-5a1870a40e16.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.arbretalk.com/42",
+    "id": "06776bbd-5ffd-448c-ac0f-5a1870a40e16",
+    "guidislink": false,
+    "published": "Wed, 06 Jan 2021 10:00:00 +0800",
+    "published_parsed": [
+        2021,
+        1,
+        6,
+        2,
+        0,
+        0,
+        2,
+        6,
+        0
+    ],
+    "authors": [
+        {
+            "name": "一树Arbre"
+        },
+        {
+            "name": "一树Arbre"
+        }
+    ],
+    "author": "一树Arbre",
+    "author_detail": {
+        "name": "一树Arbre"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "由三名不知名摄影师主持的艺术跑题闲聊节目",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "由三名不知名摄影师主持的艺术跑题闲聊节目"
+    },
+    "itunes_duration": "1:01:12",
+    "itunes_explicit": null,
+    "summary": "<p>本期为展览「素描之间」开幕对谈的现场录音。操作失误导致的质量不佳，还请理解。</p>\n\n<p><img alt=\"海报.jpg\" src=\"https://i.loli.net/2021/01/06/EAxmW2KtFwJXrYN.jpg\" /><br />\n<strong>素描之间Nature in Between —— 江慧摄影个展</strong></p>\n\n<p><strong>艺术家 / Artist *<em>：<br />\n江慧 / Jiang Hui<br />\n*</em>策展 / Curator</strong>：<br />\n一树ARBRE / Arbre Art Centre<br />\n<strong>展期 / Duration</strong>：<br />\n2020年12月29日 - 2021年1月10日 <br />\n12:00 - 19:30<br />\n<strong>地址 / Venue</strong>：<br />\n一树ARBRE艺术空间<br />\n（深圳市福田区园岭新村74号楼103）</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/arbretalk/rss",
+        "value": "<p>本期为展览「素描之间」开幕对谈的现场录音。操作失误导致的质量不佳，还请理解。</p>\n\n<p><img alt=\"海报.jpg\" src=\"https://i.loli.net/2021/01/06/EAxmW2KtFwJXrYN.jpg\" /><br />\n<strong>素描之间Nature in Between —— 江慧摄影个展</strong></p>\n\n<p><strong>艺术家 / Artist *<em>：<br />\n江慧 / Jiang Hui<br />\n*</em>策展 / Curator</strong>：<br />\n一树ARBRE / Arbre Art Centre<br />\n<strong>展期 / Duration</strong>：<br />\n2020年12月29日 - 2021年1月10日 <br />\n12:00 - 19:30<br />\n<strong>地址 / Venue</strong>：<br />\n一树ARBRE艺术空间<br />\n（深圳市福田区园岭新村74号楼103）</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/arbretalk/rss",
+            "value": "<p>本期为展览「素描之间」开幕对谈的现场录音。操作失误导致的质量不佳，还请理解。</p>\n\n<p><img alt=\"海报.jpg\" src=\"https://i.loli.net/2021/01/06/EAxmW2KtFwJXrYN.jpg\" /><br />\n<strong>素描之间Nature in Between —— 江慧摄影个展</strong></p>\n\n<p><strong>艺术家 / Artist *<em>：<br />\n江慧 / Jiang Hui<br />\n*</em>策展 / Curator</strong>：<br />\n一树ARBRE / Arbre Art Centre<br />\n<strong>展期 / Duration</strong>：<br />\n2020年12月29日 - 2021年1月10日 <br />\n12:00 - 19:30<br />\n<strong>地址 / Venue</strong>：<br />\n一树ARBRE艺术空间<br />\n（深圳市福田区园岭新村74号楼103）</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/RF2PpSZw+gSzbZMra",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/RF2PpSZw+gSzbZMra\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://hanggao.squarespace.com/",
+        "role": "host"
+    }
+}

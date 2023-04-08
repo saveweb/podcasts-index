@@ -1,0 +1,24 @@
+{
+    "id": 21,
+    "enabled": true,
+    "title": "不丧",
+    "link": "http://www.busangpodcast.com",
+    "feed_url": "http://busangpodcast.com/feed/audio.xml",
+    "summary": "「不丧」是一档严肃活泼，温情脉脉的夫妻聊天节目，男主播思维迟缓，女主播百无禁忌，黄腔不断。我们读书，观影，谈论流行文化；也关心社会和政治，拒绝自我审查，呼唤不同背景下人与人间的同情和理解。",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680888646,
+        "last_success_timestamp": 1680891515,
+        "last_checked_timestamp": 1680891515,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

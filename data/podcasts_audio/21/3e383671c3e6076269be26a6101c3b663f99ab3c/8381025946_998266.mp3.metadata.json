@@ -1,0 +1,40 @@
+{
+    "http-content-length": 26402741,
+    "http-etag": "9b71d8d503d9c8fe8d3d6089f97ffe23",
+    "http-last-modified": "Wed, 21 Apr 2021 03:01:10 GMT",
+    "http-last-modified-float": 1618945270.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 26402741,
+    "actual-duration": 1770,
+    "sha1": "581ab410830e18a5fb30dbf9e27816134af5f945",
+    "md5": "9b71d8d503d9c8fe8d3d6089f97ffe23",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://r.typlog.com/eyJzIjo5OTIsImUiOjc1MDAsInAiOjIsInUiOiI4MjY2Lm1wMyJ9.gbnDvBDShHIENK5dfjpJZhZ6QvU/busang/8381025946_998266.mp3",
+            "headers": {
+                "Date": "Fri, 07 Apr 2023 17:54:03 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "26402741",
+                "Connection": "keep-alive",
+                "CF-Ray": "7b4422350890204a-NRT",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Cache-Control": "max-age=604800",
+                "ETag": "\"9b71d8d503d9c8fe8d3d6089f97ffe23\"",
+                "Last-Modified": "Wed, 21 Apr 2021 03:01:10 GMT",
+                "Strict-Transport-Security": "max-age=2592000; preload",
+                "CF-Cache-Status": "HIT",
+                "x-amz-request-id": "c526f5c491aae5d8",
+                "x-amz-version-id": "4_zc655df7e5c1a24307f330819_f119a5f2b1f7a66d6_d20210421_m030110_c000_v0001081_t0046",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=qUMVihSbq%2F5F5vRmxjfGt8NjsDWdTOjr6aEDsj4ZCyUgoBq90TK6bbdUKLN6OtX7VfLN2UXcXQXY1LE4FjL7LNArVesUQ82jFDQBulC%2B8%2BaBkJhB2FZhDAm6r4ZnsQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        }
+    }
+}

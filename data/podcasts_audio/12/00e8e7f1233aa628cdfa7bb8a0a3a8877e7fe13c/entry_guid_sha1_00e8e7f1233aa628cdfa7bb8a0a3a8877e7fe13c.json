@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "22264481",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTQ0LCJlIjo2NzI1LCJwIjoyLCJ1IjoiYzM5NC5tcDMifQ.oyfTyENmrsTu-oLx9pqAxUyymhw/nicktalk-new/z_79f652ccb8191e50f3d28514aae7c394.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://nicktalk.com/episodes/44"
+        }
+    ],
+    "title": "NTP #44 播客是什麼？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "NTP #44 播客是什麼？"
+    },
+    "id": "http://nicktalk.com/episodes/44",
+    "guidislink": true,
+    "link": "http://nicktalk.com/episodes/44",
+    "authors": [
+        {
+            "name": "NickTalk"
+        }
+    ],
+    "author": "NickTalk",
+    "author_detail": {
+        "name": "NickTalk"
+    },
+    "subtitle": "Nick 在本期節目中圍繞「播客是什麼」展開了討論，剖析了播客在技術層面和概念層面的定義，並回答了「Apple 下架播客事件」後產生的一些問題。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "Nick 在本期節目中圍繞「播客是什麼」展開了討論，剖析了播客在技術層面和概念層面的定義，並回答了「Apple 下架播客事件」後產生的一些問題。"
+    },
+    "itunes_duration": "22:58",
+    "itunes_explicit": null,
+    "itunes_episode": "44",
+    "podcast_episode": "44",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/nicktalk-new/z_1a4f81f603924632d546743fd4c2f643.jpg?x-oss-process=style/sl"
+    },
+    "summary": "Nick 在本期節目中圍繞「播客是什麼」展開了討論，剖析了播客在技術層面和概念層面的定義，並回答了「Apple 下架播客事件」後產生的一些問題。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "http://nicktalk.com/feed/audio.xml",
+        "value": "Nick 在本期節目中圍繞「播客是什麼」展開了討論，剖析了播客在技術層面和概念層面的定義，並回答了「Apple 下架播客事件」後產生的一些問題。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>Nick 在本期節目中圍繞「播客是什麼」展開了討論，剖析了播客在技術層面和概念層面的定義，並回答了「Apple 下架播客事件」後產生的一些問題。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "http://nicktalk.com/feed/audio.xml",
+            "value": "<p>Nick 在本期節目中圍繞「播客是什麼」展開了討論，剖析了播客在技術層面和概念層面的定義，並回答了「Apple 下架播客事件」後產生的一些問題。</p>"
+        }
+    ],
+    "published": "Sun, 15 Sep 2019 04:00:00 +0000",
+    "published_parsed": [
+        2019,
+        9,
+        15,
+        4,
+        0,
+        0,
+        6,
+        258,
+        0
+    ]
+}

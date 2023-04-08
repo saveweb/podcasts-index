@@ -1,0 +1,119 @@
+{
+    "title": "Episode 0: FOM 是一档什么样的节目",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/fullofmind/rss",
+        "value": "Episode 0: FOM 是一档什么样的节目"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://fom.fm/0"
+        },
+        {
+            "length": "16404440",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/9G64AC/aphid.fireside.fm/d/1437767933/d46af9dd-16b7-4c48-80d1-366530653afa/0ad95dbd-0654-4e31-b79f-178ddb52c167.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://fom.fm/0",
+    "id": "0ad95dbd-0654-4e31-b79f-178ddb52c167",
+    "guidislink": false,
+    "published": "Tue, 31 Dec 2019 21:00:00 +0800",
+    "published_parsed": [
+        2019,
+        12,
+        31,
+        13,
+        0,
+        0,
+        1,
+        365,
+        0
+    ],
+    "authors": [
+        {
+            "name": "iJoy小果汁"
+        },
+        {
+            "name": "iJoy小果汁"
+        }
+    ],
+    "author": "iJoy小果汁",
+    "author_detail": {
+        "name": "iJoy小果汁"
+    },
+    "itunes_episode": "0",
+    "itunes_title": "FOM 是一档什么样的节目",
+    "itunes_episodetype": "full",
+    "subtitle": "这期节目是FOM与世界见面的预告片，我想跟大家分享，做这档播客的初衷，我自己的构想，我想请到的嘉宾，以及未来我们会聊到的主题。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/fullofmind/rss",
+        "value": "这期节目是FOM与世界见面的预告片，我想跟大家分享，做这档播客的初衷，我自己的构想，我想请到的嘉宾，以及未来我们会聊到的主题。"
+    },
+    "itunes_duration": "13:16",
+    "itunes_explicit": null,
+    "summary": "<p>各位听众，新年好，我是<a href=\"https://fom.fm/hosts/ijoy\" rel=\"nofollow\">小果汁</a>。2020年，我的个人播客 <a href=\"https://fom.fm/subscribe\" rel=\"nofollow\">Full of Mind</a> 全新上线了。这期节目是FOM与世界见面的预告片，我想跟大家分享，做这档播客的初衷，我自己的构想，我想请到的嘉宾，以及未来我们会聊到的主题。</p>\n\n<p>一开始我对这档节目的定义是《我们这一代的30岁思想群像》。但是这样一来就注定这个节目长久不了——过了30岁还做不做呢？</p>\n\n<p>于是就取其中思想一词，把它拓宽到 mind 心智，既包括思维，也包括感知、情绪、认知等等。 Full of Mind 既是充满思想的意思，又是聚焦于思想的意思。我想去挖掘每一位嘉宾的想法，他们擅长的领域，再用心理学和认知科学的视角作一点评论，甚至一起探讨一下人类思维的进程。如果能做到以上任何一点的一小步，就算是完成我的初心了。</p>\n\n<p>第一期节目讲数学史，嘉宾是<a href=\"https://fom.fm/guests/hat\" rel=\"nofollow\">帽子君</a>，敬请期待。</p><p><a href=\"https://www.patreon.com/FullofMindFM\" rel=\"payment\">Support Full of Mind</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/fullofmind/rss",
+        "value": "<p>各位听众，新年好，我是<a href=\"https://fom.fm/hosts/ijoy\" rel=\"nofollow\">小果汁</a>。2020年，我的个人播客 <a href=\"https://fom.fm/subscribe\" rel=\"nofollow\">Full of Mind</a> 全新上线了。这期节目是FOM与世界见面的预告片，我想跟大家分享，做这档播客的初衷，我自己的构想，我想请到的嘉宾，以及未来我们会聊到的主题。</p>\n\n<p>一开始我对这档节目的定义是《我们这一代的30岁思想群像》。但是这样一来就注定这个节目长久不了——过了30岁还做不做呢？</p>\n\n<p>于是就取其中思想一词，把它拓宽到 mind 心智，既包括思维，也包括感知、情绪、认知等等。 Full of Mind 既是充满思想的意思，又是聚焦于思想的意思。我想去挖掘每一位嘉宾的想法，他们擅长的领域，再用心理学和认知科学的视角作一点评论，甚至一起探讨一下人类思维的进程。如果能做到以上任何一点的一小步，就算是完成我的初心了。</p>\n\n<p>第一期节目讲数学史，嘉宾是<a href=\"https://fom.fm/guests/hat\" rel=\"nofollow\">帽子君</a>，敬请期待。</p><p><a href=\"https://www.patreon.com/FullofMindFM\" rel=\"payment\">Support Full of Mind</a></p>"
+    },
+    "tags": [
+        {
+            "term": "FOM",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "mind",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "life",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "心理",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "访谈",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "播客",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/fullofmind/rss",
+            "value": "<p>各位听众，新年好，我是<a href=\"https://fom.fm/hosts/ijoy\" rel=\"nofollow\">小果汁</a>。2020年，我的个人播客 <a href=\"https://fom.fm/subscribe\" rel=\"nofollow\">Full of Mind</a> 全新上线了。这期节目是FOM与世界见面的预告片，我想跟大家分享，做这档播客的初衷，我自己的构想，我想请到的嘉宾，以及未来我们会聊到的主题。</p>\n\n<p>一开始我对这档节目的定义是《我们这一代的30岁思想群像》。但是这样一来就注定这个节目长久不了——过了30岁还做不做呢？</p>\n\n<p>于是就取其中思想一词，把它拓宽到 mind 心智，既包括思维，也包括感知、情绪、认知等等。 Full of Mind 既是充满思想的意思，又是聚焦于思想的意思。我想去挖掘每一位嘉宾的想法，他们擅长的领域，再用心理学和认知科学的视角作一点评论，甚至一起探讨一下人类思维的进程。如果能做到以上任何一点的一小步，就算是完成我的初心了。</p>\n\n<p>第一期节目讲数学史，嘉宾是<a href=\"https://fom.fm/guests/hat\" rel=\"nofollow\">帽子君</a>，敬请期待。</p><p><a href=\"https://www.patreon.com/FullofMindFM\" rel=\"payment\">Support Full of Mind</a></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/_0_lMgYL+uE9ooaRL",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/_0_lMgYL+uE9ooaRL\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_chapters": {
+        "url": "https://feeds.fireside.fm/fullofmind/json/episodes/0ad95dbd-0654-4e31-b79f-178ddb52c167/chapters",
+        "type": "application/json"
+    },
+    "podcast_person": {
+        "email": "",
+        "href": "https://t.me/foreveriJoy",
+        "role": "host"
+    }
+}

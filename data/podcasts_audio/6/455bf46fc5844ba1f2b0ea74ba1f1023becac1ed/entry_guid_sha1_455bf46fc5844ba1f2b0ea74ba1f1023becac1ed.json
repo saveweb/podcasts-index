@@ -1,0 +1,88 @@
+{
+    "title": "「技术播客月」先导预告",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "「技术播客月」先导预告"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.echojspodcast.com/special-month-of-tech-podcast-2022"
+        },
+        {
+            "length": "1241674",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/458aa6e3-247c-47f2-a842-c04667a8556e/241f9eb9-d821-475b-b051-da28d750ee4b.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.echojspodcast.com/special-month-of-tech-podcast-2022",
+    "id": "241f9eb9-d821-475b-b051-da28d750ee4b",
+    "guidislink": false,
+    "published": "Sat, 11 Jun 2022 18:00:00 +0800",
+    "published_parsed": [
+        2022,
+        6,
+        11,
+        10,
+        0,
+        0,
+        5,
+        162,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Astrian & 白羊"
+        },
+        {
+            "name": "Astrian & 白羊"
+        }
+    ],
+    "author": "Astrian & 白羊",
+    "author_detail": {
+        "name": "Astrian & 白羊"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "Echo.js 将会参加 2022 年「技术播客月」活动。在 2022 年 7 月，我们将会有一个串台节目，形式、话题暂且先保密！感兴趣的朋友们可以关注「技术播客月」，也欢迎大家持续关注 Echo.js！",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "Echo.js 将会参加 2022 年「技术播客月」活动。在 2022 年 7 月，我们将会有一个串台节目，形式、话题暂且先保密！感兴趣的朋友们可以关注「技术播客月」，也欢迎大家持续关注 Echo.js！"
+    },
+    "itunes_duration": "1:17",
+    "itunes_explicit": null,
+    "summary": "<p>Echo.js 将会参加 2022 年「技术播客月」活动。在 2022 年 7 月，我们将会有一个串台节目，形式、话题暂且先保密！感兴趣的朋友们可以关注「技术播客月」，也欢迎大家持续关注 Echo.js！</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/echojs/rss",
+        "value": "<p>Echo.js 将会参加 2022 年「技术播客月」活动。在 2022 年 7 月，我们将会有一个串台节目，形式、话题暂且先保密！感兴趣的朋友们可以关注「技术播客月」，也欢迎大家持续关注 Echo.js！</p>"
+    },
+    "tags": [
+        {
+            "term": "技术播客月",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/echojs/rss",
+            "value": "<p>Echo.js 将会参加 2022 年「技术播客月」活动。在 2022 年 7 月，我们将会有一个串台节目，形式、话题暂且先保密！感兴趣的朋友们可以关注「技术播客月」，也欢迎大家持续关注 Echo.js！</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/yarIckyj+sdN-BNBH",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/yarIckyj+sdN-BNBH\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "https://astrianzheng.cn",
+        "role": "host"
+    }
+}

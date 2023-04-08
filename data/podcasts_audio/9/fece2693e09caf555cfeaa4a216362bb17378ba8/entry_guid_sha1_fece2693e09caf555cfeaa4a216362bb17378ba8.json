@@ -1,0 +1,106 @@
+{
+    "title": "#1 - 分叉即自由",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#1 - 分叉即自由"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/1"
+        },
+        {
+            "length": "22438474",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/217060c9-bea3-450c-8120-31a06b3c343d.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/1",
+    "id": "217060c9-bea3-450c-8120-31a06b3c343d",
+    "guidislink": false,
+    "published": "Fri, 30 Nov 2018 05:00:00 +0800",
+    "published_parsed": [
+        2018,
+        11,
+        29,
+        21,
+        0,
+        0,
+        3,
+        333,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "分叉是区块链升级的一种手段，在升级的时候，好像是区块链走到了一个岔路口，如果你向左，就什么都不用做，而如果你决定另外一个方向，你就会下载新的软件，运行新的节点，节点会往右走，最后这会导致两条不同的路，也会有完全不一样的风景，这是每个人的选择，也是每个人的自由",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "分叉是区块链升级的一种手段，在升级的时候，好像是区块链走到了一个岔路口，如果你向左，就什么都不用做，而如果你决定另外一个方向，你就会下载新的软件，运行新的节点，节点会往右走，最后这会导致两条不同的路，也会有完全不一样的风景，这是每个人的选择，也是每个人的自由"
+    },
+    "itunes_duration": "46:44",
+    "itunes_explicit": null,
+    "image": {
+        "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/3/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/episodes/2/217060c9-bea3-450c-8120-31a06b3c343d/cover.jpg"
+    },
+    "summary": "<p>Fork It 是一个针对区块链技术的中文播客节目，四位主播分别为 <a href=\"https://twitter.com/poshboytl\" rel=\"nofollow\">Terry</a> , <a href=\"https://twitter.com/janhxie\" rel=\"nofollow\">Jan</a> ,  <a href=\"https://twitter.com/knwang\" rel=\"nofollow\">Kevin</a> 和 <a href=\"https://twitter.com/lgn21st\" rel=\"nofollow\">Daniel</a>。他们还一起创办过中文技术播客节目  <a href=\"http://teahour.fm/\" rel=\"nofollow\">Teahour.FM</a>。这一次他们因为区块链技术再一次相聚，并创办了 Fork It. 从一线从业者眼中，了解区块链技术的方方面面和发展方向....</p>\n\n<p>本期节目由 <a href=\"https://twitter.com/lgn21st\" rel=\"nofollow\">Daniel</a> 和 <a href=\"https://twitter.com/janhxie\" rel=\"nofollow\">Jan</a> 录制，他们一起和大家聊聊区块链历史上著名的分叉们... </p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let's Fork It!</p>\n\n<h3>show notes</h3>\n\n<ul>\n<li><a href=\"https://blockstream.com\" rel=\"nofollow\">Blockstream</a></li>\n<li><a href=\"https://bitcoin.org/en/bitcoin-core/\" rel=\"nofollow\">Bitcoin Core 的核心开发团队</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Hardfork\" rel=\"nofollow\">Hard Fork</a></li>\n<li><a href=\"https://ethfans.org/posts/walkthrough-of-an-ethereum-improvement-proposal-eip\" rel=\"nofollow\">EIP 协议</a></li>\n<li><a href=\"https://www.rust-lang.org/en-US/\" rel=\"nofollow\">Rust</a></li>\n<li><a href=\"http://www.ee.surrey.ac.uk/Teaching/Unix/\" rel=\"nofollow\">Unix</a></li>\n<li><a href=\"https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs\" rel=\"nofollow\">PoS</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Proof_of_work\" rel=\"nofollow\">PoW</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/The_DAO_(organization)\" rel=\"nofollow\">The DAO 事件</a></li>\n<li><a href=\"https://github.com/ethereum/wiki/wiki/Byzantium-Hard-Fork-changes\" rel=\"nofollow\">拜占庭分叉</a></li>\n<li><a href=\"https://lightning.network/lightning-network-paper.pdf\" rel=\"nofollow\">闪电网络</a></li>\n<li><a href=\"https://www.bitmain.com/join_us?lang=zh-CN\" rel=\"nofollow\">比特大陆</a></li>\n<li><a href=\"https://www.bitcoincash.org\" rel=\"nofollow\">Bitcoin Cash</a></li>\n<li><a href=\"https://bitpay.com\" rel=\"nofollow\">BitPay</a></li>\n<li><a href=\"https://item.jd.com/11096837.html\" rel=\"nofollow\">债：第一个5000年</a></li>\n<li><a href=\"http://you.ctrip.com/fooditem/prague822/9764746-p1.html\" rel=\"nofollow\">布拉格烤猪肘子</a></li>\n</ul>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>Fork It 是一个针对区块链技术的中文播客节目，四位主播分别为 <a href=\"https://twitter.com/poshboytl\" rel=\"nofollow\">Terry</a> , <a href=\"https://twitter.com/janhxie\" rel=\"nofollow\">Jan</a> ,  <a href=\"https://twitter.com/knwang\" rel=\"nofollow\">Kevin</a> 和 <a href=\"https://twitter.com/lgn21st\" rel=\"nofollow\">Daniel</a>。他们还一起创办过中文技术播客节目  <a href=\"http://teahour.fm/\" rel=\"nofollow\">Teahour.FM</a>。这一次他们因为区块链技术再一次相聚，并创办了 Fork It. 从一线从业者眼中，了解区块链技术的方方面面和发展方向....</p>\n\n<p>本期节目由 <a href=\"https://twitter.com/lgn21st\" rel=\"nofollow\">Daniel</a> 和 <a href=\"https://twitter.com/janhxie\" rel=\"nofollow\">Jan</a> 录制，他们一起和大家聊聊区块链历史上著名的分叉们... </p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let's Fork It!</p>\n\n<h3>show notes</h3>\n\n<ul>\n<li><a href=\"https://blockstream.com\" rel=\"nofollow\">Blockstream</a></li>\n<li><a href=\"https://bitcoin.org/en/bitcoin-core/\" rel=\"nofollow\">Bitcoin Core 的核心开发团队</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Hardfork\" rel=\"nofollow\">Hard Fork</a></li>\n<li><a href=\"https://ethfans.org/posts/walkthrough-of-an-ethereum-improvement-proposal-eip\" rel=\"nofollow\">EIP 协议</a></li>\n<li><a href=\"https://www.rust-lang.org/en-US/\" rel=\"nofollow\">Rust</a></li>\n<li><a href=\"http://www.ee.surrey.ac.uk/Teaching/Unix/\" rel=\"nofollow\">Unix</a></li>\n<li><a href=\"https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs\" rel=\"nofollow\">PoS</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Proof_of_work\" rel=\"nofollow\">PoW</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/The_DAO_(organization)\" rel=\"nofollow\">The DAO 事件</a></li>\n<li><a href=\"https://github.com/ethereum/wiki/wiki/Byzantium-Hard-Fork-changes\" rel=\"nofollow\">拜占庭分叉</a></li>\n<li><a href=\"https://lightning.network/lightning-network-paper.pdf\" rel=\"nofollow\">闪电网络</a></li>\n<li><a href=\"https://www.bitmain.com/join_us?lang=zh-CN\" rel=\"nofollow\">比特大陆</a></li>\n<li><a href=\"https://www.bitcoincash.org\" rel=\"nofollow\">Bitcoin Cash</a></li>\n<li><a href=\"https://bitpay.com\" rel=\"nofollow\">BitPay</a></li>\n<li><a href=\"https://item.jd.com/11096837.html\" rel=\"nofollow\">债：第一个5000年</a></li>\n<li><a href=\"http://you.ctrip.com/fooditem/prague822/9764746-p1.html\" rel=\"nofollow\">布拉格烤猪肘子</a></li>\n</ul>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>Fork It 是一个针对区块链技术的中文播客节目，四位主播分别为 <a href=\"https://twitter.com/poshboytl\" rel=\"nofollow\">Terry</a> , <a href=\"https://twitter.com/janhxie\" rel=\"nofollow\">Jan</a> ,  <a href=\"https://twitter.com/knwang\" rel=\"nofollow\">Kevin</a> 和 <a href=\"https://twitter.com/lgn21st\" rel=\"nofollow\">Daniel</a>。他们还一起创办过中文技术播客节目  <a href=\"http://teahour.fm/\" rel=\"nofollow\">Teahour.FM</a>。这一次他们因为区块链技术再一次相聚，并创办了 Fork It. 从一线从业者眼中，了解区块链技术的方方面面和发展方向....</p>\n\n<p>本期节目由 <a href=\"https://twitter.com/lgn21st\" rel=\"nofollow\">Daniel</a> 和 <a href=\"https://twitter.com/janhxie\" rel=\"nofollow\">Jan</a> 录制，他们一起和大家聊聊区块链历史上著名的分叉们... </p>\n\n<p>除了在泛用型播客客户端收听订阅《 Fork It 》，您还可以在<a href=\"https://www.ximalaya.com/keji/19792413/\" rel=\"nofollow\">喜马拉雅</a> 和<a href=\"https://music.163.com/#/djradio?id=792240368\" rel=\"nofollow\">网易云音乐</a>收听节目。</p>\n\n<p>What are you waiting for? Let's Fork It!</p>\n\n<h3>show notes</h3>\n\n<ul>\n<li><a href=\"https://blockstream.com\" rel=\"nofollow\">Blockstream</a></li>\n<li><a href=\"https://bitcoin.org/en/bitcoin-core/\" rel=\"nofollow\">Bitcoin Core 的核心开发团队</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Hardfork\" rel=\"nofollow\">Hard Fork</a></li>\n<li><a href=\"https://ethfans.org/posts/walkthrough-of-an-ethereum-improvement-proposal-eip\" rel=\"nofollow\">EIP 协议</a></li>\n<li><a href=\"https://www.rust-lang.org/en-US/\" rel=\"nofollow\">Rust</a></li>\n<li><a href=\"http://www.ee.surrey.ac.uk/Teaching/Unix/\" rel=\"nofollow\">Unix</a></li>\n<li><a href=\"https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs\" rel=\"nofollow\">PoS</a></li>\n<li><a href=\"https://en.bitcoin.it/wiki/Proof_of_work\" rel=\"nofollow\">PoW</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/The_DAO_(organization)\" rel=\"nofollow\">The DAO 事件</a></li>\n<li><a href=\"https://github.com/ethereum/wiki/wiki/Byzantium-Hard-Fork-changes\" rel=\"nofollow\">拜占庭分叉</a></li>\n<li><a href=\"https://lightning.network/lightning-network-paper.pdf\" rel=\"nofollow\">闪电网络</a></li>\n<li><a href=\"https://www.bitmain.com/join_us?lang=zh-CN\" rel=\"nofollow\">比特大陆</a></li>\n<li><a href=\"https://www.bitcoincash.org\" rel=\"nofollow\">Bitcoin Cash</a></li>\n<li><a href=\"https://bitpay.com\" rel=\"nofollow\">BitPay</a></li>\n<li><a href=\"https://item.jd.com/11096837.html\" rel=\"nofollow\">债：第一个5000年</a></li>\n<li><a href=\"http://you.ctrip.com/fooditem/prague822/9764746-p1.html\" rel=\"nofollow\">布拉格烤猪肘子</a></li>\n</ul>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+Ksk2NJno",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+Ksk2NJno\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

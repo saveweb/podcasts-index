@@ -1,0 +1,75 @@
+{
+    "title": "闲聊 | 买车过程，以及两个月的皮卡体验",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "闲聊 | 买车过程，以及两个月的皮卡体验"
+    },
+    "itunes_episode": "87",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://talk.swift.gg"
+        },
+        {
+            "length": "40698374",
+            "type": "audio/mpeg",
+            "href": "https://talkcdn.swift.gg/audio/truck2.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://talk.swift.gg",
+    "published": "Wed, 11 May 2022 14:03:00 CDT",
+    "published_parsed": [
+        2022,
+        5,
+        11,
+        19,
+        3,
+        0,
+        2,
+        131,
+        0
+    ],
+    "summary": "<p>这里写一下完整的型号：2021 Ram Classic Warlock。每天发动起来，心情都是愉悦的，累并快乐着。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://talkcdn.swift.gg/static/rss.xml",
+        "value": "<p>这里写一下完整的型号：2021 Ram Classic Warlock。每天发动起来，心情都是愉悦的，累并快乐着。</p>"
+    },
+    "id": "https://talkcdn.swift.gg/audio/truck2.mp3",
+    "guidislink": false,
+    "itunes_duration": "01:24:32",
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://talkcdn.swift.gg/static/rss.xml",
+            "value": "<p>这里写一下完整的型号：2021 Ram Classic Warlock。每天发动起来，心情都是愉悦的，累并快乐着。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://talkcdn.swift.gg/static/logo.jpg"
+    },
+    "tags": [
+        {
+            "term": "程序员",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "开发者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "itunes_explicit": null
+}

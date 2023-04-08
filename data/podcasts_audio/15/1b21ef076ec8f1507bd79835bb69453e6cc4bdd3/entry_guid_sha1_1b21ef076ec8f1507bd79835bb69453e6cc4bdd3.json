@@ -1,0 +1,125 @@
+{
+    "title": "28. WWDC20：在Mac上玩荒野乱斗",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "28. WWDC20：在Mac上玩荒野乱斗"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://webview.tech/1878/"
+        },
+        {
+            "length": "166028153",
+            "type": "audio/mpeg",
+            "href": "https://podcast.webview.tech/28.wwdc20_new.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://webview.tech/1878/",
+    "comments": "https://webview.tech/1878/#comments",
+    "published": "Thu, 25 Jun 2020 00:00:00 +0000",
+    "published_parsed": [
+        2020,
+        6,
+        25,
+        0,
+        0,
+        0,
+        3,
+        177,
+        0
+    ],
+    "authors": [
+        {
+            "name": "王隐"
+        },
+        {
+            "name": "王隐，敬礼"
+        }
+    ],
+    "author": "王隐，敬礼",
+    "author_detail": {
+        "name": "王隐"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "Apple Store",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "ARM",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "Mac",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "WWDC",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "处理器",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "芯片",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "苹果",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "荒野乱斗",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "https://webview.tech/?p=1878",
+    "guidislink": false,
+    "summary": "又是一年WWDC，ARM芯片占据了本期节目的大部分时长，同时也对「是否还能在星巴克看到装着windows系统的Mac」这一问题进行了简要分析。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "又是一年WWDC，ARM芯片占据了本期节目的大部分时长，同时也对「是否还能在星巴克看到装着windows系统的Mac」这一问题进行了简要分析。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://webview.tech/category/podcast/feed/",
+            "value": "<p>又是一年WWDC，ARM芯片占据了本期节目的大部分时长，同时也对「是否还能在星巴克看到装着windows系统的Mac」这一问题进行了简要分析。</p>\n\n\n\n<h2>名词解释：</h2>\n\n\n\n<p><strong>Microsoft</strong> <strong>Build</strong> <strong>、Google I/O：</strong>虽然也是三巨头，但没多少人看的大会代名词。</p>\n\n\n\n<p><strong>微架构/IP授权：</strong>你可以理解成 ARM 给了厂商一张相对完整的芯片线路图，如果是造房子，那房子的框架已经搭好了。</p>\n\n\n\n<p><strong>指令集授权：</strong>更低的授权层级，还是造房子，ARM 只给一个地基，苹果拥有更高的二次开发自由度。</p>\n\n\n\n<p><strong>Intel：</strong>公认的挤牙膏大厂。</p>\n\n\n\n<p><strong>能效比：</strong> 每瓦性能——每消耗一瓦的功耗，能达到什么样的性能水平，乔布斯总爱提的一个指标，也是 ARM 比 intel 做得优秀的地方。</p>\n\n\n\n<p><strong>复杂指令集：</strong>总被拿出来和更「优秀」的精简指令集对比，但其实两种指令集现如今已开始趋同。</p>\n\n\n\n<p><strong>大小核：</strong>很流行的芯片架构，顾名思义，大核干大事，小核干小事，降低功耗，三星，华为比较爱用，但 intel 对此不感冒。</p>\n\n\n\n<p><strong>睿频：</strong>桌面处理器概念，嗑药瞬时提升性能。</p>\n\n\n\n<p><strong>Surface pro x：</strong>ARM 形态的 windows 本子，薄，续航长，微软不强调 ARM，可能觉得大部分人听不懂。</p>\n\n\n\n<p><strong>7nm：</strong>意义不大，可能是一种厂商提出来的营销概念。</p>\n\n\n\n<p><strong>Rosetta：</strong>一个翻译官，一种动态二进制转译器（或指令解释器），可将 x86 指令转译为 ARM 指令。</p>\n\n\n\n<p><strong>Universal：</strong>一鱼两吃，一套代码打包成两套方案，兼容 Intel 和 ARM。</p>\n\n\n\n<p><strong>快捷指令：</strong>苹果的一种自动化工具，技术门槛高，实用性不强。</p>\n\n\n\n<p><strong>微信小程序：</strong>被爱的有恃无恐，小厂苹果只敢在虚拟支付上和微信较劲，比如反派影评付费节目惨无人道的收听体验。</p>\n\n\n\n<p><strong>Safari：</strong>总会被拿来和某貔恘浏览器对比，但距离后者还有一定距离。</p>\n\n\n\n<p><strong>AirPods 空间音频：</strong>单身狗的福音，无论你看的什么电影，都能让你身历其境。</p>\n\n\n\n<h2>相关链接：</h2>\n\n\n\n<ul><li><a href=\"https://www.yicai.com/news/100669453.html\">苹果应用年交易额超5000亿美元，每部手机消费约400美元</a></li><li><a href=\"https://www.jiqizhixin.com/articles/2020-06-24-13\">最新全球TOP 500超算排行榜公布：ARM首次登顶</a></li></ul>\n\n\n\n<h2>主持：</h2>\n\n\n\n<p>王隐</p>\n\n\n\n<h2>嘉宾：</h2>\n\n\n\n<p>欧阳洋葱（微博<a href=\"https://weibo.com/illumi\">@_欧阳洋葱</a>）</p>\n\n\n\n<h2>Playlist：</h2>\n\n\n\n<p>Beautiful Ones – Suede</p>\n\n\n\n<h2>联系我们：</h2>\n\n\n\n<p>你可以通过邮件向我们反馈节目中的问题和建议：&nbsp;<a href=\"mailto://hi@webview.tech\">hi@webview.tech</a></p>\n\n\n\n<p>微博：<a href=\"https://www.weibo.com/u/7159686921\">@WEB VIEW播客</a></p>\n\n\n\n<p>我们的网站：&nbsp;<a href=\"https://webview.tech/\">webview.tech</a></p>"
+        }
+    ],
+    "wfw_commentrss": "https://webview.tech/1878/feed/",
+    "slash_comments": "1",
+    "subtitle": "又是一年WWDC，ARM芯片占据了本期节目的大部分时长，同时也对「是否还能在星巴克看到装着windows系统的Mac」这一问题进行了简要分析。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "又是一年WWDC，ARM芯片占据了本期节目的大部分时长，同时也对「是否还能在星巴克看到装着windows系统的Mac」这一问题进行了简要分析。"
+    },
+    "itunes_episode": "28",
+    "itunes_title": "WWDC20：在Mac上玩荒野乱斗",
+    "itunes_explicit": false,
+    "itunes_duration": "1:26:28"
+}

@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "81281026",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo2MzY4MCwicCI6MiwidSI6IjA5MDMubXAzIn0.dw7wvbdCejO6C5V9af4nfMcoG6c/sspai/8330981073_710903.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/ep77"
+        }
+    ],
+    "title": "从 Ask Apple 畅想 Apple 生态的未来",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "从 Ask Apple 畅想 Apple 生态的未来"
+    },
+    "id": "https://sspai.typlog.io/episodes/ep77",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/ep77",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "谈谈嘉宾们在 Apple 生态开发中积累的经验，以及对于 Apple 未来开发环境的预期与看法。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "谈谈嘉宾们在 Apple 生态开发中积累的经验，以及对于 Apple 未来开发环境的预期与看法。"
+    },
+    "itunes_duration": "1:24:32",
+    "itunes_explicit": null,
+    "itunes_episode": "77",
+    "podcast_episode": "77",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8330981082_475924.jpg?x-oss-process=style/sl"
+    },
+    "summary": "11 月 14 日至 18 日，Apple 刚刚举办了新一届 Ask Apple 活动，开发者可以通过本次活动直接与 Apple 工程师对话和交流，并获得与设计、开发等相关的最新资讯。 在活动结束后，少数派也将联合国内知名的技术社区 Swift GG 及 XR Bro ，共同举办《从 Ask Apple 畅想 Apple 生态的未来》在线直播。本期节目就是这次直播的录音回放。节目中，嘉宾东坡肘子（徐杨）和任宇杰共同分享了他们在 Apple 生态开发中积累的经验，以及对于 Apple 未来开发环境的预期与看法。 订阅《一派·Podcast》 你可以在主流播客平台搜索「一派·Podcast」或「少数派」订阅节目。 节目的 RSS 地址：https://sspai.typlog.io/feed/audio.xml 节目的《小宇宙》链接：https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567 节目大纲 00:00:15 开场 00:05:26 两位嘉宾回顾和总结自己的收获及获得的资讯 00:19:23 谈谈 iPadOS 16 的使用感受，以及 iPad 的桌面化 00:26:54 用 iPad 写代码体验如何？ 00:30:23 适配 Stage Manager 的难度 00:34:07 从 iPad 桌面化谈到 Apple silicon 00:48:10 iPhone 未来有可能使用 M 系列芯片吗？ 00:50:39 Apple 的 XR 设备会用什么芯片？ 00:56:27 开发者从 2D 转向 3D 需要做什么准备 01:05:31 谈谈灵动岛的适配和场景 01:13:18 总结 登场人物 东坡肘子（徐杨）：知名开发者，擅长 SwiftUI 开发 任宇杰：XR Bro 成员，程序员",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "11 月 14 日至 18 日，Apple 刚刚举办了新一届 Ask Apple 活动，开发者可以通过本次活动直接与 Apple 工程师对话和交流，并获得与设计、开发等相关的最新资讯。 在活动结束后，少数派也将联合国内知名的技术社区 Swift GG 及 XR Bro ，共同举办《从 Ask Apple 畅想 Apple 生态的未来》在线直播。本期节目就是这次直播的录音回放。节目中，嘉宾东坡肘子（徐杨）和任宇杰共同分享了他们在 Apple 生态开发中积累的经验，以及对于 Apple 未来开发环境的预期与看法。 订阅《一派·Podcast》 你可以在主流播客平台搜索「一派·Podcast」或「少数派」订阅节目。 节目的 RSS 地址：https://sspai.typlog.io/feed/audio.xml 节目的《小宇宙》链接：https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567 节目大纲 00:00:15 开场 00:05:26 两位嘉宾回顾和总结自己的收获及获得的资讯 00:19:23 谈谈 iPadOS 16 的使用感受，以及 iPad 的桌面化 00:26:54 用 iPad 写代码体验如何？ 00:30:23 适配 Stage Manager 的难度 00:34:07 从 iPad 桌面化谈到 Apple silicon 00:48:10 iPhone 未来有可能使用 M 系列芯片吗？ 00:50:39 Apple 的 XR 设备会用什么芯片？ 00:56:27 开发者从 2D 转向 3D 需要做什么准备 01:05:31 谈谈灵动岛的适配和场景 01:13:18 总结 登场人物 东坡肘子（徐杨）：知名开发者，擅长 SwiftUI 开发 任宇杰：XR Bro 成员，程序员"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>11 月 14 日至 18 日，Apple 刚刚举办了新一届 Ask Apple 活动，开发者可以通过本次活动直接与 Apple 工程师对话和交流，并获得与设计、开发等相关的最新资讯。</p>\n<p>在活动结束后，少数派也将联合国内知名的技术社区 Swift GG 及 XR Bro ，共同举办《从 Ask Apple 畅想 Apple 生态的未来》在线直播。本期节目就是这次直播的录音回放。节目中，嘉宾东坡肘子（徐杨）和任宇杰共同分享了他们在 Apple 生态开发中积累的经验，以及对于 Apple 未来开发环境的预期与看法。</p>\n<h2>订阅《一派·Podcast》</h2>\n<p>你可以在主流播客平台搜索「一派·Podcast」或「少数派」订阅节目。</p>\n<ul>\n<li>节目的 RSS 地址：<a href=\"https://sspai.typlog.io/feed/audio.xml\">https://sspai.typlog.io/feed/audio.xml</a></li>\n<li>节目的《小宇宙》链接：<a href=\"https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567\">https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567</a></li>\n</ul>\n<h2>节目大纲</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:15\">00:00:15</a> 开场</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:05:26\">00:05:26</a> 两位嘉宾回顾和总结自己的收获及获得的资讯</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:19:23\">00:19:23</a> 谈谈 iPadOS 16 的使用感受，以及 iPad 的桌面化</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:26:54\">00:26:54</a> 用 iPad 写代码体验如何？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:30:23\">00:30:23</a> 适配 Stage Manager 的难度</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:34:07\">00:34:07</a> 从 iPad 桌面化谈到 Apple silicon</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:48:10\">00:48:10</a> iPhone 未来有可能使用 M 系列芯片吗？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:50:39\">00:50:39</a> Apple 的 XR 设备会用什么芯片？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:56:27\">00:56:27</a> 开发者从 2D 转向 3D 需要做什么准备</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:05:31\">01:05:31</a> 谈谈灵动岛的适配和场景</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:13:18\">01:13:18</a> 总结</li>\n</ul>\n<h2>登场人物</h2>\n<ul>\n<li>东坡肘子（徐杨）：知名开发者，擅长 SwiftUI 开发</li>\n<li>任宇杰：XR Bro 成员，程序员</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>11 月 14 日至 18 日，Apple 刚刚举办了新一届 Ask Apple 活动，开发者可以通过本次活动直接与 Apple 工程师对话和交流，并获得与设计、开发等相关的最新资讯。</p>\n<p>在活动结束后，少数派也将联合国内知名的技术社区 Swift GG 及 XR Bro ，共同举办《从 Ask Apple 畅想 Apple 生态的未来》在线直播。本期节目就是这次直播的录音回放。节目中，嘉宾东坡肘子（徐杨）和任宇杰共同分享了他们在 Apple 生态开发中积累的经验，以及对于 Apple 未来开发环境的预期与看法。</p>\n<h2>订阅《一派·Podcast》</h2>\n<p>你可以在主流播客平台搜索「一派·Podcast」或「少数派」订阅节目。</p>\n<ul>\n<li>节目的 RSS 地址：<a href=\"https://sspai.typlog.io/feed/audio.xml\">https://sspai.typlog.io/feed/audio.xml</a></li>\n<li>节目的《小宇宙》链接：<a href=\"https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567\">https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567</a></li>\n</ul>\n<h2>节目大纲</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:15\">00:00:15</a> 开场</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:05:26\">00:05:26</a> 两位嘉宾回顾和总结自己的收获及获得的资讯</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:19:23\">00:19:23</a> 谈谈 iPadOS 16 的使用感受，以及 iPad 的桌面化</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:26:54\">00:26:54</a> 用 iPad 写代码体验如何？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:30:23\">00:30:23</a> 适配 Stage Manager 的难度</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:34:07\">00:34:07</a> 从 iPad 桌面化谈到 Apple silicon</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:48:10\">00:48:10</a> iPhone 未来有可能使用 M 系列芯片吗？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:50:39\">00:50:39</a> Apple 的 XR 设备会用什么芯片？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:56:27\">00:56:27</a> 开发者从 2D 转向 3D 需要做什么准备</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:05:31\">01:05:31</a> 谈谈灵动岛的适配和场景</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:13:18\">01:13:18</a> 总结</li>\n</ul>\n<h2>登场人物</h2>\n<ul>\n<li>东坡肘子（徐杨）：知名开发者，擅长 SwiftUI 开发</li>\n<li>任宇杰：XR Bro 成员，程序员</li>\n</ul>"
+        }
+    ],
+    "published": "Mon, 21 Nov 2022 08:22:48 +0000",
+    "published_parsed": [
+        2022,
+        11,
+        21,
+        8,
+        22,
+        48,
+        0,
+        325,
+        0
+    ]
+}

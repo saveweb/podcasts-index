@@ -1,0 +1,103 @@
+{
+    "title": "#18 - 和知县聊聊区块链产品如何大规模应用",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#18 - 和知县聊聊区块链产品如何大规模应用"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/18"
+        },
+        {
+            "length": "38250289",
+            "type": "audio/mpeg",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/4ed97b03-b6d8-4071-a37f-debf5e92b63a.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/18",
+    "id": "4ed97b03-b6d8-4071-a37f-debf5e92b63a",
+    "guidislink": false,
+    "published": "Wed, 16 Sep 2020 16:00:00 +0800",
+    "published_parsed": [
+        2020,
+        9,
+        16,
+        8,
+        0,
+        0,
+        2,
+        260,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "什么是对用户更好的产品？从互联网技术架构里，我们可以学到哪些东西？如何从第一性原理出发，把一些理所当然的规则打破，创造新的东西？\n\n贴近互联网用户的 Portal Wallet 诞生背后有哪些故事？如何一步步引导用户接触并深入产品？怎么把价值互联网和数据互联网结合在一起，打造一个全新的网络？",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "什么是对用户更好的产品？从互联网技术架构里，我们可以学到哪些东西？如何从第一性原理出发，把一些理所当然的规则打破，创造新的东西？\n\n贴近互联网用户的 Portal Wallet 诞生背后有哪些故事？如何一步步引导用户接触并深入产品？怎么把价值互联网和数据互联网结合在一起，打造一个全新的网络？"
+    },
+    "itunes_duration": "1:19:40",
+    "itunes_explicit": null,
+    "summary": "<p>这期我们请到了 Lay2 团队的知县，聊聊区块链产品如何大规模应用。</p>\n\n<p>什么是对用户更好的产品？从互联网技术架构里，我们可以学到哪些东西？如何从第一性原理出发，把一些理所当然的规则打破，创造新的东西？</p>\n\n<p>贴近互联网用户的 Portal Wallet 诞生背后有哪些故事？如何一步步引导用户接触并深入产品？怎么把价值互联网和数据互联网结合在一起，打造一个全新的网络？</p>\n\n<p>对一直在思考如何更好做区块链产品，如何扩大用户规模的从业者们，本期也许能提供一些有益的启发，更多精彩，敬请收听节目。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p>产品是会自己说话的，它魅力非常强，尤其是独特的产品，能给你一种享受。</p></li>\n<li><p>我以前是做互联网的，对用户门槛有着本能的厌恶，一想到要让用户下载应用，重新理解一遍这个东西，就会觉得非常难受。</p></li>\n<li><p>互联网技术也是很复杂的，不比区块链技术简单，但用户不用管，用了体验最好就行，区块链也应该是这样，公私钥和助记词这些应该全部抹掉。</p></li>\n<li><p>针对 App 钱包，只要能⽤助记词恢复的，都不是芯⽚级的安全，只是应用级和系统级的安全，而 WebAuthn 则是真正的调用芯片级接口进行签名，具备芯片级安全。</p></li>\n<li><p>不要让用户在尝到甜头之前，就被吓走，用户先进来很重要，随着接触价值变多，愿意付出的成本会上升，这才是正常的需求和过程。</p></li>\n<li><p>区块链现在很多问题非常像互联网早期，我们看到了很大的用户红利。</p></li>\n<li><p>大家都说区块链生态定死了，网络效应撼动不了，我觉得这才多少用户，就敢谈网络效应。</p></li>\n<li><p>区块链圈和互联网圈存在信息差，我们可以把这些东西搬过来，做成一个既实惠，又有效果的产品</p></li>\n<li><p>「Plug the  Blockchain into the internet」，让互联网有一个区块链层。</p></li>\n<li><p>”白嫖“其实就是一个思路，不要重复造轮子，CKB 是目前唯一有能力做这个事情的公链，而且它是我看过加密世界基础设施里，最能贴着互联网走的，而其他都是割裂的。</p></li>\n<li><p>我们还是有自信的，因为思路在这，天天想的就是这些事情。</p></li>\n</ul>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li><a href=\"https://lay2.dev/\" rel=\"nofollow\">Lay2</a></li>\n<li><a href=\"https://ckb.pw/\" rel=\"nofollow\">Portal Wallet</a></li>\n<li><a href=\"https://token.im/\" rel=\"nofollow\">imToken</a></li>\n<li><a href=\"https://ethereum.org/en/\" rel=\"nofollow\">Ethereum</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD\" rel=\"nofollow\">PKI</a></li>\n<li><a href=\"https://webauthn.guide/\" rel=\"nofollow\">WebAuthn</a></li>\n<li><a href=\"https://movie.douban.com/subject/30444960/\" rel=\"nofollow\">信条</a></li>\n<li><a href=\"https://item.jd.com/100000998932.html\" rel=\"nofollow\">索尼 WH-1000XM3</a></li>\n<li><a href=\"https://item.jd.com/100011336110.html#none\" rel=\"nofollow\">小米 10</a></li>\n</ul><p>Special Guest: 知县.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>这期我们请到了 Lay2 团队的知县，聊聊区块链产品如何大规模应用。</p>\n\n<p>什么是对用户更好的产品？从互联网技术架构里，我们可以学到哪些东西？如何从第一性原理出发，把一些理所当然的规则打破，创造新的东西？</p>\n\n<p>贴近互联网用户的 Portal Wallet 诞生背后有哪些故事？如何一步步引导用户接触并深入产品？怎么把价值互联网和数据互联网结合在一起，打造一个全新的网络？</p>\n\n<p>对一直在思考如何更好做区块链产品，如何扩大用户规模的从业者们，本期也许能提供一些有益的启发，更多精彩，敬请收听节目。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p>产品是会自己说话的，它魅力非常强，尤其是独特的产品，能给你一种享受。</p></li>\n<li><p>我以前是做互联网的，对用户门槛有着本能的厌恶，一想到要让用户下载应用，重新理解一遍这个东西，就会觉得非常难受。</p></li>\n<li><p>互联网技术也是很复杂的，不比区块链技术简单，但用户不用管，用了体验最好就行，区块链也应该是这样，公私钥和助记词这些应该全部抹掉。</p></li>\n<li><p>针对 App 钱包，只要能⽤助记词恢复的，都不是芯⽚级的安全，只是应用级和系统级的安全，而 WebAuthn 则是真正的调用芯片级接口进行签名，具备芯片级安全。</p></li>\n<li><p>不要让用户在尝到甜头之前，就被吓走，用户先进来很重要，随着接触价值变多，愿意付出的成本会上升，这才是正常的需求和过程。</p></li>\n<li><p>区块链现在很多问题非常像互联网早期，我们看到了很大的用户红利。</p></li>\n<li><p>大家都说区块链生态定死了，网络效应撼动不了，我觉得这才多少用户，就敢谈网络效应。</p></li>\n<li><p>区块链圈和互联网圈存在信息差，我们可以把这些东西搬过来，做成一个既实惠，又有效果的产品</p></li>\n<li><p>「Plug the  Blockchain into the internet」，让互联网有一个区块链层。</p></li>\n<li><p>”白嫖“其实就是一个思路，不要重复造轮子，CKB 是目前唯一有能力做这个事情的公链，而且它是我看过加密世界基础设施里，最能贴着互联网走的，而其他都是割裂的。</p></li>\n<li><p>我们还是有自信的，因为思路在这，天天想的就是这些事情。</p></li>\n</ul>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li><a href=\"https://lay2.dev/\" rel=\"nofollow\">Lay2</a></li>\n<li><a href=\"https://ckb.pw/\" rel=\"nofollow\">Portal Wallet</a></li>\n<li><a href=\"https://token.im/\" rel=\"nofollow\">imToken</a></li>\n<li><a href=\"https://ethereum.org/en/\" rel=\"nofollow\">Ethereum</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD\" rel=\"nofollow\">PKI</a></li>\n<li><a href=\"https://webauthn.guide/\" rel=\"nofollow\">WebAuthn</a></li>\n<li><a href=\"https://movie.douban.com/subject/30444960/\" rel=\"nofollow\">信条</a></li>\n<li><a href=\"https://item.jd.com/100000998932.html\" rel=\"nofollow\">索尼 WH-1000XM3</a></li>\n<li><a href=\"https://item.jd.com/100011336110.html#none\" rel=\"nofollow\">小米 10</a></li>\n</ul><p>Special Guest: 知县.</p>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>这期我们请到了 Lay2 团队的知县，聊聊区块链产品如何大规模应用。</p>\n\n<p>什么是对用户更好的产品？从互联网技术架构里，我们可以学到哪些东西？如何从第一性原理出发，把一些理所当然的规则打破，创造新的东西？</p>\n\n<p>贴近互联网用户的 Portal Wallet 诞生背后有哪些故事？如何一步步引导用户接触并深入产品？怎么把价值互联网和数据互联网结合在一起，打造一个全新的网络？</p>\n\n<p>对一直在思考如何更好做区块链产品，如何扩大用户规模的从业者们，本期也许能提供一些有益的启发，更多精彩，敬请收听节目。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p>产品是会自己说话的，它魅力非常强，尤其是独特的产品，能给你一种享受。</p></li>\n<li><p>我以前是做互联网的，对用户门槛有着本能的厌恶，一想到要让用户下载应用，重新理解一遍这个东西，就会觉得非常难受。</p></li>\n<li><p>互联网技术也是很复杂的，不比区块链技术简单，但用户不用管，用了体验最好就行，区块链也应该是这样，公私钥和助记词这些应该全部抹掉。</p></li>\n<li><p>针对 App 钱包，只要能⽤助记词恢复的，都不是芯⽚级的安全，只是应用级和系统级的安全，而 WebAuthn 则是真正的调用芯片级接口进行签名，具备芯片级安全。</p></li>\n<li><p>不要让用户在尝到甜头之前，就被吓走，用户先进来很重要，随着接触价值变多，愿意付出的成本会上升，这才是正常的需求和过程。</p></li>\n<li><p>区块链现在很多问题非常像互联网早期，我们看到了很大的用户红利。</p></li>\n<li><p>大家都说区块链生态定死了，网络效应撼动不了，我觉得这才多少用户，就敢谈网络效应。</p></li>\n<li><p>区块链圈和互联网圈存在信息差，我们可以把这些东西搬过来，做成一个既实惠，又有效果的产品</p></li>\n<li><p>「Plug the  Blockchain into the internet」，让互联网有一个区块链层。</p></li>\n<li><p>”白嫖“其实就是一个思路，不要重复造轮子，CKB 是目前唯一有能力做这个事情的公链，而且它是我看过加密世界基础设施里，最能贴着互联网走的，而其他都是割裂的。</p></li>\n<li><p>我们还是有自信的，因为思路在这，天天想的就是这些事情。</p></li>\n</ul>\n\n<h3>Shownotes</h3>\n\n<ul>\n<li><a href=\"https://lay2.dev/\" rel=\"nofollow\">Lay2</a></li>\n<li><a href=\"https://ckb.pw/\" rel=\"nofollow\">Portal Wallet</a></li>\n<li><a href=\"https://token.im/\" rel=\"nofollow\">imToken</a></li>\n<li><a href=\"https://ethereum.org/en/\" rel=\"nofollow\">Ethereum</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD\" rel=\"nofollow\">PKI</a></li>\n<li><a href=\"https://webauthn.guide/\" rel=\"nofollow\">WebAuthn</a></li>\n<li><a href=\"https://movie.douban.com/subject/30444960/\" rel=\"nofollow\">信条</a></li>\n<li><a href=\"https://item.jd.com/100000998932.html\" rel=\"nofollow\">索尼 WH-1000XM3</a></li>\n<li><a href=\"https://item.jd.com/100011336110.html#none\" rel=\"nofollow\">小米 10</a></li>\n</ul><p>Special Guest: 知县.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+5RWS704g",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+5RWS704g\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "guest"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "http-content-length": 5901919,
+    "http-etag": "1e4b1dea6697c48a892ceaf15145fb93",
+    "http-last-modified": "Sun, 23 May 2021 01:21:10 GMT",
+    "http-last-modified-float": 1621704070.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 5901919,
+    "actual-duration": 368,
+    "sha1": "e9696f920258ca9c60f7e2916be4008f780c4bb3",
+    "md5": "1e4b1dea6697c48a892ceaf15145fb93",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/dyson.mp3",
+            "headers": {
+                "Content-Type": "audio/mpeg",
+                "Date": "Wed, 05 Apr 2023 15:47:21 GMT",
+                "ETag": "\"1e4b1dea6697c48a892ceaf15145fb93\"",
+                "Server": "tencent-cos",
+                "x-cos-hash-crc64ecma": "10036213981119894759",
+                "x-cos-request-id": "NjQyZDk4MDlfMWNkMDM4MGJfZTA0NV80NWYwMzM4",
+                "X-Cache-Lookup": "Cache Miss, Hit From Upstream Cluster, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Sun, 23 May 2021 01:21:10 GMT",
+                "Content-Length": "5901919",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "9612854474470321314",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

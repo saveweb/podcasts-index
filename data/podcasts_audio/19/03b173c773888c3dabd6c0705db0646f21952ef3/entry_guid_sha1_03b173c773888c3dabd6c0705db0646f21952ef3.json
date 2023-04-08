@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "64762314",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo2NDI5LCJwIjoyLCJ1IjoiNzc1NC5tcDMifQ.t36JsAMFQtGlBpBg1O8_29Sd6iE/sspai/8384522067_127754.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/ep2"
+        }
+    ],
+    "title": "少数派的新计划",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "少数派的新计划"
+    },
+    "id": "https://sspai.typlog.io/episodes/ep2",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/ep2",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "少数派创始人老麦、产品负责人 Sam 和主播 Nick 一起探讨了少数派近期制定的新计划，并回答了部分来自作者和读者们的问题。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "少数派创始人老麦、产品负责人 Sam 和主播 Nick 一起探讨了少数派近期制定的新计划，并回答了部分来自作者和读者们的问题。"
+    },
+    "itunes_duration": "1:07:18",
+    "itunes_explicit": null,
+    "itunes_episode": "2",
+    "podcast_episode": "2",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8384522073_492187.jpg?x-oss-process=style/sl"
+    },
+    "summary": "本期节目中，少数派创始人老麦、产品负责人 Sam 和主播 Nick 一起探讨了少数派近期制定的新计划，并回答了部分来自作者和读者们的问题。 登场人物 老麦，少数派创始人 Sam，少数派产品负责人",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "本期节目中，少数派创始人老麦、产品负责人 Sam 和主播 Nick 一起探讨了少数派近期制定的新计划，并回答了部分来自作者和读者们的问题。 登场人物 老麦，少数派创始人 Sam，少数派产品负责人"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>本期节目中，少数派创始人老麦、产品负责人 Sam 和主播 Nick 一起探讨了少数派近期制定的新计划，并回答了部分来自作者和读者们的问题。 </p>\n\n<h3>登场人物</h3>\n\n<ul>\n<li>老麦，少数派创始人 </li>\n<li>Sam，少数派产品负责人</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>本期节目中，少数派创始人老麦、产品负责人 Sam 和主播 Nick 一起探讨了少数派近期制定的新计划，并回答了部分来自作者和读者们的问题。 </p>\n\n<h3>登场人物</h3>\n\n<ul>\n<li>老麦，少数派创始人 </li>\n<li>Sam，少数派产品负责人</li>\n</ul>"
+        }
+    ],
+    "published": "Thu, 10 Oct 2019 08:00:00 +0000",
+    "published_parsed": [
+        2019,
+        10,
+        10,
+        8,
+        0,
+        0,
+        3,
+        283,
+        0
+    ]
+}

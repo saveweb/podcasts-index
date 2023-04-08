@@ -1,0 +1,77 @@
+{
+    "title": "React My Podcast｜閒談：交換一些看法",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.soundon.fm/podcasts/f5b0f726-8f6b-462a-b886-e93a06adda4c.xml",
+        "value": "React My Podcast｜閒談：交換一些看法"
+    },
+    "summary": "這是 PUA reaction 的最後一集，我和 hilda 交換了一些約會兩性的看法。\n下週會上新訪談，我們也準備了一小段預告，請到時關注我們的 IG: ＠barneystalk 囉～\n\n🎤 聽眾訪談募集中 ▶️ https://www.surveycake.com/s/emAoX\n社群媒體連結 ▶️ https://barney.soci.vip\n商業合作 ▶️ https://www.barneystalk.taipei/brand\n蘋果播客評論 ▶️ http://go.barneystalk.taipei/giveme5star",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.soundon.fm/podcasts/f5b0f726-8f6b-462a-b886-e93a06adda4c.xml",
+        "value": "這是 PUA reaction 的最後一集，我和 hilda 交換了一些約會兩性的看法。\n下週會上新訪談，我們也準備了一小段預告，請到時關注我們的 IG: ＠barneystalk 囉～\n\n🎤 聽眾訪談募集中 ▶️ https://www.surveycake.com/s/emAoX\n社群媒體連結 ▶️ https://barney.soci.vip\n商業合作 ▶️ https://www.barneystalk.taipei/brand\n蘋果播客評論 ▶️ http://go.barneystalk.taipei/giveme5star"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://player.soundon.fm/p/f5b0f726-8f6b-462a-b886-e93a06adda4c/episodes/3306d246-de5c-40ca-8a1b-c29aa58dd189"
+        },
+        {
+            "length": "1",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/EE933/track.fstry.me/p/fhb6pvb3/rss.soundon.fm/rssf/f5b0f726-8f6b-462a-b886-e93a06adda4c/feedurl/3306d246-de5c-40ca-8a1b-c29aa58dd189/rssFileVip.mp3?timestamp=1671875538634",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://player.soundon.fm/p/f5b0f726-8f6b-462a-b886-e93a06adda4c/episodes/3306d246-de5c-40ca-8a1b-c29aa58dd189",
+    "id": "3306d246-de5c-40ca-8a1b-c29aa58dd189",
+    "guidislink": false,
+    "authors": [
+        {
+            "name": "Barney"
+        },
+        {
+            "name": "Barney"
+        }
+    ],
+    "author": "Barney",
+    "author_detail": {
+        "name": "Barney"
+    },
+    "published": "Tue, 23 Nov 2021 20:00:00 GMT",
+    "published_parsed": [
+        2021,
+        11,
+        23,
+        20,
+        0,
+        0,
+        1,
+        327,
+        0
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.soundon.fm/podcasts/f5b0f726-8f6b-462a-b886-e93a06adda4c.xml",
+            "value": "<p><strong>這是 PUA reaction 的最後一集，我和 hilda 交換了一些約會兩性的看法。</strong></p>\n<p><strong>下週會上新訪談，我們也準備了一小段預告，請到時關注我們的 IG: ＠barneystalk 囉～</strong></p>\n<p><br /></p>\n<p><strong>🎤 聽眾訪談募集中 ▶️ </strong><a href=\"https://www.surveycake.com/s/emAoX\" rel=\"ugc noopener noreferrer\" target=\"_blank\"><strong>https://www.surveycake.com/s/emAoX</strong></a></p>\n<p><strong>社群媒體連結 ▶️ </strong><a href=\"https://barney.soci.vip/\" rel=\"ugc noopener noreferrer\" target=\"_blank\"><strong>https://barney.soci.vip</strong></a></p>\n<p><strong>商業合作 ▶️ </strong><a href=\"https://www.barneystalk.taipei/brand\" rel=\"ugc noopener noreferrer\" target=\"_blank\"><strong>https://www.barneystalk.taipei/brand</strong></a></p>\n<p><strong>蘋果播客評論 ▶️ </strong><a href=\"http://go.barneystalk.taipei/giveme5star\" rel=\"ugc noopener noreferrer\" target=\"_blank\"><strong>http://go.barneystalk.taipei/giveme5star</strong></a></p>"
+        }
+    ],
+    "soundon_id": "3306d246-de5c-40ca-8a1b-c29aa58dd189",
+    "soundon_createdat": "2022-12-24T07:12:47.434Z",
+    "soundon_updatedat": "2022-12-24T09:52:18.634Z",
+    "soundon_exclusive": "public",
+    "soundon_searchid": "3306d246-de5c-40ca-8a1b-c29aa58dd189",
+    "itunes_episodetype": "Full",
+    "itunes_explicit": null,
+    "itunes_duration": "2404",
+    "itunes_season": "4",
+    "itunes_episode": "17",
+    "image": {
+        "href": "https://files.soundon.fm/1671867248913-399c21f7-4c8e-4ac7-aff1-bb7a0e837644.jpg"
+    }
+}

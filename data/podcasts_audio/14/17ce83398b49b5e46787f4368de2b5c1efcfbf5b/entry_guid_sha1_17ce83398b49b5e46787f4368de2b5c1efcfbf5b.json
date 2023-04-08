@@ -1,0 +1,77 @@
+{
+    "links": [
+        {
+            "length": "43725136",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjo5OTAsImUiOjg2MjgsInAiOjIsInUiOiI4MDIxLm1wMyJ9.ivSqaDnEAT71NRqtJbvtvS9XGMg/uxcoffee/8372978482_368021.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://uxcoffee.com/episodes/91"
+        }
+    ],
+    "title": "#91：设计黑魔法：Dark Pattern",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "#91：设计黑魔法：Dark Pattern"
+    },
+    "id": "https://uxcoffee.com/episodes/91",
+    "guidislink": true,
+    "link": "https://uxcoffee.com/episodes/91",
+    "authors": [
+        {
+            "name": "UX Coffee"
+        }
+    ],
+    "author": "UX Coffee",
+    "author_detail": {
+        "name": "UX Coffee"
+    },
+    "itunes_duration": "45:33",
+    "itunes_explicit": null,
+    "itunes_season": "2",
+    "podcast_season": "2",
+    "itunes_episode": "2",
+    "podcast_episode": "2",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/uxcoffee/8372978400_833497.png?x-oss-process=style/sl"
+    },
+    "summary": "你也许经历过以下这些套路：在你没注意的时候，你的酒店订单里被绑了几张优惠券或是保险；在你不知情的情况下，你的好友突然被群发邮件，标题是「你的好友 XXX 邀请你加入 XXX」；付费订阅前体验各种愉快，取消订阅却千难万阻。有人给这些互联网上的套路起了一个名字，叫 Dark Pattern（暗黑模式）。 为什么互联网上的套路如此盛行？Dark Pattern 为什么是一个问题？作为科技公司的员工个体、或是作为一名普通用户，我们又能做些什么？ 出场嘉宾 刘飞的知乎：https://www.zhihu.com/people/laufei 夏冰莹的领英：https://www.linkedin.com/in/bingyingx/ 空气君关于拼多多砍价的知乎回答：https://www.zhihu.com/question/344320108/answer/1323132307 Jonathan Shariat 的 Twitter 账号：https://twitter.com/DesignUXUI 参考链接 收集了各种互联网 dark pattern 套路的网站：darkpatterns.org Jonathan Shariat 的著作《设计的陷阱》里提到了他的设计案例和福特 Pinto 汽车的案例分析：https://book.douban.com/subject/34940405/ Blockbuster 和 Netflix 的竞争：https://www.businessinsider.com/the-rise-and-fall-of-blockbuster-video-streaming-2020-1 UX Coffee 第 68 期节目《41 种蓝》：https://uxcoffee.com/episode/68 福特 Pinto 汽车案例分析：https://www.tortmuseum.org/ford-pinto/ LinkedIn 被起诉误导用户邀请联系人注册之后同意庭外和解：theverge.com/2015/10/2/9444067/linkedin-email-lawsuit-settlement-add-connections 工信部关于侵害用户权益行为的 app 通报，截至节目更新，已经发布了 15 批：https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2021/art_d902f99e88ea42bab468d674bac622e1.html 12321——工信部的网络不良与垃圾信息举报受理中心：https://12321.cn/ Vox 关于 dark pattern 的报道：https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy 爱范儿《用户体验设计的黑魔法》：https://www.ifanr.com/338514 节目素材 题图设计：Riceman 清仓大甩卖音频：https://v.douyin.com/enmYuks/ 23：11 和 37：46 的音乐由不亦乐乎 EnjoyMusic.ai 提供 本期赞助 UXOFFER 是一家专注于 UX 设计留学和职场培训的机构。他们会经常邀请行业大咖来给大家做线上直播分享，这些嘉宾有像在 Google、Facebook 这样的硅谷大厂的资深设计师，也有在北美顶尖名校就读的博士，他们甚至还会邀请人类学家来讲讲怎么用一些人类学的方法去做用户研究。微信搜索 UXOFFER，关注他们的公众号，这样就不会错过他们的直播课通知了。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://uxcoffee.com/feed/audio.xml",
+        "value": "你也许经历过以下这些套路：在你没注意的时候，你的酒店订单里被绑了几张优惠券或是保险；在你不知情的情况下，你的好友突然被群发邮件，标题是「你的好友 XXX 邀请你加入 XXX」；付费订阅前体验各种愉快，取消订阅却千难万阻。有人给这些互联网上的套路起了一个名字，叫 Dark Pattern（暗黑模式）。 为什么互联网上的套路如此盛行？Dark Pattern 为什么是一个问题？作为科技公司的员工个体、或是作为一名普通用户，我们又能做些什么？ 出场嘉宾 刘飞的知乎：https://www.zhihu.com/people/laufei 夏冰莹的领英：https://www.linkedin.com/in/bingyingx/ 空气君关于拼多多砍价的知乎回答：https://www.zhihu.com/question/344320108/answer/1323132307 Jonathan Shariat 的 Twitter 账号：https://twitter.com/DesignUXUI 参考链接 收集了各种互联网 dark pattern 套路的网站：darkpatterns.org Jonathan Shariat 的著作《设计的陷阱》里提到了他的设计案例和福特 Pinto 汽车的案例分析：https://book.douban.com/subject/34940405/ Blockbuster 和 Netflix 的竞争：https://www.businessinsider.com/the-rise-and-fall-of-blockbuster-video-streaming-2020-1 UX Coffee 第 68 期节目《41 种蓝》：https://uxcoffee.com/episode/68 福特 Pinto 汽车案例分析：https://www.tortmuseum.org/ford-pinto/ LinkedIn 被起诉误导用户邀请联系人注册之后同意庭外和解：theverge.com/2015/10/2/9444067/linkedin-email-lawsuit-settlement-add-connections 工信部关于侵害用户权益行为的 app 通报，截至节目更新，已经发布了 15 批：https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2021/art_d902f99e88ea42bab468d674bac622e1.html 12321——工信部的网络不良与垃圾信息举报受理中心：https://12321.cn/ Vox 关于 dark pattern 的报道：https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy 爱范儿《用户体验设计的黑魔法》：https://www.ifanr.com/338514 节目素材 题图设计：Riceman 清仓大甩卖音频：https://v.douyin.com/enmYuks/ 23：11 和 37：46 的音乐由不亦乐乎 EnjoyMusic.ai 提供 本期赞助 UXOFFER 是一家专注于 UX 设计留学和职场培训的机构。他们会经常邀请行业大咖来给大家做线上直播分享，这些嘉宾有像在 Google、Facebook 这样的硅谷大厂的资深设计师，也有在北美顶尖名校就读的博士，他们甚至还会邀请人类学家来讲讲怎么用一些人类学的方法去做用户研究。微信搜索 UXOFFER，关注他们的公众号，这样就不会错过他们的直播课通知了。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>你也许经历过以下这些套路：在你没注意的时候，你的酒店订单里被绑了几张优惠券或是保险；在你不知情的情况下，你的好友突然被群发邮件，标题是「你的好友 XXX 邀请你加入 XXX」；付费订阅前体验各种愉快，取消订阅却千难万阻。有人给这些互联网上的套路起了一个名字，叫 Dark Pattern（暗黑模式）。</p>\n<p>为什么互联网上的套路如此盛行？Dark Pattern 为什么是一个问题？作为科技公司的员工个体、或是作为一名普通用户，我们又能做些什么？</p>\n<p><strong>出场嘉宾</strong></p>\n<ul>\n<li>刘飞的知乎：<a href=\"https://www.zhihu.com/people/laufei\">https://www.zhihu.com/people/laufei</a></li>\n<li>夏冰莹的领英：<a href=\"https://www.linkedin.com/in/bingyingx/\">https://www.linkedin.com/in/bingyingx/</a></li>\n<li>空气君关于拼多多砍价的知乎回答：<a href=\"https://www.zhihu.com/question/344320108/answer/1323132307\">https://www.zhihu.com/question/344320108/answer/1323132307</a></li>\n<li>Jonathan Shariat 的 Twitter 账号：<a href=\"https://twitter.com/DesignUXUI\">https://twitter.com/DesignUXUI</a></li>\n</ul>\n<p><strong>参考链接</strong></p>\n<ul>\n<li>收集了各种互联网 dark pattern 套路的网站：<a href=\"http://darkpatterns.org\">darkpatterns.org</a></li>\n<li>Jonathan Shariat 的著作《设计的陷阱》里提到了他的设计案例和福特 Pinto 汽车的案例分析：<a href=\"https://book.douban.com/subject/34940405/\">https://book.douban.com/subject/34940405/</a></li>\n<li>Blockbuster 和 Netflix 的竞争：<a href=\"https://www.businessinsider.com/the-rise-and-fall-of-blockbuster-video-streaming-2020-1\">https://www.businessinsider.com/the-rise-and-fall-of-blockbuster-video-streaming-2020-1</a></li>\n<li>UX Coffee 第 68 期节目《41 种蓝》：<a href=\"https://uxcoffee.com/episode/68\">https://uxcoffee.com/episode/68</a></li>\n<li>福特 Pinto 汽车案例分析：<a href=\"https://www.tortmuseum.org/ford-pinto/\">https://www.tortmuseum.org/ford-pinto/</a></li>\n<li>LinkedIn 被起诉误导用户邀请联系人注册之后同意庭外和解：<a href=\"http://theverge.com/2015/10/2/9444067/linkedin-email-lawsuit-settlement-add-connections\">theverge.com/2015/10/2/9444067/linkedin-email-lawsuit-settlement-add-connections</a></li>\n<li>工信部关于侵害用户权益行为的 app 通报，截至节目更新，已经发布了 15 批：<a href=\"https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2021/art_d902f99e88ea42bab468d674bac622e1.html\">https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2021/art_d902f99e88ea42bab468d674bac622e1.html</a></li>\n<li>12321——工信部的网络不良与垃圾信息举报受理中心：<a href=\"https://12321.cn/\">https://12321.cn/</a></li>\n<li>Vox 关于 dark pattern 的报道：<a href=\"https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy\">https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy</a></li>\n<li>爱范儿《用户体验设计的黑魔法》：<a href=\"https://www.ifanr.com/338514\">https://www.ifanr.com/338514</a></li>\n</ul>\n<p><strong>节目素材</strong></p>\n<ul>\n<li>题图设计：Riceman</li>\n<li>清仓大甩卖音频：<a href=\"https://v.douyin.com/enmYuks/\">https://v.douyin.com/enmYuks/</a></li>\n<li>23：11 和 37：46 的音乐由不亦乐乎 <a href=\"http://enjoymusic.ai\">EnjoyMusic.ai</a> 提供</li>\n</ul>\n<p><strong>本期赞助</strong></p>\n<ul>\n<li>UXOFFER 是一家专注于 UX 设计留学和职场培训的机构。他们会经常邀请行业大咖来给大家做线上直播分享，这些嘉宾有像在 Google、Facebook 这样的硅谷大厂的资深设计师，也有在北美顶尖名校就读的博士，他们甚至还会邀请人类学家来讲讲怎么用一些人类学的方法去做用户研究。微信搜索 UXOFFER，关注他们的公众号，这样就不会错过他们的直播课通知了。</li>\n</ul>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://uxcoffee.com/feed/audio.xml",
+            "value": "<p>你也许经历过以下这些套路：在你没注意的时候，你的酒店订单里被绑了几张优惠券或是保险；在你不知情的情况下，你的好友突然被群发邮件，标题是「你的好友 XXX 邀请你加入 XXX」；付费订阅前体验各种愉快，取消订阅却千难万阻。有人给这些互联网上的套路起了一个名字，叫 Dark Pattern（暗黑模式）。</p>\n<p>为什么互联网上的套路如此盛行？Dark Pattern 为什么是一个问题？作为科技公司的员工个体、或是作为一名普通用户，我们又能做些什么？</p>\n<p><strong>出场嘉宾</strong></p>\n<ul>\n<li>刘飞的知乎：<a href=\"https://www.zhihu.com/people/laufei\">https://www.zhihu.com/people/laufei</a></li>\n<li>夏冰莹的领英：<a href=\"https://www.linkedin.com/in/bingyingx/\">https://www.linkedin.com/in/bingyingx/</a></li>\n<li>空气君关于拼多多砍价的知乎回答：<a href=\"https://www.zhihu.com/question/344320108/answer/1323132307\">https://www.zhihu.com/question/344320108/answer/1323132307</a></li>\n<li>Jonathan Shariat 的 Twitter 账号：<a href=\"https://twitter.com/DesignUXUI\">https://twitter.com/DesignUXUI</a></li>\n</ul>\n<p><strong>参考链接</strong></p>\n<ul>\n<li>收集了各种互联网 dark pattern 套路的网站：<a href=\"http://darkpatterns.org\">darkpatterns.org</a></li>\n<li>Jonathan Shariat 的著作《设计的陷阱》里提到了他的设计案例和福特 Pinto 汽车的案例分析：<a href=\"https://book.douban.com/subject/34940405/\">https://book.douban.com/subject/34940405/</a></li>\n<li>Blockbuster 和 Netflix 的竞争：<a href=\"https://www.businessinsider.com/the-rise-and-fall-of-blockbuster-video-streaming-2020-1\">https://www.businessinsider.com/the-rise-and-fall-of-blockbuster-video-streaming-2020-1</a></li>\n<li>UX Coffee 第 68 期节目《41 种蓝》：<a href=\"https://uxcoffee.com/episode/68\">https://uxcoffee.com/episode/68</a></li>\n<li>福特 Pinto 汽车案例分析：<a href=\"https://www.tortmuseum.org/ford-pinto/\">https://www.tortmuseum.org/ford-pinto/</a></li>\n<li>LinkedIn 被起诉误导用户邀请联系人注册之后同意庭外和解：<a href=\"http://theverge.com/2015/10/2/9444067/linkedin-email-lawsuit-settlement-add-connections\">theverge.com/2015/10/2/9444067/linkedin-email-lawsuit-settlement-add-connections</a></li>\n<li>工信部关于侵害用户权益行为的 app 通报，截至节目更新，已经发布了 15 批：<a href=\"https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2021/art_d902f99e88ea42bab468d674bac622e1.html\">https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2021/art_d902f99e88ea42bab468d674bac622e1.html</a></li>\n<li>12321——工信部的网络不良与垃圾信息举报受理中心：<a href=\"https://12321.cn/\">https://12321.cn/</a></li>\n<li>Vox 关于 dark pattern 的报道：<a href=\"https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy\">https://www.vox.com/recode/22351108/dark-patterns-ui-web-design-privacy</a></li>\n<li>爱范儿《用户体验设计的黑魔法》：<a href=\"https://www.ifanr.com/338514\">https://www.ifanr.com/338514</a></li>\n</ul>\n<p><strong>节目素材</strong></p>\n<ul>\n<li>题图设计：Riceman</li>\n<li>清仓大甩卖音频：<a href=\"https://v.douyin.com/enmYuks/\">https://v.douyin.com/enmYuks/</a></li>\n<li>23：11 和 37：46 的音乐由不亦乐乎 <a href=\"http://enjoymusic.ai\">EnjoyMusic.ai</a> 提供</li>\n</ul>\n<p><strong>本期赞助</strong></p>\n<ul>\n<li>UXOFFER 是一家专注于 UX 设计留学和职场培训的机构。他们会经常邀请行业大咖来给大家做线上直播分享，这些嘉宾有像在 Google、Facebook 这样的硅谷大厂的资深设计师，也有在北美顶尖名校就读的博士，他们甚至还会邀请人类学家来讲讲怎么用一些人类学的方法去做用户研究。微信搜索 UXOFFER，关注他们的公众号，这样就不会错过他们的直播课通知了。</li>\n</ul>"
+        }
+    ],
+    "published": "Fri, 23 Jul 2021 06:29:01 +0000",
+    "published_parsed": [
+        2021,
+        7,
+        23,
+        6,
+        29,
+        1,
+        4,
+        204,
+        0
+    ]
+}

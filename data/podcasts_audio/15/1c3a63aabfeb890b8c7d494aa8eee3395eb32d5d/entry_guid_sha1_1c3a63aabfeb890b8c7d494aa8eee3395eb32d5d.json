@@ -1,0 +1,100 @@
+{
+    "title": "19. 已经 11 岁的 Android，成熟了吗？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "19. 已经 11 岁的 Android，成熟了吗？"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://webview.tech/1350/"
+        },
+        {
+            "length": "139299370",
+            "type": "audio/mpeg",
+            "href": "https://podcast.webview.tech/19.Android.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://webview.tech/1350/",
+    "comments": "https://webview.tech/1350/#respond",
+    "published": "Wed, 19 Jun 2019 09:16:22 +0000",
+    "published_parsed": [
+        2019,
+        6,
+        19,
+        9,
+        16,
+        22,
+        2,
+        170,
+        0
+    ],
+    "authors": [
+        {
+            "name": "王隐"
+        },
+        {
+            "name": "王隐，敬礼"
+        }
+    ],
+    "author": "王隐，敬礼",
+    "author_detail": {
+        "name": "王隐"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "Android",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "Google",
+            "scheme": null,
+            "label": null
+        },
+        {
+            "term": "原生",
+            "scheme": null,
+            "label": null
+        }
+    ],
+    "id": "https://webview.tech/?p=1350",
+    "guidislink": false,
+    "summary": "从年出货量来看，Android 手机仍高居榜首，2019年，是时候聊聊已经 11 岁的 Android 了。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "从年出货量来看，Android 手机仍高居榜首，2019年，是时候聊聊已经 11 岁的 Android 了。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://webview.tech/category/podcast/feed/",
+            "value": "<p>从年出货量来看，Android 手机仍高居榜首，2019年，是时候聊聊已经 11 岁的 Android 了。</p>\n\n\n\n<h2>SHOWNOTE：</h2>\n\n\n\n<ul><li>安卓市场份额占比：<a href=\"https://deviceatlas.com/blog/android-v-ios-market-share\">Android v iOS market share 2019</a></li><li>如何衡量手机系统份额？持有率？</li><li>洋葱的「全球反苹果联盟」，<a href=\"http://blog.sina.com.cn/s/blog_4c83579c0100s70o.html\">南都采访原文</a></li><li>原生 Android</li><li>Google AOSP 与 Google GMS</li><li>安卓卡顿的原因是什么？现在还会卡吗？</li><li>Android Jelly Bean 黄油计划</li><li>Android receiver</li><li>强制 GPU 做2D渲染（Android 开发者模式）</li><li>Android 绿色守护</li><li>硬件绝对性能：Apple VS Android</li><li>安全性：Apple VS Android</li><li>Android project treble</li><li>为什么安卓更新到最新版本的人比苹果少？</li><li>Android 9.0 向前兼容的问题？</li><li>Android root 还有必要吗？</li><li>Android 转 Apple，Apple 转 Android</li><li>Google 对 Android 生态的指导性</li></ul>\n\n\n\n<h2>主持：</h2>\n\n\n\n<p>王隐（<a href=\"http://weibo.com/recwangyin\">@王隐在录音</a>）</p>\n\n\n\n<p>敬礼</p>\n\n\n\n<h2>嘉宾：</h2>\n\n\n\n<p>欧阳洋葱（微博<a href=\"https://weibo.com/illumi\">@_欧阳洋葱</a>）</p>\n\n\n\n<h2>playlist：</h2>\n\n\n\n<p>Beautiful Ones – Suede</p>\n\n\n\n<h2>联系我们：</h2>\n\n\n\n<p>你可以通过邮件向我们反馈节目中的问题和建议： <a href=\"mailto://hi@webview.tech\">hi@webview.tech</a></p>\n\n\n\n<p>微博：<a href=\"https://weibo.com/u/7159686921\">@网页观点</a></p>\n\n\n\n<p>我们的网站： <a href=\"https://webview.tech/\">webview.tech</a></p>"
+        }
+    ],
+    "wfw_commentrss": "https://webview.tech/1350/feed/",
+    "slash_comments": "0",
+    "subtitle": "从年出货量来看，Android 手机仍高居榜首，2019年，是时候聊聊已经 11 岁的 Android 了。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://webview.tech/category/podcast/feed/",
+        "value": "从年出货量来看，Android 手机仍高居榜首，2019年，是时候聊聊已经 11 岁的 Android 了。"
+    },
+    "itunes_episode": "19",
+    "itunes_title": "已经 11 岁的 Android，成熟了吗？",
+    "itunes_explicit": false,
+    "itunes_duration": "1:12:32"
+}

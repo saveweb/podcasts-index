@@ -1,0 +1,34 @@
+{
+    "http-content-length": 42435446,
+    "http-etag": "c8386b977553e70d25cb99d607a2a189-6",
+    "http-last-modified": "Fri, 06 Jan 2023 15:19:30 GMT",
+    "http-last-modified-float": 1672989570.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 42435446,
+    "actual-duration": 5289,
+    "sha1": "e7739e091eb18ee9e80ae0cf658edcf322498c7b",
+    "md5": "ac535968bc4ea689cd67039954052aaa",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://talkcdn.swift.gg/audio/2022-xmas.mp3",
+            "headers": {
+                "Etag": "\"c8386b977553e70d25cb99d607a2a189-6\"",
+                "Content-Type": "audio/mpeg",
+                "Server": "stsoc_lego_JR5",
+                "Date": "Wed, 05 Apr 2023 15:49:21 GMT",
+                "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+                "Last-Modified": "Fri, 06 Jan 2023 15:19:30 GMT",
+                "Content-Length": "42435446",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "18039199496346783214",
+                "Connection": "keep-alive",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET,OPTIONS",
+                "Access-Control-Expose-Headers": "*"
+            }
+        }
+    }
+}

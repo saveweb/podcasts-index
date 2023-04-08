@@ -1,0 +1,103 @@
+{
+    "title": "#12 - 和 Ted 聊聊 HotStuff 背后的故事",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "#12 - 和 Ted 聊聊 HotStuff 背后的故事"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://forkit.fm/12"
+        },
+        {
+            "length": "43909247",
+            "type": "audio/mp3",
+            "href": "https://aphid.fireside.fm/d/1437767933/334350f0-77d5-4fdd-b27d-7bf0c60a4d26/8a7598c5-8bc3-4f18-be85-1d6d365297c6.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://forkit.fm/12",
+    "id": "8a7598c5-8bc3-4f18-be85-1d6d365297c6",
+    "guidislink": false,
+    "published": "Fri, 10 Apr 2020 18:00:00 +0800",
+    "published_parsed": [
+        2020,
+        4,
+        10,
+        10,
+        0,
+        0,
+        4,
+        101,
+        0
+    ],
+    "authors": [
+        {
+            "name": "Fork It"
+        },
+        {
+            "name": "Fork It"
+        }
+    ],
+    "author": "Fork It",
+    "author_detail": {
+        "name": "Fork It"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "HotStuff 算法是如何诞生的？ 这个名字背后有哪些有趣的小故事？在其被 Facebook 选择大火之后，为什么反而说是有点讽刺的一件事？\n\n怎么辨析 Avalanche 和 HotStuff ？在美国创业找靠谱的人困难吗？为什么 Ted 希望大家在未来能更少的去关注共识？",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "HotStuff 算法是如何诞生的？ 这个名字背后有哪些有趣的小故事？在其被 Facebook 选择大火之后，为什么反而说是有点讽刺的一件事？\n\n怎么辨析 Avalanche 和 HotStuff ？在美国创业找靠谱的人困难吗？为什么 Ted 希望大家在未来能更少的去关注共识？"
+    },
+    "itunes_duration": "1:31:28",
+    "itunes_explicit": null,
+    "summary": "<p>本期为 11 期的延续，我们继续和 Ted 聊聊他的学术和创业经历。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p><em>HotStuff 算法的诞生，一部分源于 PhD 第 1 年做的一个失败的 CFT(Crash Fault Tolerance) 研究。</em></p></li>\n<li><p><em>Dahlia 作为一个女性研究者，特意用「HotStuff」这个名字来揶揄大家的政治正确。</em></p></li>\n<li><p><em>有人老会抱怨，别人总是把东西先弄出来 ，我们只能跟在后面学，但明明有机会做不一样东西的时候，却怂了，这是比较讽刺的地方。</em></p></li>\n<li><p><em>是不是很多时候我们缺乏勇气，就不敢自己出来，硬起来做点事情。</em></p></li>\n<li><p><em>HotStuff 和 Avalanche 是我学术上两个很有意义的尝试，前者是基于成熟的办法，去做成熟的解决方案 ，后者更多是学术上的一个反思。</em></p></li>\n<li><p><em>在美国创业找靠谱的人很困难，中国人统计意义上真的很厉害。</em></p></li>\n<li><p><em>AVA Labs 目前主要在写基础架构的是一个 2.5 年就从康奈尔本科毕业的小天才。</em></p></li>\n<li><p><em>得知道什么是好坏美丑，虽然美的不一定赚钱， 甚至丑的可以成功，但是我们得知道，无论它再怎么成功，它也是丑的。</em></p></li>\n<li><p><em>希望未来大家更少去关注共识，因为如果总是在说一件事情，说明这个东西还没做完。</em></p></li>\n<li><p><em>Vitalik 很聪明，但有点过分神话，他有其局限性，并不特别「懂」共识。</em></p></li>\n</ul>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://github.com/ava-labs\" rel=\"nofollow\">Ava Labs, Inc.</a></li>\n<li><a href=\"https://www.chainnews.com/articles/426250269269.htm\" rel=\"nofollow\">Libra 采用的 HotStuff 算法作者亲述：「尤物」诞生记</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/VMware\" rel=\"nofollow\">VMware</a></li>\n<li><a href=\"https://arxiv.org/pdf/1906.08936.pdf\" rel=\"nofollow\">Scalable and Probabilistic Leaderless BFT Consensus through Metastability By Team Rocket</a></li>\n<li><a href=\"https://github.com/ava-labs\" rel=\"nofollow\">AVA Labs GitHub</a></li>\n<li><a href=\"https://sites.google.com/view/renling\" rel=\"nofollow\">Ling Ren</a></li>\n<li><a href=\"https://lamport.azurewebsites.net/pubs/time-clocks.pdf\" rel=\"nofollow\">Time, Clocks, and the Ordering of Events in a Distributed System By Leslie Lamport</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hans/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB\" rel=\"nofollow\">EVA</a></li>\n<li><a href=\"https://git.tedyin.com/nerv/about/\" rel=\"nofollow\">Ted 做的 Nerv 系统</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%94%BB%E6%AE%BC%E6%A9%9F%E5%8B%95%E9%9A%8A\" rel=\"nofollow\">攻壳机动队</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD\" rel=\"nofollow\">黑客帝国</a></li>\n<li><a href=\"https://m.douban.com/book/subject/1046265/\" rel=\"nofollow\">挪威的森林</a></li>\n<li><a href=\"https://www.nintendo.com.hk/switch/animal_crossing_new_horizons/\" rel=\"nofollow\">Switch 动物森友会</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hans/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077\" rel=\"nofollow\">赛博朋克 2077</a></li>\n<li><a href=\"https://github.com/vim/vim\" rel=\"nofollow\">vim</a></li>\n<li><a href=\"https://github.com/neovim/neovim\" rel=\"nofollow\">neovim</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Emacs\" rel=\"nofollow\">Emacs</a></li>\n<li><a href=\"https://www.amazon.com/chromebook/s?k=chromebook\" rel=\"nofollow\">ChromeBook</a></li>\n<li><a href=\"https://tedyin.com/posts/archlinux-on-pixelbook/\" rel=\"nofollow\">Archlinux on Pixelbook</a></li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/36808225\" rel=\"nofollow\">在 Pixelbook 上用 Archlinux 工作</a> </li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/37626893\" rel=\"nofollow\">Rusty Nixie! 完全使用 Rust 制作辉光钟（1）</a> </li>\n</ul><p>Special Guests: Ted Yin and 万涔涔.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/forkit/rss",
+        "value": "<p>本期为 11 期的延续，我们继续和 Ted 聊聊他的学术和创业经历。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p><em>HotStuff 算法的诞生，一部分源于 PhD 第 1 年做的一个失败的 CFT(Crash Fault Tolerance) 研究。</em></p></li>\n<li><p><em>Dahlia 作为一个女性研究者，特意用「HotStuff」这个名字来揶揄大家的政治正确。</em></p></li>\n<li><p><em>有人老会抱怨，别人总是把东西先弄出来 ，我们只能跟在后面学，但明明有机会做不一样东西的时候，却怂了，这是比较讽刺的地方。</em></p></li>\n<li><p><em>是不是很多时候我们缺乏勇气，就不敢自己出来，硬起来做点事情。</em></p></li>\n<li><p><em>HotStuff 和 Avalanche 是我学术上两个很有意义的尝试，前者是基于成熟的办法，去做成熟的解决方案 ，后者更多是学术上的一个反思。</em></p></li>\n<li><p><em>在美国创业找靠谱的人很困难，中国人统计意义上真的很厉害。</em></p></li>\n<li><p><em>AVA Labs 目前主要在写基础架构的是一个 2.5 年就从康奈尔本科毕业的小天才。</em></p></li>\n<li><p><em>得知道什么是好坏美丑，虽然美的不一定赚钱， 甚至丑的可以成功，但是我们得知道，无论它再怎么成功，它也是丑的。</em></p></li>\n<li><p><em>希望未来大家更少去关注共识，因为如果总是在说一件事情，说明这个东西还没做完。</em></p></li>\n<li><p><em>Vitalik 很聪明，但有点过分神话，他有其局限性，并不特别「懂」共识。</em></p></li>\n</ul>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://github.com/ava-labs\" rel=\"nofollow\">Ava Labs, Inc.</a></li>\n<li><a href=\"https://www.chainnews.com/articles/426250269269.htm\" rel=\"nofollow\">Libra 采用的 HotStuff 算法作者亲述：「尤物」诞生记</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/VMware\" rel=\"nofollow\">VMware</a></li>\n<li><a href=\"https://arxiv.org/pdf/1906.08936.pdf\" rel=\"nofollow\">Scalable and Probabilistic Leaderless BFT Consensus through Metastability By Team Rocket</a></li>\n<li><a href=\"https://github.com/ava-labs\" rel=\"nofollow\">AVA Labs GitHub</a></li>\n<li><a href=\"https://sites.google.com/view/renling\" rel=\"nofollow\">Ling Ren</a></li>\n<li><a href=\"https://lamport.azurewebsites.net/pubs/time-clocks.pdf\" rel=\"nofollow\">Time, Clocks, and the Ordering of Events in a Distributed System By Leslie Lamport</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hans/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB\" rel=\"nofollow\">EVA</a></li>\n<li><a href=\"https://git.tedyin.com/nerv/about/\" rel=\"nofollow\">Ted 做的 Nerv 系统</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%94%BB%E6%AE%BC%E6%A9%9F%E5%8B%95%E9%9A%8A\" rel=\"nofollow\">攻壳机动队</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD\" rel=\"nofollow\">黑客帝国</a></li>\n<li><a href=\"https://m.douban.com/book/subject/1046265/\" rel=\"nofollow\">挪威的森林</a></li>\n<li><a href=\"https://www.nintendo.com.hk/switch/animal_crossing_new_horizons/\" rel=\"nofollow\">Switch 动物森友会</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hans/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077\" rel=\"nofollow\">赛博朋克 2077</a></li>\n<li><a href=\"https://github.com/vim/vim\" rel=\"nofollow\">vim</a></li>\n<li><a href=\"https://github.com/neovim/neovim\" rel=\"nofollow\">neovim</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Emacs\" rel=\"nofollow\">Emacs</a></li>\n<li><a href=\"https://www.amazon.com/chromebook/s?k=chromebook\" rel=\"nofollow\">ChromeBook</a></li>\n<li><a href=\"https://tedyin.com/posts/archlinux-on-pixelbook/\" rel=\"nofollow\">Archlinux on Pixelbook</a></li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/36808225\" rel=\"nofollow\">在 Pixelbook 上用 Archlinux 工作</a> </li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/37626893\" rel=\"nofollow\">Rusty Nixie! 完全使用 Rust 制作辉光钟（1）</a> </li>\n</ul><p>Special Guests: Ted Yin and 万涔涔.</p>"
+    },
+    "tags": [
+        {
+            "term": "blockchain",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "programming",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "区块链",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "技术",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/forkit/rss",
+            "value": "<p>本期为 11 期的延续，我们继续和 Ted 聊聊他的学术和创业经历。</p>\n\n<h3>摘要</h3>\n\n<ul>\n<li><p><em>HotStuff 算法的诞生，一部分源于 PhD 第 1 年做的一个失败的 CFT(Crash Fault Tolerance) 研究。</em></p></li>\n<li><p><em>Dahlia 作为一个女性研究者，特意用「HotStuff」这个名字来揶揄大家的政治正确。</em></p></li>\n<li><p><em>有人老会抱怨，别人总是把东西先弄出来 ，我们只能跟在后面学，但明明有机会做不一样东西的时候，却怂了，这是比较讽刺的地方。</em></p></li>\n<li><p><em>是不是很多时候我们缺乏勇气，就不敢自己出来，硬起来做点事情。</em></p></li>\n<li><p><em>HotStuff 和 Avalanche 是我学术上两个很有意义的尝试，前者是基于成熟的办法，去做成熟的解决方案 ，后者更多是学术上的一个反思。</em></p></li>\n<li><p><em>在美国创业找靠谱的人很困难，中国人统计意义上真的很厉害。</em></p></li>\n<li><p><em>AVA Labs 目前主要在写基础架构的是一个 2.5 年就从康奈尔本科毕业的小天才。</em></p></li>\n<li><p><em>得知道什么是好坏美丑，虽然美的不一定赚钱， 甚至丑的可以成功，但是我们得知道，无论它再怎么成功，它也是丑的。</em></p></li>\n<li><p><em>希望未来大家更少去关注共识，因为如果总是在说一件事情，说明这个东西还没做完。</em></p></li>\n<li><p><em>Vitalik 很聪明，但有点过分神话，他有其局限性，并不特别「懂」共识。</em></p></li>\n</ul>\n\n<h3>ShowNotes</h3>\n\n<ul>\n<li><a href=\"https://github.com/ava-labs\" rel=\"nofollow\">Ava Labs, Inc.</a></li>\n<li><a href=\"https://www.chainnews.com/articles/426250269269.htm\" rel=\"nofollow\">Libra 采用的 HotStuff 算法作者亲述：「尤物」诞生记</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/VMware\" rel=\"nofollow\">VMware</a></li>\n<li><a href=\"https://arxiv.org/pdf/1906.08936.pdf\" rel=\"nofollow\">Scalable and Probabilistic Leaderless BFT Consensus through Metastability By Team Rocket</a></li>\n<li><a href=\"https://github.com/ava-labs\" rel=\"nofollow\">AVA Labs GitHub</a></li>\n<li><a href=\"https://sites.google.com/view/renling\" rel=\"nofollow\">Ling Ren</a></li>\n<li><a href=\"https://lamport.azurewebsites.net/pubs/time-clocks.pdf\" rel=\"nofollow\">Time, Clocks, and the Ordering of Events in a Distributed System By Leslie Lamport</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hans/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB\" rel=\"nofollow\">EVA</a></li>\n<li><a href=\"https://git.tedyin.com/nerv/about/\" rel=\"nofollow\">Ted 做的 Nerv 系统</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E6%94%BB%E6%AE%BC%E6%A9%9F%E5%8B%95%E9%9A%8A\" rel=\"nofollow\">攻壳机动队</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD\" rel=\"nofollow\">黑客帝国</a></li>\n<li><a href=\"https://m.douban.com/book/subject/1046265/\" rel=\"nofollow\">挪威的森林</a></li>\n<li><a href=\"https://www.nintendo.com.hk/switch/animal_crossing_new_horizons/\" rel=\"nofollow\">Switch 动物森友会</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hans/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077\" rel=\"nofollow\">赛博朋克 2077</a></li>\n<li><a href=\"https://github.com/vim/vim\" rel=\"nofollow\">vim</a></li>\n<li><a href=\"https://github.com/neovim/neovim\" rel=\"nofollow\">neovim</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Emacs\" rel=\"nofollow\">Emacs</a></li>\n<li><a href=\"https://www.amazon.com/chromebook/s?k=chromebook\" rel=\"nofollow\">ChromeBook</a></li>\n<li><a href=\"https://tedyin.com/posts/archlinux-on-pixelbook/\" rel=\"nofollow\">Archlinux on Pixelbook</a></li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/36808225\" rel=\"nofollow\">在 Pixelbook 上用 Archlinux 工作</a> </li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/37626893\" rel=\"nofollow\">Rusty Nixie! 完全使用 Rust 制作辉光钟（1）</a> </li>\n</ul><p>Special Guests: Ted Yin and 万涔涔.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/-GipuSZ4+j5cOoJnU",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/-GipuSZ4+j5cOoJnU\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "guest"
+    }
+}
