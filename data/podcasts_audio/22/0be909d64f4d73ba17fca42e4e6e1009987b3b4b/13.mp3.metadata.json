@@ -1,0 +1,50 @@
+{
+    "http-content-length": 164924066,
+    "http-etag": "456f836689ec624ddebeecb2acc4f455-20",
+    "http-last-modified": "Mon, 14 Nov 2022 00:11:52 GMT",
+    "http-last-modified-float": 1668355912.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 164924066,
+    "actual-duration": 8235,
+    "sha1": "7e9df1ade577d6fada55f6313e9b9e4ae0d8393e",
+    "md5": "0cb73bcf91034924a813c64309eb0a97",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://chrt.fm/track/341GD8/https://bds-1303145491.file.myqcloud.com/13.mp3",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "0",
+                "Connection": "keep-alive",
+                "Date": "Sat, 08 Apr 2023 05:30:24 GMT",
+                "Server": "nginx/1.21.6",
+                "Location": "https://bds-1303145491.file.myqcloud.com/13.mp3",
+                "Access-Control-Allow-Origin": "*",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 8998788f3fd868ad25b9404e8c5b09f8.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "TPE51-C1",
+                "X-Amz-Cf-Id": "Ufgs8fWKnGikNR45_Xg9cCCFV3CJ5W8Co1FumhlpkwAC5lE-1o7_tw=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://bds-1303145491.file.myqcloud.com/13.mp3",
+            "headers": {
+                "Etag": "\"456f836689ec624ddebeecb2acc4f455-20\"",
+                "Content-Type": "audio/mpeg",
+                "Date": "Mon, 27 Mar 2023 11:03:29 GMT",
+                "Server": "tencent-cos",
+                "x-cos-hash-crc64ecma": "4682674067259530360",
+                "x-cos-request-id": "NjQyMTc4MDFfNzJjYzNiMGJfYmIxM19jMzI2MTc=",
+                "X-Cache-Lookup": "Cache Hit, Cache Miss",
+                "Last-Modified": "Mon, 14 Nov 2022 00:11:52 GMT",
+                "Content-Length": "164924066",
+                "Accept-Ranges": "bytes",
+                "X-NWS-LOG-UUID": "5266118941093083473",
+                "Connection": "keep-alive"
+            }
+        }
+    }
+}

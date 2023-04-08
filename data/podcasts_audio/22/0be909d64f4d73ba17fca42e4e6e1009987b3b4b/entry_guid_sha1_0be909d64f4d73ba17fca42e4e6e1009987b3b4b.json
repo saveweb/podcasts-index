@@ -1,0 +1,68 @@
+{
+    "title": "Vol.13 重启",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bds.wht.one/feed.xml",
+        "value": "Vol.13 重启"
+    },
+    "summary": "",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bds.wht.one/feed.xml",
+        "value": ""
+    },
+    "authors": [
+        {
+            "name": "𝕫𝕙.𝕗𝕪𝕚"
+        }
+    ],
+    "author": "𝕫𝕙.𝕗𝕪𝕚",
+    "author_detail": {
+        "name": "𝕫𝕙.𝕗𝕪𝕚"
+    },
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bds.wht.one/feed.xml",
+        "value": ""
+    },
+    "image": {
+        "href": "https://bds.wht.one/img/13.jpg"
+    },
+    "links": [
+        {
+            "length": "164924066",
+            "type": "audio/mpeg",
+            "href": "https://chrt.fm/track/341GD8/https://bds-1303145491.file.myqcloud.com/13.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://bds.wht.one/volume/13/"
+        }
+    ],
+    "id": "https://bds.wht.one/13",
+    "guidislink": true,
+    "link": "https://bds.wht.one/volume/13/",
+    "published": "Mon, 14 Nov 2022 07:38:29 GMT",
+    "published_parsed": [
+        2022,
+        11,
+        14,
+        7,
+        38,
+        29,
+        0,
+        318,
+        0
+    ],
+    "itunes_duration": "02:17:16",
+    "psc_chapters": {
+        "version": "1.2",
+        "chapters": []
+    }
+}

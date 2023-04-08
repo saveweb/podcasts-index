@@ -1,0 +1,24 @@
+{
+    "id": 22,
+    "enabled": true,
+    "title": "不动声色",
+    "link": "https://bds.wht.one",
+    "feed_url": "https://bds.wht.one/feed.xml",
+    "summary": "这是一个声音记录档案，没有主题、没有制式，旨在呈现多样且有趣的声音。",
+    "language": "zh-CN",
+    "saveweb": {
+        "created_timestamp": 1680931821,
+        "last_success_timestamp": 1680932283,
+        "last_checked_timestamp": 1680932283,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}
