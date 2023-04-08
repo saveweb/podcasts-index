@@ -1,0 +1,87 @@
+{
+    "links": [
+        {
+            "length": "75009391",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxOTAyLCJlIjo2NTEyLCJwIjoyLCJ1IjoiOTJlMC5tcDMifQ.vUKBJQmC5mCAaSuUlkcSh0ZwyMs/bukelilun/z_c0d3cfc475b484b63c704ffae01b92e0.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://bukelilun.com/episodes/18"
+        }
+    ],
+    "title": "18: 不可理论×迟早更新 ：「Meatware」的开发、更新与维护",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bukelilun.com/feed.xml",
+        "value": "18: 不可理论×迟早更新 ：「Meatware」的开发、更新与维护"
+    },
+    "id": "https://bukelilun.com/episodes/18",
+    "guidislink": true,
+    "link": "https://bukelilun.com/episodes/18",
+    "authors": [
+        {
+            "name": "Baoting,任宁、枪枪"
+        }
+    ],
+    "author": "Baoting,任宁、枪枪",
+    "author_detail": {
+        "name": "Baoting,任宁、枪枪"
+    },
+    "podcast_person": {
+        "role": "guest",
+        "href": "https://bukelilun.com/by/chizao/",
+        "img": "https://i.typlog.com/bukelilun/8365785188_065922.png"
+    },
+    "subtitle": "与「迟早更新」的主播任宁和枪枪一起，从「身体」这个话题出发的聊天。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://bukelilun.com/feed.xml",
+        "value": "与「迟早更新」的主播任宁和枪枪一起，从「身体」这个话题出发的聊天。"
+    },
+    "itunes_duration": "1:17:52",
+    "itunes_explicit": null,
+    "itunes_episode": "18",
+    "podcast_episode": "18",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/bukelilun/z_d3d7ebc9e1c3e1e66edb758d3cc123e0.jpg?x-oss-process=style/sl"
+    },
+    "summary": "与「迟早更新」的主播任宁和枪枪一起，从「身体」这个话题出发的聊天。 网站：bukelilun.com 邮箱：bukelilun@outlook.com 在爱发电 、支付宝或同名公众号打赏，将支持本节目继续走下去，在此感谢所有赞助者。 阿甘本的概念：homo sacer、bare life（裸命） Youtube首席商务官Robert Kyncl 《订阅：数字时代的商业变现路径》 石黑一雄小说《别让我走》 bilibili舞蹈up主 ParmyAU 脱衣舞娘 Dita Von Teese Hannah Gadsby 告别秀 “Nanette” 宝婷跳钢管舞的视频 何春蕤《豪爽女人》与「男赚女赔」逻辑 巴塔耶的色情分析 多芬广告「你比你想象的还美丽」 斯坦尼斯拉夫斯基《演员的自我修养》 躯体症状障碍 李敖《上山·上山·爱》 《透视科技圈对永生的执念》 日本动画《铃音》 汪民安关于光头的论述 Dita Von Teese, Your Beauty Mark 美剧 Masters of Sex 性社会学学者 黄盈盈 肖索未《欲望与尊严：转型期中国的阶层、性别与亲密关系》 BGM： Circadian Eyes - Swing Set 郑伊健 - 吻感Special Guests: 任宁 and 枪枪.",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://bukelilun.com/feed.xml",
+        "value": "与「迟早更新」的主播任宁和枪枪一起，从「身体」这个话题出发的聊天。 网站：bukelilun.com 邮箱：bukelilun@outlook.com 在爱发电 、支付宝或同名公众号打赏，将支持本节目继续走下去，在此感谢所有赞助者。 阿甘本的概念：homo sacer、bare life（裸命） Youtube首席商务官Robert Kyncl 《订阅：数字时代的商业变现路径》 石黑一雄小说《别让我走》 bilibili舞蹈up主 ParmyAU 脱衣舞娘 Dita Von Teese Hannah Gadsby 告别秀 “Nanette” 宝婷跳钢管舞的视频 何春蕤《豪爽女人》与「男赚女赔」逻辑 巴塔耶的色情分析 多芬广告「你比你想象的还美丽」 斯坦尼斯拉夫斯基《演员的自我修养》 躯体症状障碍 李敖《上山·上山·爱》 《透视科技圈对永生的执念》 日本动画《铃音》 汪民安关于光头的论述 Dita Von Teese, Your Beauty Mark 美剧 Masters of Sex 性社会学学者 黄盈盈 肖索未《欲望与尊严：转型期中国的阶层、性别与亲密关系》 BGM： Circadian Eyes - Swing Set 郑伊健 - 吻感Special Guests: 任宁 and 枪枪."
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://bukelilun.com/feed.xml",
+            "value": "<p>与<a href=\"https://itunes.apple.com/us/podcast/%E8%BF%9F%E6%97%A9%E6%9B%B4%E6%96%B0/id1129660186?mt=2\" rel=\"nofollow\">「迟早更新」</a>的主播任宁和枪枪一起，从「身体」这个话题出发的聊天。 <br />\n网站：<a href=\"https://www.bukelilun.com/\" rel=\"nofollow\">bukelilun.com</a><br />\n邮箱：<a href=\"mailto:bukelilun@outlook.com\" rel=\"nofollow\">bukelilun@outlook.com</a></p>\n\n<p>在<a href=\"https://afdian.net/@bukelilun\" rel=\"nofollow\">爱发电</a> 、<a href=\"https://bukelilun.com/sponsor\" rel=\"nofollow\">支付宝</a>或同名公众号打赏，将支持本节目继续走下去，在此感谢所有赞助者。<br />\n\n\n\n<li><a href=\"https://book.douban.com/subject/1887249/\" rel=\"nofollow\">阿甘本的概念：homo sacer、bare life（裸命）</a></li>\n<li><a href=\"https://book.douban.com/subject/30388376/\" rel=\"nofollow\">Youtube首席商务官Robert Kyncl 《订阅：数字时代的商业变现路径》</a></li>\n<li><a href=\"https://book.douban.com/subject/1774770/\" rel=\"nofollow\">石黑一雄小说《别让我走》</a></li>\n<li><a href=\"http://space.bilibili.com/1852181/\" rel=\"nofollow\">bilibili舞蹈up主 ParmyAU</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Dita_Von_Teese\" rel=\"nofollow\">脱衣舞娘 Dita Von Teese</a></li>\n<li><a href=\"https://www.imdb.com/title/tt8465676/\" rel=\"nofollow\">Hannah Gadsby 告别秀 “Nanette”</a></li>\n<li><a href=\"https://weibo.com/tv/v/H7FVX3yHL?fid=1034:4318294904080285\" rel=\"nofollow\">宝婷跳钢管舞的视频</a></li>\n<li><a href=\"https://book.douban.com/subject/1358486/\" rel=\"nofollow\">何春蕤《豪爽女人》</a>与「男赚女赔」逻辑</li>\n<li>巴塔耶的色情分析</li>\n<li><a href=\"https://www.bilibili.com/video/av6939619/\" rel=\"nofollow\">多芬广告「你比你想象的还美丽」</a></li>\n<li>斯坦尼斯拉夫斯基《演员的自我修养》</li>\n<li><a href=\"https://dxy.com/disease/3785\" rel=\"nofollow\">躯体症状障碍</a></li>\n<li><a href=\"https://book.douban.com/subject/1873969/\" rel=\"nofollow\">李敖《上山·上山·爱》</a></li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/25470239\" rel=\"nofollow\">《透视科技圈对永生的执念》</a></li>\n<li><a href=\"https://movie.douban.com/subject/1417233/\" rel=\"nofollow\">日本动画《铃音》</a></li>\n<li><a href=\"https://site.douban.com/250631/widget/notes/18485802/note/488542344/\" rel=\"nofollow\">汪民安关于光头的论述</a></li>\n<li><a href=\"https://book.douban.com/subject/30227609/\" rel=\"nofollow\">Dita Von Teese, Your Beauty Mark</a></li>\n<li><a href=\"https://movie.douban.com/subject/10794834/\" rel=\"nofollow\">美剧 Masters of Sex</a></li>\n<li><a href=\"https://book.douban.com/subject/3033314/\" rel=\"nofollow\">性社会学学者 黄盈盈</a></li>\n<li><a href=\"https://book.douban.com/subject/30380222/\" rel=\"nofollow\">肖索未《欲望与尊严：转型期中国的阶层、性别与亲密关系》</a></li>\n</ul>\n\n<p>BGM：<br />\nCircadian Eyes - Swing Set<br />\n郑伊健 - 吻感</p><p>Special Guests: 任宁 and 枪枪.</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://bukelilun.com/feed.xml",
+            "value": "<p>与<a href=\"https://itunes.apple.com/us/podcast/%E8%BF%9F%E6%97%A9%E6%9B%B4%E6%96%B0/id1129660186?mt=2\" rel=\"nofollow\">「迟早更新」</a>的主播任宁和枪枪一起，从「身体」这个话题出发的聊天。 <br />\n网站：<a href=\"https://www.bukelilun.com/\" rel=\"nofollow\">bukelilun.com</a><br />\n邮箱：<a href=\"mailto:bukelilun@outlook.com\" rel=\"nofollow\">bukelilun@outlook.com</a></p>\n\n<p>在<a href=\"https://afdian.net/@bukelilun\" rel=\"nofollow\">爱发电</a> 、<a href=\"https://bukelilun.com/sponsor\" rel=\"nofollow\">支付宝</a>或同名公众号打赏，将支持本节目继续走下去，在此感谢所有赞助者。<br />\n\n\n\n<li><a href=\"https://book.douban.com/subject/1887249/\" rel=\"nofollow\">阿甘本的概念：homo sacer、bare life（裸命）</a></li>\n<li><a href=\"https://book.douban.com/subject/30388376/\" rel=\"nofollow\">Youtube首席商务官Robert Kyncl 《订阅：数字时代的商业变现路径》</a></li>\n<li><a href=\"https://book.douban.com/subject/1774770/\" rel=\"nofollow\">石黑一雄小说《别让我走》</a></li>\n<li><a href=\"http://space.bilibili.com/1852181/\" rel=\"nofollow\">bilibili舞蹈up主 ParmyAU</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Dita_Von_Teese\" rel=\"nofollow\">脱衣舞娘 Dita Von Teese</a></li>\n<li><a href=\"https://www.imdb.com/title/tt8465676/\" rel=\"nofollow\">Hannah Gadsby 告别秀 “Nanette”</a></li>\n<li><a href=\"https://weibo.com/tv/v/H7FVX3yHL?fid=1034:4318294904080285\" rel=\"nofollow\">宝婷跳钢管舞的视频</a></li>\n<li><a href=\"https://book.douban.com/subject/1358486/\" rel=\"nofollow\">何春蕤《豪爽女人》</a>与「男赚女赔」逻辑</li>\n<li>巴塔耶的色情分析</li>\n<li><a href=\"https://www.bilibili.com/video/av6939619/\" rel=\"nofollow\">多芬广告「你比你想象的还美丽」</a></li>\n<li>斯坦尼斯拉夫斯基《演员的自我修养》</li>\n<li><a href=\"https://dxy.com/disease/3785\" rel=\"nofollow\">躯体症状障碍</a></li>\n<li><a href=\"https://book.douban.com/subject/1873969/\" rel=\"nofollow\">李敖《上山·上山·爱》</a></li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/25470239\" rel=\"nofollow\">《透视科技圈对永生的执念》</a></li>\n<li><a href=\"https://movie.douban.com/subject/1417233/\" rel=\"nofollow\">日本动画《铃音》</a></li>\n<li><a href=\"https://site.douban.com/250631/widget/notes/18485802/note/488542344/\" rel=\"nofollow\">汪民安关于光头的论述</a></li>\n<li><a href=\"https://book.douban.com/subject/30227609/\" rel=\"nofollow\">Dita Von Teese, Your Beauty Mark</a></li>\n<li><a href=\"https://movie.douban.com/subject/10794834/\" rel=\"nofollow\">美剧 Masters of Sex</a></li>\n<li><a href=\"https://book.douban.com/subject/3033314/\" rel=\"nofollow\">性社会学学者 黄盈盈</a></li>\n<li><a href=\"https://book.douban.com/subject/30380222/\" rel=\"nofollow\">肖索未《欲望与尊严：转型期中国的阶层、性别与亲密关系》</a></li>\n</ul>\n\n<p>BGM：<br />\nCircadian Eyes - Swing Set<br />\n郑伊健 - 吻感</p><p>Special Guests: 任宁 and 枪枪.</p><hr /><p><a href=\"https://afdian.net/@bukelilun\" rel=\"payment\">爱发电上赞助</a></p>"
+        }
+    ],
+    "published": "Mon, 31 Dec 2018 02:00:00 +0000",
+    "published_parsed": [
+        2018,
+        12,
+        31,
+        2,
+        0,
+        0,
+        0,
+        365,
+        0
+    ]
+}

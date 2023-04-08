@@ -1,0 +1,24 @@
+{
+    "id": 24,
+    "enabled": true,
+    "title": "不在场",
+    "link": "https://buzaichang.xyz/episodes/",
+    "feed_url": "https://buzaichang.xyz/feed/audio.xml",
+    "summary": "对无用之事的obsessions",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1680935055,
+        "last_success_timestamp": 1680935288,
+        "last_checked_timestamp": 1680935288,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}
