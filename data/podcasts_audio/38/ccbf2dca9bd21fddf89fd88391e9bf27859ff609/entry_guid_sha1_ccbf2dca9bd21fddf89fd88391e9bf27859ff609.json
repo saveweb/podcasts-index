@@ -1,0 +1,76 @@
+{
+    "title": "#26：Kerning Panic·字谈字串（二）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#26：Kerning Panic·字谈字串（二）"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-026/"
+        },
+        {
+            "length": "59169068",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat026.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-026/",
+    "published": "Tue, 26 Jul 2016 06:38:55 +0800",
+    "published_parsed": [
+        2016,
+        7,
+        25,
+        22,
+        38,
+        55,
+        0,
+        207,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat026.mp3",
+    "guidislink": false,
+    "summary": "<p>乱码，汉字圈电脑用户难免遭遇的问题。今日又串《内核恐慌》，乱谈乱码。</p> <p>本期 123 分钟，我们着眼汉字，回望字符集发展简史，一览常见遗留编码，笑看端序内战风云，携手拥抱 Unicode。</p> <h3>参考链接</h3> <ul> <li>「纽伦堡内麦塔狐」，典出<a href=\"https://www.thetype.com/2016/06/10489/\">《字谈字畅》第二十三期</a></li> <li><a href=\"http://www.zdic.net/z/1b/js/66F2.htm\">曲</a>（qū/qǔ），麯 / 麴 (qū)</li> <li><a href=\"https://zh.wikipedia.org/wiki/区位码_(国标)\">区位码</a>的「区位」即「row-cell」，日语称「区点」</li> <li><a href=\"https://en.wikipedia.org/wiki/Numeric_keypad\">Ten key</a></li> <li><a href=\"https://en.wikipedia.org/wiki/National_conventions_for_writing_telephone_numbers\">各国读写电话号码的习惯</a>；另有 <a href=\"https://www.itu.int/rec/T-REC-E.123-200102-I/en\">ITU-T E.123</a>，包含国际电话号码的注记格式</li> <li><a href=\"https://en.wikipedia.org/wiki/TeX\">TeX</a> 指令通常以反斜杠开头</li> <li>「乱码」在几种外语里的表述： <ul> <li><a href=\"https://ja.wikipedia.org/wiki/文字化け\">文字化け</a>（日语）</li> <li><a href=\"https://en.wikipedia.org/wiki/Mojibake\">Mojibake</a>（英语，音译自日语）</li> <li><a href=\"https://de.wikipedia.org/wiki/Zeichensalat\">Zeichensalat</a>（德语，直译即「符号沙拉」）</li> </ul> </li> <li><a href=\"https://en.wikipedia.org/wiki/Emoji\">Emoji</a>（音译自日语「絵文字」）</li> <li><a href=\"https://ja.wikipedia.org/wiki/JIS_X_0201\">JIS X 0201</a>；前身 JIS C 6220，是日本最早的编码字符集规范</li> <li><a href=\"https://ja.wikipedia.org/wiki/JIS_X_0208\">JIS X 0208</a></li> <li><a href=\"https://ko.wikipedia.org/wiki/한글\">언문（諺文）/ 한글（韩字）/ 조선글（朝鲜字）</a>，英语通称 Hangul</li> <li><a href=\"https://en.wikipedia.org/wiki/Half-width_kana\">半角片假名</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_2312\">GB 2312</a></li> <li><a href=\"https://en.wikipedia.org/wiki/GBK\">GBK</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_18030\">GB 18030</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_12345\">GB 12345</a></li> <li>「干 / 乾」这对字具有<a href=\"http://www.qqxiuzi.cn/wz/jiantizi-fantizi/231.htm\">「一繁对多简」和「一简对多繁」的双重属性</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/新加坡漢字\">新加坡汉字</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/大五碼\">Big5（大五码）</a>，港澳台常用的编码及字符集标准</li> <li><a href=\"https://en.wikipedia.org/wiki/Code_page\">Code page（代码页）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode\">Unicode</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode\">Unicode</a>，当下常用的三种编码格式： <ul> <li><a href=\"https://en.wikipedia.org/wiki/UTF-8\">UTF-8</a></li> <li><a href=\"https://en.wikipedia.org/wiki/UTF-16\">UTF-16</a></li> <li><a href=\"https://en.wikipedia.org/wiki/UTF-32\">UTF-32</a></li> </ul> </li> <li><a href=\"https://en.wikipedia.org/wiki/Plane_(Unicode)#Basic_Multilingual_Plane\">Unicode BMP（Basic Multilingual Plane，基本多语言平面）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/CJK_Unified_Ideographs\">中日韩统一表意符号</a></li> <li><a href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=82B8\">芸（U+82B8）</a>，中文「蕓」、日文「藝」的简化字</li> <li><a href=\"http://shop.oreilly.com/product/9780596514471.do\">CJKV Information Processing</a></cite></li> <li><a href=\"https://riobard.com/2012/03/23/unicode-note/\">Rio 所撰 Unicode 编码相关的笔记</a></li> <li><a href=\"http://unicode.org/glossary/#surrogate_pair\">Surrogate pair</a>，UTF-16 用以扩展编码范围</li> <li> <a href=\"https://en.wikipedia.org/wiki/Endianness\">Endianness（端序）</a>，术语典出《格列佛游记》</li> <li> <a href=\"https://en.wikipedia.org/wiki/Byte_order_mark\">BOM（byte order mark，字节顺序标记）</a></li> <li><a href=\"https://codepoints.net/U+1F574\">? (U+1F574, Man in Business Suit Levitating)</a></li> </ul> <p></p> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>乱码，汉字圈电脑用户难免遭遇的问题。今日又串《内核恐慌》，乱谈乱码。</p> <p>本期 123 分钟，我们着眼汉字，回望字符集发展简史，一览常见遗留编码，笑看端序内战风云，携手拥抱 Unicode。</p> <h3>参考链接</h3> <ul> <li>「纽伦堡内麦塔狐」，典出<a href=\"https://www.thetype.com/2016/06/10489/\">《字谈字畅》第二十三期</a></li> <li><a href=\"http://www.zdic.net/z/1b/js/66F2.htm\">曲</a>（qū/qǔ），麯 / 麴 (qū)</li> <li><a href=\"https://zh.wikipedia.org/wiki/区位码_(国标)\">区位码</a>的「区位」即「row-cell」，日语称「区点」</li> <li><a href=\"https://en.wikipedia.org/wiki/Numeric_keypad\">Ten key</a></li> <li><a href=\"https://en.wikipedia.org/wiki/National_conventions_for_writing_telephone_numbers\">各国读写电话号码的习惯</a>；另有 <a href=\"https://www.itu.int/rec/T-REC-E.123-200102-I/en\">ITU-T E.123</a>，包含国际电话号码的注记格式</li> <li><a href=\"https://en.wikipedia.org/wiki/TeX\">TeX</a> 指令通常以反斜杠开头</li> <li>「乱码」在几种外语里的表述： <ul> <li><a href=\"https://ja.wikipedia.org/wiki/文字化け\">文字化け</a>（日语）</li> <li><a href=\"https://en.wikipedia.org/wiki/Mojibake\">Mojibake</a>（英语，音译自日语）</li> <li><a href=\"https://de.wikipedia.org/wiki/Zeichensalat\">Zeichensalat</a>（德语，直译即「符号沙拉」）</li> </ul> </li> <li><a href=\"https://en.wikipedia.org/wiki/Emoji\">Emoji</a>（音译自日语「絵文字」）</li> <li><a href=\"https://ja.wikipedia.org/wiki/JIS_X_0201\">JIS X 0201</a>；前身 JIS C 6220，是日本最早的编码字符集规范</li> <li><a href=\"https://ja.wikipedia.org/wiki/JIS_X_0208\">JIS X 0208</a></li> <li><a href=\"https://ko.wikipedia.org/wiki/한글\">언문（諺文）/ 한글（韩字）/ 조선글（朝鲜字）</a>，英语通称 Hangul</li> <li><a href=\"https://en.wikipedia.org/wiki/Half-width_kana\">半角片假名</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_2312\">GB 2312</a></li> <li><a href=\"https://en.wikipedia.org/wiki/GBK\">GBK</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_18030\">GB 18030</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_12345\">GB 12345</a></li> <li>「干 / 乾」这对字具有<a href=\"http://www.qqxiuzi.cn/wz/jiantizi-fantizi/231.htm\">「一繁对多简」和「一简对多繁」的双重属性</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/新加坡漢字\">新加坡汉字</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/大五碼\">Big5（大五码）</a>，港澳台常用的编码及字符集标准</li> <li><a href=\"https://en.wikipedia.org/wiki/Code_page\">Code page（代码页）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode\">Unicode</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode\">Unicode</a>，当下常用的三种编码格式： <ul> <li><a href=\"https://en.wikipedia.org/wiki/UTF-8\">UTF-8</a></li> <li><a href=\"https://en.wikipedia.org/wiki/UTF-16\">UTF-16</a></li> <li><a href=\"https://en.wikipedia.org/wiki/UTF-32\">UTF-32</a></li> </ul> </li> <li><a href=\"https://en.wikipedia.org/wiki/Plane_(Unicode)#Basic_Multilingual_Plane\">Unicode BMP（Basic Multilingual Plane，基本多语言平面）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/CJK_Unified_Ideographs\">中日韩统一表意符号</a></li> <li><a href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=82B8\">芸（U+82B8）</a>，中文「蕓」、日文「藝」的简化字</li> <li><a href=\"http://shop.oreilly.com/product/9780596514471.do\">CJKV Information Processing</a></cite></li> <li><a href=\"https://riobard.com/2012/03/23/unicode-note/\">Rio 所撰 Unicode 编码相关的笔记</a></li> <li><a href=\"http://unicode.org/glossary/#surrogate_pair\">Surrogate pair</a>，UTF-16 用以扩展编码范围</li> <li> <a href=\"https://en.wikipedia.org/wiki/Endianness\">Endianness（端序）</a>，术语典出《格列佛游记》</li> <li> <a href=\"https://en.wikipedia.org/wiki/Byte_order_mark\">BOM（byte order mark，字节顺序标记）</a></li> <li><a href=\"https://codepoints.net/U+1F574\">? (U+1F574, Man in Business Suit Levitating)</a></li> </ul> <p></p> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "2:02:57",
+    "subtitle": "您的符号沙拉齐了，请慢用",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "您的符号沙拉齐了，请慢用"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>乱码，汉字圈电脑用户难免遭遇的问题。今日又串《内核恐慌》，乱谈乱码。</p> <p>本期 123 分钟，我们着眼汉字，回望字符集发展简史，一览常见遗留编码，笑看端序内战风云，携手拥抱 Unicode。</p> <h3>参考链接</h3> <ul> <li>「纽伦堡内麦塔狐」，典出<a href=\"https://www.thetype.com/2016/06/10489/\">《字谈字畅》第二十三期</a></li> <li><a href=\"http://www.zdic.net/z/1b/js/66F2.htm\">曲</a>（qū/qǔ），麯 / 麴 (qū)</li> <li><a href=\"https://zh.wikipedia.org/wiki/区位码_(国标)\">区位码</a>的「区位」即「row-cell」，日语称「区点」</li> <li><a href=\"https://en.wikipedia.org/wiki/Numeric_keypad\">Ten key</a></li> <li><a href=\"https://en.wikipedia.org/wiki/National_conventions_for_writing_telephone_numbers\">各国读写电话号码的习惯</a>；另有 <a href=\"https://www.itu.int/rec/T-REC-E.123-200102-I/en\">ITU-T E.123</a>，包含国际电话号码的注记格式</li> <li><a href=\"https://en.wikipedia.org/wiki/TeX\">TeX</a> 指令通常以反斜杠开头</li> <li>「乱码」在几种外语里的表述： <ul> <li><a href=\"https://ja.wikipedia.org/wiki/文字化け\">文字化け</a>（日语）</li> <li><a href=\"https://en.wikipedia.org/wiki/Mojibake\">Mojibake</a>（英语，音译自日语）</li> <li><a href=\"https://de.wikipedia.org/wiki/Zeichensalat\">Zeichensalat</a>（德语，直译即「符号沙拉」）</li> </ul> </li> <li><a href=\"https://en.wikipedia.org/wiki/Emoji\">Emoji</a>（音译自日语「絵文字」）</li> <li><a href=\"https://ja.wikipedia.org/wiki/JIS_X_0201\">JIS X 0201</a>；前身 JIS C 6220，是日本最早的编码字符集规范</li> <li><a href=\"https://ja.wikipedia.org/wiki/JIS_X_0208\">JIS X 0208</a></li> <li><a href=\"https://ko.wikipedia.org/wiki/한글\">언문（諺文）/ 한글（韩字）/ 조선글（朝鲜字）</a>，英语通称 Hangul</li> <li><a href=\"https://en.wikipedia.org/wiki/Half-width_kana\">半角片假名</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_2312\">GB 2312</a></li> <li><a href=\"https://en.wikipedia.org/wiki/GBK\">GBK</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_18030\">GB 18030</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_12345\">GB 12345</a></li> <li>「干 / 乾」这对字具有<a href=\"http://www.qqxiuzi.cn/wz/jiantizi-fantizi/231.htm\">「一繁对多简」和「一简对多繁」的双重属性</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/新加坡漢字\">新加坡汉字</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/大五碼\">Big5（大五码）</a>，港澳台常用的编码及字符集标准</li> <li><a href=\"https://en.wikipedia.org/wiki/Code_page\">Code page（代码页）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode\">Unicode</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode\">Unicode</a>，当下常用的三种编码格式： <ul> <li><a href=\"https://en.wikipedia.org/wiki/UTF-8\">UTF-8</a></li> <li><a href=\"https://en.wikipedia.org/wiki/UTF-16\">UTF-16</a></li> <li><a href=\"https://en.wikipedia.org/wiki/UTF-32\">UTF-32</a></li> </ul> </li> <li><a href=\"https://en.wikipedia.org/wiki/Plane_(Unicode)#Basic_Multilingual_Plane\">Unicode BMP（Basic Multilingual Plane，基本多语言平面）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/CJK_Unified_Ideographs\">中日韩统一表意符号</a></li> <li><a href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=82B8\">芸（U+82B8）</a>，中文「蕓」、日文「藝」的简化字</li> <li><a href=\"http://shop.oreilly.com/product/9780596514471.do\">CJKV Information Processing</a></cite></li> <li><a href=\"https://riobard.com/2012/03/23/unicode-note/\">Rio 所撰 Unicode 编码相关的笔记</a></li> <li><a href=\"http://unicode.org/glossary/#surrogate_pair\">Surrogate pair</a>，UTF-16 用以扩展编码范围</li> <li> <a href=\"https://en.wikipedia.org/wiki/Endianness\">Endianness（端序）</a>，术语典出《格列佛游记》</li> <li> <a href=\"https://en.wikipedia.org/wiki/Byte_order_mark\">BOM（byte order mark，字节顺序标记）</a></li> <li><a href=\"https://codepoints.net/U+1F574\">? (U+1F574, Man in Business Suit Levitating)</a></li> </ul> <p></p> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, 吴涛, Rio"
+        }
+    ],
+    "author": "Eric, 蒸鱼, 吴涛, Rio",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, 吴涛, Rio"
+    },
+    "itunes_explicit": false
+}

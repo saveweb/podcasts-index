@@ -1,0 +1,76 @@
+{
+    "title": "#35：Kerning Panic·字谈字串（三）&#x1f399;&#x1f602;&#x1f913;&#x1f911;&#x1f60c;",
+    "title_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#35：Kerning Panic·字谈字串（三）&#x1f399;&#x1f602;&#x1f913;&#x1f911;&#x1f60c;"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-035/"
+        },
+        {
+            "length": "57278899",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat035.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-035/",
+    "published": "Tue, 29 Nov 2016 05:57:46 +0800",
+    "published_parsed": [
+        2016,
+        11,
+        28,
+        21,
+        57,
+        46,
+        0,
+        333,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat035.mp3",
+    "guidislink": false,
+    "summary": "<p>本日四方会谈，聚焦全球性政治议题：绘文字。</p> <p>距离上一个世界绘文字日，已经过去 135 天。立足当下，我们将以语言的、文字的、历史的、文化的、设计的、技术的等多方面视角，不中立、不全面、不深刻地闲聊绘文字。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://coteditor.com/\">CotEditor</a>，macOS 上的一款纯文本编辑器</li> <li><a href=\"http://t.cn/RfTpO8A\">U+FFFD (Replacement Character)</a>，UTF-8 编码为「0xEF 0xBF 0xBD」，以国标码解码可能形成「锟 (0xEFBF) 斤 (0xBDEF) 拷 (0xBFBD)」</li> <li><a href=\"http://www.njstar.com/cms/\">南極星（NJStar Software）</a></li> <li><a href=\"http://t.cn/RfTpjYj\">Shift JIS</a></li> <li><a href=\"http://t.cn/zjaznz6\">U+FEFF (Zero Width No-Break Space, BOM)</a>，UTF-8 编码为「0xEF 0xBB 0xBF」，以国标码解码可能形成「锘 (0xEFBB)」</li> <li><a href=\"http://t.cn/RfTpQyh\">Guillemet</a>，法语书写系统中使用的引号</li> <li><a href=\"http://worldemojiday.com/\">World Emoji Day</a>，每年 7 月 17 日</li> <li><a href=\"http://t.cn/zHVwH1H\">Emoji</a>（<a href=\"http://t.cn/RfTpEcn\">絵文字</a>）</li> <li><a href=\"http://t.cn/RfTpnEa\">Unicode 关于 emoji 的定义及相关释疑</a></li> <li>NTT DoCoMo 最初发布的 176 个 emoji，<a href=\"http://t.cn/RfTpBPO\">已被 MoMA 纳入馆藏</a></li> <li><a href=\"http://t.cn/RfTpdSP\">栗田穣崇</a>（Shigetaka Kurita），NTT DoCoMo 初版 emoji 的开发者</li> <li><a href=\"http://t.cn/RfTpkxO\">Emoticon</a>（颜文字）</li> <li><a href=\"http://t.cn/RfTps28\">Dingbat</a></li> <li><a href=\"http://t.cn/RfT0v6P\">Pictogram</a>（象形文字 / 图形文字）</li> <li><a href=\"http://t.cn/RfT0P8F\">Egyptian hieroglyphs</a>（圣书体）</li> <li><a href=\"http://t.cn/RfT07AM\">i-mode</a>，NTT DoCoMo 架设的移动互联网服务</li> <li><a href=\"http://t.cn/RfT0zMe\">Pidgin language</a>（混杂语）</li> <li>Unicode <a href=\"http://t.cn/RfT0w2g\">现行 emoji 排序法（v3.0）</a></li> <li><a href=\"http://t.cn/zQMQzO4\">艸</a>（cǎo），《康熙字典》<a href=\"http://t.cn/RfT05ee\">艸部</a>部首</li> <li>Unicode <a href=\"http://t.cn/RfT0VYo\">完整 emoji 列表（v3.0）</a>及<a href=\"http://t.cn/R5cK9PA\">近期新增一览（v3.0）</a></li> <li><a href=\"http://t.cn/RfT0M0I\">Santa Claus</a></li> <li><a href=\"http://emojipedia.org/\">Emojipedia</a>，Jeremy Burge 于 2013 年创办 </li> <li>Matt Sephton 基于 Emojipedia 的数据开发了一部<a href=\"http://t.cn/RfT0J7g\">电子词典</a>，可在 macOS 中使用</li> <li>Colin M. Ford 在 Medium 上撰文<a href=\"http://t.cn/RfT0iTm\">介绍 emoji 字体的常见格式及相关技术信息</a> <ul> <li>Google/FreeType 基于 OpenType 的 <a href=\"http://t.cn/RfT0XVb\">CBDT</a> 和 <a href=\"http://t.cn/RfT0Svn\">CBLC</a> 表实现</li> <li>Apple 基于 TrueType 的私有扩展 <a href=\"http://t.cn/RfT0olr\">sbix</a> 表实现</li> <li>Microsoft 基于 OpenType 的 <a href=\"http://t.cn/RfT0Ntn\">COLR</a> 和 <a href=\"http://t.cn/RfT00e7\">CPAL</a> 表实现</li> <li>Adobe/Firefox 基于 OpenType 的 <a href=\"http://t.cn/RfT0lAd\">SVG</a> 表实现</li> </ul> </li> <li>Adobe <a href=\"http://t.cn/RfT0YsW\">基于 OpenType-SVG</a> 开发的<a href=\"https://color.typekit.com/\">彩色字体</a>，<a href=\"http://t.cn/RfT08xP\">Photoshop CC 2017 已经支持</a></li> <li><a href=\"http://t.cn/R7RDv6W\">Twemoji</a>，Twitter 开发的 emoji，可在 web 上跨平台使用</li> <li>Emoji 标准化工作<a href=\"http://t.cn/RfT0mhX\">曾在 Unicode Consortium 内部引发较大争议</a></li> <li>Unicode 定义的 <a href=\"http://t.cn/RfT0ukO\">emoji 序列（v3.0）</a>及 <a href=\"http://t.cn/RfT0rAc\">emoji ZWJ 序列（v3.0）</a></li> <li><a href=\"http://t.cn/RfT0d8R\">ZWJ (U+200D, Zero-Width Joiner)</a> ，可用于<a href=\"http://t.cn/RfT0e7c\">拼接特殊的 emoji 序列</a></li> <li><a href=\"https://ipn.li/\">IPN 旗下电台 logo 一览</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"http://www.typeisbeautiful.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》（Kernel Panic）</a>是由 IPN 出品、吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>本日四方会谈，聚焦全球性政治议题：绘文字。</p> <p>距离上一个世界绘文字日，已经过去 135 天。立足当下，我们将以语言的、文字的、历史的、文化的、设计的、技术的等多方面视角，不中立、不全面、不深刻地闲聊绘文字。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://coteditor.com/\">CotEditor</a>，macOS 上的一款纯文本编辑器</li> <li><a href=\"http://t.cn/RfTpO8A\">U+FFFD (Replacement Character)</a>，UTF-8 编码为「0xEF 0xBF 0xBD」，以国标码解码可能形成「锟 (0xEFBF) 斤 (0xBDEF) 拷 (0xBFBD)」</li> <li><a href=\"http://www.njstar.com/cms/\">南極星（NJStar Software）</a></li> <li><a href=\"http://t.cn/RfTpjYj\">Shift JIS</a></li> <li><a href=\"http://t.cn/zjaznz6\">U+FEFF (Zero Width No-Break Space, BOM)</a>，UTF-8 编码为「0xEF 0xBB 0xBF」，以国标码解码可能形成「锘 (0xEFBB)」</li> <li><a href=\"http://t.cn/RfTpQyh\">Guillemet</a>，法语书写系统中使用的引号</li> <li><a href=\"http://worldemojiday.com/\">World Emoji Day</a>，每年 7 月 17 日</li> <li><a href=\"http://t.cn/zHVwH1H\">Emoji</a>（<a href=\"http://t.cn/RfTpEcn\">絵文字</a>）</li> <li><a href=\"http://t.cn/RfTpnEa\">Unicode 关于 emoji 的定义及相关释疑</a></li> <li>NTT DoCoMo 最初发布的 176 个 emoji，<a href=\"http://t.cn/RfTpBPO\">已被 MoMA 纳入馆藏</a></li> <li><a href=\"http://t.cn/RfTpdSP\">栗田穣崇</a>（Shigetaka Kurita），NTT DoCoMo 初版 emoji 的开发者</li> <li><a href=\"http://t.cn/RfTpkxO\">Emoticon</a>（颜文字）</li> <li><a href=\"http://t.cn/RfTps28\">Dingbat</a></li> <li><a href=\"http://t.cn/RfT0v6P\">Pictogram</a>（象形文字 / 图形文字）</li> <li><a href=\"http://t.cn/RfT0P8F\">Egyptian hieroglyphs</a>（圣书体）</li> <li><a href=\"http://t.cn/RfT07AM\">i-mode</a>，NTT DoCoMo 架设的移动互联网服务</li> <li><a href=\"http://t.cn/RfT0zMe\">Pidgin language</a>（混杂语）</li> <li>Unicode <a href=\"http://t.cn/RfT0w2g\">现行 emoji 排序法（v3.0）</a></li> <li><a href=\"http://t.cn/zQMQzO4\">艸</a>（cǎo），《康熙字典》<a href=\"http://t.cn/RfT05ee\">艸部</a>部首</li> <li>Unicode <a href=\"http://t.cn/RfT0VYo\">完整 emoji 列表（v3.0）</a>及<a href=\"http://t.cn/R5cK9PA\">近期新增一览（v3.0）</a></li> <li><a href=\"http://t.cn/RfT0M0I\">Santa Claus</a></li> <li><a href=\"http://emojipedia.org/\">Emojipedia</a>，Jeremy Burge 于 2013 年创办 </li> <li>Matt Sephton 基于 Emojipedia 的数据开发了一部<a href=\"http://t.cn/RfT0J7g\">电子词典</a>，可在 macOS 中使用</li> <li>Colin M. Ford 在 Medium 上撰文<a href=\"http://t.cn/RfT0iTm\">介绍 emoji 字体的常见格式及相关技术信息</a> <ul> <li>Google/FreeType 基于 OpenType 的 <a href=\"http://t.cn/RfT0XVb\">CBDT</a> 和 <a href=\"http://t.cn/RfT0Svn\">CBLC</a> 表实现</li> <li>Apple 基于 TrueType 的私有扩展 <a href=\"http://t.cn/RfT0olr\">sbix</a> 表实现</li> <li>Microsoft 基于 OpenType 的 <a href=\"http://t.cn/RfT0Ntn\">COLR</a> 和 <a href=\"http://t.cn/RfT00e7\">CPAL</a> 表实现</li> <li>Adobe/Firefox 基于 OpenType 的 <a href=\"http://t.cn/RfT0lAd\">SVG</a> 表实现</li> </ul> </li> <li>Adobe <a href=\"http://t.cn/RfT0YsW\">基于 OpenType-SVG</a> 开发的<a href=\"https://color.typekit.com/\">彩色字体</a>，<a href=\"http://t.cn/RfT08xP\">Photoshop CC 2017 已经支持</a></li> <li><a href=\"http://t.cn/R7RDv6W\">Twemoji</a>，Twitter 开发的 emoji，可在 web 上跨平台使用</li> <li>Emoji 标准化工作<a href=\"http://t.cn/RfT0mhX\">曾在 Unicode Consortium 内部引发较大争议</a></li> <li>Unicode 定义的 <a href=\"http://t.cn/RfT0ukO\">emoji 序列（v3.0）</a>及 <a href=\"http://t.cn/RfT0rAc\">emoji ZWJ 序列（v3.0）</a></li> <li><a href=\"http://t.cn/RfT0d8R\">ZWJ (U+200D, Zero-Width Joiner)</a> ，可用于<a href=\"http://t.cn/RfT0e7c\">拼接特殊的 emoji 序列</a></li> <li><a href=\"https://ipn.li/\">IPN 旗下电台 logo 一览</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"http://www.typeisbeautiful.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》（Kernel Panic）</a>是由 IPN 出品、吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "1:59:01",
+    "subtitle": "绘文字是一个政治问题",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "绘文字是一个政治问题"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>本日四方会谈，聚焦全球性政治议题：绘文字。</p> <p>距离上一个世界绘文字日，已经过去 135 天。立足当下，我们将以语言的、文字的、历史的、文化的、设计的、技术的等多方面视角，不中立、不全面、不深刻地闲聊绘文字。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://coteditor.com/\">CotEditor</a>，macOS 上的一款纯文本编辑器</li> <li><a href=\"http://t.cn/RfTpO8A\">U+FFFD (Replacement Character)</a>，UTF-8 编码为「0xEF 0xBF 0xBD」，以国标码解码可能形成「锟 (0xEFBF) 斤 (0xBDEF) 拷 (0xBFBD)」</li> <li><a href=\"http://www.njstar.com/cms/\">南極星（NJStar Software）</a></li> <li><a href=\"http://t.cn/RfTpjYj\">Shift JIS</a></li> <li><a href=\"http://t.cn/zjaznz6\">U+FEFF (Zero Width No-Break Space, BOM)</a>，UTF-8 编码为「0xEF 0xBB 0xBF」，以国标码解码可能形成「锘 (0xEFBB)」</li> <li><a href=\"http://t.cn/RfTpQyh\">Guillemet</a>，法语书写系统中使用的引号</li> <li><a href=\"http://worldemojiday.com/\">World Emoji Day</a>，每年 7 月 17 日</li> <li><a href=\"http://t.cn/zHVwH1H\">Emoji</a>（<a href=\"http://t.cn/RfTpEcn\">絵文字</a>）</li> <li><a href=\"http://t.cn/RfTpnEa\">Unicode 关于 emoji 的定义及相关释疑</a></li> <li>NTT DoCoMo 最初发布的 176 个 emoji，<a href=\"http://t.cn/RfTpBPO\">已被 MoMA 纳入馆藏</a></li> <li><a href=\"http://t.cn/RfTpdSP\">栗田穣崇</a>（Shigetaka Kurita），NTT DoCoMo 初版 emoji 的开发者</li> <li><a href=\"http://t.cn/RfTpkxO\">Emoticon</a>（颜文字）</li> <li><a href=\"http://t.cn/RfTps28\">Dingbat</a></li> <li><a href=\"http://t.cn/RfT0v6P\">Pictogram</a>（象形文字 / 图形文字）</li> <li><a href=\"http://t.cn/RfT0P8F\">Egyptian hieroglyphs</a>（圣书体）</li> <li><a href=\"http://t.cn/RfT07AM\">i-mode</a>，NTT DoCoMo 架设的移动互联网服务</li> <li><a href=\"http://t.cn/RfT0zMe\">Pidgin language</a>（混杂语）</li> <li>Unicode <a href=\"http://t.cn/RfT0w2g\">现行 emoji 排序法（v3.0）</a></li> <li><a href=\"http://t.cn/zQMQzO4\">艸</a>（cǎo），《康熙字典》<a href=\"http://t.cn/RfT05ee\">艸部</a>部首</li> <li>Unicode <a href=\"http://t.cn/RfT0VYo\">完整 emoji 列表（v3.0）</a>及<a href=\"http://t.cn/R5cK9PA\">近期新增一览（v3.0）</a></li> <li><a href=\"http://t.cn/RfT0M0I\">Santa Claus</a></li> <li><a href=\"http://emojipedia.org/\">Emojipedia</a>，Jeremy Burge 于 2013 年创办 </li> <li>Matt Sephton 基于 Emojipedia 的数据开发了一部<a href=\"http://t.cn/RfT0J7g\">电子词典</a>，可在 macOS 中使用</li> <li>Colin M. Ford 在 Medium 上撰文<a href=\"http://t.cn/RfT0iTm\">介绍 emoji 字体的常见格式及相关技术信息</a> <ul> <li>Google/FreeType 基于 OpenType 的 <a href=\"http://t.cn/RfT0XVb\">CBDT</a> 和 <a href=\"http://t.cn/RfT0Svn\">CBLC</a> 表实现</li> <li>Apple 基于 TrueType 的私有扩展 <a href=\"http://t.cn/RfT0olr\">sbix</a> 表实现</li> <li>Microsoft 基于 OpenType 的 <a href=\"http://t.cn/RfT0Ntn\">COLR</a> 和 <a href=\"http://t.cn/RfT00e7\">CPAL</a> 表实现</li> <li>Adobe/Firefox 基于 OpenType 的 <a href=\"http://t.cn/RfT0lAd\">SVG</a> 表实现</li> </ul> </li> <li>Adobe <a href=\"http://t.cn/RfT0YsW\">基于 OpenType-SVG</a> 开发的<a href=\"https://color.typekit.com/\">彩色字体</a>，<a href=\"http://t.cn/RfT08xP\">Photoshop CC 2017 已经支持</a></li> <li><a href=\"http://t.cn/R7RDv6W\">Twemoji</a>，Twitter 开发的 emoji，可在 web 上跨平台使用</li> <li>Emoji 标准化工作<a href=\"http://t.cn/RfT0mhX\">曾在 Unicode Consortium 内部引发较大争议</a></li> <li>Unicode 定义的 <a href=\"http://t.cn/RfT0ukO\">emoji 序列（v3.0）</a>及 <a href=\"http://t.cn/RfT0rAc\">emoji ZWJ 序列（v3.0）</a></li> <li><a href=\"http://t.cn/RfT0d8R\">ZWJ (U+200D, Zero-Width Joiner)</a> ，可用于<a href=\"http://t.cn/RfT0e7c\">拼接特殊的 emoji 序列</a></li> <li><a href=\"https://ipn.li/\">IPN 旗下电台 logo 一览</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"http://www.typeisbeautiful.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》（Kernel Panic）</a>是由 IPN 出品、吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, Rio, 吴涛"
+        }
+    ],
+    "author": "Eric, 蒸鱼, Rio, 吴涛",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, Rio, 吴涛"
+    },
+    "itunes_explicit": false
+}

@@ -1,0 +1,76 @@
+{
+    "title": "#73：由繁入简易，由简入繁难",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#73：由繁入简易，由简入繁难"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-073/"
+        },
+        {
+            "length": "65276344",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat073.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-073/",
+    "published": "Tue, 15 May 2018 06:20:13 +0800",
+    "published_parsed": [
+        2018,
+        5,
+        14,
+        22,
+        20,
+        13,
+        0,
+        134,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat073.mp3",
+    "guidislink": false,
+    "summary": "<p>汉字的字形，随历史而演变。异体字的整理，汉字简化方案的提出及推行，以及各地区字形标准的差异，都为今日汉字的使用者和计算机软件的国际化，留下了不同程度的问题——当我们受惠于由繁入简的便利时，也不得不面对由简入繁的疑难。</p> <h3>参考链接</h3> <ul> <li>Type is Beautiful 更换域名为 <a href=\"https://www.thetype.com/\">thetype.com</a></li> <li>Windows 的「记事本」软件<a href=\"https://blogs.msdn.microsoft.com/commandline/2018/05/08/extended-eol-in-notepad/\">扩展了换行符的支持</a></li> <li>《字谈字畅》第四十四期，<a href=\"https://www.thetype.com/2017/04/11845/\">讨论了换行符相关的问题</a></li> <li>Microsoft Store 新增<a href=\"https://www.microsoft.com/zh-cn/store/p/arial-nova/9ns5ct1mz7m8\">字体产品</a></li> <li>macOS 系统上安装、管理和预览字体的软件<a href=\"https://support.apple.com/zh-cn/guide/font-book/welcome/mac\">「字体册」</a></li> <li>Mac 上<a href=\"https://support.apple.com/zh-cn/HT201722\">字体位置及其目的</a></li> <li><a href=\"https://baike.baidu.com/item/%E5%BC%82%E4%BD%93%E5%AD%97\">异体字</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_12345\">GB/T 12345—90</a>《信息交换用汉字编码字符集　辅助集》；另见知乎上关于 GB 12345 <a href=\"https://www.zhihu.com/question/20088703\">标准</a>及<a href=\"https://www.zhihu.com/question/35060319/\">字体产品</a>的讨论</li> <li>灵宝一高于 2017 年公布<a href=\"https://weibo.com/ttarticle/p/show?id=2309404122064809230897\">苏钰彤的文言文自荐信</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%89%B9%E7%AE%80%E4%BD%93%E5%AD%97%E8%A1%A8\">《第一批简体字表》</a>，中华民国教育部于 1935 年公布</li> <li><a href=\"http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm\">《通用规范汉字表》</a>，中华人民共和国国务院于 2013 年公布</li> <li><a href=\"https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BC%82%E4%BD%93%E5%AD%97%E6%95%B4%E7%90%86%E8%A1%A8\">《第一批异体字整理表》</a>，中华人民共和国文化部和文字改革委员会于 1955 公布</li> <li><a href=\"https://www.zhihu.com/question/19860679\">汉字「里」与「裡」「裏」的关系</a></li> <li>日语中的简化汉字，例如：<a href=\"https://ja.wiktionary.org/wiki/%E6%B8%8B\">渋</a>、<a href=\"https://ja.wiktionary.org/wiki/%E6%91%82\">摂</a>、<a href=\"https://ja.wiktionary.org/wiki/%E7%BC%B6\">缶</a>、<a href=\"https://ja.wiktionary.org/wiki/%E6%AC%A0\">欠</a>、<a href=\"https://ja.wikipedia.org/wiki/%E7%9F%A5%E6%81%B5\">知恵</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%AE%80%E5%AD%97\">二简字</a></li> <li><a href=\"https://www.unicode.org/reports/tr38/\">UAX #38: Unicode Han Database (Unihan)</a></li> <li><a href=\"http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=F8C3F74E28446DBFC80F349933CFDAD5\">GB/T 13000—2010</a>《信息技术　通用多八位编码字符集（UCS）》，等同采用国际标准 <a href=\"https://www.iso.org/standard/39921.html\">ISO/IEC 10646:2003</a></li> <li>OpenType 的 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-trad\">trad</a> 特性</li> <li><a href=\"https://github.com/realfish/typedraw/blob/master/README.md#typedraw-23\">《字谈字畅》第二十三轮抽奖结果</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>汉字的字形，随历史而演变。异体字的整理，汉字简化方案的提出及推行，以及各地区字形标准的差异，都为今日汉字的使用者和计算机软件的国际化，留下了不同程度的问题——当我们受惠于由繁入简的便利时，也不得不面对由简入繁的疑难。</p> <h3>参考链接</h3> <ul> <li>Type is Beautiful 更换域名为 <a href=\"https://www.thetype.com/\">thetype.com</a></li> <li>Windows 的「记事本」软件<a href=\"https://blogs.msdn.microsoft.com/commandline/2018/05/08/extended-eol-in-notepad/\">扩展了换行符的支持</a></li> <li>《字谈字畅》第四十四期，<a href=\"https://www.thetype.com/2017/04/11845/\">讨论了换行符相关的问题</a></li> <li>Microsoft Store 新增<a href=\"https://www.microsoft.com/zh-cn/store/p/arial-nova/9ns5ct1mz7m8\">字体产品</a></li> <li>macOS 系统上安装、管理和预览字体的软件<a href=\"https://support.apple.com/zh-cn/guide/font-book/welcome/mac\">「字体册」</a></li> <li>Mac 上<a href=\"https://support.apple.com/zh-cn/HT201722\">字体位置及其目的</a></li> <li><a href=\"https://baike.baidu.com/item/%E5%BC%82%E4%BD%93%E5%AD%97\">异体字</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_12345\">GB/T 12345—90</a>《信息交换用汉字编码字符集　辅助集》；另见知乎上关于 GB 12345 <a href=\"https://www.zhihu.com/question/20088703\">标准</a>及<a href=\"https://www.zhihu.com/question/35060319/\">字体产品</a>的讨论</li> <li>灵宝一高于 2017 年公布<a href=\"https://weibo.com/ttarticle/p/show?id=2309404122064809230897\">苏钰彤的文言文自荐信</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%89%B9%E7%AE%80%E4%BD%93%E5%AD%97%E8%A1%A8\">《第一批简体字表》</a>，中华民国教育部于 1935 年公布</li> <li><a href=\"http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm\">《通用规范汉字表》</a>，中华人民共和国国务院于 2013 年公布</li> <li><a href=\"https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BC%82%E4%BD%93%E5%AD%97%E6%95%B4%E7%90%86%E8%A1%A8\">《第一批异体字整理表》</a>，中华人民共和国文化部和文字改革委员会于 1955 公布</li> <li><a href=\"https://www.zhihu.com/question/19860679\">汉字「里」与「裡」「裏」的关系</a></li> <li>日语中的简化汉字，例如：<a href=\"https://ja.wiktionary.org/wiki/%E6%B8%8B\">渋</a>、<a href=\"https://ja.wiktionary.org/wiki/%E6%91%82\">摂</a>、<a href=\"https://ja.wiktionary.org/wiki/%E7%BC%B6\">缶</a>、<a href=\"https://ja.wiktionary.org/wiki/%E6%AC%A0\">欠</a>、<a href=\"https://ja.wikipedia.org/wiki/%E7%9F%A5%E6%81%B5\">知恵</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%AE%80%E5%AD%97\">二简字</a></li> <li><a href=\"https://www.unicode.org/reports/tr38/\">UAX #38: Unicode Han Database (Unihan)</a></li> <li><a href=\"http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=F8C3F74E28446DBFC80F349933CFDAD5\">GB/T 13000—2010</a>《信息技术　通用多八位编码字符集（UCS）》，等同采用国际标准 <a href=\"https://www.iso.org/standard/39921.html\">ISO/IEC 10646:2003</a></li> <li>OpenType 的 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-trad\">trad</a> 特性</li> <li><a href=\"https://github.com/realfish/typedraw/blob/master/README.md#typedraw-23\">《字谈字畅》第二十三轮抽奖结果</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "1:30:33",
+    "subtitle": "论繁简转换",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "论繁简转换"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>汉字的字形，随历史而演变。异体字的整理，汉字简化方案的提出及推行，以及各地区字形标准的差异，都为今日汉字的使用者和计算机软件的国际化，留下了不同程度的问题——当我们受惠于由繁入简的便利时，也不得不面对由简入繁的疑难。</p> <h3>参考链接</h3> <ul> <li>Type is Beautiful 更换域名为 <a href=\"https://www.thetype.com/\">thetype.com</a></li> <li>Windows 的「记事本」软件<a href=\"https://blogs.msdn.microsoft.com/commandline/2018/05/08/extended-eol-in-notepad/\">扩展了换行符的支持</a></li> <li>《字谈字畅》第四十四期，<a href=\"https://www.thetype.com/2017/04/11845/\">讨论了换行符相关的问题</a></li> <li>Microsoft Store 新增<a href=\"https://www.microsoft.com/zh-cn/store/p/arial-nova/9ns5ct1mz7m8\">字体产品</a></li> <li>macOS 系统上安装、管理和预览字体的软件<a href=\"https://support.apple.com/zh-cn/guide/font-book/welcome/mac\">「字体册」</a></li> <li>Mac 上<a href=\"https://support.apple.com/zh-cn/HT201722\">字体位置及其目的</a></li> <li><a href=\"https://baike.baidu.com/item/%E5%BC%82%E4%BD%93%E5%AD%97\">异体字</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_12345\">GB/T 12345—90</a>《信息交换用汉字编码字符集　辅助集》；另见知乎上关于 GB 12345 <a href=\"https://www.zhihu.com/question/20088703\">标准</a>及<a href=\"https://www.zhihu.com/question/35060319/\">字体产品</a>的讨论</li> <li>灵宝一高于 2017 年公布<a href=\"https://weibo.com/ttarticle/p/show?id=2309404122064809230897\">苏钰彤的文言文自荐信</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%89%B9%E7%AE%80%E4%BD%93%E5%AD%97%E8%A1%A8\">《第一批简体字表》</a>，中华民国教育部于 1935 年公布</li> <li><a href=\"http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm\">《通用规范汉字表》</a>，中华人民共和国国务院于 2013 年公布</li> <li><a href=\"https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BC%82%E4%BD%93%E5%AD%97%E6%95%B4%E7%90%86%E8%A1%A8\">《第一批异体字整理表》</a>，中华人民共和国文化部和文字改革委员会于 1955 公布</li> <li><a href=\"https://www.zhihu.com/question/19860679\">汉字「里」与「裡」「裏」的关系</a></li> <li>日语中的简化汉字，例如：<a href=\"https://ja.wiktionary.org/wiki/%E6%B8%8B\">渋</a>、<a href=\"https://ja.wiktionary.org/wiki/%E6%91%82\">摂</a>、<a href=\"https://ja.wiktionary.org/wiki/%E7%BC%B6\">缶</a>、<a href=\"https://ja.wiktionary.org/wiki/%E6%AC%A0\">欠</a>、<a href=\"https://ja.wikipedia.org/wiki/%E7%9F%A5%E6%81%B5\">知恵</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E4%BA%8C%E7%AE%80%E5%AD%97\">二简字</a></li> <li><a href=\"https://www.unicode.org/reports/tr38/\">UAX #38: Unicode Han Database (Unihan)</a></li> <li><a href=\"http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=F8C3F74E28446DBFC80F349933CFDAD5\">GB/T 13000—2010</a>《信息技术　通用多八位编码字符集（UCS）》，等同采用国际标准 <a href=\"https://www.iso.org/standard/39921.html\">ISO/IEC 10646:2003</a></li> <li>OpenType 的 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-trad\">trad</a> 特性</li> <li><a href=\"https://github.com/realfish/typedraw/blob/master/README.md#typedraw-23\">《字谈字畅》第二十三轮抽奖结果</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

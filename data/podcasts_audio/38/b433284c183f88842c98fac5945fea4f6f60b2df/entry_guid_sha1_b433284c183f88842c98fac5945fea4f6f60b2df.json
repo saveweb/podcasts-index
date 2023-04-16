@@ -1,0 +1,76 @@
+{
+    "title": "#118：字间字隙字字齐",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#118：字间字隙字字齐"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-118/"
+        },
+        {
+            "length": "57736481",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat118.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-118/",
+    "published": "Tue, 04 Feb 2020 06:59:35 +0800",
+    "published_parsed": [
+        2020,
+        2,
+        3,
+        22,
+        59,
+        35,
+        0,
+        34,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat118.mp3",
+    "guidislink": false,
+    "summary": "<p>字距是文字排版的又一基础概念。与<a href=\"https://www.thetype.com/2019/07/16954/\">行距</a>类似的是，它存在着术语名称的混杂；与之不尽相同的是，「字距」时常指代着多个可调的参数。今天我们将围绕中西文排版的实践，一窥字间字隙。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/chinese-typography-research-collection-201908/\">《中文文字设计研究选集》</a>（<cite>Collection of Research on Chinese Typography</cite>），The Type 编撰出品</li> <li>文鼎字型（Arphic Types）在 <a href=\"https://fonts.adobe.com/foundries/arphic-technology-co-ltd\">Adobe Fonts 平台上架</a>字体产品</li> <li><a href=\"https://monotype.com/resources/monotype-acquires-fontsmith\">Monotype 收购 Fontsmith</a>；<a href=\"https://www.fontsmith.com/\">Fontsmith</a> 是一家位于英国伦敦的字体厂商，出版有杂志 <a href=\"https://shop.fontsmith.com/collections/typenotes-magazine\"><cite>TypeNotes</cite></a></li> <li><a href=\"https://en.wikipedia.org/wiki/Letter-spacing\">Letter-spacing</a>（常译作「字距」「字母间距」）</li> <li>西文的 <a href=\"http://thinkingwithtype.com/text/#tracking\">tracking</a>（常译作「字距调整」，Adobe 软件译作「字符间距」）</li> <li>西文的 <a href=\"http://thinkingwithtype.com/text/#kerning\">kerning</a>（字偶距）</li> <li>字体设计中的 <a href=\"https://ilovetypography.com/typography-terms/typography-terms-s/\">side bearing</a>（边距）</li> <li>CSS 定义的 <a href=\"https://drafts.csswg.org/css-text-3/#letter-spacing-property\"><code>letter-spacing</code></a> 和 <a href=\"https://drafts.csswg.org/css-text-3/#word-spacing-property\"><code>word-spacing</code></a> 属性</li> <li><a href=\"https://hellveticafont.com/\">Hellvetica</a>，基于 Helvetica 的恶搞字体，Zack Roif 和 Matthew Woodward 合作出品</li> <li>Erik Spiekermann &amp; E. M. Ginger. <a href=\"https://www.amazon.com/Stop-Stealing-Sheep-Find-Works/dp/0672485435/\"><cite>Stop Stealing Sheep &amp; Find Out How Type Works</cite></a>. Adobe Press, 1993 (<a href=\"https://www.amazon.com/Stop-Stealing-Sheep-Find-Works/dp/0201703394\"><cite>2nd Edition</cite></a>, 2002).</li> <li><a href=\"http://web.archive.org/web/20190708000934/http://typophile.com/node/13406\">Typophile 论坛</a>曾讨论过「steal sheep」这一措辞的来源及争议</li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-palt\"><code>palt</code></a> 和 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vpal\"><code>vpal</code></a> 特性</li> <li>Adobe InDesign 的<a href=\"https://helpx.adobe.com/cn/indesign/using/layout-grids.html\">「版面网格」</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>字距是文字排版的又一基础概念。与<a href=\"https://www.thetype.com/2019/07/16954/\">行距</a>类似的是，它存在着术语名称的混杂；与之不尽相同的是，「字距」时常指代着多个可调的参数。今天我们将围绕中西文排版的实践，一窥字间字隙。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/chinese-typography-research-collection-201908/\">《中文文字设计研究选集》</a>（<cite>Collection of Research on Chinese Typography</cite>），The Type 编撰出品</li> <li>文鼎字型（Arphic Types）在 <a href=\"https://fonts.adobe.com/foundries/arphic-technology-co-ltd\">Adobe Fonts 平台上架</a>字体产品</li> <li><a href=\"https://monotype.com/resources/monotype-acquires-fontsmith\">Monotype 收购 Fontsmith</a>；<a href=\"https://www.fontsmith.com/\">Fontsmith</a> 是一家位于英国伦敦的字体厂商，出版有杂志 <a href=\"https://shop.fontsmith.com/collections/typenotes-magazine\"><cite>TypeNotes</cite></a></li> <li><a href=\"https://en.wikipedia.org/wiki/Letter-spacing\">Letter-spacing</a>（常译作「字距」「字母间距」）</li> <li>西文的 <a href=\"http://thinkingwithtype.com/text/#tracking\">tracking</a>（常译作「字距调整」，Adobe 软件译作「字符间距」）</li> <li>西文的 <a href=\"http://thinkingwithtype.com/text/#kerning\">kerning</a>（字偶距）</li> <li>字体设计中的 <a href=\"https://ilovetypography.com/typography-terms/typography-terms-s/\">side bearing</a>（边距）</li> <li>CSS 定义的 <a href=\"https://drafts.csswg.org/css-text-3/#letter-spacing-property\"><code>letter-spacing</code></a> 和 <a href=\"https://drafts.csswg.org/css-text-3/#word-spacing-property\"><code>word-spacing</code></a> 属性</li> <li><a href=\"https://hellveticafont.com/\">Hellvetica</a>，基于 Helvetica 的恶搞字体，Zack Roif 和 Matthew Woodward 合作出品</li> <li>Erik Spiekermann &amp; E. M. Ginger. <a href=\"https://www.amazon.com/Stop-Stealing-Sheep-Find-Works/dp/0672485435/\"><cite>Stop Stealing Sheep &amp; Find Out How Type Works</cite></a>. Adobe Press, 1993 (<a href=\"https://www.amazon.com/Stop-Stealing-Sheep-Find-Works/dp/0201703394\"><cite>2nd Edition</cite></a>, 2002).</li> <li><a href=\"http://web.archive.org/web/20190708000934/http://typophile.com/node/13406\">Typophile 论坛</a>曾讨论过「steal sheep」这一措辞的来源及争议</li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-palt\"><code>palt</code></a> 和 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vpal\"><code>vpal</code></a> 特性</li> <li>Adobe InDesign 的<a href=\"https://helpx.adobe.com/cn/indesign/using/layout-grids.html\">「版面网格」</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "1:20:05",
+    "subtitle": "Letter-spacing",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "Letter-spacing"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>字距是文字排版的又一基础概念。与<a href=\"https://www.thetype.com/2019/07/16954/\">行距</a>类似的是，它存在着术语名称的混杂；与之不尽相同的是，「字距」时常指代着多个可调的参数。今天我们将围绕中西文排版的实践，一窥字间字隙。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/chinese-typography-research-collection-201908/\">《中文文字设计研究选集》</a>（<cite>Collection of Research on Chinese Typography</cite>），The Type 编撰出品</li> <li>文鼎字型（Arphic Types）在 <a href=\"https://fonts.adobe.com/foundries/arphic-technology-co-ltd\">Adobe Fonts 平台上架</a>字体产品</li> <li><a href=\"https://monotype.com/resources/monotype-acquires-fontsmith\">Monotype 收购 Fontsmith</a>；<a href=\"https://www.fontsmith.com/\">Fontsmith</a> 是一家位于英国伦敦的字体厂商，出版有杂志 <a href=\"https://shop.fontsmith.com/collections/typenotes-magazine\"><cite>TypeNotes</cite></a></li> <li><a href=\"https://en.wikipedia.org/wiki/Letter-spacing\">Letter-spacing</a>（常译作「字距」「字母间距」）</li> <li>西文的 <a href=\"http://thinkingwithtype.com/text/#tracking\">tracking</a>（常译作「字距调整」，Adobe 软件译作「字符间距」）</li> <li>西文的 <a href=\"http://thinkingwithtype.com/text/#kerning\">kerning</a>（字偶距）</li> <li>字体设计中的 <a href=\"https://ilovetypography.com/typography-terms/typography-terms-s/\">side bearing</a>（边距）</li> <li>CSS 定义的 <a href=\"https://drafts.csswg.org/css-text-3/#letter-spacing-property\"><code>letter-spacing</code></a> 和 <a href=\"https://drafts.csswg.org/css-text-3/#word-spacing-property\"><code>word-spacing</code></a> 属性</li> <li><a href=\"https://hellveticafont.com/\">Hellvetica</a>，基于 Helvetica 的恶搞字体，Zack Roif 和 Matthew Woodward 合作出品</li> <li>Erik Spiekermann &amp; E. M. Ginger. <a href=\"https://www.amazon.com/Stop-Stealing-Sheep-Find-Works/dp/0672485435/\"><cite>Stop Stealing Sheep &amp; Find Out How Type Works</cite></a>. Adobe Press, 1993 (<a href=\"https://www.amazon.com/Stop-Stealing-Sheep-Find-Works/dp/0201703394\"><cite>2nd Edition</cite></a>, 2002).</li> <li><a href=\"http://web.archive.org/web/20190708000934/http://typophile.com/node/13406\">Typophile 论坛</a>曾讨论过「steal sheep」这一措辞的来源及争议</li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-palt\"><code>palt</code></a> 和 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vpal\"><code>vpal</code></a> 特性</li> <li>Adobe InDesign 的<a href=\"https://helpx.adobe.com/cn/indesign/using/layout-grids.html\">「版面网格」</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://static.thetype.cloud/typechat/assets/typechat118/typechat118-poster.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://static.thetype.cloud/typechat/assets/typechat118/typechat118-poster.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

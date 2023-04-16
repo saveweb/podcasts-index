@@ -1,0 +1,93 @@
+{
+    "title": "#91 宣扬暴力与仇恨，关了这些网站世界就会变好了吗",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#91 宣扬暴力与仇恨，关了这些网站世界就会变好了吗"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/cloudflare-paradox"
+        },
+        {
+            "length": "46852725",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/4877eda2-9368-4506-8e48-74f103fa262e.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/cloudflare-paradox",
+    "id": "4877eda2-9368-4506-8e48-74f103fa262e",
+    "guidislink": false,
+    "published": "Sun, 18 Aug 2019 23:00:00 +0800",
+    "published_parsed": [
+        2019,
+        8,
+        18,
+        15,
+        0,
+        0,
+        6,
+        230,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "48:48",
+    "itunes_explicit": null,
+    "summary": "<p>主播 | 蓉慧 杜晨</p>\n\n<p>如果假新闻、暴力、仇恨与极端情绪从一些网络站点弥散而出，让这些网站看上去像是虚拟世界中的传染源，那谁应该/有权审查或叫停这些网站呢。</p>\n\n<p>上一期徐涛和杜晨聊了发生在德州、芝加哥、俄亥俄州和纽约布鲁克林的枪击案——其中有枪手在作案之前，在一个叫做 8chan 的网站上发布宣言。本期我们接着讨论，像 8chan 这个小众的、散布仇恨言论的社区该不该被关闭？</p>\n\n<p>我们的第一反应可能都是：应该。</p>\n\n<p>这恰好也体现了这件事的矛盾所在：8chan 的发起人已失去了对网站的控制，而8chan 的运营者不愿意关闭网站。至此，是否关闭网站的矛盾被转嫁给了 Cloudflare——一家为 8chan 提供 CDN 服务（Content Delivery Network，即内容分发网络）的公司。</p>\n\n<p>所以，我们进一步讨论了这些话题</p>\n\n<ul>\n<li>关闭网站是否能阻止恶意言论；</li>\n<li>商业公司有没有权利做仲裁者；</li>\n<li>法律、行政手段在这里应该起什么作用。</li>\n</ul>\n\n<p><strong>也欢迎大家加入我们的讨论。</strong></p>\n\n<p><strong>相关信息</strong><br />\n《一个亚文化网站，如何「催生」了一次又一次大规模枪击案？》<br />\n作者：杜晨<br />\n链接：<a href=\"https://mp.weixin.qq.com/s/_dmgS_1cg4qIgylrexlpwQ\" rel=\"nofollow\">https://mp.weixin.qq.com/s/_dmgS_1cg4qIgylrexlpwQ</a></p>\n\n<p>A Framework for Moderation<br />\n作者：Ben Thompson <br />\n链接：<a href=\"https://stratechery.com/2019/a-framework-for-moderation/\" rel=\"nofollow\">https://stratechery.com/2019/a-framework-for-moderation/</a></p>\n\n<p>Terminating Service for 8Chan<br />\n作者：Matthew Prince<br />\n链接：<a href=\"https://blog.cloudflare.com/terminating-service-for-8chan/\" rel=\"nofollow\">https://blog.cloudflare.com/terminating-service-for-8chan/</a></p>\n\n<p>Why Banning 8chan Was So Hard for Cloudflare: ‘No One Should Have That Power’<br />\n作者：Kevin Roose<br />\n链接：<a href=\"https://www.nytimes.com/2019/08/05/technology/8chan-cloudflare-el-paso.html\" rel=\"nofollow\">https://www.nytimes.com/2019/08/05/technology/8chan-cloudflare-el-paso.html</a></p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>主播 | 蓉慧 杜晨</p>\n\n<p>如果假新闻、暴力、仇恨与极端情绪从一些网络站点弥散而出，让这些网站看上去像是虚拟世界中的传染源，那谁应该/有权审查或叫停这些网站呢。</p>\n\n<p>上一期徐涛和杜晨聊了发生在德州、芝加哥、俄亥俄州和纽约布鲁克林的枪击案——其中有枪手在作案之前，在一个叫做 8chan 的网站上发布宣言。本期我们接着讨论，像 8chan 这个小众的、散布仇恨言论的社区该不该被关闭？</p>\n\n<p>我们的第一反应可能都是：应该。</p>\n\n<p>这恰好也体现了这件事的矛盾所在：8chan 的发起人已失去了对网站的控制，而8chan 的运营者不愿意关闭网站。至此，是否关闭网站的矛盾被转嫁给了 Cloudflare——一家为 8chan 提供 CDN 服务（Content Delivery Network，即内容分发网络）的公司。</p>\n\n<p>所以，我们进一步讨论了这些话题</p>\n\n<ul>\n<li>关闭网站是否能阻止恶意言论；</li>\n<li>商业公司有没有权利做仲裁者；</li>\n<li>法律、行政手段在这里应该起什么作用。</li>\n</ul>\n\n<p><strong>也欢迎大家加入我们的讨论。</strong></p>\n\n<p><strong>相关信息</strong><br />\n《一个亚文化网站，如何「催生」了一次又一次大规模枪击案？》<br />\n作者：杜晨<br />\n链接：<a href=\"https://mp.weixin.qq.com/s/_dmgS_1cg4qIgylrexlpwQ\" rel=\"nofollow\">https://mp.weixin.qq.com/s/_dmgS_1cg4qIgylrexlpwQ</a></p>\n\n<p>A Framework for Moderation<br />\n作者：Ben Thompson <br />\n链接：<a href=\"https://stratechery.com/2019/a-framework-for-moderation/\" rel=\"nofollow\">https://stratechery.com/2019/a-framework-for-moderation/</a></p>\n\n<p>Terminating Service for 8Chan<br />\n作者：Matthew Prince<br />\n链接：<a href=\"https://blog.cloudflare.com/terminating-service-for-8chan/\" rel=\"nofollow\">https://blog.cloudflare.com/terminating-service-for-8chan/</a></p>\n\n<p>Why Banning 8chan Was So Hard for Cloudflare: ‘No One Should Have That Power’<br />\n作者：Kevin Roose<br />\n链接：<a href=\"https://www.nytimes.com/2019/08/05/technology/8chan-cloudflare-el-paso.html\" rel=\"nofollow\">https://www.nytimes.com/2019/08/05/technology/8chan-cloudflare-el-paso.html</a></p>"
+    },
+    "tags": [
+        {
+            "term": "Media Literacy",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "播客",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>主播 | 蓉慧 杜晨</p>\n\n<p>如果假新闻、暴力、仇恨与极端情绪从一些网络站点弥散而出，让这些网站看上去像是虚拟世界中的传染源，那谁应该/有权审查或叫停这些网站呢。</p>\n\n<p>上一期徐涛和杜晨聊了发生在德州、芝加哥、俄亥俄州和纽约布鲁克林的枪击案——其中有枪手在作案之前，在一个叫做 8chan 的网站上发布宣言。本期我们接着讨论，像 8chan 这个小众的、散布仇恨言论的社区该不该被关闭？</p>\n\n<p>我们的第一反应可能都是：应该。</p>\n\n<p>这恰好也体现了这件事的矛盾所在：8chan 的发起人已失去了对网站的控制，而8chan 的运营者不愿意关闭网站。至此，是否关闭网站的矛盾被转嫁给了 Cloudflare——一家为 8chan 提供 CDN 服务（Content Delivery Network，即内容分发网络）的公司。</p>\n\n<p>所以，我们进一步讨论了这些话题</p>\n\n<ul>\n<li>关闭网站是否能阻止恶意言论；</li>\n<li>商业公司有没有权利做仲裁者；</li>\n<li>法律、行政手段在这里应该起什么作用。</li>\n</ul>\n\n<p><strong>也欢迎大家加入我们的讨论。</strong></p>\n\n<p><strong>相关信息</strong><br />\n《一个亚文化网站，如何「催生」了一次又一次大规模枪击案？》<br />\n作者：杜晨<br />\n链接：<a href=\"https://mp.weixin.qq.com/s/_dmgS_1cg4qIgylrexlpwQ\" rel=\"nofollow\">https://mp.weixin.qq.com/s/_dmgS_1cg4qIgylrexlpwQ</a></p>\n\n<p>A Framework for Moderation<br />\n作者：Ben Thompson <br />\n链接：<a href=\"https://stratechery.com/2019/a-framework-for-moderation/\" rel=\"nofollow\">https://stratechery.com/2019/a-framework-for-moderation/</a></p>\n\n<p>Terminating Service for 8Chan<br />\n作者：Matthew Prince<br />\n链接：<a href=\"https://blog.cloudflare.com/terminating-service-for-8chan/\" rel=\"nofollow\">https://blog.cloudflare.com/terminating-service-for-8chan/</a></p>\n\n<p>Why Banning 8chan Was So Hard for Cloudflare: ‘No One Should Have That Power’<br />\n作者：Kevin Roose<br />\n链接：<a href=\"https://www.nytimes.com/2019/08/05/technology/8chan-cloudflare-el-paso.html\" rel=\"nofollow\">https://www.nytimes.com/2019/08/05/technology/8chan-cloudflare-el-paso.html</a></p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+egaV21M5",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+egaV21M5\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

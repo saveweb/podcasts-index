@@ -1,0 +1,81 @@
+{
+    "title": "#13 奥斯卡不只是《爱乐之城》",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#13 奥斯卡不只是《爱乐之城》"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/2017-oscar"
+        },
+        {
+            "length": "68504455",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/e8c85533-cb63-4a79-b829-cc34df3f29dd.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/2017-oscar",
+    "id": "http://audio.xmcdn.com/group25/M02/AC/A6/wKgJMViugeOTfleqAV5w2Iy-XyA292.m4a",
+    "guidislink": false,
+    "published": "Thu, 23 Feb 2017 14:00:00 +0800",
+    "published_parsed": [
+        2017,
+        2,
+        23,
+        6,
+        0,
+        0,
+        3,
+        54,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "47:16",
+    "itunes_explicit": null,
+    "summary": "<p>去年探讨的都还是小金人是黑还是白的问题。今年的奥斯卡看上去不再那么白了。不过，还是觉得比较无聊。唯一诚意推荐《海边的曼彻斯特》。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>去年探讨的都还是小金人是黑还是白的问题。今年的奥斯卡看上去不再那么白了。不过，还是觉得比较无聊。唯一诚意推荐《海边的曼彻斯特》。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>去年探讨的都还是小金人是黑还是白的问题。今年的奥斯卡看上去不再那么白了。不过，还是觉得比较无聊。唯一诚意推荐《海边的曼彻斯特》。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+23-5vS3y",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+23-5vS3y\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

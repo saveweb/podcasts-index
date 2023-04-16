@@ -1,0 +1,76 @@
+{
+    "title": "#46：独家专访山景城下肖湘晔",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#46：独家专访山景城下肖湘晔"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-046/"
+        },
+        {
+            "length": "52867421",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat046.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-046/",
+    "published": "Tue, 02 May 2017 06:24:35 +0800",
+    "published_parsed": [
+        2017,
+        5,
+        1,
+        22,
+        24,
+        35,
+        0,
+        121,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat046.mp3",
+    "guidislink": false,
+    "summary": "<p>Noto Serif CJK，亦名 Source Han Serif（思源宋体），是 Google 与 Adobe 合作出品的第二款泛中日韩开源字体家族。在 Noto Serif CJK 面世将近满月之际，本台有幸邀请到 Google Noto 字体项目产品经理肖湘晔，讲述关于 Noto 的独家故事。</p> <p>本期节目中，湘晔将与我们分享 Noto 项目的源起和发展，Noto Sans CJK 及 Noto Serif CJK 的设计、开发和评测，以及那些你可能还仍未知晓的幕后趣闻。</p> <h3>参考链接</h3> <ul> <li>2014 年 7 月 15 日，<a href=\"http://t.cn/RX8Nszx\">Noto Sans CJK 发布</a></li> <li>2017 年 4 月 3 日，<a href=\"http://t.cn/R6RxvzQ\">Noto Serif CJK 发布</a></li> <li><a href=\"http://t.cn/RPw998E\">Google Noto Fonts</a></li> <li><a href=\"http://t.cn/R6rNA3b\">Noto CJK</a></li> <li><a href=\"http://t.cn/RX8pwYa\">HarfBuzz</a>，开源文字塑形引擎，<a href=\"http://t.cn/ajJRzS\">Behdad Esfahbod</a> 开发</li> <li><a href=\"http://t.cn/RX8py3z\">Ken Lunde</a>（小林剣），CJKV 信息处理及字体开发专家，现任职于 Adobe，Source Han / Noto CJK 项目的技术负责人</li> <li>Monotype，<a href=\"http://t.cn/RVw5jgA\">Noto 项目重要的合作方</a></li> <li><a href=\"http://t.cn/RX8pGbc\">Noto Color Emoji</a>；《字谈字畅》<a href=\"http://t.cn/R6RbvjN\">第四十四期</a>的听众反馈部分，另有补充信息可供参考</li> <li><a href=\"http://t.cn/RX8pcAg\">Noto Sans Malayalam</a></li> <li><a href=\"http://t.cn/RX8pILB\">Malayalam script</a>（马拉雅拉姆文字），印度系文字的一种，用于书写马拉雅拉姆语</li> <li><a href=\"http://t.cn/RX8pM3K\">Multiple master</a>，早先为 Adobe Type 1 PostScript 字体的一种扩展技术，现已成为多字重、多样式字体家族的设计及开发工具</li> <li><a href=\"http://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/BIAU/c12.htm\">国字标准字体</a>，中华民国教育部发布的字形标准</li> <li>梁海列述的 <a href=\"http://t.cn/RX8pdO7\">Noto CJK 简体中文外部评测者</a></li> <li>西塚涼子（<a href=\"http://t.cn/RX8peNZ\">Ryoko Nishizuka</a>），Adobe 字体设计师，Source Han / Noto CJK 主管设计师</li> <li><a href=\"http://t.cn/RX8pkm1\">Source Han Serif ReadMe</a></li> <li>古谚文（archaic hangul, <a href=\"http://t.cn/RX80h6b\">옛한글</a>）</li> <li><a href=\"http://t.cn/RX80ZEi\">UAX #38: Unicode Han Database (Unihan)</a>，以及<a href=\"http://t.cn/RX80UAy\">「汉字统合」（Han unification）</a></li> <li>Ken Lunde 撰文列述 <a href=\"http://t.cn/RX8pkm1\">Noto Serif CJK / Source Han Serif 项目的开发历史及部分技术要点</a></li> <li><a href=\"http://t.cn/RX80Vqt\">AFDKO</a> (Adobe Font Development Kit for OpenType)</li> <li>Miguel Sousa 曾撰文介绍 <a href=\"http://t.cn/RX80ILj\">OpenType/CFF 格式相对于 TrueType 的优势</a>，内含 subroutinization 技术的简介，可供参考</li> <li>Ken Lunde 撰文介绍<a href=\"http://t.cn/RX80Mg2\">汉字 biáng 在 Noto Serif CJK / Source Han Serif 中的设计及实现</a></li> <li><a href=\"http://t.cn/RX80lFf\">UTR #50: Unicode Vertical Text Layout</a>；该技术报告，<a href=\"http://t.cn/RX8OGd1\">将在 Unicode 10.0 中提升至标准附录（UAX）</a></li> <li><a href=\"https://ipn.li/itgonglun/88/\">思源黑体（Source Han Sans）——史诗级中日韩新字体诞生</a>，《IT 公论》第八十八期</li> <li>Eric 撰文<a href=\"http://t.cn/RXS13SP\">解答关于 Noto Serif CJK / Source Han Serif 的疑问</a>，刊于 Type is Beautiful</li> <li><a href=\"http://t.cn/RciH1Fs\">OpenType Font Variation</a> (variable fonts)</li> <li><a href=\"http://t.cn/RhQQiZV\">AOSP (Android Open Source Project)</a></li> <li><a href=\"http://t.cn/RUFlyhs\">Noto CJK</a>，以及 <a href=\"http://t.cn/RP7Rsv9\">Source Han Sans</a> 和 <a href=\"http://t.cn/R6R0j7c\">Source Han Serif</a>，均在 GitHub 上提供反馈渠道</li> </ul> <h3>致谢</h3> <p>特别感谢 Rex Chen、杜钦、江疆、梁海、Eric Liu、厉致谦、甪戌、沈逸磊、钱争予、张弥迪等人为 Noto CJK 评测工作所做的贡献。</p> <h3>嘉宾</h3> <ul> <li>肖湘晔：Google 国际化组产品经理</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>Noto Serif CJK，亦名 Source Han Serif（思源宋体），是 Google 与 Adobe 合作出品的第二款泛中日韩开源字体家族。在 Noto Serif CJK 面世将近满月之际，本台有幸邀请到 Google Noto 字体项目产品经理肖湘晔，讲述关于 Noto 的独家故事。</p> <p>本期节目中，湘晔将与我们分享 Noto 项目的源起和发展，Noto Sans CJK 及 Noto Serif CJK 的设计、开发和评测，以及那些你可能还仍未知晓的幕后趣闻。</p> <h3>参考链接</h3> <ul> <li>2014 年 7 月 15 日，<a href=\"http://t.cn/RX8Nszx\">Noto Sans CJK 发布</a></li> <li>2017 年 4 月 3 日，<a href=\"http://t.cn/R6RxvzQ\">Noto Serif CJK 发布</a></li> <li><a href=\"http://t.cn/RPw998E\">Google Noto Fonts</a></li> <li><a href=\"http://t.cn/R6rNA3b\">Noto CJK</a></li> <li><a href=\"http://t.cn/RX8pwYa\">HarfBuzz</a>，开源文字塑形引擎，<a href=\"http://t.cn/ajJRzS\">Behdad Esfahbod</a> 开发</li> <li><a href=\"http://t.cn/RX8py3z\">Ken Lunde</a>（小林剣），CJKV 信息处理及字体开发专家，现任职于 Adobe，Source Han / Noto CJK 项目的技术负责人</li> <li>Monotype，<a href=\"http://t.cn/RVw5jgA\">Noto 项目重要的合作方</a></li> <li><a href=\"http://t.cn/RX8pGbc\">Noto Color Emoji</a>；《字谈字畅》<a href=\"http://t.cn/R6RbvjN\">第四十四期</a>的听众反馈部分，另有补充信息可供参考</li> <li><a href=\"http://t.cn/RX8pcAg\">Noto Sans Malayalam</a></li> <li><a href=\"http://t.cn/RX8pILB\">Malayalam script</a>（马拉雅拉姆文字），印度系文字的一种，用于书写马拉雅拉姆语</li> <li><a href=\"http://t.cn/RX8pM3K\">Multiple master</a>，早先为 Adobe Type 1 PostScript 字体的一种扩展技术，现已成为多字重、多样式字体家族的设计及开发工具</li> <li><a href=\"http://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/BIAU/c12.htm\">国字标准字体</a>，中华民国教育部发布的字形标准</li> <li>梁海列述的 <a href=\"http://t.cn/RX8pdO7\">Noto CJK 简体中文外部评测者</a></li> <li>西塚涼子（<a href=\"http://t.cn/RX8peNZ\">Ryoko Nishizuka</a>），Adobe 字体设计师，Source Han / Noto CJK 主管设计师</li> <li><a href=\"http://t.cn/RX8pkm1\">Source Han Serif ReadMe</a></li> <li>古谚文（archaic hangul, <a href=\"http://t.cn/RX80h6b\">옛한글</a>）</li> <li><a href=\"http://t.cn/RX80ZEi\">UAX #38: Unicode Han Database (Unihan)</a>，以及<a href=\"http://t.cn/RX80UAy\">「汉字统合」（Han unification）</a></li> <li>Ken Lunde 撰文列述 <a href=\"http://t.cn/RX8pkm1\">Noto Serif CJK / Source Han Serif 项目的开发历史及部分技术要点</a></li> <li><a href=\"http://t.cn/RX80Vqt\">AFDKO</a> (Adobe Font Development Kit for OpenType)</li> <li>Miguel Sousa 曾撰文介绍 <a href=\"http://t.cn/RX80ILj\">OpenType/CFF 格式相对于 TrueType 的优势</a>，内含 subroutinization 技术的简介，可供参考</li> <li>Ken Lunde 撰文介绍<a href=\"http://t.cn/RX80Mg2\">汉字 biáng 在 Noto Serif CJK / Source Han Serif 中的设计及实现</a></li> <li><a href=\"http://t.cn/RX80lFf\">UTR #50: Unicode Vertical Text Layout</a>；该技术报告，<a href=\"http://t.cn/RX8OGd1\">将在 Unicode 10.0 中提升至标准附录（UAX）</a></li> <li><a href=\"https://ipn.li/itgonglun/88/\">思源黑体（Source Han Sans）——史诗级中日韩新字体诞生</a>，《IT 公论》第八十八期</li> <li>Eric 撰文<a href=\"http://t.cn/RXS13SP\">解答关于 Noto Serif CJK / Source Han Serif 的疑问</a>，刊于 Type is Beautiful</li> <li><a href=\"http://t.cn/RciH1Fs\">OpenType Font Variation</a> (variable fonts)</li> <li><a href=\"http://t.cn/RhQQiZV\">AOSP (Android Open Source Project)</a></li> <li><a href=\"http://t.cn/RUFlyhs\">Noto CJK</a>，以及 <a href=\"http://t.cn/RP7Rsv9\">Source Han Sans</a> 和 <a href=\"http://t.cn/R6R0j7c\">Source Han Serif</a>，均在 GitHub 上提供反馈渠道</li> </ul> <h3>致谢</h3> <p>特别感谢 Rex Chen、杜钦、江疆、梁海、Eric Liu、厉致谦、甪戌、沈逸磊、钱争予、张弥迪等人为 Noto CJK 评测工作所做的贡献。</p> <h3>嘉宾</h3> <ul> <li>肖湘晔：Google 国际化组产品经理</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "1:49:58",
+    "subtitle": "No more tofu",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "No more tofu"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>Noto Serif CJK，亦名 Source Han Serif（思源宋体），是 Google 与 Adobe 合作出品的第二款泛中日韩开源字体家族。在 Noto Serif CJK 面世将近满月之际，本台有幸邀请到 Google Noto 字体项目产品经理肖湘晔，讲述关于 Noto 的独家故事。</p> <p>本期节目中，湘晔将与我们分享 Noto 项目的源起和发展，Noto Sans CJK 及 Noto Serif CJK 的设计、开发和评测，以及那些你可能还仍未知晓的幕后趣闻。</p> <h3>参考链接</h3> <ul> <li>2014 年 7 月 15 日，<a href=\"http://t.cn/RX8Nszx\">Noto Sans CJK 发布</a></li> <li>2017 年 4 月 3 日，<a href=\"http://t.cn/R6RxvzQ\">Noto Serif CJK 发布</a></li> <li><a href=\"http://t.cn/RPw998E\">Google Noto Fonts</a></li> <li><a href=\"http://t.cn/R6rNA3b\">Noto CJK</a></li> <li><a href=\"http://t.cn/RX8pwYa\">HarfBuzz</a>，开源文字塑形引擎，<a href=\"http://t.cn/ajJRzS\">Behdad Esfahbod</a> 开发</li> <li><a href=\"http://t.cn/RX8py3z\">Ken Lunde</a>（小林剣），CJKV 信息处理及字体开发专家，现任职于 Adobe，Source Han / Noto CJK 项目的技术负责人</li> <li>Monotype，<a href=\"http://t.cn/RVw5jgA\">Noto 项目重要的合作方</a></li> <li><a href=\"http://t.cn/RX8pGbc\">Noto Color Emoji</a>；《字谈字畅》<a href=\"http://t.cn/R6RbvjN\">第四十四期</a>的听众反馈部分，另有补充信息可供参考</li> <li><a href=\"http://t.cn/RX8pcAg\">Noto Sans Malayalam</a></li> <li><a href=\"http://t.cn/RX8pILB\">Malayalam script</a>（马拉雅拉姆文字），印度系文字的一种，用于书写马拉雅拉姆语</li> <li><a href=\"http://t.cn/RX8pM3K\">Multiple master</a>，早先为 Adobe Type 1 PostScript 字体的一种扩展技术，现已成为多字重、多样式字体家族的设计及开发工具</li> <li><a href=\"http://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/BIAU/c12.htm\">国字标准字体</a>，中华民国教育部发布的字形标准</li> <li>梁海列述的 <a href=\"http://t.cn/RX8pdO7\">Noto CJK 简体中文外部评测者</a></li> <li>西塚涼子（<a href=\"http://t.cn/RX8peNZ\">Ryoko Nishizuka</a>），Adobe 字体设计师，Source Han / Noto CJK 主管设计师</li> <li><a href=\"http://t.cn/RX8pkm1\">Source Han Serif ReadMe</a></li> <li>古谚文（archaic hangul, <a href=\"http://t.cn/RX80h6b\">옛한글</a>）</li> <li><a href=\"http://t.cn/RX80ZEi\">UAX #38: Unicode Han Database (Unihan)</a>，以及<a href=\"http://t.cn/RX80UAy\">「汉字统合」（Han unification）</a></li> <li>Ken Lunde 撰文列述 <a href=\"http://t.cn/RX8pkm1\">Noto Serif CJK / Source Han Serif 项目的开发历史及部分技术要点</a></li> <li><a href=\"http://t.cn/RX80Vqt\">AFDKO</a> (Adobe Font Development Kit for OpenType)</li> <li>Miguel Sousa 曾撰文介绍 <a href=\"http://t.cn/RX80ILj\">OpenType/CFF 格式相对于 TrueType 的优势</a>，内含 subroutinization 技术的简介，可供参考</li> <li>Ken Lunde 撰文介绍<a href=\"http://t.cn/RX80Mg2\">汉字 biáng 在 Noto Serif CJK / Source Han Serif 中的设计及实现</a></li> <li><a href=\"http://t.cn/RX80lFf\">UTR #50: Unicode Vertical Text Layout</a>；该技术报告，<a href=\"http://t.cn/RX8OGd1\">将在 Unicode 10.0 中提升至标准附录（UAX）</a></li> <li><a href=\"https://ipn.li/itgonglun/88/\">思源黑体（Source Han Sans）——史诗级中日韩新字体诞生</a>，《IT 公论》第八十八期</li> <li>Eric 撰文<a href=\"http://t.cn/RXS13SP\">解答关于 Noto Serif CJK / Source Han Serif 的疑问</a>，刊于 Type is Beautiful</li> <li><a href=\"http://t.cn/RciH1Fs\">OpenType Font Variation</a> (variable fonts)</li> <li><a href=\"http://t.cn/RhQQiZV\">AOSP (Android Open Source Project)</a></li> <li><a href=\"http://t.cn/RUFlyhs\">Noto CJK</a>，以及 <a href=\"http://t.cn/RP7Rsv9\">Source Han Sans</a> 和 <a href=\"http://t.cn/R6R0j7c\">Source Han Serif</a>，均在 GitHub 上提供反馈渠道</li> </ul> <h3>致谢</h3> <p>特别感谢 Rex Chen、杜钦、江疆、梁海、Eric Liu、厉致谦、甪戌、沈逸磊、钱争予、张弥迪等人为 Noto CJK 评测工作所做的贡献。</p> <h3>嘉宾</h3> <ul> <li>肖湘晔：Google 国际化组产品经理</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, 肖湘晔"
+        }
+    ],
+    "author": "Eric, 蒸鱼, 肖湘晔",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, 肖湘晔"
+    },
+    "itunes_explicit": false
+}

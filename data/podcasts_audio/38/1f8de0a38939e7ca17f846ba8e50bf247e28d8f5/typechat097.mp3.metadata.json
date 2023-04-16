@@ -1,0 +1,40 @@
+{
+    "http-content-length": 67543266,
+    "http-etag": "b91ed59e26957ea8d33c9ba1b4f5dc67",
+    "http-last-modified": "Mon, 15 Apr 2019 22:38:10 GMT",
+    "http-last-modified-float": 1555339090.0,
+    "http-content-type": "audio/mp3",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 67543266,
+    "actual-duration": 5621,
+    "sha1": "eaaf4fd9138b6f3cfc28b839966b99851dba5a38",
+    "md5": "b91ed59e26957ea8d33c9ba1b4f5dc67",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://static.thetype.cloud/typechat/typechat097.mp3",
+            "headers": {
+                "Server": "marco/2.19",
+                "Date": "Mon, 10 Apr 2023 04:38:48 GMT",
+                "Content-Type": "audio/mp3",
+                "Content-Length": "67543266",
+                "Connection": "keep-alive",
+                "X-Request-Id": "db359123a784099367c3c348b50876c0; 4217c2bacc68f6bbc0a727516cbec786",
+                "X-Source": "U/200",
+                "X-Upyun-Content-Length": "67543266",
+                "ETag": "\"b91ed59e26957ea8d33c9ba1b4f5dc67\"",
+                "X-Upyun-Content-Type": "audio/mp3",
+                "Last-Modified": "Mon, 15 Apr 2019 22:38:10 GMT",
+                "X-Slice-Complete-Length": "67543266",
+                "X-Slice-ETag": "b91ed59e26957ea8d33c9ba1b4f5dc67",
+                "X-Slice-Size": "1048576",
+                "Expires": "Mon, 17 Apr 2023 01:39:33 GMT",
+                "Cache-Control": "max-age=691200",
+                "Accept-Ranges": "bytes",
+                "Age": "97155",
+                "Via": "T.163.N, V.pcw-cn-hkg-164, T.186.H, M.gtt-us-lax-186"
+            }
+        }
+    }
+}

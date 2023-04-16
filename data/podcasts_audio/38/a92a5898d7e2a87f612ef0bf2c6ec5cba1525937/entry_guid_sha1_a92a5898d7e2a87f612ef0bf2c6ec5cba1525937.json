@@ -1,0 +1,76 @@
+{
+    "title": "#83：「我不认识大 S 和小 S」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#83：「我不认识大 S 和小 S」"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-083/"
+        },
+        {
+            "length": "61033243",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat083.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-083/",
+    "published": "Tue, 02 Oct 2018 06:32:24 +0800",
+    "published_parsed": [
+        2018,
+        10,
+        1,
+        22,
+        32,
+        24,
+        0,
+        274,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat083.mp3",
+    "guidislink": false,
+    "summary": "<p>iPhone XS 和 iPhone XR 发布，机型名称中尾字母的大小写体例不同以往。今日，我们就来聊聊西文字体排印中的这一重要样式——小型大写字母。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.apple.com/cn/ios/ios-12/\">iOS 12</a> 已发布，<a href=\"https://itunes.apple.com/cn/app/podcasts/id525463029\">播客</a> app 亦有更新</li> <li><a href=\"https://hacks.mozilla.org/2018/09/variable-fonts-arrive-in-firefox-62/\">Firefox 62 支持可变字体</a></li> <li><a href=\"https://jinxuan-latte.justfont.com/\">金萱那提</a>字体家族开始预购，justfont 设计出品</li> <li>TDC 2018 <a href=\"https://www.tdc.org/competitionwriteup/tdc-typeface-design-winners-2018/\">字体设计</a>及<a href=\"https://www.tdc.org/competitionwriteup/tdc-communication-design-winners-2018/\">传达设计</a>奖项已在网站公布</li> <li><a href=\"http://www.founderfx.cn/product/1012.jhtml\">方正飞翔</a>发布 7.1 版，方正飞翔是方正电子出品的桌面排版软件</li> <li><a href=\"https://blog.typekit.com/2018/08/16/source-serif-italics/\">Source Serif 发布 italic 变体</a></li> <li><a href=\"https://www.w3.org/TR/css-fonts-3/\">CSS Fonts Module Level 3</a> 于今年 9 月 20 日发布为 <a href=\"https://www.w3.org/2018/Process-20180201/#RecsW3C\">W3C 推荐标准</a></li> <li><a href=\"https://www.thetype.com/2016/12/11358/\">Case 不是小 case</a>，《字谈字畅》第三十七期</li> <li>Apple 发布 <a href=\"https://www.apple.com/cn/iphone-xs/\">iPhone XS</a> 及 <a href=\"https://www.apple.com/cn/iphone-xr/\">iPhone XR</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%9E%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D\">小型大写字母</a>（<a href=\"https://en.wikipedia.org/wiki/Small_caps\">Small caps</a>）</li> <li><a href=\"https://www.tiro.com/\">Tiro Typeworks</a>，John Hudson 和 Ross Mills 联合创办的字体公司</li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%8A%AC%E9%A0%AD\">抬格 / 抬头</a></li> <li>堂·吉诃德，西班牙语名 <a href=\"https://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha\">Don Quijote de la Mancha</a>，原意为「来自曼查的骑士吉诃德大人」；Quijote 是他的姓，Don 是西班牙贵族的尊称，相当于英文的 Sir 或 Lord</li> <li>小型大写相关的 OpenType 特性—— <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#smcp\">smcp</a> (Small Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tagpcap\">pcap</a> (Petite Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ae#c2sc\">c2sc</a> (Small Capitals From Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ae#a-namec2pc-idc2pcatagc2pc\">c2pc</a> (Petite Capitals From Capitals)</li> </ul> </li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant\">font-variant</a> 和 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\">font-feature-settings</a> 特性</li> <li><a href=\"https://en.wikipedia.org/wiki/Small_caps#Unicode\">Unicode 收录的形似小型大写字母的字符</a>，主要用于国际音标</li> <li><a href=\"http://www.design360.cn/index.php?c=content&amp;a=list&amp;catid=3\"><cite>Design 360°</cite> 杂志</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>iPhone XS 和 iPhone XR 发布，机型名称中尾字母的大小写体例不同以往。今日，我们就来聊聊西文字体排印中的这一重要样式——小型大写字母。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.apple.com/cn/ios/ios-12/\">iOS 12</a> 已发布，<a href=\"https://itunes.apple.com/cn/app/podcasts/id525463029\">播客</a> app 亦有更新</li> <li><a href=\"https://hacks.mozilla.org/2018/09/variable-fonts-arrive-in-firefox-62/\">Firefox 62 支持可变字体</a></li> <li><a href=\"https://jinxuan-latte.justfont.com/\">金萱那提</a>字体家族开始预购，justfont 设计出品</li> <li>TDC 2018 <a href=\"https://www.tdc.org/competitionwriteup/tdc-typeface-design-winners-2018/\">字体设计</a>及<a href=\"https://www.tdc.org/competitionwriteup/tdc-communication-design-winners-2018/\">传达设计</a>奖项已在网站公布</li> <li><a href=\"http://www.founderfx.cn/product/1012.jhtml\">方正飞翔</a>发布 7.1 版，方正飞翔是方正电子出品的桌面排版软件</li> <li><a href=\"https://blog.typekit.com/2018/08/16/source-serif-italics/\">Source Serif 发布 italic 变体</a></li> <li><a href=\"https://www.w3.org/TR/css-fonts-3/\">CSS Fonts Module Level 3</a> 于今年 9 月 20 日发布为 <a href=\"https://www.w3.org/2018/Process-20180201/#RecsW3C\">W3C 推荐标准</a></li> <li><a href=\"https://www.thetype.com/2016/12/11358/\">Case 不是小 case</a>，《字谈字畅》第三十七期</li> <li>Apple 发布 <a href=\"https://www.apple.com/cn/iphone-xs/\">iPhone XS</a> 及 <a href=\"https://www.apple.com/cn/iphone-xr/\">iPhone XR</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%9E%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D\">小型大写字母</a>（<a href=\"https://en.wikipedia.org/wiki/Small_caps\">Small caps</a>）</li> <li><a href=\"https://www.tiro.com/\">Tiro Typeworks</a>，John Hudson 和 Ross Mills 联合创办的字体公司</li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%8A%AC%E9%A0%AD\">抬格 / 抬头</a></li> <li>堂·吉诃德，西班牙语名 <a href=\"https://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha\">Don Quijote de la Mancha</a>，原意为「来自曼查的骑士吉诃德大人」；Quijote 是他的姓，Don 是西班牙贵族的尊称，相当于英文的 Sir 或 Lord</li> <li>小型大写相关的 OpenType 特性—— <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#smcp\">smcp</a> (Small Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tagpcap\">pcap</a> (Petite Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ae#c2sc\">c2sc</a> (Small Capitals From Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ae#a-namec2pc-idc2pcatagc2pc\">c2pc</a> (Petite Capitals From Capitals)</li> </ul> </li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant\">font-variant</a> 和 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\">font-feature-settings</a> 特性</li> <li><a href=\"https://en.wikipedia.org/wiki/Small_caps#Unicode\">Unicode 收录的形似小型大写字母的字符</a>，主要用于国际音标</li> <li><a href=\"http://www.design360.cn/index.php?c=content&amp;a=list&amp;catid=3\"><cite>Design 360°</cite> 杂志</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "1:24:39",
+    "subtitle": "小型大写字母",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "小型大写字母"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>iPhone XS 和 iPhone XR 发布，机型名称中尾字母的大小写体例不同以往。今日，我们就来聊聊西文字体排印中的这一重要样式——小型大写字母。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.apple.com/cn/ios/ios-12/\">iOS 12</a> 已发布，<a href=\"https://itunes.apple.com/cn/app/podcasts/id525463029\">播客</a> app 亦有更新</li> <li><a href=\"https://hacks.mozilla.org/2018/09/variable-fonts-arrive-in-firefox-62/\">Firefox 62 支持可变字体</a></li> <li><a href=\"https://jinxuan-latte.justfont.com/\">金萱那提</a>字体家族开始预购，justfont 设计出品</li> <li>TDC 2018 <a href=\"https://www.tdc.org/competitionwriteup/tdc-typeface-design-winners-2018/\">字体设计</a>及<a href=\"https://www.tdc.org/competitionwriteup/tdc-communication-design-winners-2018/\">传达设计</a>奖项已在网站公布</li> <li><a href=\"http://www.founderfx.cn/product/1012.jhtml\">方正飞翔</a>发布 7.1 版，方正飞翔是方正电子出品的桌面排版软件</li> <li><a href=\"https://blog.typekit.com/2018/08/16/source-serif-italics/\">Source Serif 发布 italic 变体</a></li> <li><a href=\"https://www.w3.org/TR/css-fonts-3/\">CSS Fonts Module Level 3</a> 于今年 9 月 20 日发布为 <a href=\"https://www.w3.org/2018/Process-20180201/#RecsW3C\">W3C 推荐标准</a></li> <li><a href=\"https://www.thetype.com/2016/12/11358/\">Case 不是小 case</a>，《字谈字畅》第三十七期</li> <li>Apple 发布 <a href=\"https://www.apple.com/cn/iphone-xs/\">iPhone XS</a> 及 <a href=\"https://www.apple.com/cn/iphone-xr/\">iPhone XR</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%9E%8B%E5%A4%A7%E5%86%99%E5%AD%97%E6%AF%8D\">小型大写字母</a>（<a href=\"https://en.wikipedia.org/wiki/Small_caps\">Small caps</a>）</li> <li><a href=\"https://www.tiro.com/\">Tiro Typeworks</a>，John Hudson 和 Ross Mills 联合创办的字体公司</li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%8A%AC%E9%A0%AD\">抬格 / 抬头</a></li> <li>堂·吉诃德，西班牙语名 <a href=\"https://es.wikipedia.org/wiki/Don_Quijote_de_la_Mancha\">Don Quijote de la Mancha</a>，原意为「来自曼查的骑士吉诃德大人」；Quijote 是他的姓，Don 是西班牙贵族的尊称，相当于英文的 Sir 或 Lord</li> <li>小型大写相关的 OpenType 特性—— <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#smcp\">smcp</a> (Small Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tagpcap\">pcap</a> (Petite Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ae#c2sc\">c2sc</a> (Small Capitals From Capitals)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ae#a-namec2pc-idc2pcatagc2pc\">c2pc</a> (Petite Capitals From Capitals)</li> </ul> </li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant\">font-variant</a> 和 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\">font-feature-settings</a> 特性</li> <li><a href=\"https://en.wikipedia.org/wiki/Small_caps#Unicode\">Unicode 收录的形似小型大写字母的字符</a>，主要用于国际音标</li> <li><a href=\"http://www.design360.cn/index.php?c=content&amp;a=list&amp;catid=3\"><cite>Design 360°</cite> 杂志</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

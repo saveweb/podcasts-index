@@ -1,0 +1,80 @@
+{
+    "http-content-length": 47266105,
+    "http-etag": null,
+    "http-last-modified": "Mon, 10 Apr 2023 03:07:12 GMT",
+    "http-last-modified-float": 1681067232.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 47266105,
+    "actual-duration": 2928,
+    "sha1": "41fe24a571088b920da3d8c0e1de5e7eb8b3bbb8",
+    "md5": "b5de04a11ba1e303272d27ef2b7bf630",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/4877eda2-9368-4506-8e48-74f103fa262e.mp3",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "0",
+                "Connection": "keep-alive",
+                "Date": "Mon, 10 Apr 2023 03:07:09 GMT",
+                "Server": "nginx/1.21.6",
+                "Location": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/4877eda2-9368-4506-8e48-74f103fa262e.mp3",
+                "Access-Control-Allow-Origin": "*",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 05dbdd80322d13bbea44f612239c23e4.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT57-C1",
+                "X-Amz-Cf-Id": "NxuXWPuiHz0KfMeZTYMs0rsF-PRoIK6H3y7Y4HwM2AUisp0-_ahpAA=="
+            }
+        },
+        "1": {
+            "status_code": 302,
+            "url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/4877eda2-9368-4506-8e48-74f103fa262e.mp3",
+            "headers": {
+                "server": "nginx",
+                "date": "Mon, 10 Apr 2023 03:07:10 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "x-frame-options": "SAMEORIGIN",
+                "x-xss-protection": "1; mode=block",
+                "x-content-type-options": "nosniff",
+                "x-download-options": "noopen",
+                "x-permitted-cross-domain-policies": "none",
+                "referrer-policy": "strict-origin-when-cross-origin",
+                "access-control-allow-origin": "*",
+                "access-control-allow-methods": "GET",
+                "access-control-request-method": "*",
+                "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept, Authorization",
+                "location": "https://media.fireside.fm/file/fireside-audio/podcasts/audio/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/4/4877eda2-9368-4506-8e48-74f103fa262e/4877eda2-9368-4506-8e48-74f103fa262e.mp3",
+                "cache-control": "no-cache",
+                "x-request-id": "a4d71b4d-aafe-46d1-a71d-3955f0c5da98",
+                "x-runtime": "0.004301",
+                "x-backend-server": "web01.fireside.fm",
+                "x-served-by": "Fireside",
+                "connection": "close"
+            }
+        },
+        "2": {
+            "status_code": 200,
+            "url": "https://media.fireside.fm/file/fireside-audio/podcasts/audio/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/4/4877eda2-9368-4506-8e48-74f103fa262e/4877eda2-9368-4506-8e48-74f103fa262e.mp3",
+            "headers": {
+                "Date": "Mon, 10 Apr 2023 03:07:12 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "47266105",
+                "Connection": "keep-alive",
+                "x-bz-file-name": "podcasts/audio/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/4/4877eda2-9368-4506-8e48-74f103fa262e/4877eda2-9368-4506-8e48-74f103fa262e.mp3",
+                "x-bz-file-id": "4_z125a778b4015af03668a081e_f102bcead00c1fa3e_d20190819_m053903_c001_v0001033_t0016",
+                "x-bz-content-sha1": "41fe24a571088b920da3d8c0e1de5e7eb8b3bbb8",
+                "X-Bz-Upload-Timestamp": "1566193143000",
+                "Cache-Control": "max-age=604800",
+                "CF-Cache-Status": "MISS",
+                "Last-Modified": "Mon, 10 Apr 2023 03:07:12 GMT",
+                "Accept-Ranges": "bytes",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "CF-RAY": "7b57c730fe66809b-NRT"
+            }
+        }
+    }
+}

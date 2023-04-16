@@ -1,0 +1,80 @@
+{
+    "title": "#1 软件工程师小刘的海外求职经验",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anobody.im/podcast/rss.xml",
+        "value": "#1 软件工程师小刘的海外求职经验"
+    },
+    "itunes_title": "软件工程师小刘的海外求职经验",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://anobody.im/podcast/vol1/"
+        },
+        {
+            "length": "13748267",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol1.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://anobody.im/podcast/vol1/",
+    "published": "Thu, 12 Sep 2019 19:05:30 +0200",
+    "published_parsed": [
+        2019,
+        9,
+        12,
+        17,
+        5,
+        30,
+        3,
+        255,
+        0
+    ],
+    "authors": [
+        {
+            "name": "anobody.im"
+        },
+        {
+            "name": "anobody.im"
+        }
+    ],
+    "author": "anobody.im",
+    "author_detail": {
+        "name": "anobody.im"
+    },
+    "id": "https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol1.mp3",
+    "guidislink": false,
+    "itunes_episode": "1",
+    "summary": "和小刘聊关于海外求职的话题。他之前在上海写 python，现在在荷兰阿姆斯特丹一家互联网公司做软件工程师。本期节目你将听到他肉翻的过程、面试经验，以及为什么选择荷兰、海外工作有什么体验。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anobody.im/podcast/rss.xml",
+        "value": "和小刘聊关于海外求职的话题。他之前在上海写 python，现在在荷兰阿姆斯特丹一家互联网公司做软件工程师。本期节目你将听到他肉翻的过程、面试经验，以及为什么选择荷兰、海外工作有什么体验。"
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://anobody.im/podcast/rss.xml",
+            "value": "和小刘聊关于海外求职的话题。他之前在上海写 python，现在在荷兰阿姆斯特丹一家互联网公司做软件工程师。本期节目你将听到他肉翻的过程、面试经验，以及为什么选择荷兰、海外工作有什么体验。"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://anobody.im/podcast/rss.xml",
+            "value": "和小刘聊关于海外求职的话题。他之前在上海写 python，现在在荷兰阿姆斯特丹一家互联网公司做软件工程师。本期节目你将听到他肉翻的过程、面试经验，以及为什么选择荷兰、海外工作有什么体验。 <h4 id=\"本期人物\">本期人物：</h4>\n<p><a href=\"https://twitter.com/HoiAle\" target=\"_blank\" title=\"阿乐twitter\">阿乐</a>、\n小刘</p>\n<h4 id=\"相关信息\">🔗相关信息：</h4>\n<p><a href=\"https://space.bilibili.com/426914310\" target=\"_blank\" title=\"阿乐杂货铺B站\">- 阿乐杂货铺 B站</a></p>\n<p><a href=\"https://www.youtube.com/channel/UCknOww3EjCM6kX1K36FB85g\" target=\"_blank\" title=\"阿乐杂货铺Youtube\">- 阿乐杂货铺 Youtube</a></p>\n<p><a href=\"https://medium.com/@Altynai/technical-interview-experience-of-n-ew-job-seeking-part-1-2030e6591ae5\" target=\"_blank\" title=\"小刘的海外求职面试总结一\">小刘的海外求职面试总结一</a></p>\n<p><a href=\"https://medium.com/@Altynai/technical-interview-experience-of-new-job-seeking-part-2-a79fabd2cfc8\" target=\"_blank\" title=\"小刘的海外求职面试总结二\">小刘的海外求职面试总结二</a></p>"
+        }
+    ],
+    "googleplay_description": "和小刘聊关于海外求职的话题。他之前在上海写 python，现在在荷兰阿姆斯特丹一家互联网公司做软件工程师。本期节目你将听到他肉翻的过程、面试经验，以及为什么选择荷兰、海外工作有什么体验。",
+    "image": {
+        "href": "https://static.anobody.im/images/banner.png"
+    },
+    "googleplay_image": {
+        "href": "https://static.anobody.im/images/banner.png"
+    },
+    "itunes_duration": "14:19"
+}

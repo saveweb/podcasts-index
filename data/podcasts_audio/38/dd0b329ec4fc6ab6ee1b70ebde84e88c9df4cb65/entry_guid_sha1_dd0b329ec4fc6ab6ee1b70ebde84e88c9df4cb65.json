@@ -1,0 +1,76 @@
+{
+    "title": "#32：全球字体新闻联播",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#32：全球字体新闻联播"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-032/"
+        },
+        {
+            "length": "61307947",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat032.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-032/",
+    "published": "Tue, 18 Oct 2016 06:33:39 +0800",
+    "published_parsed": [
+        2016,
+        10,
+        17,
+        22,
+        33,
+        39,
+        0,
+        291,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat032.mp3",
+    "guidislink": false,
+    "summary": "<p>听众朋友早上好，今天是 10 月 18 日又一个星期二，欢迎收听全球字体新闻联播暨本台首次摇奖预告。</p> <p>环顾京沪台日，产品发布、沙龙座谈、展览交流遍地开花。放眼东欧中欧，ATypI 华沙会议聚焦今秋。OpenType 标准升级，Noto Fonts 重放光彩；两种字体排印刊物新动向，两册字体设计图书可收囊。再眺太平洋之南，时报旧字焕新颜。</p> <p>最后是抽奖环节——本期答谢过往捐赠听友，从中随机择取两位，鸿雁所至之处不拘地点，各自奉上大红书一册，截至 10 月 24 日零时前。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/grid-system/\">《平面设计中的网格系统》</a></li> <li><a href=\"http://www.makeuseof.com/tag/type-em-en-dashes-word-processor/\">如何在多种平台的字处理软件中输入 em dash 和 en dash</a>，以及<a href=\"http://www.fileformat.info/tip/microsoft/enter_unicode.htm\">在 Windows 系统中输入任意 Unicode 字符的方法</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Sydney_Cockerell\">Sydney Cockerell</a> 曾任 William Morris 的私人秘书，后担任 <a href=\"https://en.wikipedia.org/wiki/Fitzwilliam_Museum\">Fitzwilliam Museum</a> 馆长</li> <li>听众任宁来信分享了自己的播客《迟早更新》，第 17 期<a href=\"http://www.lizhi.fm/1728291/2556765923322589702\">〈有些东西永远不会饱和〉</a>谈到了 Type Pro 2016: Shanghai 的观后感</li> <li>Gerrit Noordzij. <a href=\"https://hyphenpress.co.uk/products/books/978-0-907259-30-5\"><cite>The Stroke: Theory of Writing</cite></a></li> <li><a href=\"http://t.cn/RVXbU5u\">方正字库于 9 月 23 日正式发布「方正鲁迅体」</a>，纪念鲁迅先生诞辰 135 周年；字体由郭毓海设计</li> <li><a href=\"http://t.cn/RVXbUFn\">方正字库台湾之行</a>，包括访问、展览及研讨会等一系列活动</li> <li>汉仪字库于 9 月 24、25 两日在上海举办<a href=\"http://t.cn/RVXb4BF\">「中西文排版训练营」</a>系列活动，高冈昌生先生受邀担任工作坊及沙龙的主讲人</li> <li>汉仪字库于 10 月 2 日在北京举办<a href=\"http://t.cn/RVXbbRE\">「名师排版训练营——版式与文字之美」</a>沙龙，瑞士设计师 Jonas Vögeli 及张暄、吴勇、刘宇、朱志伟、刘庆等嘉宾出席</li> <li>汉仪第三届<a href=\"http://star.hanyi.com.cn/fontstar/\">「字体之星」</a>字体设计大赛启动，<a href=\"http://t.cn/RVXbGiE\">「汉字之美」</a>全球青年设计大赛颁奖典礼也同步启幕</li> <li><a href=\"https://www.thetype.com/2016/09/10954/\">TypeTalks 第 37 期「中西混排和日西混排的思考 3」</a>于 10 月 15 日在东京青山图书中心举办，Eric 主讲，高冈昌生作对谈嘉宾</li> <li>Monotype 主办的 <a href=\"http://www.typeand.net/\">Type&amp; 2016</a> 将于 10 月 21、22 两日在东京举行</li> <li>Monotype 出品的字体管理软件 <a href=\"http://www.fontexplorerx.com\">FontExplorer X Pro 6 和 FontExplorer X Server 3 发布</a></li> <li><a href=\"https://www.atypi.org/conferences/atypi-warsaw-2016/\">ATypI (Association Typographique Internationale) 第 60 届年会</a>于 9 月 13 至 18 日在波兰华沙举办，含多个工作坊、讲座及展览活动</li> <li><a href=\"https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx\">OpenType 规格书 1.8 版</a>发布之际，谭沛然撰文梳理了<a href=\"https://www.thetype.com/2016/09/10968/#more-10968\">字体技术发展的部分历史</a></li> <li>John Hudson 在第一时间撰文介绍 OpenType 1.8 中最重要的新技术<a href=\"http://t.cn/Rc6TWcM\">「OpenType Font Variations (OpenType variable fonts)」</a>；另有 <a href=\"http://t.cn/RciQ6UY\">Adobe Typekit 的新闻稿</a>可供参考</li> <li><a href=\"https://www.google.com/get/noto/\">Google Noto Fonts 项目</a>近期经由 <a href=\"http://t.cn/RVw5jgA\">Monotype 的案例分析重新曝光</a></li> <li>《字誌》<a href=\"http://www.books.com.tw/products/0010729204\">发布第二期</a></li> <li><a href=\"http://www.typographics.org/\"><cite>Typographics</cite></a>，一本面向「字体人」的新杂志计划出版</li> <li><a href=\"http://theinsectsproject.eu/\">The Insects Project</a>，专注于讲解中欧语言所用字符的声调设计</li> <li>Cristóbal Henestrosa, Laura Meseguer, &amp; José Scaglione. <a href=\"http://tipo-e.com/publicaciones/como-crear-tipografias.html\"><cite>Cómo crear tipografías: Del boceto a la pantalla</cite></a>. 原著为西班牙语，<a href=\"https://twitter.com/GraphicGirl/status/779374151211646976\">英译本即将出版</a></li> <li><cite>Financial Times</cite>（金融时报）的定制字体 <a href=\"https://klim.co.nz/retail-fonts/financier-display/\">Financier Display</a> 和 <a href=\"https://klim.co.nz/retail-fonts/financier-text/\">Financier Text</a> 公开发售，由新西兰字体设计公司 Klim Type Foundry 设计出品；<a href=\"http://tdctokyo.org/jpn/?award=2015_tdc_02\">2015 年获东京 TDC 奖</a>；Emily Yang 曾翻译过<a href=\"https://www.thetype.com/2014/11/8724/\">该字体设计的案例分析</a></li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>听众朋友早上好，今天是 10 月 18 日又一个星期二，欢迎收听全球字体新闻联播暨本台首次摇奖预告。</p> <p>环顾京沪台日，产品发布、沙龙座谈、展览交流遍地开花。放眼东欧中欧，ATypI 华沙会议聚焦今秋。OpenType 标准升级，Noto Fonts 重放光彩；两种字体排印刊物新动向，两册字体设计图书可收囊。再眺太平洋之南，时报旧字焕新颜。</p> <p>最后是抽奖环节——本期答谢过往捐赠听友，从中随机择取两位，鸿雁所至之处不拘地点，各自奉上大红书一册，截至 10 月 24 日零时前。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/grid-system/\">《平面设计中的网格系统》</a></li> <li><a href=\"http://www.makeuseof.com/tag/type-em-en-dashes-word-processor/\">如何在多种平台的字处理软件中输入 em dash 和 en dash</a>，以及<a href=\"http://www.fileformat.info/tip/microsoft/enter_unicode.htm\">在 Windows 系统中输入任意 Unicode 字符的方法</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Sydney_Cockerell\">Sydney Cockerell</a> 曾任 William Morris 的私人秘书，后担任 <a href=\"https://en.wikipedia.org/wiki/Fitzwilliam_Museum\">Fitzwilliam Museum</a> 馆长</li> <li>听众任宁来信分享了自己的播客《迟早更新》，第 17 期<a href=\"http://www.lizhi.fm/1728291/2556765923322589702\">〈有些东西永远不会饱和〉</a>谈到了 Type Pro 2016: Shanghai 的观后感</li> <li>Gerrit Noordzij. <a href=\"https://hyphenpress.co.uk/products/books/978-0-907259-30-5\"><cite>The Stroke: Theory of Writing</cite></a></li> <li><a href=\"http://t.cn/RVXbU5u\">方正字库于 9 月 23 日正式发布「方正鲁迅体」</a>，纪念鲁迅先生诞辰 135 周年；字体由郭毓海设计</li> <li><a href=\"http://t.cn/RVXbUFn\">方正字库台湾之行</a>，包括访问、展览及研讨会等一系列活动</li> <li>汉仪字库于 9 月 24、25 两日在上海举办<a href=\"http://t.cn/RVXb4BF\">「中西文排版训练营」</a>系列活动，高冈昌生先生受邀担任工作坊及沙龙的主讲人</li> <li>汉仪字库于 10 月 2 日在北京举办<a href=\"http://t.cn/RVXbbRE\">「名师排版训练营——版式与文字之美」</a>沙龙，瑞士设计师 Jonas Vögeli 及张暄、吴勇、刘宇、朱志伟、刘庆等嘉宾出席</li> <li>汉仪第三届<a href=\"http://star.hanyi.com.cn/fontstar/\">「字体之星」</a>字体设计大赛启动，<a href=\"http://t.cn/RVXbGiE\">「汉字之美」</a>全球青年设计大赛颁奖典礼也同步启幕</li> <li><a href=\"https://www.thetype.com/2016/09/10954/\">TypeTalks 第 37 期「中西混排和日西混排的思考 3」</a>于 10 月 15 日在东京青山图书中心举办，Eric 主讲，高冈昌生作对谈嘉宾</li> <li>Monotype 主办的 <a href=\"http://www.typeand.net/\">Type&amp; 2016</a> 将于 10 月 21、22 两日在东京举行</li> <li>Monotype 出品的字体管理软件 <a href=\"http://www.fontexplorerx.com\">FontExplorer X Pro 6 和 FontExplorer X Server 3 发布</a></li> <li><a href=\"https://www.atypi.org/conferences/atypi-warsaw-2016/\">ATypI (Association Typographique Internationale) 第 60 届年会</a>于 9 月 13 至 18 日在波兰华沙举办，含多个工作坊、讲座及展览活动</li> <li><a href=\"https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx\">OpenType 规格书 1.8 版</a>发布之际，谭沛然撰文梳理了<a href=\"https://www.thetype.com/2016/09/10968/#more-10968\">字体技术发展的部分历史</a></li> <li>John Hudson 在第一时间撰文介绍 OpenType 1.8 中最重要的新技术<a href=\"http://t.cn/Rc6TWcM\">「OpenType Font Variations (OpenType variable fonts)」</a>；另有 <a href=\"http://t.cn/RciQ6UY\">Adobe Typekit 的新闻稿</a>可供参考</li> <li><a href=\"https://www.google.com/get/noto/\">Google Noto Fonts 项目</a>近期经由 <a href=\"http://t.cn/RVw5jgA\">Monotype 的案例分析重新曝光</a></li> <li>《字誌》<a href=\"http://www.books.com.tw/products/0010729204\">发布第二期</a></li> <li><a href=\"http://www.typographics.org/\"><cite>Typographics</cite></a>，一本面向「字体人」的新杂志计划出版</li> <li><a href=\"http://theinsectsproject.eu/\">The Insects Project</a>，专注于讲解中欧语言所用字符的声调设计</li> <li>Cristóbal Henestrosa, Laura Meseguer, &amp; José Scaglione. <a href=\"http://tipo-e.com/publicaciones/como-crear-tipografias.html\"><cite>Cómo crear tipografías: Del boceto a la pantalla</cite></a>. 原著为西班牙语，<a href=\"https://twitter.com/GraphicGirl/status/779374151211646976\">英译本即将出版</a></li> <li><cite>Financial Times</cite>（金融时报）的定制字体 <a href=\"https://klim.co.nz/retail-fonts/financier-display/\">Financier Display</a> 和 <a href=\"https://klim.co.nz/retail-fonts/financier-text/\">Financier Text</a> 公开发售，由新西兰字体设计公司 Klim Type Foundry 设计出品；<a href=\"http://tdctokyo.org/jpn/?award=2015_tdc_02\">2015 年获东京 TDC 奖</a>；Emily Yang 曾翻译过<a href=\"https://www.thetype.com/2014/11/8724/\">该字体设计的案例分析</a></li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "2:07:33",
+    "subtitle": "暨本台首次摇奖预告",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "暨本台首次摇奖预告"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>听众朋友早上好，今天是 10 月 18 日又一个星期二，欢迎收听全球字体新闻联播暨本台首次摇奖预告。</p> <p>环顾京沪台日，产品发布、沙龙座谈、展览交流遍地开花。放眼东欧中欧，ATypI 华沙会议聚焦今秋。OpenType 标准升级，Noto Fonts 重放光彩；两种字体排印刊物新动向，两册字体设计图书可收囊。再眺太平洋之南，时报旧字焕新颜。</p> <p>最后是抽奖环节——本期答谢过往捐赠听友，从中随机择取两位，鸿雁所至之处不拘地点，各自奉上大红书一册，截至 10 月 24 日零时前。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/grid-system/\">《平面设计中的网格系统》</a></li> <li><a href=\"http://www.makeuseof.com/tag/type-em-en-dashes-word-processor/\">如何在多种平台的字处理软件中输入 em dash 和 en dash</a>，以及<a href=\"http://www.fileformat.info/tip/microsoft/enter_unicode.htm\">在 Windows 系统中输入任意 Unicode 字符的方法</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Sydney_Cockerell\">Sydney Cockerell</a> 曾任 William Morris 的私人秘书，后担任 <a href=\"https://en.wikipedia.org/wiki/Fitzwilliam_Museum\">Fitzwilliam Museum</a> 馆长</li> <li>听众任宁来信分享了自己的播客《迟早更新》，第 17 期<a href=\"http://www.lizhi.fm/1728291/2556765923322589702\">〈有些东西永远不会饱和〉</a>谈到了 Type Pro 2016: Shanghai 的观后感</li> <li>Gerrit Noordzij. <a href=\"https://hyphenpress.co.uk/products/books/978-0-907259-30-5\"><cite>The Stroke: Theory of Writing</cite></a></li> <li><a href=\"http://t.cn/RVXbU5u\">方正字库于 9 月 23 日正式发布「方正鲁迅体」</a>，纪念鲁迅先生诞辰 135 周年；字体由郭毓海设计</li> <li><a href=\"http://t.cn/RVXbUFn\">方正字库台湾之行</a>，包括访问、展览及研讨会等一系列活动</li> <li>汉仪字库于 9 月 24、25 两日在上海举办<a href=\"http://t.cn/RVXb4BF\">「中西文排版训练营」</a>系列活动，高冈昌生先生受邀担任工作坊及沙龙的主讲人</li> <li>汉仪字库于 10 月 2 日在北京举办<a href=\"http://t.cn/RVXbbRE\">「名师排版训练营——版式与文字之美」</a>沙龙，瑞士设计师 Jonas Vögeli 及张暄、吴勇、刘宇、朱志伟、刘庆等嘉宾出席</li> <li>汉仪第三届<a href=\"http://star.hanyi.com.cn/fontstar/\">「字体之星」</a>字体设计大赛启动，<a href=\"http://t.cn/RVXbGiE\">「汉字之美」</a>全球青年设计大赛颁奖典礼也同步启幕</li> <li><a href=\"https://www.thetype.com/2016/09/10954/\">TypeTalks 第 37 期「中西混排和日西混排的思考 3」</a>于 10 月 15 日在东京青山图书中心举办，Eric 主讲，高冈昌生作对谈嘉宾</li> <li>Monotype 主办的 <a href=\"http://www.typeand.net/\">Type&amp; 2016</a> 将于 10 月 21、22 两日在东京举行</li> <li>Monotype 出品的字体管理软件 <a href=\"http://www.fontexplorerx.com\">FontExplorer X Pro 6 和 FontExplorer X Server 3 发布</a></li> <li><a href=\"https://www.atypi.org/conferences/atypi-warsaw-2016/\">ATypI (Association Typographique Internationale) 第 60 届年会</a>于 9 月 13 至 18 日在波兰华沙举办，含多个工作坊、讲座及展览活动</li> <li><a href=\"https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx\">OpenType 规格书 1.8 版</a>发布之际，谭沛然撰文梳理了<a href=\"https://www.thetype.com/2016/09/10968/#more-10968\">字体技术发展的部分历史</a></li> <li>John Hudson 在第一时间撰文介绍 OpenType 1.8 中最重要的新技术<a href=\"http://t.cn/Rc6TWcM\">「OpenType Font Variations (OpenType variable fonts)」</a>；另有 <a href=\"http://t.cn/RciQ6UY\">Adobe Typekit 的新闻稿</a>可供参考</li> <li><a href=\"https://www.google.com/get/noto/\">Google Noto Fonts 项目</a>近期经由 <a href=\"http://t.cn/RVw5jgA\">Monotype 的案例分析重新曝光</a></li> <li>《字誌》<a href=\"http://www.books.com.tw/products/0010729204\">发布第二期</a></li> <li><a href=\"http://www.typographics.org/\"><cite>Typographics</cite></a>，一本面向「字体人」的新杂志计划出版</li> <li><a href=\"http://theinsectsproject.eu/\">The Insects Project</a>，专注于讲解中欧语言所用字符的声调设计</li> <li>Cristóbal Henestrosa, Laura Meseguer, &amp; José Scaglione. <a href=\"http://tipo-e.com/publicaciones/como-crear-tipografias.html\"><cite>Cómo crear tipografías: Del boceto a la pantalla</cite></a>. 原著为西班牙语，<a href=\"https://twitter.com/GraphicGirl/status/779374151211646976\">英译本即将出版</a></li> <li><cite>Financial Times</cite>（金融时报）的定制字体 <a href=\"https://klim.co.nz/retail-fonts/financier-display/\">Financier Display</a> 和 <a href=\"https://klim.co.nz/retail-fonts/financier-text/\">Financier Text</a> 公开发售，由新西兰字体设计公司 Klim Type Foundry 设计出品；<a href=\"http://tdctokyo.org/jpn/?award=2015_tdc_02\">2015 年获东京 TDC 奖</a>；Emily Yang 曾翻译过<a href=\"https://www.thetype.com/2014/11/8724/\">该字体设计的案例分析</a></li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

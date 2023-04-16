@@ -1,0 +1,76 @@
+{
+    "title": "#170：全球字体新闻联播",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#170：全球字体新闻联播"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-170/"
+        },
+        {
+            "length": "62355486",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat170.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-170/",
+    "published": "Tue, 01 Feb 2022 09:07:42 +0800",
+    "published_parsed": [
+        2022,
+        2,
+        1,
+        1,
+        7,
+        42,
+        1,
+        32,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat170.mp3",
+    "guidislink": false,
+    "summary": "<p>听众朋友早上好，今天是 2022 年 2 月 1 日星期二，壬寅年正月初一，欢迎收听全球字体新闻联播。</p> <p>新春之际，我们将从技术规范、排版工具、设计作品等方面，回顾海内外新近要闻，一览字体排印领域的动向。2021 年我台播送了 2348 分钟，今岁，期待与每一位听众继续同行。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/changes#version-19\">OpenType 规范发布 1.9 版</a></li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/colr\">彩色字体（COLR 表）相关规范</a>；Chromium 自版本 98 开始<a href=\"https://chromestatus.com/feature/5638148514119680\">支持 COLR v1 的彩色渐变矢量字体</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-064/\">字谈字畅 064</a>：Kerning Panic·字谈字串（六）Emoji（再次）拯救世界</li> <li>2021 年 10 月，<a href=\"https://www.quark.com/about/blog/40th-anniversary-quark-part-one/\">Quark 创立四十周年庆</a></li> <li>Adobe Illustrator 推出字形对齐功能（<a href=\"https://helpx.adobe.com/cn/illustrator/using/snap-to-glyph.html\">Snap to Glyph</a>），以智能参考线的方式交互；该功能也<a href=\"https://helpx.adobe.com/cn/illustrator/using/snap-to-japanese-glyph.html\">支持东亚文字</a></li> <li>MIUI 13 搭载新系统字体 <a href=\"https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854\">MiSans</a>，由<a href=\"https://mp.weixin.qq.com/s/e-s7qHPmyoX5PLJfvZTYOw\">汉仪字库</a>联合开发</li> <li>CSS <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\"><code>font-feature-settings</code></a> 属性，可用于调用 OpenType 特性</li> <li>东京 TDC 2022 公布<a href=\"https://tokyotypedirectorsclub.org/news/tdc2022-results/\">评奖结果</a>： <ul> <li>视频艺术作品「名曲专辑＋Requiem」获全场大奖，由影像艺术家<a href=\"https://www.keitaonishi.com/\">大西景太</a>创作</li> <li><a href=\"https://typofonderie.com/fonts/altesse-family/\">Altesse</a> 字体获字体设计奖，由 Jean François Porchez 设计，Typofonderie 出品</li> <li><a href=\"https://gt-maru.com/\">GT Maru 迷你网站</a>获 TDC 奖，由 Thierry Blancpain 和 Noël Leu 设计，Grilli Type 出品</li> <li><a href=\"https://1-half-atelier.com/portfolio/%E5%B9%95%E5%8D%87%E5%B9%95%E8%90%BD/\">「幕升幕落」展览</a>海报获 TDC 奖，由<a href=\"http://www.laoshuowei.design/\">劳硕维</a>设计</li> <li><a href=\"https://klim.co.nz/retail-fonts/signifier/\">Signifier</a> 字体获提名，由 Kris Sowersby 设计，Klim Type 出品；该字体也用于 Klim Type <a href=\"https://klim.co.nz/blog/signifier-design-information/\">博客文章的正文</a></li> <li>Resial 字体获提名，由 <a href=\"https://nicolasbernklau.de/\">Nicolas Bernklau</a> 设计</li> </ul> </li> <li><a href=\"https://www.zhihu.com/question/356993770/answer/2030009416\">能指和所指</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>欢迎加入 The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>，每月可通过会刊获得本节目更多图文扩展阅读，并享受礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>听众朋友早上好，今天是 2022 年 2 月 1 日星期二，壬寅年正月初一，欢迎收听全球字体新闻联播。</p> <p>新春之际，我们将从技术规范、排版工具、设计作品等方面，回顾海内外新近要闻，一览字体排印领域的动向。2021 年我台播送了 2348 分钟，今岁，期待与每一位听众继续同行。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/changes#version-19\">OpenType 规范发布 1.9 版</a></li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/colr\">彩色字体（COLR 表）相关规范</a>；Chromium 自版本 98 开始<a href=\"https://chromestatus.com/feature/5638148514119680\">支持 COLR v1 的彩色渐变矢量字体</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-064/\">字谈字畅 064</a>：Kerning Panic·字谈字串（六）Emoji（再次）拯救世界</li> <li>2021 年 10 月，<a href=\"https://www.quark.com/about/blog/40th-anniversary-quark-part-one/\">Quark 创立四十周年庆</a></li> <li>Adobe Illustrator 推出字形对齐功能（<a href=\"https://helpx.adobe.com/cn/illustrator/using/snap-to-glyph.html\">Snap to Glyph</a>），以智能参考线的方式交互；该功能也<a href=\"https://helpx.adobe.com/cn/illustrator/using/snap-to-japanese-glyph.html\">支持东亚文字</a></li> <li>MIUI 13 搭载新系统字体 <a href=\"https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854\">MiSans</a>，由<a href=\"https://mp.weixin.qq.com/s/e-s7qHPmyoX5PLJfvZTYOw\">汉仪字库</a>联合开发</li> <li>CSS <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\"><code>font-feature-settings</code></a> 属性，可用于调用 OpenType 特性</li> <li>东京 TDC 2022 公布<a href=\"https://tokyotypedirectorsclub.org/news/tdc2022-results/\">评奖结果</a>： <ul> <li>视频艺术作品「名曲专辑＋Requiem」获全场大奖，由影像艺术家<a href=\"https://www.keitaonishi.com/\">大西景太</a>创作</li> <li><a href=\"https://typofonderie.com/fonts/altesse-family/\">Altesse</a> 字体获字体设计奖，由 Jean François Porchez 设计，Typofonderie 出品</li> <li><a href=\"https://gt-maru.com/\">GT Maru 迷你网站</a>获 TDC 奖，由 Thierry Blancpain 和 Noël Leu 设计，Grilli Type 出品</li> <li><a href=\"https://1-half-atelier.com/portfolio/%E5%B9%95%E5%8D%87%E5%B9%95%E8%90%BD/\">「幕升幕落」展览</a>海报获 TDC 奖，由<a href=\"http://www.laoshuowei.design/\">劳硕维</a>设计</li> <li><a href=\"https://klim.co.nz/retail-fonts/signifier/\">Signifier</a> 字体获提名，由 Kris Sowersby 设计，Klim Type 出品；该字体也用于 Klim Type <a href=\"https://klim.co.nz/blog/signifier-design-information/\">博客文章的正文</a></li> <li>Resial 字体获提名，由 <a href=\"https://nicolasbernklau.de/\">Nicolas Bernklau</a> 设计</li> </ul> </li> <li><a href=\"https://www.zhihu.com/question/356993770/answer/2030009416\">能指和所指</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>欢迎加入 The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>，每月可通过会刊获得本节目更多图文扩展阅读，并享受礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "01:22:40",
+    "subtitle": "正月初一",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "正月初一"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>听众朋友早上好，今天是 2022 年 2 月 1 日星期二，壬寅年正月初一，欢迎收听全球字体新闻联播。</p> <p>新春之际，我们将从技术规范、排版工具、设计作品等方面，回顾海内外新近要闻，一览字体排印领域的动向。2021 年我台播送了 2348 分钟，今岁，期待与每一位听众继续同行。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/changes#version-19\">OpenType 规范发布 1.9 版</a></li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/colr\">彩色字体（COLR 表）相关规范</a>；Chromium 自版本 98 开始<a href=\"https://chromestatus.com/feature/5638148514119680\">支持 COLR v1 的彩色渐变矢量字体</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-064/\">字谈字畅 064</a>：Kerning Panic·字谈字串（六）Emoji（再次）拯救世界</li> <li>2021 年 10 月，<a href=\"https://www.quark.com/about/blog/40th-anniversary-quark-part-one/\">Quark 创立四十周年庆</a></li> <li>Adobe Illustrator 推出字形对齐功能（<a href=\"https://helpx.adobe.com/cn/illustrator/using/snap-to-glyph.html\">Snap to Glyph</a>），以智能参考线的方式交互；该功能也<a href=\"https://helpx.adobe.com/cn/illustrator/using/snap-to-japanese-glyph.html\">支持东亚文字</a></li> <li>MIUI 13 搭载新系统字体 <a href=\"https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854\">MiSans</a>，由<a href=\"https://mp.weixin.qq.com/s/e-s7qHPmyoX5PLJfvZTYOw\">汉仪字库</a>联合开发</li> <li>CSS <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\"><code>font-feature-settings</code></a> 属性，可用于调用 OpenType 特性</li> <li>东京 TDC 2022 公布<a href=\"https://tokyotypedirectorsclub.org/news/tdc2022-results/\">评奖结果</a>： <ul> <li>视频艺术作品「名曲专辑＋Requiem」获全场大奖，由影像艺术家<a href=\"https://www.keitaonishi.com/\">大西景太</a>创作</li> <li><a href=\"https://typofonderie.com/fonts/altesse-family/\">Altesse</a> 字体获字体设计奖，由 Jean François Porchez 设计，Typofonderie 出品</li> <li><a href=\"https://gt-maru.com/\">GT Maru 迷你网站</a>获 TDC 奖，由 Thierry Blancpain 和 Noël Leu 设计，Grilli Type 出品</li> <li><a href=\"https://1-half-atelier.com/portfolio/%E5%B9%95%E5%8D%87%E5%B9%95%E8%90%BD/\">「幕升幕落」展览</a>海报获 TDC 奖，由<a href=\"http://www.laoshuowei.design/\">劳硕维</a>设计</li> <li><a href=\"https://klim.co.nz/retail-fonts/signifier/\">Signifier</a> 字体获提名，由 Kris Sowersby 设计，Klim Type 出品；该字体也用于 Klim Type <a href=\"https://klim.co.nz/blog/signifier-design-information/\">博客文章的正文</a></li> <li>Resial 字体获提名，由 <a href=\"https://nicolasbernklau.de/\">Nicolas Bernklau</a> 设计</li> </ul> </li> <li><a href=\"https://www.zhihu.com/question/356993770/answer/2030009416\">能指和所指</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>欢迎加入 The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>，每月可通过会刊获得本节目更多图文扩展阅读，并享受礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2022/02/TypeChat170-sq.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2022/02/TypeChat170-sq.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

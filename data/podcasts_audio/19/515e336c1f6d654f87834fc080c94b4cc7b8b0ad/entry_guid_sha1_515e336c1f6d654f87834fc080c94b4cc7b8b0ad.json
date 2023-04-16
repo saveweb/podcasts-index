@@ -1,0 +1,82 @@
+{
+    "links": [
+        {
+            "length": "71608082",
+            "type": "audio/mpeg",
+            "href": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo2NzI2MSwicCI6MiwidSI6IjM0MjQubXAzIn0.H45ae-6AyWQPQTVAz3q-iWpF_zU/sspai/8318878267_053424.mp3",
+            "rel": "enclosure"
+        },
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sspai.typlog.io/episodes/ep88"
+        }
+    ],
+    "title": "AI 工具会不会继续瓦解我们残存的注意力？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "AI 工具会不会继续瓦解我们残存的注意力？"
+    },
+    "id": "https://sspai.typlog.io/episodes/ep88",
+    "guidislink": true,
+    "link": "https://sspai.typlog.io/episodes/ep88",
+    "authors": [
+        {
+            "name": "少数派"
+        }
+    ],
+    "author": "少数派",
+    "author_detail": {
+        "name": "少数派"
+    },
+    "subtitle": "从 PandaGPT 的开发谈谈 AI 辅助工具背后的哲学。",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "从 PandaGPT 的开发谈谈 AI 辅助工具背后的哲学。"
+    },
+    "itunes_duration": "1:14:00",
+    "itunes_explicit": null,
+    "itunes_episode": "88",
+    "podcast_episode": "88",
+    "itunes_episodetype": "full",
+    "image": {
+        "href": "https://i.typlog.com/sspai/8318878264_190281.jpg?x-oss-process=style/sl"
+    },
+    "summary": "近期科技圈最火的产品无疑是 ChatGPT。在 OpenAI 推出 GPT 模型的同时，大量开发者也基于 API 做出了不少新鲜好玩的工具，本期节目的主角白菜和他的团队就是其中之一。他们利用 GPT 模型的语义分析能力开发出了 PDF 阅读辅助工具 PandaGPT，可以帮助用户快速梳理 PDF 文档中的关键信息，上线之后就很快收获了大量用户。 在这期节目里，我们请白菜分享了他对于 AI 工具的看法以及开发 PandaGPT 过程中的经历与思考。更进一步，我们也浅浅触及了一些哲学问题，譬如「AI 工具会继续瓦解我们的注意力吗？」 🕹️ 少数派与机核网携手推出「机核・派」联合会员，左手效率，右手娱乐；一次购买，双倍快乐！ 🥳 少数派出品、知名主播婉莹、甜食制作的播客入门教程《100 小时后请叫我播客主理人》已经上线，用通俗易懂的语言带你入门播客制作，轻松完成你的「第〇期」播客节目。 节目章节 00:00:29 开场，嘉宾自我介绍 00:03:02 近期好玩的 AI 工具和玩法 00:09:40 当下的 AI 更像一种辅助驾驶 00:18:00 使用 AI 工具要从「打工人思维」转换到「CEO 思维」 00:25:39 一个终极哲学问题：AI 工具会不会让我们的阅读更加碎片化？ 00:35:27 如何开发一款 GPT 工具？ 00:46:58 GPT-5、6、7、8 该去往何方？ 00:59:33 白菜在用的 AI 工具推荐 01:08:28 大量 AI 生成的内容会把世界推向虚拟吗 01:12:07 尾声，难忘今宵 拓展阅读 不说话的白菜制作的介绍 PandaGPT 的节目《ChatGPT 后续：我开发了一个超级阅读器，免费分享给大家》 PandaGPT ChatGPT Dall·E Stable Diffusion Whisper Point-E Prompt Engineering 唐顿庄园 保罗·格雷厄姆 Notion AI ControlNet 冰川国家公园 订阅《少数派播客》 节目 RSS 链接 Apple Podcasts 小宇宙 Spotify Google Podcasts 其它平台 人物介绍 张奕源 Nick：少数派编辑部成员，少数派播客主播 不说话的白菜：开发者，B 站 up 主，PandaGPT 联合创始人 有任何想对我们说的、听我们聊的，都欢迎写信至 nick@sspai.com。",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://sspai.typlog.io/feed/audio.xml",
+        "value": "近期科技圈最火的产品无疑是 ChatGPT。在 OpenAI 推出 GPT 模型的同时，大量开发者也基于 API 做出了不少新鲜好玩的工具，本期节目的主角白菜和他的团队就是其中之一。他们利用 GPT 模型的语义分析能力开发出了 PDF 阅读辅助工具 PandaGPT，可以帮助用户快速梳理 PDF 文档中的关键信息，上线之后就很快收获了大量用户。 在这期节目里，我们请白菜分享了他对于 AI 工具的看法以及开发 PandaGPT 过程中的经历与思考。更进一步，我们也浅浅触及了一些哲学问题，譬如「AI 工具会继续瓦解我们的注意力吗？」 🕹️ 少数派与机核网携手推出「机核・派」联合会员，左手效率，右手娱乐；一次购买，双倍快乐！ 🥳 少数派出品、知名主播婉莹、甜食制作的播客入门教程《100 小时后请叫我播客主理人》已经上线，用通俗易懂的语言带你入门播客制作，轻松完成你的「第〇期」播客节目。 节目章节 00:00:29 开场，嘉宾自我介绍 00:03:02 近期好玩的 AI 工具和玩法 00:09:40 当下的 AI 更像一种辅助驾驶 00:18:00 使用 AI 工具要从「打工人思维」转换到「CEO 思维」 00:25:39 一个终极哲学问题：AI 工具会不会让我们的阅读更加碎片化？ 00:35:27 如何开发一款 GPT 工具？ 00:46:58 GPT-5、6、7、8 该去往何方？ 00:59:33 白菜在用的 AI 工具推荐 01:08:28 大量 AI 生成的内容会把世界推向虚拟吗 01:12:07 尾声，难忘今宵 拓展阅读 不说话的白菜制作的介绍 PandaGPT 的节目《ChatGPT 后续：我开发了一个超级阅读器，免费分享给大家》 PandaGPT ChatGPT Dall·E Stable Diffusion Whisper Point-E Prompt Engineering 唐顿庄园 保罗·格雷厄姆 Notion AI ControlNet 冰川国家公园 订阅《少数派播客》 节目 RSS 链接 Apple Podcasts 小宇宙 Spotify Google Podcasts 其它平台 人物介绍 张奕源 Nick：少数派编辑部成员，少数派播客主播 不说话的白菜：开发者，B 站 up 主，PandaGPT 联合创始人 有任何想对我们说的、听我们聊的，都欢迎写信至 nick@sspai.com。"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>近期科技圈最火的产品无疑是 ChatGPT。在 OpenAI 推出 GPT 模型的同时，大量开发者也基于 API 做出了不少新鲜好玩的工具，本期节目的主角白菜和他的团队就是其中之一。他们利用 GPT 模型的语义分析能力开发出了 PDF 阅读辅助工具 PandaGPT，可以帮助用户快速梳理 PDF 文档中的关键信息，上线之后就很快收获了大量用户。</p>\n<p>在这期节目里，我们请白菜分享了他对于 AI 工具的看法以及开发 PandaGPT 过程中的经历与思考。更进一步，我们也浅浅触及了一些哲学问题，譬如「AI 工具会继续瓦解我们的注意力吗？」</p>\n<p>🕹️ 少数派与机核网携手推出<a href=\"https://sspai.com/post/78849\">「机核・派」联合会员</a>，左手效率，右手娱乐；一次购买，双倍快乐！</p>\n<p>🥳 少数派出品、知名主播婉莹、甜食制作的播客入门教程《<a href=\"https://sspai.com/series/280\">100 小时后请叫我播客主理人</a>》已经上线，用通俗易懂的语言带你入门播客制作，轻松完成你的「第〇期」播客节目。</p>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:29\">00:00:29</a> 开场，嘉宾自我介绍</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:03:02\">00:03:02</a> 近期好玩的 AI 工具和玩法</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:09:40\">00:09:40</a> 当下的 AI 更像一种辅助驾驶</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:18:00\">00:18:00</a> 使用 AI 工具要从「打工人思维」转换到「CEO 思维」</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:25:39\">00:25:39</a> 一个终极哲学问题：AI 工具会不会让我们的阅读更加碎片化？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:35:27\">00:35:27</a> 如何开发一款 GPT 工具？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:46:58\">00:46:58</a> GPT-5、6、7、8 该去往何方？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:59:33\">00:59:33</a> 白菜在用的 AI 工具推荐</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:08:28\">01:08:28</a> 大量 AI 生成的内容会把世界推向虚拟吗</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:12:07\">01:12:07</a> 尾声，难忘今宵</li>\n</ul>\n<h2>拓展阅读</h2>\n<ul>\n<li>不说话的白菜制作的介绍 PandaGPT 的节目《<a href=\"https://www.bilibili.com/video/BV1do4y1z7YA/\">ChatGPT 后续：我开发了一个超级阅读器，免费分享给大家</a>》</li>\n<li><a href=\"https://www.pandagpt.io\">PandaGPT</a></li>\n<li><a href=\"https://openai.com/blog/chatgpt\">ChatGPT</a></li>\n<li><a href=\"https://openai.com/product/dall-e-2\">Dall·E</a></li>\n<li><a href=\"https://stablediffusionweb.com\">Stable Diffusion</a></li>\n<li><a href=\"https://openai.com/research/whisper\">Whisper</a></li>\n<li><a href=\"https://openai.com/research/point-e\">Point-E</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Prompt_engineering\">Prompt Engineering</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hans/%E5%94%90%E9%A1%BF%E5%BA%84%E5%9B%AD\">唐顿庄园</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86\">保罗·格雷厄姆</a></li>\n<li><a href=\"https://www.notion.so/product/ai\">Notion AI</a></li>\n<li><a href=\"https://stablediffusionweb.com/ControlNet\">ControlNet</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%86%B0%E6%B2%B3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92_(%E7%BE%8E%E5%9C%8B)\">冰川国家公园</a></li>\n</ul>\n<h2>订阅《少数派播客》</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml\">节目 RSS 链接</a></li>\n<li><a href=\"https://podcasts.apple.com/hk/podcast/%E4%B8%80%E6%B4%BE-podcast/id1483157529\">Apple Podcasts</a></li>\n<li><a href=\"https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567\">小宇宙</a></li>\n<li><a href=\"https://open.spotify.com/show/7pJ5EHWj7i5wQwqzY9kHr5\">Spotify</a></li>\n<li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9zc3BhaS50eXBsb2cuaW8vZmVlZC54bWw?hl=zh-TW\">Google Podcasts</a></li>\n<li><a href=\"https://pod.link/1483157529\">其它平台</a></li>\n</ul>\n<h2>人物介绍</h2>\n<ul>\n<li>张奕源 Nick：少数派编辑部成员，少数派播客主播</li>\n<li>不说话的白菜：开发者，B 站 up 主，PandaGPT 联合创始人</li>\n</ul>\n<p>有任何想对我们说的、听我们聊的，都欢迎写信至 nick@sspai.com。</p>"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://sspai.typlog.io/feed/audio.xml",
+            "value": "<p>近期科技圈最火的产品无疑是 ChatGPT。在 OpenAI 推出 GPT 模型的同时，大量开发者也基于 API 做出了不少新鲜好玩的工具，本期节目的主角白菜和他的团队就是其中之一。他们利用 GPT 模型的语义分析能力开发出了 PDF 阅读辅助工具 PandaGPT，可以帮助用户快速梳理 PDF 文档中的关键信息，上线之后就很快收获了大量用户。</p>\n<p>在这期节目里，我们请白菜分享了他对于 AI 工具的看法以及开发 PandaGPT 过程中的经历与思考。更进一步，我们也浅浅触及了一些哲学问题，譬如「AI 工具会继续瓦解我们的注意力吗？」</p>\n<p>🕹️ 少数派与机核网携手推出<a href=\"https://sspai.com/post/78849\">「机核・派」联合会员</a>，左手效率，右手娱乐；一次购买，双倍快乐！</p>\n<p>🥳 少数派出品、知名主播婉莹、甜食制作的播客入门教程《<a href=\"https://sspai.com/series/280\">100 小时后请叫我播客主理人</a>》已经上线，用通俗易懂的语言带你入门播客制作，轻松完成你的「第〇期」播客节目。</p>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:00:29\">00:00:29</a> 开场，嘉宾自我介绍</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:03:02\">00:03:02</a> 近期好玩的 AI 工具和玩法</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:09:40\">00:09:40</a> 当下的 AI 更像一种辅助驾驶</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:18:00\">00:18:00</a> 使用 AI 工具要从「打工人思维」转换到「CEO 思维」</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:25:39\">00:25:39</a> 一个终极哲学问题：AI 工具会不会让我们的阅读更加碎片化？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:35:27\">00:35:27</a> 如何开发一款 GPT 工具？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:46:58\">00:46:58</a> GPT-5、6、7、8 该去往何方？</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=00:59:33\">00:59:33</a> 白菜在用的 AI 工具推荐</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:08:28\">01:08:28</a> 大量 AI 生成的内容会把世界推向虚拟吗</li>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml#t=01:12:07\">01:12:07</a> 尾声，难忘今宵</li>\n</ul>\n<h2>拓展阅读</h2>\n<ul>\n<li>不说话的白菜制作的介绍 PandaGPT 的节目《<a href=\"https://www.bilibili.com/video/BV1do4y1z7YA/\">ChatGPT 后续：我开发了一个超级阅读器，免费分享给大家</a>》</li>\n<li><a href=\"https://www.pandagpt.io\">PandaGPT</a></li>\n<li><a href=\"https://openai.com/blog/chatgpt\">ChatGPT</a></li>\n<li><a href=\"https://openai.com/product/dall-e-2\">Dall·E</a></li>\n<li><a href=\"https://stablediffusionweb.com\">Stable Diffusion</a></li>\n<li><a href=\"https://openai.com/research/whisper\">Whisper</a></li>\n<li><a href=\"https://openai.com/research/point-e\">Point-E</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Prompt_engineering\">Prompt Engineering</a></li>\n<li><a href=\"https://zh.wikipedia.org/zh-hans/%E5%94%90%E9%A1%BF%E5%BA%84%E5%9B%AD\">唐顿庄园</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86\">保罗·格雷厄姆</a></li>\n<li><a href=\"https://www.notion.so/product/ai\">Notion AI</a></li>\n<li><a href=\"https://stablediffusionweb.com/ControlNet\">ControlNet</a></li>\n<li><a href=\"https://zh.wikipedia.org/wiki/%E5%86%B0%E6%B2%B3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92_(%E7%BE%8E%E5%9C%8B)\">冰川国家公园</a></li>\n</ul>\n<h2>订阅《少数派播客》</h2>\n<ul>\n<li><a href=\"https://sspai.typlog.io/feed/audio.xml\">节目 RSS 链接</a></li>\n<li><a href=\"https://podcasts.apple.com/hk/podcast/%E4%B8%80%E6%B4%BE-podcast/id1483157529\">Apple Podcasts</a></li>\n<li><a href=\"https://www.xiaoyuzhoufm.com/podcast/5e280fb1418a84a0461fc567\">小宇宙</a></li>\n<li><a href=\"https://open.spotify.com/show/7pJ5EHWj7i5wQwqzY9kHr5\">Spotify</a></li>\n<li><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9zc3BhaS50eXBsb2cuaW8vZmVlZC54bWw?hl=zh-TW\">Google Podcasts</a></li>\n<li><a href=\"https://pod.link/1483157529\">其它平台</a></li>\n</ul>\n<h2>人物介绍</h2>\n<ul>\n<li>张奕源 Nick：少数派编辑部成员，少数派播客主播</li>\n<li>不说话的白菜：开发者，B 站 up 主，PandaGPT 联合创始人</li>\n</ul>\n<p>有任何想对我们说的、听我们聊的，都欢迎写信至 nick@sspai.com。</p>"
+        }
+    ],
+    "published": "Mon, 10 Apr 2023 10:16:21 +0000",
+    "published_parsed": [
+        2023,
+        4,
+        10,
+        10,
+        16,
+        21,
+        0,
+        100,
+        0
+    ]
+}

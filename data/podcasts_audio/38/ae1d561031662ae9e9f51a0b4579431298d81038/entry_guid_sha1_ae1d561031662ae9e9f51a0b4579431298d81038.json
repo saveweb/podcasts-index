@@ -1,0 +1,76 @@
+{
+    "title": "#20：全球字体新闻联播",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#20：全球字体新闻联播"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-020/"
+        },
+        {
+            "length": "65195439",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat020.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-020/",
+    "published": "Tue, 03 May 2016 06:41:03 +0800",
+    "published_parsed": [
+        2016,
+        5,
+        2,
+        22,
+        41,
+        3,
+        0,
+        123,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat020.mp3",
+    "guidislink": false,
+    "summary": "<p>听众朋友早上好，今天是 5 月 3 日星期二，欢迎收听全球字体新闻联播。</p> <p>俄罗斯在线刊物揭晓十佳字体，东京奥运会会徽征集落下帷幕，布达佩斯城市形象再换新颜。另悉，日、法两地竞相发布字体相关产品，加拿大诗人付梓字体史著作。此外还有本台记者从京、广两地发回的现场采访及深度剖析。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.asahi-net.or.jp/%7Esd5a-ucd/freefonts/Oradano-Mincho/\">Oradano Mincho</a>，内田明开发的免费日文字体，发布第二版；假名源自筑地体前期五号假名定稿（築地体前期五号仮名の最終型），汉字源自<a href=\"http://dl.ndl.go.jp/info:ndljp/pid/868843\">《標註漢文入門》</a>和<a href=\"http://dl.ndl.go.jp/info:ndljp/pid/863407\">《同文新字典》</a>，其他符号由内田制作</li> <li><a href=\"http://www.dnp.co.jp/shueitai/typeface.html\">秀英体</a>，大日本印刷所有的字体品牌</li> <li><a href=\"http://tsukiji-katsuji.com/printingtype.html\">築地体（活版活字）</a>，最初由<a href=\"http://tsukiji-katsuji.com/\">築地活字</a>公司铸造</li> <li><a href=\"http://www.screen-hiragino.jp/lineup/kana/\">游築 36 ポ仮名</a>，筑地体的一种复刻版，字游工房设计</li> <li>日本现行<a href=\"http://kokugo.bunka.go.jp/kokugo_nihongo/joho/kijun/naikaku/kanji/\">《常用汉字表》</a>由日本内阁于 2010 年发布</li> <li>日本文化厅发布《关于常用汉字表的字体及字形的方针（报告）》（<a href=\"http://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/2016022902.html\">常用漢字表の字体・字形に関する指針（報告）</a>）</li> <li><a href=\"http://typeproject.com/apps/dropandtype\">Drop&amp;Type</a>，Type Project 发布的试用版字体快速制作工具</li> <li>匈牙利首度布达佩斯发布<a href=\"http://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_budapest_by_budapesti_varosarculati.php\">新的城市标识及视觉形象</a></li> <li>布达佩斯正在<a href=\"http://budapest2024.com\">申办 2024 年奥运会</a>，并发布了<a href=\"http://www.underconsideration.com/brandnew/archives/new_logo_for_budapest_2024_candidate_city_by_graphasel.php\">相关的视觉形象</a></li> <li>东京 2020 年奥运会会徽<a href=\"https://tokyo2020.jp/en/games/emblem/\">终稿</a></li> <li>俄罗斯在线期刊 <cite>Type Journal</cite> 评选出 <a href=\"http://typejournal.ru/articles/The-Ten-Cyrillic-Typefaces-2015\">2015 年十佳字体</a></li> <li><a href=\"http://www.poetryfoundation.org/poems-and-poets/poets/detail/robert-bringhurst\">Robert Bringhurst</a>，加拿大著名诗人，同时涉猎字体排印、翻译、文化史及语言学等多个领域；字体排印领域的代表作是 <cite><a href=\"http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326\">The Elements of Typographic Style</a></cite></li> <li>Bringhurst 新作 <cite><a href=\"http://www.bccbooks.org/store/products/forthcoming-palatino-the-natural-history-of-a-typeface-3/\">Palatino: The Natural History of a Typeface</a></cite> 即将上市</li> <li><a href=\"https://en.wikipedia.org/wiki/Palatino\">Palatino 字体</a>，Hermann Zapf 设计</li> <li>日本字体排印期刊 <cite>Typography</cite> 推出台湾版<a href=\"http://www.books.com.tw/products/0010712905\">《Typography 字誌》</a></li> <li>法国字体作坊 Typofonderie 发布新字体 <a href=\"https://typofonderie.com/gazette/post/ps-fournier-a-tribute-to-the-french-modern-typography-era-by-stephane-elbaz/\">PS Fournier</a>，由 Stéphane Elbaz 设计，向 Pierre-Simon Fournier 致敬；另有<a href=\"https://typofonderie.com/specimen-download/ps-fournier-family/\">样张</a>可供阅览</li> <li><a href=\"https://en.wikipedia.org/wiki/Pierre_Simon_Fournier\">Pierre-Simon Fournier</a>，法国字体设计师，活字雕刻及铸造师，字体排印理论家，推动了法国字体度量单位 point（点）的标准化</li> <li>厉致谦（colourphilosophy）在 2012 年撰文介绍<a href=\"https://www.thetype.com/2012/01/4543/\">「字号的故事」</a></li> <li><a href=\"http://t.cn/RqH9C2t\">社会实验——第三届「汉字二十四时」</a>，深圳市平面设计协会主办，羊城同创汇、汉仪字库、方正电子协办</li> <li><a href=\"http://www.ajioka3.com/\">味冈伸太郎</a>，日本设计师及艺术家，设计了伸明、小町、良宽等字体</li> <li><a href=\"https://www.thetype.com/2016/04/10235/\">中日字体设计夜话——与鸟海修对谈</a>，Eric 采访及整理</li> <li><a href=\"http://www.thinkingwithtype.com/misc/Optical_Sizes.pdf\">Optical size</a></li> <li><a href=\"https://www.thetype.com/2016/04/10233/\">第十八期勘误</a>： <ul> <li>平面设计杂志 <cite>Eye</cite> 出自英国伦敦</li> <li>Cité Universitaire 指的是巴黎国际大学城（Cité internationale universitaire de Paris）</li> <li><cite>Charlie Hebdo</cite>（常译作《查理周刊》），按法语发音应译作《沙尔利周刊》</li> </ul> </li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎致信 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a> 与我们交流或反馈。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与邮箱地址相同。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>听众朋友早上好，今天是 5 月 3 日星期二，欢迎收听全球字体新闻联播。</p> <p>俄罗斯在线刊物揭晓十佳字体，东京奥运会会徽征集落下帷幕，布达佩斯城市形象再换新颜。另悉，日、法两地竞相发布字体相关产品，加拿大诗人付梓字体史著作。此外还有本台记者从京、广两地发回的现场采访及深度剖析。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.asahi-net.or.jp/%7Esd5a-ucd/freefonts/Oradano-Mincho/\">Oradano Mincho</a>，内田明开发的免费日文字体，发布第二版；假名源自筑地体前期五号假名定稿（築地体前期五号仮名の最終型），汉字源自<a href=\"http://dl.ndl.go.jp/info:ndljp/pid/868843\">《標註漢文入門》</a>和<a href=\"http://dl.ndl.go.jp/info:ndljp/pid/863407\">《同文新字典》</a>，其他符号由内田制作</li> <li><a href=\"http://www.dnp.co.jp/shueitai/typeface.html\">秀英体</a>，大日本印刷所有的字体品牌</li> <li><a href=\"http://tsukiji-katsuji.com/printingtype.html\">築地体（活版活字）</a>，最初由<a href=\"http://tsukiji-katsuji.com/\">築地活字</a>公司铸造</li> <li><a href=\"http://www.screen-hiragino.jp/lineup/kana/\">游築 36 ポ仮名</a>，筑地体的一种复刻版，字游工房设计</li> <li>日本现行<a href=\"http://kokugo.bunka.go.jp/kokugo_nihongo/joho/kijun/naikaku/kanji/\">《常用汉字表》</a>由日本内阁于 2010 年发布</li> <li>日本文化厅发布《关于常用汉字表的字体及字形的方针（报告）》（<a href=\"http://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/2016022902.html\">常用漢字表の字体・字形に関する指針（報告）</a>）</li> <li><a href=\"http://typeproject.com/apps/dropandtype\">Drop&amp;Type</a>，Type Project 发布的试用版字体快速制作工具</li> <li>匈牙利首度布达佩斯发布<a href=\"http://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_budapest_by_budapesti_varosarculati.php\">新的城市标识及视觉形象</a></li> <li>布达佩斯正在<a href=\"http://budapest2024.com\">申办 2024 年奥运会</a>，并发布了<a href=\"http://www.underconsideration.com/brandnew/archives/new_logo_for_budapest_2024_candidate_city_by_graphasel.php\">相关的视觉形象</a></li> <li>东京 2020 年奥运会会徽<a href=\"https://tokyo2020.jp/en/games/emblem/\">终稿</a></li> <li>俄罗斯在线期刊 <cite>Type Journal</cite> 评选出 <a href=\"http://typejournal.ru/articles/The-Ten-Cyrillic-Typefaces-2015\">2015 年十佳字体</a></li> <li><a href=\"http://www.poetryfoundation.org/poems-and-poets/poets/detail/robert-bringhurst\">Robert Bringhurst</a>，加拿大著名诗人，同时涉猎字体排印、翻译、文化史及语言学等多个领域；字体排印领域的代表作是 <cite><a href=\"http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326\">The Elements of Typographic Style</a></cite></li> <li>Bringhurst 新作 <cite><a href=\"http://www.bccbooks.org/store/products/forthcoming-palatino-the-natural-history-of-a-typeface-3/\">Palatino: The Natural History of a Typeface</a></cite> 即将上市</li> <li><a href=\"https://en.wikipedia.org/wiki/Palatino\">Palatino 字体</a>，Hermann Zapf 设计</li> <li>日本字体排印期刊 <cite>Typography</cite> 推出台湾版<a href=\"http://www.books.com.tw/products/0010712905\">《Typography 字誌》</a></li> <li>法国字体作坊 Typofonderie 发布新字体 <a href=\"https://typofonderie.com/gazette/post/ps-fournier-a-tribute-to-the-french-modern-typography-era-by-stephane-elbaz/\">PS Fournier</a>，由 Stéphane Elbaz 设计，向 Pierre-Simon Fournier 致敬；另有<a href=\"https://typofonderie.com/specimen-download/ps-fournier-family/\">样张</a>可供阅览</li> <li><a href=\"https://en.wikipedia.org/wiki/Pierre_Simon_Fournier\">Pierre-Simon Fournier</a>，法国字体设计师，活字雕刻及铸造师，字体排印理论家，推动了法国字体度量单位 point（点）的标准化</li> <li>厉致谦（colourphilosophy）在 2012 年撰文介绍<a href=\"https://www.thetype.com/2012/01/4543/\">「字号的故事」</a></li> <li><a href=\"http://t.cn/RqH9C2t\">社会实验——第三届「汉字二十四时」</a>，深圳市平面设计协会主办，羊城同创汇、汉仪字库、方正电子协办</li> <li><a href=\"http://www.ajioka3.com/\">味冈伸太郎</a>，日本设计师及艺术家，设计了伸明、小町、良宽等字体</li> <li><a href=\"https://www.thetype.com/2016/04/10235/\">中日字体设计夜话——与鸟海修对谈</a>，Eric 采访及整理</li> <li><a href=\"http://www.thinkingwithtype.com/misc/Optical_Sizes.pdf\">Optical size</a></li> <li><a href=\"https://www.thetype.com/2016/04/10233/\">第十八期勘误</a>： <ul> <li>平面设计杂志 <cite>Eye</cite> 出自英国伦敦</li> <li>Cité Universitaire 指的是巴黎国际大学城（Cité internationale universitaire de Paris）</li> <li><cite>Charlie Hebdo</cite>（常译作《查理周刊》），按法语发音应译作《沙尔利周刊》</li> </ul> </li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎致信 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a> 与我们交流或反馈。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与邮箱地址相同。</p>"
+    },
+    "itunes_duration": "2:15:39",
+    "subtitle": "友台《博物志》主播访沪，与本台驻当地两位记者进行了亲切会晤",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "友台《博物志》主播访沪，与本台驻当地两位记者进行了亲切会晤"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>听众朋友早上好，今天是 5 月 3 日星期二，欢迎收听全球字体新闻联播。</p> <p>俄罗斯在线刊物揭晓十佳字体，东京奥运会会徽征集落下帷幕，布达佩斯城市形象再换新颜。另悉，日、法两地竞相发布字体相关产品，加拿大诗人付梓字体史著作。此外还有本台记者从京、广两地发回的现场采访及深度剖析。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.asahi-net.or.jp/%7Esd5a-ucd/freefonts/Oradano-Mincho/\">Oradano Mincho</a>，内田明开发的免费日文字体，发布第二版；假名源自筑地体前期五号假名定稿（築地体前期五号仮名の最終型），汉字源自<a href=\"http://dl.ndl.go.jp/info:ndljp/pid/868843\">《標註漢文入門》</a>和<a href=\"http://dl.ndl.go.jp/info:ndljp/pid/863407\">《同文新字典》</a>，其他符号由内田制作</li> <li><a href=\"http://www.dnp.co.jp/shueitai/typeface.html\">秀英体</a>，大日本印刷所有的字体品牌</li> <li><a href=\"http://tsukiji-katsuji.com/printingtype.html\">築地体（活版活字）</a>，最初由<a href=\"http://tsukiji-katsuji.com/\">築地活字</a>公司铸造</li> <li><a href=\"http://www.screen-hiragino.jp/lineup/kana/\">游築 36 ポ仮名</a>，筑地体的一种复刻版，字游工房设计</li> <li>日本现行<a href=\"http://kokugo.bunka.go.jp/kokugo_nihongo/joho/kijun/naikaku/kanji/\">《常用汉字表》</a>由日本内阁于 2010 年发布</li> <li>日本文化厅发布《关于常用汉字表的字体及字形的方针（报告）》（<a href=\"http://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/2016022902.html\">常用漢字表の字体・字形に関する指針（報告）</a>）</li> <li><a href=\"http://typeproject.com/apps/dropandtype\">Drop&amp;Type</a>，Type Project 发布的试用版字体快速制作工具</li> <li>匈牙利首度布达佩斯发布<a href=\"http://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_budapest_by_budapesti_varosarculati.php\">新的城市标识及视觉形象</a></li> <li>布达佩斯正在<a href=\"http://budapest2024.com\">申办 2024 年奥运会</a>，并发布了<a href=\"http://www.underconsideration.com/brandnew/archives/new_logo_for_budapest_2024_candidate_city_by_graphasel.php\">相关的视觉形象</a></li> <li>东京 2020 年奥运会会徽<a href=\"https://tokyo2020.jp/en/games/emblem/\">终稿</a></li> <li>俄罗斯在线期刊 <cite>Type Journal</cite> 评选出 <a href=\"http://typejournal.ru/articles/The-Ten-Cyrillic-Typefaces-2015\">2015 年十佳字体</a></li> <li><a href=\"http://www.poetryfoundation.org/poems-and-poets/poets/detail/robert-bringhurst\">Robert Bringhurst</a>，加拿大著名诗人，同时涉猎字体排印、翻译、文化史及语言学等多个领域；字体排印领域的代表作是 <cite><a href=\"http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326\">The Elements of Typographic Style</a></cite></li> <li>Bringhurst 新作 <cite><a href=\"http://www.bccbooks.org/store/products/forthcoming-palatino-the-natural-history-of-a-typeface-3/\">Palatino: The Natural History of a Typeface</a></cite> 即将上市</li> <li><a href=\"https://en.wikipedia.org/wiki/Palatino\">Palatino 字体</a>，Hermann Zapf 设计</li> <li>日本字体排印期刊 <cite>Typography</cite> 推出台湾版<a href=\"http://www.books.com.tw/products/0010712905\">《Typography 字誌》</a></li> <li>法国字体作坊 Typofonderie 发布新字体 <a href=\"https://typofonderie.com/gazette/post/ps-fournier-a-tribute-to-the-french-modern-typography-era-by-stephane-elbaz/\">PS Fournier</a>，由 Stéphane Elbaz 设计，向 Pierre-Simon Fournier 致敬；另有<a href=\"https://typofonderie.com/specimen-download/ps-fournier-family/\">样张</a>可供阅览</li> <li><a href=\"https://en.wikipedia.org/wiki/Pierre_Simon_Fournier\">Pierre-Simon Fournier</a>，法国字体设计师，活字雕刻及铸造师，字体排印理论家，推动了法国字体度量单位 point（点）的标准化</li> <li>厉致谦（colourphilosophy）在 2012 年撰文介绍<a href=\"https://www.thetype.com/2012/01/4543/\">「字号的故事」</a></li> <li><a href=\"http://t.cn/RqH9C2t\">社会实验——第三届「汉字二十四时」</a>，深圳市平面设计协会主办，羊城同创汇、汉仪字库、方正电子协办</li> <li><a href=\"http://www.ajioka3.com/\">味冈伸太郎</a>，日本设计师及艺术家，设计了伸明、小町、良宽等字体</li> <li><a href=\"https://www.thetype.com/2016/04/10235/\">中日字体设计夜话——与鸟海修对谈</a>，Eric 采访及整理</li> <li><a href=\"http://www.thinkingwithtype.com/misc/Optical_Sizes.pdf\">Optical size</a></li> <li><a href=\"https://www.thetype.com/2016/04/10233/\">第十八期勘误</a>： <ul> <li>平面设计杂志 <cite>Eye</cite> 出自英国伦敦</li> <li>Cité Universitaire 指的是巴黎国际大学城（Cité internationale universitaire de Paris）</li> <li><cite>Charlie Hebdo</cite>（常译作《查理周刊》），按法语发音应译作《沙尔利周刊》</li> </ul> </li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎致信 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a> 与我们交流或反馈。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与邮箱地址相同。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

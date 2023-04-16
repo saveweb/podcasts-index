@@ -1,0 +1,76 @@
+{
+    "title": "#56：数，不胜数 (1)",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#56：数，不胜数 (1)"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-056/"
+        },
+        {
+            "length": "34308955",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat056.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-056/",
+    "published": "Tue, 19 Sep 2017 06:38:23 +0800",
+    "published_parsed": [
+        2017,
+        9,
+        18,
+        22,
+        38,
+        23,
+        0,
+        261,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat056.mp3",
+    "guidislink": false,
+    "summary": "<p>数，因书写系统及排版需求之差，表记方式各异，视觉形态多端。本台开辟专题一则，与听众分享「数」中不胜数之细节。本期聚焦阿拉伯数字。</p> <p>今天也是《字谈字畅》开播两周年整。</p> <p>第十四轮抽奖活动开启，截至 9 月 25 日零时前。本期奖品为东京印刷博物馆出品的<a href=\"https://static.thetype.cloud/typechat/assets/typechat056/postcards.jpg\">明信片两套</a>。</p> <h3>参考链接</h3> <ul> <li>2015 年 9 月 19 日，<a href=\"https://www.thetype.com/2015/09/9531/\">《字谈字畅》第零期</a>上线</li> <li><a href=\"http://ifont.foundertype.com/ztds/9th/\">第九届「方正奖」字体设计大赛</a>，将于今年 10 月 1 日至 12 月 31 日征集参赛作品</li> <li><a href=\"http://fontpurchasinghabits.com/\">Font Purchasing Habits</a>，一份关于字体购买习惯的调查问卷；Mary Catherine Pflug <a href=\"https://medium.com/@mcpflugie/the-2017-font-purchasing-habits-results-3fc588283b33\">在 Medium 发布文章介绍该调查结果</a></li> <li>千位分隔符（thousands separator）和小数点（decimal mark），<a href=\"https://en.wikipedia.org/wiki/Decimal_mark#Examples_of_use\">有多种书写习惯</a></li> <li>在不同的英语书写体例中，<a href=\"http://apvschicago.com/2011/05/numbers-spell-out-or-use-numerals.html\">数字书记规则也有所不同</a></li> <li>阿拉伯数字的样式常分为 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/oldstyle-figures\">oldstyle figures</a> 和 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/lining-figures\">lining figures</a>，另外还有 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/proportional-vs-tabular-figures\">proportional figures 和 tabular figures</a> 之分</li> <li>OpenType 为四种数字样式分别定义了 tag： <ul> <li><a href=\"https://www.microsoft.com/typography/otspec/features_ko.htm#onum\"><code>onum</code></a> (oldstyle figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_ko.htm#lnum\"><code>lnum</code></a> (lining figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_pt.htm#pnum\"><code>pnum</code></a> (proportional figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_pt.htm#tnum\"><code>tnum</code></a> (tabular figures)</li> </ul> </li> <li><a href=\"https://www.typotheque.com/help/opentype_fonts/how_can_i_use_different_numerals_in_microsoft_word\">Microsoft Word 支持 OpenType 数字样式的设置</a></li> <li><a href=\"https://support.apple.com/kb/PH25412\">macOS 通过「字体」设置菜单中的「印刷字」选项</a>，可调用 OpenType 特性</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\"><code>font-feature-settings</code></a> 属性可用于开关特定的 OpenType 特性</li> <li><a href=\"https://github.com/realfish/typedraw/blob/master/README.md#typedraw-13\">《字谈字畅》第十三轮抽奖结果</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>数，因书写系统及排版需求之差，表记方式各异，视觉形态多端。本台开辟专题一则，与听众分享「数」中不胜数之细节。本期聚焦阿拉伯数字。</p> <p>今天也是《字谈字畅》开播两周年整。</p> <p>第十四轮抽奖活动开启，截至 9 月 25 日零时前。本期奖品为东京印刷博物馆出品的<a href=\"https://static.thetype.cloud/typechat/assets/typechat056/postcards.jpg\">明信片两套</a>。</p> <h3>参考链接</h3> <ul> <li>2015 年 9 月 19 日，<a href=\"https://www.thetype.com/2015/09/9531/\">《字谈字畅》第零期</a>上线</li> <li><a href=\"http://ifont.foundertype.com/ztds/9th/\">第九届「方正奖」字体设计大赛</a>，将于今年 10 月 1 日至 12 月 31 日征集参赛作品</li> <li><a href=\"http://fontpurchasinghabits.com/\">Font Purchasing Habits</a>，一份关于字体购买习惯的调查问卷；Mary Catherine Pflug <a href=\"https://medium.com/@mcpflugie/the-2017-font-purchasing-habits-results-3fc588283b33\">在 Medium 发布文章介绍该调查结果</a></li> <li>千位分隔符（thousands separator）和小数点（decimal mark），<a href=\"https://en.wikipedia.org/wiki/Decimal_mark#Examples_of_use\">有多种书写习惯</a></li> <li>在不同的英语书写体例中，<a href=\"http://apvschicago.com/2011/05/numbers-spell-out-or-use-numerals.html\">数字书记规则也有所不同</a></li> <li>阿拉伯数字的样式常分为 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/oldstyle-figures\">oldstyle figures</a> 和 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/lining-figures\">lining figures</a>，另外还有 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/proportional-vs-tabular-figures\">proportional figures 和 tabular figures</a> 之分</li> <li>OpenType 为四种数字样式分别定义了 tag： <ul> <li><a href=\"https://www.microsoft.com/typography/otspec/features_ko.htm#onum\"><code>onum</code></a> (oldstyle figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_ko.htm#lnum\"><code>lnum</code></a> (lining figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_pt.htm#pnum\"><code>pnum</code></a> (proportional figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_pt.htm#tnum\"><code>tnum</code></a> (tabular figures)</li> </ul> </li> <li><a href=\"https://www.typotheque.com/help/opentype_fonts/how_can_i_use_different_numerals_in_microsoft_word\">Microsoft Word 支持 OpenType 数字样式的设置</a></li> <li><a href=\"https://support.apple.com/kb/PH25412\">macOS 通过「字体」设置菜单中的「印刷字」选项</a>，可调用 OpenType 特性</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\"><code>font-feature-settings</code></a> 属性可用于开关特定的 OpenType 特性</li> <li><a href=\"https://github.com/realfish/typedraw/blob/master/README.md#typedraw-13\">《字谈字畅》第十三轮抽奖结果</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "1:11:18",
+    "subtitle": "两周年",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "两周年"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>数，因书写系统及排版需求之差，表记方式各异，视觉形态多端。本台开辟专题一则，与听众分享「数」中不胜数之细节。本期聚焦阿拉伯数字。</p> <p>今天也是《字谈字畅》开播两周年整。</p> <p>第十四轮抽奖活动开启，截至 9 月 25 日零时前。本期奖品为东京印刷博物馆出品的<a href=\"https://static.thetype.cloud/typechat/assets/typechat056/postcards.jpg\">明信片两套</a>。</p> <h3>参考链接</h3> <ul> <li>2015 年 9 月 19 日，<a href=\"https://www.thetype.com/2015/09/9531/\">《字谈字畅》第零期</a>上线</li> <li><a href=\"http://ifont.foundertype.com/ztds/9th/\">第九届「方正奖」字体设计大赛</a>，将于今年 10 月 1 日至 12 月 31 日征集参赛作品</li> <li><a href=\"http://fontpurchasinghabits.com/\">Font Purchasing Habits</a>，一份关于字体购买习惯的调查问卷；Mary Catherine Pflug <a href=\"https://medium.com/@mcpflugie/the-2017-font-purchasing-habits-results-3fc588283b33\">在 Medium 发布文章介绍该调查结果</a></li> <li>千位分隔符（thousands separator）和小数点（decimal mark），<a href=\"https://en.wikipedia.org/wiki/Decimal_mark#Examples_of_use\">有多种书写习惯</a></li> <li>在不同的英语书写体例中，<a href=\"http://apvschicago.com/2011/05/numbers-spell-out-or-use-numerals.html\">数字书记规则也有所不同</a></li> <li>阿拉伯数字的样式常分为 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/oldstyle-figures\">oldstyle figures</a> 和 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/lining-figures\">lining figures</a>，另外还有 <a href=\"https://www.fonts.com/content/learning/fontology/level-3/numbers/proportional-vs-tabular-figures\">proportional figures 和 tabular figures</a> 之分</li> <li>OpenType 为四种数字样式分别定义了 tag： <ul> <li><a href=\"https://www.microsoft.com/typography/otspec/features_ko.htm#onum\"><code>onum</code></a> (oldstyle figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_ko.htm#lnum\"><code>lnum</code></a> (lining figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_pt.htm#pnum\"><code>pnum</code></a> (proportional figures)</li> <li><a href=\"https://www.microsoft.com/typography/otspec/features_pt.htm#tnum\"><code>tnum</code></a> (tabular figures)</li> </ul> </li> <li><a href=\"https://www.typotheque.com/help/opentype_fonts/how_can_i_use_different_numerals_in_microsoft_word\">Microsoft Word 支持 OpenType 数字样式的设置</a></li> <li><a href=\"https://support.apple.com/kb/PH25412\">macOS 通过「字体」设置菜单中的「印刷字」选项</a>，可调用 OpenType 特性</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings\"><code>font-feature-settings</code></a> 属性可用于开关特定的 OpenType 特性</li> <li><a href=\"https://github.com/realfish/typedraw/blob/master/README.md#typedraw-13\">《字谈字畅》第十三轮抽奖结果</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

@@ -1,0 +1,81 @@
+{
+    "title": "#21 杰克船长又回来了，还在中国办了首映",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#21 杰克船长又回来了，还在中国办了首映"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/pirates-of-the-caribeans"
+        },
+        {
+            "length": "49387890",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/583fe0fd-35c4-4c0e-989d-aff81ab0b531.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/pirates-of-the-caribeans",
+    "id": "http://audio.xmcdn.com/group29/M03/FA/1D/wKgJWVkmM3uA88SCAPwObRehvn0366.m4a",
+    "guidislink": false,
+    "published": "Thu, 25 May 2017 09:00:00 +0800",
+    "published_parsed": [
+        2017,
+        5,
+        25,
+        1,
+        0,
+        0,
+        3,
+        145,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "34:00",
+    "itunes_explicit": null,
+    "summary": "<p>杰克船长又回来了！<br />\n2003年6月28日，第一部《加勒比海盗》诞生了，迪士尼第一次在乐园为它进行了首映。13年后，第五部《加勒比海盗：死无对证》首映礼上，一样长长的红毯，一样是两旁疯狂等待签名合照的粉丝，不过地点则是在一年前刚刚建成的上海迪士尼乐园。上海迪士尼乐园也迎来了它的第1000万名游客。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>杰克船长又回来了！<br />\n2003年6月28日，第一部《加勒比海盗》诞生了，迪士尼第一次在乐园为它进行了首映。13年后，第五部《加勒比海盗：死无对证》首映礼上，一样长长的红毯，一样是两旁疯狂等待签名合照的粉丝，不过地点则是在一年前刚刚建成的上海迪士尼乐园。上海迪士尼乐园也迎来了它的第1000万名游客。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>杰克船长又回来了！<br />\n2003年6月28日，第一部《加勒比海盗》诞生了，迪士尼第一次在乐园为它进行了首映。13年后，第五部《加勒比海盗：死无对证》首映礼上，一样长长的红毯，一样是两旁疯狂等待签名合照的粉丝，不过地点则是在一年前刚刚建成的上海迪士尼乐园。上海迪士尼乐园也迎来了它的第1000万名游客。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+XXyE4x7Y",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+XXyE4x7Y\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

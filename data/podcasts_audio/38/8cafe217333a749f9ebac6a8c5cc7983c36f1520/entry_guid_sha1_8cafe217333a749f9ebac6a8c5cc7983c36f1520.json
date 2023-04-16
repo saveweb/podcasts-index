@@ -1,0 +1,76 @@
+{
+    "title": "#79：文瀛讲坛选——西文排版与孔雀计划",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#79：文瀛讲坛选——西文排版与孔雀计划"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-079/"
+        },
+        {
+            "length": "74264437",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat079.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-079/",
+    "published": "Tue, 07 Aug 2018 06:04:26 +0800",
+    "published_parsed": [
+        2018,
+        8,
+        6,
+        22,
+        4,
+        26,
+        0,
+        218,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat079.mp3",
+    "guidislink": false,
+    "summary": "<p>文瀛讲坛第二期于 7 月 28 日在同济大学中芬中心开讲，主题围绕中西文排版规则在软件中的运用方法及相关原理。本期节目为现场录音的精选剪辑版。</p> <p>本台三周年相关活动也将如期举行，期待与各位听众的相会。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/2018/08/15357/\">「十年字人——生活与字体设计」</a>，《字谈字畅》三周年活动特别策划讲座</li> <li><a href=\"https://mp.weixin.qq.com/s/dwcKDyfmjGAnn74s_1DOeQ\">Eric 将于 8 月 12 日在 Bù 店举办分享会</a>，主题关于字体排印的质地（texture）</li> <li><a href=\"https://www.thetype.com/2018/07/15316/\">TypeSchool 中文字体设计课 2018 夏季课程正在招生</a>；8 月 13 日前报名并注明自己是《字谈字畅》听众，可享受早鸟价</li> <li><a href=\"https://www.thetype.com/basics/\">「孔雀计划：中文字体排印的思路」</a>系列文章目录</li> <li>高冈昌生（著），刘庆（译）．<a href=\"https://www.thetype.com/western-type-setting/\">《西文排版：排版的基础和规范》</a>．北京：中信出版社，2016 年．</li> <li>Adobe InDesign 用户指南相关章节： <ul> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/kerning-tracking.html\">字偶间距和字符间距</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/leading.html\">行距</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/formatting-characters.html\">设置字符格式</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/creating-text-text-frames.html\">创建文本和文本框架</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/frame-grid-properties.html\">框架网格属性</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/composing-cjk-characters.html\">编排 CJK 字符</a></li> </ul> </li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com&#8203;。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>文瀛讲坛第二期于 7 月 28 日在同济大学中芬中心开讲，主题围绕中西文排版规则在软件中的运用方法及相关原理。本期节目为现场录音的精选剪辑版。</p> <p>本台三周年相关活动也将如期举行，期待与各位听众的相会。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/2018/08/15357/\">「十年字人——生活与字体设计」</a>，《字谈字畅》三周年活动特别策划讲座</li> <li><a href=\"https://mp.weixin.qq.com/s/dwcKDyfmjGAnn74s_1DOeQ\">Eric 将于 8 月 12 日在 Bù 店举办分享会</a>，主题关于字体排印的质地（texture）</li> <li><a href=\"https://www.thetype.com/2018/07/15316/\">TypeSchool 中文字体设计课 2018 夏季课程正在招生</a>；8 月 13 日前报名并注明自己是《字谈字畅》听众，可享受早鸟价</li> <li><a href=\"https://www.thetype.com/basics/\">「孔雀计划：中文字体排印的思路」</a>系列文章目录</li> <li>高冈昌生（著），刘庆（译）．<a href=\"https://www.thetype.com/western-type-setting/\">《西文排版：排版的基础和规范》</a>．北京：中信出版社，2016 年．</li> <li>Adobe InDesign 用户指南相关章节： <ul> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/kerning-tracking.html\">字偶间距和字符间距</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/leading.html\">行距</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/formatting-characters.html\">设置字符格式</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/creating-text-text-frames.html\">创建文本和文本框架</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/frame-grid-properties.html\">框架网格属性</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/composing-cjk-characters.html\">编排 CJK 字符</a></li> </ul> </li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com&#8203;。</p>"
+    },
+    "itunes_duration": "1:43:02",
+    "subtitle": "文瀛讲坛第二期",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "文瀛讲坛第二期"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>文瀛讲坛第二期于 7 月 28 日在同济大学中芬中心开讲，主题围绕中西文排版规则在软件中的运用方法及相关原理。本期节目为现场录音的精选剪辑版。</p> <p>本台三周年相关活动也将如期举行，期待与各位听众的相会。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/2018/08/15357/\">「十年字人——生活与字体设计」</a>，《字谈字畅》三周年活动特别策划讲座</li> <li><a href=\"https://mp.weixin.qq.com/s/dwcKDyfmjGAnn74s_1DOeQ\">Eric 将于 8 月 12 日在 Bù 店举办分享会</a>，主题关于字体排印的质地（texture）</li> <li><a href=\"https://www.thetype.com/2018/07/15316/\">TypeSchool 中文字体设计课 2018 夏季课程正在招生</a>；8 月 13 日前报名并注明自己是《字谈字畅》听众，可享受早鸟价</li> <li><a href=\"https://www.thetype.com/basics/\">「孔雀计划：中文字体排印的思路」</a>系列文章目录</li> <li>高冈昌生（著），刘庆（译）．<a href=\"https://www.thetype.com/western-type-setting/\">《西文排版：排版的基础和规范》</a>．北京：中信出版社，2016 年．</li> <li>Adobe InDesign 用户指南相关章节： <ul> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/kerning-tracking.html\">字偶间距和字符间距</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/leading.html\">行距</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/formatting-characters.html\">设置字符格式</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/creating-text-text-frames.html\">创建文本和文本框架</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/frame-grid-properties.html\">框架网格属性</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/composing-cjk-characters.html\">编排 CJK 字符</a></li> </ul> </li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com&#8203;。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric"
+        }
+    ],
+    "author": "Eric",
+    "author_detail": {
+        "name": "Eric"
+    },
+    "itunes_explicit": false
+}

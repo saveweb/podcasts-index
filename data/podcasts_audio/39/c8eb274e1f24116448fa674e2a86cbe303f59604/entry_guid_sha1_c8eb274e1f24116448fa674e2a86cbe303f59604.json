@@ -1,0 +1,80 @@
+{
+    "title": "#33 一期播客工作流：录制、剪辑发布、主题内容",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anobody.im/podcast/rss.xml",
+        "value": "#33 一期播客工作流：录制、剪辑发布、主题内容"
+    },
+    "itunes_title": "一期播客工作流：录制、剪辑发布、主题内容",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://anobody.im/podcast/vol33/"
+        },
+        {
+            "length": "21030650",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol33.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://anobody.im/podcast/vol33/",
+    "published": "Mon, 8 Jun 2020 17:45:30 +0200",
+    "published_parsed": [
+        2020,
+        6,
+        8,
+        15,
+        45,
+        30,
+        0,
+        160,
+        0
+    ],
+    "authors": [
+        {
+            "name": "anobody.im"
+        },
+        {
+            "name": "anobody.im"
+        }
+    ],
+    "author": "anobody.im",
+    "author_detail": {
+        "name": "anobody.im"
+    },
+    "id": "https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol33.mp3",
+    "guidislink": false,
+    "itunes_episode": "33",
+    "summary": "小人物播客一期节目的工作流程，包括录制过程中的注意事项，录制之后的剪辑和发布，以及最主要的主题拟定过程，包括联络嘉宾、发邀请、写脚本。以及插播6月荷兰疫情解封现状",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anobody.im/podcast/rss.xml",
+        "value": "小人物播客一期节目的工作流程，包括录制过程中的注意事项，录制之后的剪辑和发布，以及最主要的主题拟定过程，包括联络嘉宾、发邀请、写脚本。以及插播6月荷兰疫情解封现状"
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://anobody.im/podcast/rss.xml",
+            "value": "小人物播客一期节目的工作流程，包括录制过程中的注意事项，录制之后的剪辑和发布，以及最主要的主题拟定过程，包括联络嘉宾、发邀请、写脚本。以及插播6月荷兰疫情解封现状"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://anobody.im/podcast/rss.xml",
+            "value": "小人物播客一期节目的工作流程，包括录制过程中的注意事项，录制之后的剪辑和发布，以及最主要的主题拟定过程，包括联络嘉宾、发邀请、写脚本。以及插播6月荷兰疫情解封现状 <h4 id=\"本期人物\">👥本期人物：</h4>\n<p><a href=\"https://twitter.com/HoiAle\" target=\"_blank\" title=\"阿乐 twitter\">阿乐</a></p>\n<h4 id=\"时间轴\">🕰时间轴：</h4>\n<ul>\n<li>00:21 荷兰疫情解封现状：反歧视大游行或造成第二波疫情</li>\n<li>05:00 录制过程：达到清楚的人声的基 本</li>\n<li>07:04 录制过程：远程录制如何达到比较好的效果</li>\n<li>10:06 剪辑过程：Audacity，GarageBand，Forecast</li>\n<li>13:00 剪辑过程：导出到发布，git操作</li>\n<li>16:07 主题内容如何框定，如何多人协同</li>\n<li>18:11 播客要做什么内容</li>\n</ul>\n<h4 id=\"相关信息\">🔗相关信息：</h4>\n<p><a href=\"https://music.163.com/#/djradio?id=794834536\" target=\"_blank\" title=\"小人物A Nobody podcast 播客上架网易云音乐\">- 新上架网易云音乐</a></p>\n<p><a href=\"https://www.audacityteam.org/\" target=\"_blank\" title=\"Audacity\">- Audacity</a></p>\n<p><a href=\"https://www.apple.com/mac/garageband/\" target=\"_blank\" title=\"- GarageBand\">- GarageBand</a></p>\n<p><a href=\"https://overcast.fm/forecast\" target=\"_blank\" title=\"- Forecast\">- Forecast</a></p>\n<p><a href=\"https://www.notion.so/Podcast-A-Nobody-902d8728e96b4d1cb554ed73f960a408\" target=\"_blank\" title=\"- Notion\">- Notion 协作</a></p>\n<p><a href=\"https://docs.google.com/\" target=\"_blank\" title=\"- Google Doc\">- Google Doc 协作</a></p>\n<p><a href=\"https://sspai.com/post/60731\" target=\"_blank\" title=\"- 听杨一聊播客\">- 非常推荐想做播客听这期：听杨一聊播客</a></p>\n<p><a href=\"https://anobody.im/article/monthlyreview04/\">- Monthly Review 四月 好像什么也没完成）</a></p>\n<p><a href=\"https://anobody.im/article/monthlyreview05/\">- Monthly Review 五月，值得好好唠唠嗑</a></p>\n<p><a href=\"https://space.bilibili.com/426914310\" target=\"_blank\" title=\"阿乐杂货铺B站\">- 阿乐杂货铺 B站</a></p>\n<p><a href=\"https://www.youtube.com/channel/UCknOww3EjCM6kX1K36FB85g\" target=\"_blank\" title=\"阿乐杂货铺Youtube\">- 阿乐杂货铺 Youtube</a></p>\n<p><a href=\"https://www.himalaya.com/anobody\" target=\"_blank\" title=\"Himalaya 小人物 A Nobody Podcast 直达链接\">- Himalaya 小人物 A Nobody Podcast 直达链接</a></p>"
+        }
+    ],
+    "googleplay_description": "小人物播客一期节目的工作流程，包括录制过程中的注意事项，录制之后的剪辑和发布，以及最主要的主题拟定过程，包括联络嘉宾、发邀请、写脚本。以及插播6月荷兰疫情解封现状",
+    "image": {
+        "href": "https://static.anobody.im/images/banner.png"
+    },
+    "googleplay_image": {
+        "href": "https://static.anobody.im/images/banner.png"
+    },
+    "itunes_duration": "21:35"
+}

@@ -1,0 +1,76 @@
+{
+    "title": "#22：全球字体新闻联播",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#22：全球字体新闻联播"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-022/"
+        },
+        {
+            "length": "37637908",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat022.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-022/",
+    "published": "Tue, 31 May 2016 06:46:39 +0800",
+    "published_parsed": [
+        2016,
+        5,
+        30,
+        22,
+        46,
+        39,
+        0,
+        151,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat022.mp3",
+    "guidislink": false,
+    "summary": "<p>听众朋友早上好，今天是 5 月 31 日又一个星期二，欢迎收听全球字体新闻联播。</p> <p>一座博物馆拟换形象，两间造字所上架新品；澳洲期刊出四卷，日本杂志刊九期；Glyphs 加中文，Fontstand 进手机。另有罗马字体、字冲雕刻及照相排版等历史档案公布，特此周知。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references\">HTML/XML entity</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Internationalization_and_localization\">L10n 和 i18n</a></li> <li>克罗地亚设计师 Sandro Dujmenović 和 Marko Hrastovec <a href=\"http://www.zadarski.hr/vijesti/clanak/id/19345/ekskluzivno-svjetski-uspjeh-zadarskog-dizajnera-sandro-dujmenovic-i-marko-hrastovec-autori-nove-tipografije-pariskog-muzeja-louvre\">为卢浮宫设计了新字体及视觉形象</a></li> <li>Rosetta 发布 <a href=\"https://www.rosettatype.com/SherpaSans\">Sherpa Sans</a>，Florian Runge 设计</li> <li><a href=\"https://en.wikipedia.org/wiki/Rosetta_Stone\">Rosetta Stone</a>（罗塞塔石碑）</li> <li><a href=\"https://www.thetype.com/2015/12/9742/\">文字之秋·东京篇</a>，《字谈字畅》第九期，其中报道了东京的 Type&amp; 活动</li> <li>Fontsmith 发布 <a href=\"http://www.fontsmith.com/fonts/fs-aldrin\">FS Aldrin</a></li> <li><cite><a href=\"http://www.imdb.com/title/tt0423651/\">Fingersmith</a></cite>（指匠情挑），悬疑及同性恋题材英剧</li> <li><a href=\"https://www.thetype.com/2015/11/9658/\">「通缉」中文字体排印事业的贡献者</a>，《字谈字畅》第七期，与嘉宾 Bobby（董福兴）聊及 webfont</li> <li>字体租赁服务 Fontstand 今年四月发布了 <a href=\"https://fontstand.com/iosapp\">iOS app</a></li> <li>利用 iOS 的 configuration profile 特性<a href=\"https://developer.apple.com/library/ios/featuredarticles/iPhoneConfigurationProfileRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010206-CH1-SW43\">可安装自定义字体</a></li> <li><a href=\"https://itunes.apple.com/app/apple-configurator-2/id1037126344?mt=12\">Apple Configurator 2</a>，iOS 设备及 Apple TV 的配置和布署工具</li> <li><a href=\"https://glyphsapp.com/blog/new-features-in-glyphs-2-3\">Glyphs 发布 2.3 版</a>，界面语言新增简体中文和繁体中文</li> <li><cite><a href=\"http://typography-mag.jp/latest/\">Typography 09</a></cite> 出版，专题为「漂亮的书和排版」</li> <li>日本新潮社分享了图书排版的 <a href=\"http://adobe.ly/1mCfSUd\">InDesign 模板</a></li> <li>日文常见的<a href=\"https://www.w3.org/TR/jlreq/#principles_of_arrangement_of_kanji_and_kana_characters\">排字方式</a>包括： <ul> <li>密排（ベタ組み / solid setting）</li> <li>紧排（詰め組み / tsumegumi）</li> </ul> </li> <li><cite><a href=\"http://www.typographher.com/typograph-journal/\">Typograph.Journal</a></cite> 第 4 卷出版，该期刊由澳大利亚的设计师 Nicole Arnett Phillips 创办</li> <li>俄国字体商店 <a href=\"https://type.today/en/about\">type.today</a> 上线，主售自家原创字体，并代售部分精选西里尔字体</li> <li>John Boardley. “<a href=\"http://ilovetypography.com/2016/04/18/the-first-roman-fonts/\">The First Roman Fonts</a>”. <cite>I Love Typography</cite>. April 18, 2006</li> <li><a href=\"https://typography.guru/video/phototypesetting-with-the-berthold-%E2%80%B9diatype%E2%80%BA-r72/\">Phototypesetting with the Berthold ‹diatype›</a>，关于 ‹diatype› 照排机的影像资料</li> <li><a href=\"https://typography.guru/video/gravers-files%E2%80%94the-lost-art-of-type-punch-cutting-r76/\">Gravers &amp; Files—The lost art of type punch cutting</a>，关于字冲雕刻手艺的影像资料</li> <li>Fred Smeijers. <cite><a href=\"https://hyphenpress.co.uk/products/books/978-0-907259-42-8\">Counterpunch: making type in the sixteenth century, designing typefaces now</a></cite>. London: Hyphen Press, 1996</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎致信 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a> 与我们交流或反馈。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与邮箱地址相同。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>听众朋友早上好，今天是 5 月 31 日又一个星期二，欢迎收听全球字体新闻联播。</p> <p>一座博物馆拟换形象，两间造字所上架新品；澳洲期刊出四卷，日本杂志刊九期；Glyphs 加中文，Fontstand 进手机。另有罗马字体、字冲雕刻及照相排版等历史档案公布，特此周知。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references\">HTML/XML entity</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Internationalization_and_localization\">L10n 和 i18n</a></li> <li>克罗地亚设计师 Sandro Dujmenović 和 Marko Hrastovec <a href=\"http://www.zadarski.hr/vijesti/clanak/id/19345/ekskluzivno-svjetski-uspjeh-zadarskog-dizajnera-sandro-dujmenovic-i-marko-hrastovec-autori-nove-tipografije-pariskog-muzeja-louvre\">为卢浮宫设计了新字体及视觉形象</a></li> <li>Rosetta 发布 <a href=\"https://www.rosettatype.com/SherpaSans\">Sherpa Sans</a>，Florian Runge 设计</li> <li><a href=\"https://en.wikipedia.org/wiki/Rosetta_Stone\">Rosetta Stone</a>（罗塞塔石碑）</li> <li><a href=\"https://www.thetype.com/2015/12/9742/\">文字之秋·东京篇</a>，《字谈字畅》第九期，其中报道了东京的 Type&amp; 活动</li> <li>Fontsmith 发布 <a href=\"http://www.fontsmith.com/fonts/fs-aldrin\">FS Aldrin</a></li> <li><cite><a href=\"http://www.imdb.com/title/tt0423651/\">Fingersmith</a></cite>（指匠情挑），悬疑及同性恋题材英剧</li> <li><a href=\"https://www.thetype.com/2015/11/9658/\">「通缉」中文字体排印事业的贡献者</a>，《字谈字畅》第七期，与嘉宾 Bobby（董福兴）聊及 webfont</li> <li>字体租赁服务 Fontstand 今年四月发布了 <a href=\"https://fontstand.com/iosapp\">iOS app</a></li> <li>利用 iOS 的 configuration profile 特性<a href=\"https://developer.apple.com/library/ios/featuredarticles/iPhoneConfigurationProfileRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010206-CH1-SW43\">可安装自定义字体</a></li> <li><a href=\"https://itunes.apple.com/app/apple-configurator-2/id1037126344?mt=12\">Apple Configurator 2</a>，iOS 设备及 Apple TV 的配置和布署工具</li> <li><a href=\"https://glyphsapp.com/blog/new-features-in-glyphs-2-3\">Glyphs 发布 2.3 版</a>，界面语言新增简体中文和繁体中文</li> <li><cite><a href=\"http://typography-mag.jp/latest/\">Typography 09</a></cite> 出版，专题为「漂亮的书和排版」</li> <li>日本新潮社分享了图书排版的 <a href=\"http://adobe.ly/1mCfSUd\">InDesign 模板</a></li> <li>日文常见的<a href=\"https://www.w3.org/TR/jlreq/#principles_of_arrangement_of_kanji_and_kana_characters\">排字方式</a>包括： <ul> <li>密排（ベタ組み / solid setting）</li> <li>紧排（詰め組み / tsumegumi）</li> </ul> </li> <li><cite><a href=\"http://www.typographher.com/typograph-journal/\">Typograph.Journal</a></cite> 第 4 卷出版，该期刊由澳大利亚的设计师 Nicole Arnett Phillips 创办</li> <li>俄国字体商店 <a href=\"https://type.today/en/about\">type.today</a> 上线，主售自家原创字体，并代售部分精选西里尔字体</li> <li>John Boardley. “<a href=\"http://ilovetypography.com/2016/04/18/the-first-roman-fonts/\">The First Roman Fonts</a>”. <cite>I Love Typography</cite>. April 18, 2006</li> <li><a href=\"https://typography.guru/video/phototypesetting-with-the-berthold-%E2%80%B9diatype%E2%80%BA-r72/\">Phototypesetting with the Berthold ‹diatype›</a>，关于 ‹diatype› 照排机的影像资料</li> <li><a href=\"https://typography.guru/video/gravers-files%E2%80%94the-lost-art-of-type-punch-cutting-r76/\">Gravers &amp; Files—The lost art of type punch cutting</a>，关于字冲雕刻手艺的影像资料</li> <li>Fred Smeijers. <cite><a href=\"https://hyphenpress.co.uk/products/books/978-0-907259-42-8\">Counterpunch: making type in the sixteenth century, designing typefaces now</a></cite>. London: Hyphen Press, 1996</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎致信 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a> 与我们交流或反馈。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与邮箱地址相同。</p>"
+    },
+    "itunes_duration": "1:18:15",
+    "subtitle": "听众朋友早上好，今天是 5 月 31 日又一个星期二",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "听众朋友早上好，今天是 5 月 31 日又一个星期二"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>听众朋友早上好，今天是 5 月 31 日又一个星期二，欢迎收听全球字体新闻联播。</p> <p>一座博物馆拟换形象，两间造字所上架新品；澳洲期刊出四卷，日本杂志刊九期；Glyphs 加中文，Fontstand 进手机。另有罗马字体、字冲雕刻及照相排版等历史档案公布，特此周知。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references\">HTML/XML entity</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Internationalization_and_localization\">L10n 和 i18n</a></li> <li>克罗地亚设计师 Sandro Dujmenović 和 Marko Hrastovec <a href=\"http://www.zadarski.hr/vijesti/clanak/id/19345/ekskluzivno-svjetski-uspjeh-zadarskog-dizajnera-sandro-dujmenovic-i-marko-hrastovec-autori-nove-tipografije-pariskog-muzeja-louvre\">为卢浮宫设计了新字体及视觉形象</a></li> <li>Rosetta 发布 <a href=\"https://www.rosettatype.com/SherpaSans\">Sherpa Sans</a>，Florian Runge 设计</li> <li><a href=\"https://en.wikipedia.org/wiki/Rosetta_Stone\">Rosetta Stone</a>（罗塞塔石碑）</li> <li><a href=\"https://www.thetype.com/2015/12/9742/\">文字之秋·东京篇</a>，《字谈字畅》第九期，其中报道了东京的 Type&amp; 活动</li> <li>Fontsmith 发布 <a href=\"http://www.fontsmith.com/fonts/fs-aldrin\">FS Aldrin</a></li> <li><cite><a href=\"http://www.imdb.com/title/tt0423651/\">Fingersmith</a></cite>（指匠情挑），悬疑及同性恋题材英剧</li> <li><a href=\"https://www.thetype.com/2015/11/9658/\">「通缉」中文字体排印事业的贡献者</a>，《字谈字畅》第七期，与嘉宾 Bobby（董福兴）聊及 webfont</li> <li>字体租赁服务 Fontstand 今年四月发布了 <a href=\"https://fontstand.com/iosapp\">iOS app</a></li> <li>利用 iOS 的 configuration profile 特性<a href=\"https://developer.apple.com/library/ios/featuredarticles/iPhoneConfigurationProfileRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010206-CH1-SW43\">可安装自定义字体</a></li> <li><a href=\"https://itunes.apple.com/app/apple-configurator-2/id1037126344?mt=12\">Apple Configurator 2</a>，iOS 设备及 Apple TV 的配置和布署工具</li> <li><a href=\"https://glyphsapp.com/blog/new-features-in-glyphs-2-3\">Glyphs 发布 2.3 版</a>，界面语言新增简体中文和繁体中文</li> <li><cite><a href=\"http://typography-mag.jp/latest/\">Typography 09</a></cite> 出版，专题为「漂亮的书和排版」</li> <li>日本新潮社分享了图书排版的 <a href=\"http://adobe.ly/1mCfSUd\">InDesign 模板</a></li> <li>日文常见的<a href=\"https://www.w3.org/TR/jlreq/#principles_of_arrangement_of_kanji_and_kana_characters\">排字方式</a>包括： <ul> <li>密排（ベタ組み / solid setting）</li> <li>紧排（詰め組み / tsumegumi）</li> </ul> </li> <li><cite><a href=\"http://www.typographher.com/typograph-journal/\">Typograph.Journal</a></cite> 第 4 卷出版，该期刊由澳大利亚的设计师 Nicole Arnett Phillips 创办</li> <li>俄国字体商店 <a href=\"https://type.today/en/about\">type.today</a> 上线，主售自家原创字体，并代售部分精选西里尔字体</li> <li>John Boardley. “<a href=\"http://ilovetypography.com/2016/04/18/the-first-roman-fonts/\">The First Roman Fonts</a>”. <cite>I Love Typography</cite>. April 18, 2006</li> <li><a href=\"https://typography.guru/video/phototypesetting-with-the-berthold-%E2%80%B9diatype%E2%80%BA-r72/\">Phototypesetting with the Berthold ‹diatype›</a>，关于 ‹diatype› 照排机的影像资料</li> <li><a href=\"https://typography.guru/video/gravers-files%E2%80%94the-lost-art-of-type-punch-cutting-r76/\">Gravers &amp; Files—The lost art of type punch cutting</a>，关于字冲雕刻手艺的影像资料</li> <li>Fred Smeijers. <cite><a href=\"https://hyphenpress.co.uk/products/books/978-0-907259-42-8\">Counterpunch: making type in the sixteenth century, designing typefaces now</a></cite>. London: Hyphen Press, 1996</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎致信 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a> 与我们交流或反馈。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与邮箱地址相同。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

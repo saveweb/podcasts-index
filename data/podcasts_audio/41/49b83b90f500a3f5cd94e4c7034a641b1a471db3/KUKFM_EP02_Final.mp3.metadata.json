@@ -1,0 +1,51 @@
+{
+    "http-content-length": 40493950,
+    "http-etag": "lmgh7zFrLf859qp_o57TWVAKnrH4",
+    "http-last-modified": "Thu, 18 Feb 2021 09:47:15 GMT",
+    "http-last-modified-float": 1613612835.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": "inline; filename=\"KUKFM_EP02_Final.mp3\"; filename*=utf-8''KUKFM_EP02_Final.mp3",
+    "http-content-disposition-filename": "KUKFM_EP02_Final.mp3",
+    "actual-size": 40493950,
+    "actual-duration": 1012,
+    "sha1": "879b0631672f2de9ea2f5fd54dc391381ee98286",
+    "md5": "b1c443136eb7b1034c79fe55218cf719",
+    "url-history": {
+        "0": {
+            "status_code": 200,
+            "url": "https://static.ouorz.com/KUKFM_EP02_Final.mp3",
+            "headers": {
+                "Server": "Tengine",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "40493950",
+                "Connection": "keep-alive",
+                "Date": "Thu, 06 Apr 2023 06:47:57 GMT",
+                "Accept-Ranges": "bytes",
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Expose-Headers": "X-Log, X-Reqid",
+                "Access-Control-Max-Age": "2592000",
+                "Cache-Control": "public, max-age=31536000",
+                "Content-Disposition": "inline; filename=\"KUKFM_EP02_Final.mp3\"; filename*=utf-8''KUKFM_EP02_Final.mp3",
+                "Content-Md5": "scRDE263sQNMef5VIYz3GQ==",
+                "Content-Transfer-Encoding": "binary",
+                "Etag": "\"lmgh7zFrLf859qp_o57TWVAKnrH4\"",
+                "Last-Modified": "Thu, 18 Feb 2021 09:47:15 GMT",
+                "X-Log": "X-Log",
+                "X-M-Log": "QNM:xs1183;QNM3:38",
+                "X-M-Reqid": "VmYAAAQoAd6oRVMX",
+                "X-Qiniu-Zone": "2",
+                "X-Qnm-Cache": "Hit",
+                "X-Reqid": "CPEAAAASIQBeQkIX",
+                "X-Svr": "IO",
+                "Ali-Swift-Global-Savetime": "1680763677",
+                "Via": "cache20.l2hk3[0,0,206-0,H], cache13.l2hk3[1,0], cache3.hk6[0,0,200-0,H], cache15.hk6[19,0]",
+                "Age": "550421",
+                "X-Cache": "HIT TCP_MEM_HIT dirn:7:496371717 mlen:7463806",
+                "X-Swift-SaveTime": "Mon, 10 Apr 2023 07:37:04 GMT",
+                "X-Swift-CacheTime": "31187453",
+                "Timing-Allow-Origin": "*",
+                "EagleId": "2ff6109316813140983685342e"
+            }
+        }
+    }
+}

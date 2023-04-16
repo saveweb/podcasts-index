@@ -1,0 +1,69 @@
+{
+    "http-content-length": 86133735,
+    "http-etag": "6D52BC05C41F4C58FE6EB39C20E9257A-9",
+    "http-last-modified": "Sun, 26 Jul 2020 03:01:13 GMT",
+    "http-last-modified-float": 1595703673.0,
+    "http-content-type": "audio/mpeg",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 86133735,
+    "actual-duration": 7077,
+    "sha1": "8208c41afe89c83d8acb73badd9f7227eb86ec0f",
+    "md5": "cd265b92052e785b5f5a6275f8ea3941",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://chrt.fm/track/G4D898/r.typlog.com/eyJzIjo1OTUsImUiOjM2NTAsInAiOjEsInUiOiIvZTExLm1wMyJ9.pCz9MYgCb1Es54HFrkMahNvlTxQ/bbp-audio.oss-cn-beijing.aliyuncs.com/e11.mp3",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "0",
+                "Connection": "keep-alive",
+                "Date": "Wed, 12 Apr 2023 14:29:51 GMT",
+                "Server": "nginx/1.21.6",
+                "Location": "https://r.typlog.com/eyJzIjo1OTUsImUiOjM2NTAsInAiOjEsInUiOiIvZTExLm1wMyJ9.pCz9MYgCb1Es54HFrkMahNvlTxQ/bbp-audio.oss-cn-beijing.aliyuncs.com/e11.mp3",
+                "Access-Control-Allow-Origin": "*",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 d72365754a4b05b54ee38a34a03f4b62.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "SLC50-C1",
+                "X-Amz-Cf-Id": "KbSs-Wem3L6Ud1_PktUFnn-Y3gDeWWu8lzjyS8Qjb87R1tvdAYZN4w=="
+            }
+        },
+        "1": {
+            "status_code": 302,
+            "url": "https://r.typlog.com/eyJzIjo1OTUsImUiOjM2NTAsInAiOjEsInUiOiIvZTExLm1wMyJ9.pCz9MYgCb1Es54HFrkMahNvlTxQ/bbp-audio.oss-cn-beijing.aliyuncs.com/e11.mp3",
+            "headers": {
+                "Date": "Wed, 12 Apr 2023 14:29:52 GMT",
+                "Content-Type": "text/plain;charset=UTF-8",
+                "Content-Length": "0",
+                "Connection": "keep-alive",
+                "Location": "https://bbp-audio.oss-cn-beijing.aliyuncs.com/e11.mp3",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=zaj2va2dop3OuHQmRFaB%2FEZF63Zrs4nnW7nJIYhnfINiE%2Br5fAG2AKVciByWpPT6LB0fN8izyJpm5IrEDQ3IvxELzAGSN7CBStUdDRPM%2BbAC94zHjzTcGa8zzkHjPQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Vary": "Accept-Encoding",
+                "Strict-Transport-Security": "max-age=2592000; preload",
+                "Server": "cloudflare",
+                "CF-RAY": "7b6c29f8bac5079f-HKG",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "2": {
+            "status_code": 200,
+            "url": "https://bbp-audio.oss-cn-beijing.aliyuncs.com/e11.mp3",
+            "headers": {
+                "Server": "AliyunOSS",
+                "Date": "Wed, 12 Apr 2023 14:29:52 GMT",
+                "Content-Type": "audio/mpeg",
+                "Content-Length": "86133735",
+                "Connection": "keep-alive",
+                "x-oss-request-id": "6436C0600BB9D834350FF546",
+                "Accept-Ranges": "bytes",
+                "ETag": "\"6D52BC05C41F4C58FE6EB39C20E9257A-9\"",
+                "Last-Modified": "Sun, 26 Jul 2020 03:01:13 GMT",
+                "x-oss-object-type": "Multipart",
+                "x-oss-hash-crc64ecma": "17316909829410099482",
+                "x-oss-storage-class": "Standard",
+                "x-oss-server-time": "54"
+            }
+        }
+    }
+}

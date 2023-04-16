@@ -1,0 +1,56 @@
+{
+    "http-content-length": 13112888,
+    "http-etag": "43025803e99b4537758ee74b7e9e8959-3",
+    "http-last-modified": "Sun, 02 Oct 2022 19:23:49 GMT",
+    "http-last-modified-float": 1664709829.0,
+    "http-content-type": "audio/mpeg;charset=UTF-8",
+    "http-content-disposition-raw": null,
+    "http-content-disposition-filename": null,
+    "actual-size": 13112888,
+    "actual-duration": 801,
+    "sha1": "eca9a513937282762b7f30e679f69160122910d9",
+    "md5": "a18b4c7e7008cce1fef53f13cc9a62f7",
+    "url-history": {
+        "0": {
+            "status_code": 302,
+            "url": "https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol46.mp3",
+            "headers": {
+                "Content-Type": "text/html; charset=utf-8",
+                "Content-Length": "0",
+                "Connection": "keep-alive",
+                "Date": "Mon, 10 Apr 2023 09:26:29 GMT",
+                "Server": "nginx/1.21.6",
+                "Location": "https://static.anobody.im/audios/vol46.mp3",
+                "Access-Control-Allow-Origin": "*",
+                "X-Cache": "Miss from cloudfront",
+                "Via": "1.1 409082e9caee4a1cdc1a950363f5172c.cloudfront.net (CloudFront)",
+                "X-Amz-Cf-Pop": "NRT12-C2",
+                "X-Amz-Cf-Id": "yTuH9AetbyOY0fvJp1zRVkBM29xF_0gPQNQzhVSB0R3nFK-CrviIqg=="
+            }
+        },
+        "1": {
+            "status_code": 200,
+            "url": "https://static.anobody.im/audios/vol46.mp3",
+            "headers": {
+                "Date": "Mon, 10 Apr 2023 09:26:30 GMT",
+                "Content-Type": "audio/mpeg;charset=UTF-8",
+                "Content-Length": "13112888",
+                "Connection": "keep-alive",
+                "x-amz-id-2": "txda8f17d1c8ab4155a5a02-00642f7e9b",
+                "last-modified": "Sun, 02 Oct 2022 19:23:49 GMT",
+                "etag": "\"43025803e99b4537758ee74b7e9e8959-3\"",
+                "x-amz-request-id": "txda8f17d1c8ab4155a5a02-00642f7e9b",
+                "x-amz-version-id": "1664738629536228",
+                "Cache-Control": "max-age=2678400",
+                "CF-Cache-Status": "REVALIDATED",
+                "Accept-Ranges": "bytes",
+                "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=jMn7nFiWoQu%2BunAyw70lRsEZYSVtY7ezKfdWxcI3Nkl14AkbNuXCiUy6FzBGVXV4axuFcPJh7oE8UsXbFjVhImzHigoHIHelODNkzOclI3%2FxwicMeCxpGd2vDAQiocJxPmSr8A%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "Vary": "Accept-Encoding",
+                "Server": "cloudflare",
+                "CF-RAY": "7b59f2d62c1c8a84-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        }
+    }
+}

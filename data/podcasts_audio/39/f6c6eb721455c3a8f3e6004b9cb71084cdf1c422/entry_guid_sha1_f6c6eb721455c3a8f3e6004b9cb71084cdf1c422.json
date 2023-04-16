@@ -1,0 +1,80 @@
+{
+    "title": "#51 从厨师到前端工程师的梨子",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anobody.im/podcast/rss.xml",
+        "value": "#51 从厨师到前端工程师的梨子"
+    },
+    "itunes_title": "从厨师到前端工程师的梨子",
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://anobody.im/podcast/vol51/"
+        },
+        {
+            "length": "32753427",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol51.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://anobody.im/podcast/vol51/",
+    "published": "Mon, 8 Mar 2021 21:30:30 +0200",
+    "published_parsed": [
+        2021,
+        3,
+        8,
+        19,
+        30,
+        30,
+        0,
+        67,
+        0
+    ],
+    "authors": [
+        {
+            "name": "anobody.im"
+        },
+        {
+            "name": "anobody.im"
+        }
+    ],
+    "author": "anobody.im",
+    "author_detail": {
+        "name": "anobody.im"
+    },
+    "id": "https://chtbl.com/track/F8C6AG/static.anobody.im/audios/vol51.mp3",
+    "guidislink": false,
+    "itunes_episode": "51",
+    "summary": "自称“菜鸡前端”的梨子同学，干过保险、做过厨子，现在在程序员的岗位上暂时找到了片刻的安稳。虽然不鼓吹全民转码，但多尝试才能找到适合自己的职业。听着像培训班广告（此处没有推广链接），但找到适合自己的学习方式更重要。",
+    "summary_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://anobody.im/podcast/rss.xml",
+        "value": "自称“菜鸡前端”的梨子同学，干过保险、做过厨子，现在在程序员的岗位上暂时找到了片刻的安稳。虽然不鼓吹全民转码，但多尝试才能找到适合自己的职业。听着像培训班广告（此处没有推广链接），但找到适合自己的学习方式更重要。"
+    },
+    "content": [
+        {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://anobody.im/podcast/rss.xml",
+            "value": "自称“菜鸡前端”的梨子同学，干过保险、做过厨子，现在在程序员的岗位上暂时找到了片刻的安稳。虽然不鼓吹全民转码，但多尝试才能找到适合自己的职业。听着像培训班广告（此处没有推广链接），但找到适合自己的学习方式更重要。"
+        },
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://anobody.im/podcast/rss.xml",
+            "value": "自称“菜鸡前端”的梨子同学，干过保险、做过厨子，现在在程序员的岗位上暂时找到了片刻的安稳。虽然不鼓吹全民转码，但多尝试才能找到适合自己的职业。听着像培训班广告（此处没有推广链接），但找到适合自己的学习方式更重要。 <h4 id=\"本期人物\">👥本期人物：</h4>\n<p><a href=\"https://twitter.com/springwildpear\">梨子</a>、<a href=\"https://twitter.com/HoiAle\">阿乐</a></p>\n<h4 id=\"时间轴\">🕰时间轴：</h4>\n<ul>\n<li>03:35 离开第二故乡香港，选择加拿大</li>\n<li>06:10 西班牙到欧洲，还是缺了点啥</li>\n<li>11:03 理想中的厨师和现实中的当头一棒</li>\n<li>16:00 什么状态下发现自己不对劲？</li>\n<li>21:15 什么是培训班不会告诉你的</li>\n<li>23:57 全民转行cs，适合你吗？</li>\n<li>27:39 王刚老师的迷妹</li>\n</ul>\n<h4 id=\"相关信息\">🔗相关信息：</h4>\n<ul>\n<li><a href=\"https://www.netflix.com/nl-en/title/80007945\">Chef&rsquo;s Table</a></li>\n<li><a href=\"https://youtu.be/32OOsA6NFJo\">零基础新手编程的四个步骤</a></li>\n<li><a href=\"https://music.163.com/#/djradio?id=794834536\">小人物A Nobody Podcast 播客上架网易云音乐</a></li>\n<li><a href=\"https://www.himalaya.com/anobody\">Himalaya 小人物 A Nobody Podcast 直达链接</a></li>\n</ul>"
+        }
+    ],
+    "googleplay_description": "自称“菜鸡前端”的梨子同学，干过保险、做过厨子，现在在程序员的岗位上暂时找到了片刻的安稳。虽然不鼓吹全民转码，但多尝试才能找到适合自己的职业。听着像培训班广告（此处没有推广链接），但找到适合自己的学习方式更重要。",
+    "image": {
+        "href": "https://static.anobody.im/images/banner.png"
+    },
+    "googleplay_image": {
+        "href": "https://static.anobody.im/images/banner.png"
+    },
+    "itunes_duration": "33:48"
+}

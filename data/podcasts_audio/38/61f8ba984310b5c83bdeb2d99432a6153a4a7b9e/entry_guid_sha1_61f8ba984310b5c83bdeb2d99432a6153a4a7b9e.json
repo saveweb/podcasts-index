@@ -1,0 +1,76 @@
+{
+    "title": "#4：苹方鼎谈",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#4：苹方鼎谈"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-004/"
+        },
+        {
+            "length": "60499540",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat004.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-004/",
+    "published": "Tue, 13 Oct 2015 06:52:08 +0800",
+    "published_parsed": [
+        2015,
+        10,
+        12,
+        22,
+        52,
+        8,
+        0,
+        285,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat004.mp3",
+    "guidislink": false,
+    "summary": "<p>三方始为鼎谈，《字谈字畅》首次请到重磅嘉宾。</p> <p>本期，多语言字体技师梁海与我们同聊苹果新字体——苹方。从字形标准到风格争议，闲话各家；由字体基础架构至 OpenType 特性，离题万里。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.apple.com/cn/osx/whats-new/#international-fonts\">Apple 向用户介绍新字体苹方</a></li> <li><a href=\"http://www.dynacw.com/\">威锋数位（DynaComware），原名华康科技</a></li> <li><a href=\"http://bcnranking.jp/award/\">日本 BCM 奖</a></li> <li><a href=\"https://www.thetype.com/2015/05/9298/\">俪宋及柯炽坚先生的轶事</a></li> <li><a href=\"https://github.com/android/platform_frameworks_base/tree/master/data/fonts\">Droid Sans Fallback 可在 Android 开源项目内找到</a></li> <li><a href=\"http://partners.adobe.com/public/developer/opentype/index_mult_master.html\">Adobe 提供的 multiple master 字体相关的资料</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode_block\">Unicode block</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Plane_(Unicode)#Basic_Multilingual_Plane\">BMP (Basic Multilingual Plane)</a></li> <li><a href=\"https://github.com/adobe-fonts/source-han-sans\">思源黑体（Source Han Sans）项目在 GitHub 开源</a></li> <li><a href=\"https://en.wikipedia.org/wiki/TrueType\">TrueType</a></li> <li><a href=\"https://en.wikipedia.org/wiki/PostScript_fonts\">PostScript fonts</a></li> <li><a href=\"http://kernelpanic.fm/\">「大家好，欢迎收听《内核恐慌》」</a></li> <li><a href=\"http://ipn.li/itgonglun/171/\">《IT 公论》在第 171 期中讨论了苹方</a></li> <li><a href=\"http://www.edu.tw/files/site_content/M0001/biau/f12.html\">国字标准字体研定原则</a></li> <li><a href=\"http://input.foruto.com/ccc/gongbiu/\">香港汉字字形标准备查：港标中文网</a></li> <li><a href=\"https://developer.apple.com/bug-reporting/\">Apple Bug Reporter：向 Apple 反馈软件问题的最佳途径</a></li> <li><a href=\"http://partners.adobe.com/public/developer/opentype/index_cid.html\">Adobe 提供的 CID 键控字体相关的资料</a></li> <li><a href=\"https://en.wikipedia.org/wiki/List_of_typographic_features#OpenType_typographic_features\">OpenType 高级排版特性</a></li> </ul> <h3>嘉宾</h3> <ul> <li><a href=\"http://www.zhihu.com/people/lianghai\">梁海</a>：多语言字体技师，Type is Beautiful 撰稿人</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>三方始为鼎谈，《字谈字畅》首次请到重磅嘉宾。</p> <p>本期，多语言字体技师梁海与我们同聊苹果新字体——苹方。从字形标准到风格争议，闲话各家；由字体基础架构至 OpenType 特性，离题万里。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.apple.com/cn/osx/whats-new/#international-fonts\">Apple 向用户介绍新字体苹方</a></li> <li><a href=\"http://www.dynacw.com/\">威锋数位（DynaComware），原名华康科技</a></li> <li><a href=\"http://bcnranking.jp/award/\">日本 BCM 奖</a></li> <li><a href=\"https://www.thetype.com/2015/05/9298/\">俪宋及柯炽坚先生的轶事</a></li> <li><a href=\"https://github.com/android/platform_frameworks_base/tree/master/data/fonts\">Droid Sans Fallback 可在 Android 开源项目内找到</a></li> <li><a href=\"http://partners.adobe.com/public/developer/opentype/index_mult_master.html\">Adobe 提供的 multiple master 字体相关的资料</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode_block\">Unicode block</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Plane_(Unicode)#Basic_Multilingual_Plane\">BMP (Basic Multilingual Plane)</a></li> <li><a href=\"https://github.com/adobe-fonts/source-han-sans\">思源黑体（Source Han Sans）项目在 GitHub 开源</a></li> <li><a href=\"https://en.wikipedia.org/wiki/TrueType\">TrueType</a></li> <li><a href=\"https://en.wikipedia.org/wiki/PostScript_fonts\">PostScript fonts</a></li> <li><a href=\"http://kernelpanic.fm/\">「大家好，欢迎收听《内核恐慌》」</a></li> <li><a href=\"http://ipn.li/itgonglun/171/\">《IT 公论》在第 171 期中讨论了苹方</a></li> <li><a href=\"http://www.edu.tw/files/site_content/M0001/biau/f12.html\">国字标准字体研定原则</a></li> <li><a href=\"http://input.foruto.com/ccc/gongbiu/\">香港汉字字形标准备查：港标中文网</a></li> <li><a href=\"https://developer.apple.com/bug-reporting/\">Apple Bug Reporter：向 Apple 反馈软件问题的最佳途径</a></li> <li><a href=\"http://partners.adobe.com/public/developer/opentype/index_cid.html\">Adobe 提供的 CID 键控字体相关的资料</a></li> <li><a href=\"https://en.wikipedia.org/wiki/List_of_typographic_features#OpenType_typographic_features\">OpenType 高级排版特性</a></li> </ul> <h3>嘉宾</h3> <ul> <li><a href=\"http://www.zhihu.com/people/lianghai\">梁海</a>：多语言字体技师，Type is Beautiful 撰稿人</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "2:05:52",
+    "subtitle": "没有相声感了",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "没有相声感了"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>三方始为鼎谈，《字谈字畅》首次请到重磅嘉宾。</p> <p>本期，多语言字体技师梁海与我们同聊苹果新字体——苹方。从字形标准到风格争议，闲话各家；由字体基础架构至 OpenType 特性，离题万里。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.apple.com/cn/osx/whats-new/#international-fonts\">Apple 向用户介绍新字体苹方</a></li> <li><a href=\"http://www.dynacw.com/\">威锋数位（DynaComware），原名华康科技</a></li> <li><a href=\"http://bcnranking.jp/award/\">日本 BCM 奖</a></li> <li><a href=\"https://www.thetype.com/2015/05/9298/\">俪宋及柯炽坚先生的轶事</a></li> <li><a href=\"https://github.com/android/platform_frameworks_base/tree/master/data/fonts\">Droid Sans Fallback 可在 Android 开源项目内找到</a></li> <li><a href=\"http://partners.adobe.com/public/developer/opentype/index_mult_master.html\">Adobe 提供的 multiple master 字体相关的资料</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Unicode_block\">Unicode block</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Plane_(Unicode)#Basic_Multilingual_Plane\">BMP (Basic Multilingual Plane)</a></li> <li><a href=\"https://github.com/adobe-fonts/source-han-sans\">思源黑体（Source Han Sans）项目在 GitHub 开源</a></li> <li><a href=\"https://en.wikipedia.org/wiki/TrueType\">TrueType</a></li> <li><a href=\"https://en.wikipedia.org/wiki/PostScript_fonts\">PostScript fonts</a></li> <li><a href=\"http://kernelpanic.fm/\">「大家好，欢迎收听《内核恐慌》」</a></li> <li><a href=\"http://ipn.li/itgonglun/171/\">《IT 公论》在第 171 期中讨论了苹方</a></li> <li><a href=\"http://www.edu.tw/files/site_content/M0001/biau/f12.html\">国字标准字体研定原则</a></li> <li><a href=\"http://input.foruto.com/ccc/gongbiu/\">香港汉字字形标准备查：港标中文网</a></li> <li><a href=\"https://developer.apple.com/bug-reporting/\">Apple Bug Reporter：向 Apple 反馈软件问题的最佳途径</a></li> <li><a href=\"http://partners.adobe.com/public/developer/opentype/index_cid.html\">Adobe 提供的 CID 键控字体相关的资料</a></li> <li><a href=\"https://en.wikipedia.org/wiki/List_of_typographic_features#OpenType_typographic_features\">OpenType 高级排版特性</a></li> </ul> <h3>嘉宾</h3> <ul> <li><a href=\"http://www.zhihu.com/people/lianghai\">梁海</a>：多语言字体技师，Type is Beautiful 撰稿人</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, 梁海"
+        }
+    ],
+    "author": "Eric, 蒸鱼, 梁海",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, 梁海"
+    },
+    "itunes_explicit": false
+}

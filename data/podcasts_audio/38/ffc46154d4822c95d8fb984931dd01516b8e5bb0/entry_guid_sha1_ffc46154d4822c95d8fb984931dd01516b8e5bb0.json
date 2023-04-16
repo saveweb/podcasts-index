@@ -1,0 +1,76 @@
+{
+    "title": "#14：​□□␣□□",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#14：​□□␣□□"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-014/"
+        },
+        {
+            "length": "49122642",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat014.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-014/",
+    "published": "Tue, 23 Feb 2016 07:04:27 +0800",
+    "published_parsed": [
+        2016,
+        2,
+        22,
+        23,
+        4,
+        27,
+        0,
+        53,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat014.mp3",
+    "guidislink": false,
+    "summary": "<p>您的设备没有乱码。缘于一封听众来信，本期聚焦于散播在文本中的空格与间隙。</p> <p>我们特别邀请到<a href=\"https://css.hanzi.co\">「汉字标准格式」</a>的作者陈·Airquote·Ethan·奕钧（#从小就很喜欢上网），同聊多种书写系统下，空格的语法作用和编辑态度；探讨中西文混排时，间隙的排印规则及实现方法。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.w3.org/TR/clreq/\">中文排版需求</a>（<cite>CLReq</cite>）</li> <li>《内核恐慌》第 16 期：<a href=\"https://ipn.li/kernelpanic/16/\">And Now for Something Completely Different</a></li> <li>听众宏祝来信提及的 <a href=\"https://twitter.com/felixding/status/678777729567752192\">tweet</a></li> <li><a href=\"https://github.com/vinta/pangu.js\">盘古之白</a>，陈上进（Vinta Chen）开发的一系列在中西文间自动添加空格的软件工具</li> <li><a href=\"https://en.wikipedia.org/wiki/Punctuation\">Punctuation</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Interpunct\">Interpunct</a></li> <li><a href=\"http://www.moe.edu.cn/ewebeditor/uploadfile/2015/01/13/20150113091717604.pdf\">GB/T 16159—2012 汉语拼音正词法基本规则</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E6%96%87%E5%AD%97%E6%AF%8D\">越南文字母</a>（国语字）</li> <li>字喃（<a href=\"https://en.wikipedia.org/wiki/Ch%E1%BB%AF_n%C3%B4m\">chữ nôm</a>）</li> <li><a href=\"http://www.ntcu.edu.tw/tailo/educate.htm\">台湾闽南语罗马字拼音方案</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%A8%81%E5%A6%A5%E7%91%AA%E6%8B%BC%E9%9F%B3\">威妥玛拼音</a></li> <li>注音符号（<a href=\"https://en.wikipedia.org/wiki/Bopomofo\">Bopomofo</a>）</li> <li>铅空（<a href=\"https://en.wikipedia.org/wiki/Quad_(typography)\">quad</a>）</li> <li>知乎上关于中英文混排时空隙处理的讨论：<br /> </p> <ul> <li><a href=\"https://www.zhihu.com/question/19587406\">中英文混排时中文与英文之间是否要有空格？</a></li> <li><a href=\"https://www.zhihu.com/question/29355148\">样式（presentation）和内容（content）分别指什么？总能分离吗？</a></li> </ul> </li> <li><a href=\"https://www.w3.org/TR/jlreq/\">日文排版需求</a>（<cite>JLReq</cite>），基于 <a href=\"https://ja.wikipedia.org/wiki/JIS_X_4051\">JIS X 4051</a> 编写</li> <li><a href=\"https://en.wikipedia.org/wiki/Hart%27s_Rules\"><cite>Hart’s Rules</cite></a>，泛指牛津大学出版社的风格指南，先后有多个版本</li> <li><a href=\"https://en.wikipedia.org/wiki/Em_(typography)\">Em 单位</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Whitespace_character#Unicode\">Unicode 中的空白字符</a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr\">&lt;wbr&gt; 元素</a>（word break opportunity）</li> <li><a href=\"https://css.hanzi.co/\">汉字标准格式</a>，Ethan 开发的汉字排版框架</li> <li><a href=\"https://www.thetype.com/2015/05/9230/\">〈用印刷品的态度来做 Web 排版〉</a>，Ethan 撰于《中文排版需求》第一版编辑草案发布后</li> <li>CSS Text Module Level 4 <a href=\"https://drafts.csswg.org/css-text-4/#spacing\">关于 text-spacing 的提案</a></li> <li>微软提供了私有属性 <a href=\"https://msdn.microsoft.com/en-us/library/ms531164\">-ms-text-autospace</a>，以实现浏览器内中西文混排的自动空隙，以及东亚部分文字所需的特殊空隙调整</li> <li><a href=\"https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5\">俳句</a>（<a href=\"https://en.wikipedia.org/wiki/Haiku\">Haiku</a>）</li> <li>台湾资深编辑、出版人陈颖青先生<a href=\"https://www.cool3c.com/article/73228\">提倡「纵横对齐」的汉字排版</a></li> <li><cite>CLReq</cite> 的 GitHub repo 上，<a href=\"https://github.com/w3c/clreq/issues/14\">关于中西混排时空隙处理的讨论</a></li> <li><a href=\"https://en.wikipedia.org/wiki/History_of_sentence_spacing#French_and_English_spacing\">French and English spacing</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Space_(punctuation)#Spaces_and_unit_symbols\">国际单位制（SI）推荐的空格体例</a></li> <li><cite><a href=\"https://help.apple.com/asg/mac/2013/ASG_2013.pdf\">Apple Style Guide, April 2013</a></cite></li> </ul> <p></p> <h3>嘉宾</h3> <ul> <li>陈奕钧（Ethan）：W3C 特邀专家，《中文排版需求》编辑，「汉字标准格式」作者</li> </ul> <p><a href=\"https://css.hanzi.co\">汉字标准格式</a>提供了万维网时代汉字排版问题的解决之道：集成「语意样式标准化」「文字设计」「高级排版功能」三大模组，为繁体中文、简体中文及日文配置了本地化设计；近期亦将发布 Node.js 版本，可供服务端使用。</p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>您的设备没有乱码。缘于一封听众来信，本期聚焦于散播在文本中的空格与间隙。</p> <p>我们特别邀请到<a href=\"https://css.hanzi.co\">「汉字标准格式」</a>的作者陈·Airquote·Ethan·奕钧（#从小就很喜欢上网），同聊多种书写系统下，空格的语法作用和编辑态度；探讨中西文混排时，间隙的排印规则及实现方法。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.w3.org/TR/clreq/\">中文排版需求</a>（<cite>CLReq</cite>）</li> <li>《内核恐慌》第 16 期：<a href=\"https://ipn.li/kernelpanic/16/\">And Now for Something Completely Different</a></li> <li>听众宏祝来信提及的 <a href=\"https://twitter.com/felixding/status/678777729567752192\">tweet</a></li> <li><a href=\"https://github.com/vinta/pangu.js\">盘古之白</a>，陈上进（Vinta Chen）开发的一系列在中西文间自动添加空格的软件工具</li> <li><a href=\"https://en.wikipedia.org/wiki/Punctuation\">Punctuation</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Interpunct\">Interpunct</a></li> <li><a href=\"http://www.moe.edu.cn/ewebeditor/uploadfile/2015/01/13/20150113091717604.pdf\">GB/T 16159—2012 汉语拼音正词法基本规则</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E6%96%87%E5%AD%97%E6%AF%8D\">越南文字母</a>（国语字）</li> <li>字喃（<a href=\"https://en.wikipedia.org/wiki/Ch%E1%BB%AF_n%C3%B4m\">chữ nôm</a>）</li> <li><a href=\"http://www.ntcu.edu.tw/tailo/educate.htm\">台湾闽南语罗马字拼音方案</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%A8%81%E5%A6%A5%E7%91%AA%E6%8B%BC%E9%9F%B3\">威妥玛拼音</a></li> <li>注音符号（<a href=\"https://en.wikipedia.org/wiki/Bopomofo\">Bopomofo</a>）</li> <li>铅空（<a href=\"https://en.wikipedia.org/wiki/Quad_(typography)\">quad</a>）</li> <li>知乎上关于中英文混排时空隙处理的讨论：<br /> </p> <ul> <li><a href=\"https://www.zhihu.com/question/19587406\">中英文混排时中文与英文之间是否要有空格？</a></li> <li><a href=\"https://www.zhihu.com/question/29355148\">样式（presentation）和内容（content）分别指什么？总能分离吗？</a></li> </ul> </li> <li><a href=\"https://www.w3.org/TR/jlreq/\">日文排版需求</a>（<cite>JLReq</cite>），基于 <a href=\"https://ja.wikipedia.org/wiki/JIS_X_4051\">JIS X 4051</a> 编写</li> <li><a href=\"https://en.wikipedia.org/wiki/Hart%27s_Rules\"><cite>Hart’s Rules</cite></a>，泛指牛津大学出版社的风格指南，先后有多个版本</li> <li><a href=\"https://en.wikipedia.org/wiki/Em_(typography)\">Em 单位</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Whitespace_character#Unicode\">Unicode 中的空白字符</a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr\">&lt;wbr&gt; 元素</a>（word break opportunity）</li> <li><a href=\"https://css.hanzi.co/\">汉字标准格式</a>，Ethan 开发的汉字排版框架</li> <li><a href=\"https://www.thetype.com/2015/05/9230/\">〈用印刷品的态度来做 Web 排版〉</a>，Ethan 撰于《中文排版需求》第一版编辑草案发布后</li> <li>CSS Text Module Level 4 <a href=\"https://drafts.csswg.org/css-text-4/#spacing\">关于 text-spacing 的提案</a></li> <li>微软提供了私有属性 <a href=\"https://msdn.microsoft.com/en-us/library/ms531164\">-ms-text-autospace</a>，以实现浏览器内中西文混排的自动空隙，以及东亚部分文字所需的特殊空隙调整</li> <li><a href=\"https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5\">俳句</a>（<a href=\"https://en.wikipedia.org/wiki/Haiku\">Haiku</a>）</li> <li>台湾资深编辑、出版人陈颖青先生<a href=\"https://www.cool3c.com/article/73228\">提倡「纵横对齐」的汉字排版</a></li> <li><cite>CLReq</cite> 的 GitHub repo 上，<a href=\"https://github.com/w3c/clreq/issues/14\">关于中西混排时空隙处理的讨论</a></li> <li><a href=\"https://en.wikipedia.org/wiki/History_of_sentence_spacing#French_and_English_spacing\">French and English spacing</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Space_(punctuation)#Spaces_and_unit_symbols\">国际单位制（SI）推荐的空格体例</a></li> <li><cite><a href=\"https://help.apple.com/asg/mac/2013/ASG_2013.pdf\">Apple Style Guide, April 2013</a></cite></li> </ul> <p></p> <h3>嘉宾</h3> <ul> <li>陈奕钧（Ethan）：W3C 特邀专家，《中文排版需求》编辑，「汉字标准格式」作者</li> </ul> <p><a href=\"https://css.hanzi.co\">汉字标准格式</a>提供了万维网时代汉字排版问题的解决之道：集成「语意样式标准化」「文字设计」「高级排版功能」三大模组，为繁体中文、简体中文及日文配置了本地化设计；近期亦将发布 Node.js 版本，可供服务端使用。</p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "1:42:10",
+    "subtitle": "您的设备没有乱码",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "您的设备没有乱码"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>您的设备没有乱码。缘于一封听众来信，本期聚焦于散播在文本中的空格与间隙。</p> <p>我们特别邀请到<a href=\"https://css.hanzi.co\">「汉字标准格式」</a>的作者陈·Airquote·Ethan·奕钧（#从小就很喜欢上网），同聊多种书写系统下，空格的语法作用和编辑态度；探讨中西文混排时，间隙的排印规则及实现方法。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.w3.org/TR/clreq/\">中文排版需求</a>（<cite>CLReq</cite>）</li> <li>《内核恐慌》第 16 期：<a href=\"https://ipn.li/kernelpanic/16/\">And Now for Something Completely Different</a></li> <li>听众宏祝来信提及的 <a href=\"https://twitter.com/felixding/status/678777729567752192\">tweet</a></li> <li><a href=\"https://github.com/vinta/pangu.js\">盘古之白</a>，陈上进（Vinta Chen）开发的一系列在中西文间自动添加空格的软件工具</li> <li><a href=\"https://en.wikipedia.org/wiki/Punctuation\">Punctuation</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Interpunct\">Interpunct</a></li> <li><a href=\"http://www.moe.edu.cn/ewebeditor/uploadfile/2015/01/13/20150113091717604.pdf\">GB/T 16159—2012 汉语拼音正词法基本规则</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E6%96%87%E5%AD%97%E6%AF%8D\">越南文字母</a>（国语字）</li> <li>字喃（<a href=\"https://en.wikipedia.org/wiki/Ch%E1%BB%AF_n%C3%B4m\">chữ nôm</a>）</li> <li><a href=\"http://www.ntcu.edu.tw/tailo/educate.htm\">台湾闽南语罗马字拼音方案</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%A8%81%E5%A6%A5%E7%91%AA%E6%8B%BC%E9%9F%B3\">威妥玛拼音</a></li> <li>注音符号（<a href=\"https://en.wikipedia.org/wiki/Bopomofo\">Bopomofo</a>）</li> <li>铅空（<a href=\"https://en.wikipedia.org/wiki/Quad_(typography)\">quad</a>）</li> <li>知乎上关于中英文混排时空隙处理的讨论：<br /> </p> <ul> <li><a href=\"https://www.zhihu.com/question/19587406\">中英文混排时中文与英文之间是否要有空格？</a></li> <li><a href=\"https://www.zhihu.com/question/29355148\">样式（presentation）和内容（content）分别指什么？总能分离吗？</a></li> </ul> </li> <li><a href=\"https://www.w3.org/TR/jlreq/\">日文排版需求</a>（<cite>JLReq</cite>），基于 <a href=\"https://ja.wikipedia.org/wiki/JIS_X_4051\">JIS X 4051</a> 编写</li> <li><a href=\"https://en.wikipedia.org/wiki/Hart%27s_Rules\"><cite>Hart’s Rules</cite></a>，泛指牛津大学出版社的风格指南，先后有多个版本</li> <li><a href=\"https://en.wikipedia.org/wiki/Em_(typography)\">Em 单位</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Whitespace_character#Unicode\">Unicode 中的空白字符</a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr\">&lt;wbr&gt; 元素</a>（word break opportunity）</li> <li><a href=\"https://css.hanzi.co/\">汉字标准格式</a>，Ethan 开发的汉字排版框架</li> <li><a href=\"https://www.thetype.com/2015/05/9230/\">〈用印刷品的态度来做 Web 排版〉</a>，Ethan 撰于《中文排版需求》第一版编辑草案发布后</li> <li>CSS Text Module Level 4 <a href=\"https://drafts.csswg.org/css-text-4/#spacing\">关于 text-spacing 的提案</a></li> <li>微软提供了私有属性 <a href=\"https://msdn.microsoft.com/en-us/library/ms531164\">-ms-text-autospace</a>，以实现浏览器内中西文混排的自动空隙，以及东亚部分文字所需的特殊空隙调整</li> <li><a href=\"https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5\">俳句</a>（<a href=\"https://en.wikipedia.org/wiki/Haiku\">Haiku</a>）</li> <li>台湾资深编辑、出版人陈颖青先生<a href=\"https://www.cool3c.com/article/73228\">提倡「纵横对齐」的汉字排版</a></li> <li><cite>CLReq</cite> 的 GitHub repo 上，<a href=\"https://github.com/w3c/clreq/issues/14\">关于中西混排时空隙处理的讨论</a></li> <li><a href=\"https://en.wikipedia.org/wiki/History_of_sentence_spacing#French_and_English_spacing\">French and English spacing</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Space_(punctuation)#Spaces_and_unit_symbols\">国际单位制（SI）推荐的空格体例</a></li> <li><cite><a href=\"https://help.apple.com/asg/mac/2013/ASG_2013.pdf\">Apple Style Guide, April 2013</a></cite></li> </ul> <p></p> <h3>嘉宾</h3> <ul> <li>陈奕钧（Ethan）：W3C 特邀专家，《中文排版需求》编辑，「汉字标准格式」作者</li> </ul> <p><a href=\"https://css.hanzi.co\">汉字标准格式</a>提供了万维网时代汉字排版问题的解决之道：集成「语意样式标准化」「文字设计」「高级排版功能」三大模组，为繁体中文、简体中文及日文配置了本地化设计；近期亦将发布 Node.js 版本，可供服务端使用。</p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, 陈奕钧"
+        }
+    ],
+    "author": "Eric, 蒸鱼, 陈奕钧",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, 陈奕钧"
+    },
+    "itunes_explicit": false
+}

@@ -1,0 +1,93 @@
+{
+    "title": "#16 在美国当记者究竟是怎么回事？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#16 在美国当记者究竟是怎么回事？"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/foreign-correspondent"
+        },
+        {
+            "length": "70002876",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/21963ab8-e3d2-4404-9b71-1847af00416e.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/foreign-correspondent",
+    "id": "http://audio.xmcdn.com/group26/M00/CB/C1/wKgJRljbFhSDs9--AWYn4U1kSw8943.m4a",
+    "guidislink": false,
+    "published": "Wed, 29 Mar 2017 10:00:00 +0800",
+    "published_parsed": [
+        2017,
+        3,
+        29,
+        2,
+        0,
+        0,
+        2,
+        88,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "48:19",
+    "itunes_explicit": null,
+    "summary": "<p>这期节目请来了常驻华盛顿的中国记者兆音。我们聊了聊在DC和纽约当记者的一些不同体验。 </p>\n\n<p><strong>出场人物</strong></p>\n\n<ul>\n<li>张晶，《第一财经周刊》驻纽约代表。</li>\n<li>冯兆音，端传媒驻美国代表。</li>\n</ul><p>Special Guest: 冯兆音.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>这期节目请来了常驻华盛顿的中国记者兆音。我们聊了聊在DC和纽约当记者的一些不同体验。 </p>\n\n<p><strong>出场人物</strong></p>\n\n<ul>\n<li>张晶，《第一财经周刊》驻纽约代表。</li>\n<li>冯兆音，端传媒驻美国代表。</li>\n</ul><p>Special Guest: 冯兆音.</p>"
+    },
+    "tags": [
+        {
+            "term": "驻美记者",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "Media Literacy",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>这期节目请来了常驻华盛顿的中国记者兆音。我们聊了聊在DC和纽约当记者的一些不同体验。 </p>\n\n<p><strong>出场人物</strong></p>\n\n<ul>\n<li>张晶，《第一财经周刊》驻纽约代表。</li>\n<li>冯兆音，端传媒驻美国代表。</li>\n</ul><p>Special Guest: 冯兆音.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+4adGQdFy",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+4adGQdFy\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "guest"
+    }
+}

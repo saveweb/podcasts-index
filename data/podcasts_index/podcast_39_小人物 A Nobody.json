@@ -1,0 +1,24 @@
+{
+    "id": 39,
+    "enabled": true,
+    "title": "小人物 A Nobody",
+    "link": "https://anobody.im/",
+    "feed_url": "https://anobody.im/podcast/rss.xml",
+    "summary": "一档探索内心、接纳自我、努力变优秀的播客，讲述来自各行各业小人物的工作、思考与生活，不限于欧洲生活、高效工作、海外求职、读书电影、美食旅行。欢迎发邮件到 anobody.fm@gmail.com",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1681118649,
+        "last_success_timestamp": 1681293642,
+        "last_checked_timestamp": 1681293642,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

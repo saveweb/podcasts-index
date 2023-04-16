@@ -1,0 +1,76 @@
+{
+    "title": "#194：比较工整的无情对",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#194：比较工整的无情对"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-194/"
+        },
+        {
+            "length": "57253610",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat194.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-194/",
+    "published": "Tue, 03 Jan 2023 07:52:54 +0800",
+    "published_parsed": [
+        2023,
+        1,
+        2,
+        23,
+        52,
+        54,
+        0,
+        2,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat194.mp3",
+    "guidislink": false,
+    "summary": "<p>我们回翻二〇二二年的听众信箱，择取数件与大家分享。新的一年，《字谈字畅》依然期待你的收听，静候你的来函。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/typechat/ep-177/\">字谈字畅 177</a>：本期的前十五分钟是听众反馈</li> <li><a href=\"https://www.w3.org/TR/jlreq/#term.tsumegumi\">詰め組</a>（tsumegumi），日文排版术语；在中文排版里也称<a href=\"https://www.w3.org/TR/clreq/#term.reduced-inter-character-spacing\">紧排</a></li> <li>听众付禹安来信所附的<a href=\"https://archive.casouri.cc/note/2021/full-width-quote/\">网页标点挤压实现方案</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-186/\">字谈字畅 186</a>：《中文排版需求》的进展；另可阅读 W3C 发布的文字版<a href=\"https://www.w3.org/2022/09/hangzhou/cwig/talk-qian-zhengyu.html\">演讲纪要</a></li> <li><a href=\"https://www.thetype.com/kongque/\">孔雀计划</a>：中文字体排印的思路</li> <li><a href=\"https://github.com/kojiishi/east_asian_spacing\">East Asian Contextual Spacing</a>，Chromium 工程师 Koji Ishii 的开源项目，借助部分 OpenType 特性来实现标点挤压： <ul> <li>Contextual Half-width Spacing (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#tag-chws\">chws</a>)</li> <li>Vertical Contextual Half-width Spacing (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_uz#tag-vchw\">vchw</a>)</li> <li>Alternate Half Widths (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_fj#tag-halt\">halt</a>)</li> <li>Alternate Vertical Half Metrics (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_uz#tag-vhal\">vhal</a>)</li> </ul> </li> <li><a href=\"https://github.com/ethantw/Han\">汉字标准格式</a>，独立开发者陈奕钧创作的开源排版框架</li> <li>陈奕钧所撰<a href=\"https://www.thetype.com/2015/05/9230/\">《用印刷品的态度来做 Web 排版》</a>，2015 年刊于 The Type</li> <li>The Type 文集<a href=\"https://www.thetype.com/2022/10/24393/\">《从字体开始：设计改变的生活与社会》</a></li> <li><a href=\"https://www.thetype.com/about/\">About The Type</a></li> <li>Adobe InDesign 与网格相关的指南 <ul> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/grids.html\">西文网格相关指南</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/create-new-documents-cjk.html\">CJK「版面网格」相关指南</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/formatting-grids.html\">自定义「命名网格」相关指南</a></li> </ul> </li> <li>Eric 所撰<a href=\"https://www.thetype.com/2020/01/16565/\">《中文排版网格系统的五大迷思》</a>，2020 年刊于 The Type</li> <li><a href=\"https://en.wikipedia.org/wiki/Ascender_(typography)\">Ascender (typography)</a>，维基百科英语词条，内含详细图解</li> <li>Chromium 项目的布局引擎 <a href=\"https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/renderer/core/layout/ng/\">LayoutNG 的开源代码</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-103/\">字谈字畅 103</a>：行高行距行行行（hángháng xíng）</li> <li>CSS 中与字体量度相关的描述子（descriptor）： <ul> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/ascent-override\"><code>ascent-override</code></a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/descent-override\"><code>descent-override</code></a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/line-gap-override\"><code>line-gap-override</code></a></li> </ul> </li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a class=\"autolink\" href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：<a class=\"autolink\" href=\"mailto:hello@thetype.com\">hello@thetype.com</a>&#8203;。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>我们回翻二〇二二年的听众信箱，择取数件与大家分享。新的一年，《字谈字畅》依然期待你的收听，静候你的来函。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/typechat/ep-177/\">字谈字畅 177</a>：本期的前十五分钟是听众反馈</li> <li><a href=\"https://www.w3.org/TR/jlreq/#term.tsumegumi\">詰め組</a>（tsumegumi），日文排版术语；在中文排版里也称<a href=\"https://www.w3.org/TR/clreq/#term.reduced-inter-character-spacing\">紧排</a></li> <li>听众付禹安来信所附的<a href=\"https://archive.casouri.cc/note/2021/full-width-quote/\">网页标点挤压实现方案</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-186/\">字谈字畅 186</a>：《中文排版需求》的进展；另可阅读 W3C 发布的文字版<a href=\"https://www.w3.org/2022/09/hangzhou/cwig/talk-qian-zhengyu.html\">演讲纪要</a></li> <li><a href=\"https://www.thetype.com/kongque/\">孔雀计划</a>：中文字体排印的思路</li> <li><a href=\"https://github.com/kojiishi/east_asian_spacing\">East Asian Contextual Spacing</a>，Chromium 工程师 Koji Ishii 的开源项目，借助部分 OpenType 特性来实现标点挤压： <ul> <li>Contextual Half-width Spacing (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#tag-chws\">chws</a>)</li> <li>Vertical Contextual Half-width Spacing (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_uz#tag-vchw\">vchw</a>)</li> <li>Alternate Half Widths (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_fj#tag-halt\">halt</a>)</li> <li>Alternate Vertical Half Metrics (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_uz#tag-vhal\">vhal</a>)</li> </ul> </li> <li><a href=\"https://github.com/ethantw/Han\">汉字标准格式</a>，独立开发者陈奕钧创作的开源排版框架</li> <li>陈奕钧所撰<a href=\"https://www.thetype.com/2015/05/9230/\">《用印刷品的态度来做 Web 排版》</a>，2015 年刊于 The Type</li> <li>The Type 文集<a href=\"https://www.thetype.com/2022/10/24393/\">《从字体开始：设计改变的生活与社会》</a></li> <li><a href=\"https://www.thetype.com/about/\">About The Type</a></li> <li>Adobe InDesign 与网格相关的指南 <ul> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/grids.html\">西文网格相关指南</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/create-new-documents-cjk.html\">CJK「版面网格」相关指南</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/formatting-grids.html\">自定义「命名网格」相关指南</a></li> </ul> </li> <li>Eric 所撰<a href=\"https://www.thetype.com/2020/01/16565/\">《中文排版网格系统的五大迷思》</a>，2020 年刊于 The Type</li> <li><a href=\"https://en.wikipedia.org/wiki/Ascender_(typography)\">Ascender (typography)</a>，维基百科英语词条，内含详细图解</li> <li>Chromium 项目的布局引擎 <a href=\"https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/renderer/core/layout/ng/\">LayoutNG 的开源代码</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-103/\">字谈字畅 103</a>：行高行距行行行（hángháng xíng）</li> <li>CSS 中与字体量度相关的描述子（descriptor）： <ul> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/ascent-override\"><code>ascent-override</code></a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/descent-override\"><code>descent-override</code></a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/line-gap-override\"><code>line-gap-override</code></a></li> </ul> </li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a class=\"autolink\" href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：<a class=\"autolink\" href=\"mailto:hello@thetype.com\">hello@thetype.com</a>&#8203;。</p>"
+    },
+    "itunes_duration": "01:17:45",
+    "subtitle": "我们又花了六十分钟来做听众反馈",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "我们又花了六十分钟来做听众反馈"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>我们回翻二〇二二年的听众信箱，择取数件与大家分享。新的一年，《字谈字畅》依然期待你的收听，静候你的来函。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.thetype.com/typechat/ep-177/\">字谈字畅 177</a>：本期的前十五分钟是听众反馈</li> <li><a href=\"https://www.w3.org/TR/jlreq/#term.tsumegumi\">詰め組</a>（tsumegumi），日文排版术语；在中文排版里也称<a href=\"https://www.w3.org/TR/clreq/#term.reduced-inter-character-spacing\">紧排</a></li> <li>听众付禹安来信所附的<a href=\"https://archive.casouri.cc/note/2021/full-width-quote/\">网页标点挤压实现方案</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-186/\">字谈字畅 186</a>：《中文排版需求》的进展；另可阅读 W3C 发布的文字版<a href=\"https://www.w3.org/2022/09/hangzhou/cwig/talk-qian-zhengyu.html\">演讲纪要</a></li> <li><a href=\"https://www.thetype.com/kongque/\">孔雀计划</a>：中文字体排印的思路</li> <li><a href=\"https://github.com/kojiishi/east_asian_spacing\">East Asian Contextual Spacing</a>，Chromium 工程师 Koji Ishii 的开源项目，借助部分 OpenType 特性来实现标点挤压： <ul> <li>Contextual Half-width Spacing (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#tag-chws\">chws</a>)</li> <li>Vertical Contextual Half-width Spacing (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_uz#tag-vchw\">vchw</a>)</li> <li>Alternate Half Widths (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_fj#tag-halt\">halt</a>)</li> <li>Alternate Vertical Half Metrics (<a href=\"https://learn.microsoft.com/en-us/typography/opentype/spec/features_uz#tag-vhal\">vhal</a>)</li> </ul> </li> <li><a href=\"https://github.com/ethantw/Han\">汉字标准格式</a>，独立开发者陈奕钧创作的开源排版框架</li> <li>陈奕钧所撰<a href=\"https://www.thetype.com/2015/05/9230/\">《用印刷品的态度来做 Web 排版》</a>，2015 年刊于 The Type</li> <li>The Type 文集<a href=\"https://www.thetype.com/2022/10/24393/\">《从字体开始：设计改变的生活与社会》</a></li> <li><a href=\"https://www.thetype.com/about/\">About The Type</a></li> <li>Adobe InDesign 与网格相关的指南 <ul> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/grids.html\">西文网格相关指南</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/create-new-documents-cjk.html\">CJK「版面网格」相关指南</a></li> <li><a href=\"https://helpx.adobe.com/cn/indesign/using/formatting-grids.html\">自定义「命名网格」相关指南</a></li> </ul> </li> <li>Eric 所撰<a href=\"https://www.thetype.com/2020/01/16565/\">《中文排版网格系统的五大迷思》</a>，2020 年刊于 The Type</li> <li><a href=\"https://en.wikipedia.org/wiki/Ascender_(typography)\">Ascender (typography)</a>，维基百科英语词条，内含详细图解</li> <li>Chromium 项目的布局引擎 <a href=\"https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/renderer/core/layout/ng/\">LayoutNG 的开源代码</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-103/\">字谈字畅 103</a>：行高行距行行行（hángháng xíng）</li> <li>CSS 中与字体量度相关的描述子（descriptor）： <ul> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/ascent-override\"><code>ascent-override</code></a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/descent-override\"><code>descent-override</code></a></li> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/line-gap-override\"><code>line-gap-override</code></a></li> </ul> </li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a class=\"autolink\" href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：<a class=\"autolink\" href=\"mailto:hello@thetype.com\">hello@thetype.com</a>&#8203;。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2023/01/TypeChat194-sq.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2023/01/TypeChat194-sq.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

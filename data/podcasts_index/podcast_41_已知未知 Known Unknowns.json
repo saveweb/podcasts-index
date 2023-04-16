@@ -1,0 +1,24 @@
+{
+    "id": 41,
+    "enabled": true,
+    "title": "已知未知 Known Unknowns",
+    "link": "http://kukfm.com",
+    "feed_url": "https://kukfm.com/rss",
+    "summary": "已知未知是一档聚焦生活、科技与职业的非定期更新播客。信息过载的时代，我们从已知探索未知。",
+    "language": "zh-cn",
+    "saveweb": {
+        "created_timestamp": 1681314092,
+        "last_success_timestamp": 1681314616,
+        "last_checked_timestamp": 1681314616,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

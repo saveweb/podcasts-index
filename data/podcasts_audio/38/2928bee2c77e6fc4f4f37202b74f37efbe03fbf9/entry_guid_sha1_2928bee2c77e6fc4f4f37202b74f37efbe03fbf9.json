@@ -1,0 +1,76 @@
+{
+    "title": "#165：「UI 设计上非常失败的案例」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#165：「UI 设计上非常失败的案例」"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-165/"
+        },
+        {
+            "length": "58064395",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat165.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-165/",
+    "published": "Tue, 23 Nov 2021 07:17:00 +0800",
+    "published_parsed": [
+        2021,
+        11,
+        22,
+        23,
+        17,
+        0,
+        0,
+        326,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat165.mp3",
+    "guidislink": false,
+    "summary": "<p>思源黑体、思源宋体的中文标点，在一些排版环境中会显示为半字宽——这样的现象可能也会出现在其他一些 CJK 字体上。如果你曾因此而费解，或许本期节目能给你些许帮助。如果你还对「等比公制字」这样的「Adobe 语」而困惑，那么我们就在今日一小时的闲聊中尝试为你解疑。</p> <h3>参考链接</h3> <ul> <li>展览「排版造型&#x3000;白井敬尚」<a href=\"https://mp.weixin.qq.com/s/467zDzeyBY_96Wd_hu00Dg\">展期延长至 2021 年 12 月 31 日</a></li> <li>展览<a href=\"https://mp.weixin.qq.com/s/71TjYVKVxJ7R7kmfU7lclA\">「等待激活 TO BE ACTIVATED」</a>由 3type 与 MORE studio 共同策划，于 2021 年 11 月 6 日至 12 月 12 日在上海 OPEN MORE 空间展出</li> <li>展览<a href=\"https://www.mill6chat.org/zh-hant/event/%E5%86%8D%E7%B4%A1%E6%9D%B1%E4%BA%9E%E7%B3%BB%E5%88%97%E4%B8%80%EF%BC%9A%E6%89%8B%E4%B8%AD%E7%9A%84%E7%BE%85%E7%9B%A4/\">「再纺东亚系列一：手中的罗盘」</a>于 2021 年 11 月 27 日至 2022 年 2 月 27 日在香港 CHAT 六厂展出；期间，讲座<a href=\"https://www.mill6chat.org/zh-hant/event/%E6%96%87%E5%AD%97%E7%B4%A1%E9%80%A0%E8%88%87%E7%B9%94%E7%89%A9%E7%B7%A8%E5%AF%AB%EF%BC%9A%E5%AD%97%E9%AB%94%E4%BD%9C%E7%88%B2%E5%AA%92%E4%BB%8B/\">「文字纺造与织物编写：字体作为媒介」</a>将于 2021 年 12 月 4 日下午 3 时在 CHAT 客厅及线上同时举办</li> <li><a href=\"https://justfont.com/lanyangming/\">兰阳明体</a>开始众筹，截止于 2022 年 1 月 13 日 23 时 59 分；关于兰阳明体的故事，参见 justfont blog <a href=\"https://blog.justfont.com/2021/09/story-of-lym-1/\">(1)</a> <a href=\"https://blog.justfont.com/2021/09/story-of-lym-2/\">(2)</a> <a href=\"https://blog.justfont.com/2021/09/story-of-lym-3/\">(3)</a></li> <li>OpenType 特性： <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-palt\"><code>palt</code></a> (Proportional Alternate Widths)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vpal\"><code>vpal</code></a> (Proportional Alternate Vertical Metrics)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ko#kern\"><code>kern</code></a> (Kerning)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vkrn\"><code>vkrn</code></a> (Vertical Kerning)</li> </ul> </li> <li><a href=\"https://github.com/adobe-fonts/source-han-sans\">思源黑体</a>和<a href=\"https://github.com/adobe-fonts/source-han-serif\">思源宋体</a>都使用了 <code>palt</code> 和 <code>vpal</code> 特性</li> <li>macOS 系统的字体面板中内含<a href=\"https://support.apple.com/zh-cn/guide/mac-help/mchlp2544/mac\">「字体排印」</a>设置选项，其中调取 <code>palt</code> 和 <code>vpal</code> 特性的选项被翻译做「备选成比例的宽度」</li> <li>Adobe Illustrator 中 <a href=\"https://helpx.adobe.com/cn/illustrator/using/line-character-spacing.html#kern_and_track\">kerning</a>（「字距微调」）和 <a href=\"https://helpx.adobe.com/cn/illustrator/using/formatting-asian-characters.html#set_asian_opentype_font_attributes\">proportional metrics</a>（「等比公制字」）相关的设置</li> <li>Adobe InDesign 中 kerning（「字偶间距」）和 proportional metrics（「等比量度」）<a href=\"https://helpx.adobe.com/cn/indesign/using/kerning-tracking.html\">相关的设置</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>欢迎加入 The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>，每月可通过会刊获得本节目更多图文扩展阅读，并享受礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>思源黑体、思源宋体的中文标点，在一些排版环境中会显示为半字宽——这样的现象可能也会出现在其他一些 CJK 字体上。如果你曾因此而费解，或许本期节目能给你些许帮助。如果你还对「等比公制字」这样的「Adobe 语」而困惑，那么我们就在今日一小时的闲聊中尝试为你解疑。</p> <h3>参考链接</h3> <ul> <li>展览「排版造型&#x3000;白井敬尚」<a href=\"https://mp.weixin.qq.com/s/467zDzeyBY_96Wd_hu00Dg\">展期延长至 2021 年 12 月 31 日</a></li> <li>展览<a href=\"https://mp.weixin.qq.com/s/71TjYVKVxJ7R7kmfU7lclA\">「等待激活 TO BE ACTIVATED」</a>由 3type 与 MORE studio 共同策划，于 2021 年 11 月 6 日至 12 月 12 日在上海 OPEN MORE 空间展出</li> <li>展览<a href=\"https://www.mill6chat.org/zh-hant/event/%E5%86%8D%E7%B4%A1%E6%9D%B1%E4%BA%9E%E7%B3%BB%E5%88%97%E4%B8%80%EF%BC%9A%E6%89%8B%E4%B8%AD%E7%9A%84%E7%BE%85%E7%9B%A4/\">「再纺东亚系列一：手中的罗盘」</a>于 2021 年 11 月 27 日至 2022 年 2 月 27 日在香港 CHAT 六厂展出；期间，讲座<a href=\"https://www.mill6chat.org/zh-hant/event/%E6%96%87%E5%AD%97%E7%B4%A1%E9%80%A0%E8%88%87%E7%B9%94%E7%89%A9%E7%B7%A8%E5%AF%AB%EF%BC%9A%E5%AD%97%E9%AB%94%E4%BD%9C%E7%88%B2%E5%AA%92%E4%BB%8B/\">「文字纺造与织物编写：字体作为媒介」</a>将于 2021 年 12 月 4 日下午 3 时在 CHAT 客厅及线上同时举办</li> <li><a href=\"https://justfont.com/lanyangming/\">兰阳明体</a>开始众筹，截止于 2022 年 1 月 13 日 23 时 59 分；关于兰阳明体的故事，参见 justfont blog <a href=\"https://blog.justfont.com/2021/09/story-of-lym-1/\">(1)</a> <a href=\"https://blog.justfont.com/2021/09/story-of-lym-2/\">(2)</a> <a href=\"https://blog.justfont.com/2021/09/story-of-lym-3/\">(3)</a></li> <li>OpenType 特性： <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-palt\"><code>palt</code></a> (Proportional Alternate Widths)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vpal\"><code>vpal</code></a> (Proportional Alternate Vertical Metrics)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ko#kern\"><code>kern</code></a> (Kerning)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vkrn\"><code>vkrn</code></a> (Vertical Kerning)</li> </ul> </li> <li><a href=\"https://github.com/adobe-fonts/source-han-sans\">思源黑体</a>和<a href=\"https://github.com/adobe-fonts/source-han-serif\">思源宋体</a>都使用了 <code>palt</code> 和 <code>vpal</code> 特性</li> <li>macOS 系统的字体面板中内含<a href=\"https://support.apple.com/zh-cn/guide/mac-help/mchlp2544/mac\">「字体排印」</a>设置选项，其中调取 <code>palt</code> 和 <code>vpal</code> 特性的选项被翻译做「备选成比例的宽度」</li> <li>Adobe Illustrator 中 <a href=\"https://helpx.adobe.com/cn/illustrator/using/line-character-spacing.html#kern_and_track\">kerning</a>（「字距微调」）和 <a href=\"https://helpx.adobe.com/cn/illustrator/using/formatting-asian-characters.html#set_asian_opentype_font_attributes\">proportional metrics</a>（「等比公制字」）相关的设置</li> <li>Adobe InDesign 中 kerning（「字偶间距」）和 proportional metrics（「等比量度」）<a href=\"https://helpx.adobe.com/cn/indesign/using/kerning-tracking.html\">相关的设置</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>欢迎加入 The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>，每月可通过会刊获得本节目更多图文扩展阅读，并享受礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "01:15:51",
+    "subtitle": "Proportional metrics",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "Proportional metrics"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>思源黑体、思源宋体的中文标点，在一些排版环境中会显示为半字宽——这样的现象可能也会出现在其他一些 CJK 字体上。如果你曾因此而费解，或许本期节目能给你些许帮助。如果你还对「等比公制字」这样的「Adobe 语」而困惑，那么我们就在今日一小时的闲聊中尝试为你解疑。</p> <h3>参考链接</h3> <ul> <li>展览「排版造型&#x3000;白井敬尚」<a href=\"https://mp.weixin.qq.com/s/467zDzeyBY_96Wd_hu00Dg\">展期延长至 2021 年 12 月 31 日</a></li> <li>展览<a href=\"https://mp.weixin.qq.com/s/71TjYVKVxJ7R7kmfU7lclA\">「等待激活 TO BE ACTIVATED」</a>由 3type 与 MORE studio 共同策划，于 2021 年 11 月 6 日至 12 月 12 日在上海 OPEN MORE 空间展出</li> <li>展览<a href=\"https://www.mill6chat.org/zh-hant/event/%E5%86%8D%E7%B4%A1%E6%9D%B1%E4%BA%9E%E7%B3%BB%E5%88%97%E4%B8%80%EF%BC%9A%E6%89%8B%E4%B8%AD%E7%9A%84%E7%BE%85%E7%9B%A4/\">「再纺东亚系列一：手中的罗盘」</a>于 2021 年 11 月 27 日至 2022 年 2 月 27 日在香港 CHAT 六厂展出；期间，讲座<a href=\"https://www.mill6chat.org/zh-hant/event/%E6%96%87%E5%AD%97%E7%B4%A1%E9%80%A0%E8%88%87%E7%B9%94%E7%89%A9%E7%B7%A8%E5%AF%AB%EF%BC%9A%E5%AD%97%E9%AB%94%E4%BD%9C%E7%88%B2%E5%AA%92%E4%BB%8B/\">「文字纺造与织物编写：字体作为媒介」</a>将于 2021 年 12 月 4 日下午 3 时在 CHAT 客厅及线上同时举办</li> <li><a href=\"https://justfont.com/lanyangming/\">兰阳明体</a>开始众筹，截止于 2022 年 1 月 13 日 23 时 59 分；关于兰阳明体的故事，参见 justfont blog <a href=\"https://blog.justfont.com/2021/09/story-of-lym-1/\">(1)</a> <a href=\"https://blog.justfont.com/2021/09/story-of-lym-2/\">(2)</a> <a href=\"https://blog.justfont.com/2021/09/story-of-lym-3/\">(3)</a></li> <li>OpenType 特性： <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_pt#tag-palt\"><code>palt</code></a> (Proportional Alternate Widths)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vpal\"><code>vpal</code></a> (Proportional Alternate Vertical Metrics)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_ko#kern\"><code>kern</code></a> (Kerning)</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/features_uz#vkrn\"><code>vkrn</code></a> (Vertical Kerning)</li> </ul> </li> <li><a href=\"https://github.com/adobe-fonts/source-han-sans\">思源黑体</a>和<a href=\"https://github.com/adobe-fonts/source-han-serif\">思源宋体</a>都使用了 <code>palt</code> 和 <code>vpal</code> 特性</li> <li>macOS 系统的字体面板中内含<a href=\"https://support.apple.com/zh-cn/guide/mac-help/mchlp2544/mac\">「字体排印」</a>设置选项，其中调取 <code>palt</code> 和 <code>vpal</code> 特性的选项被翻译做「备选成比例的宽度」</li> <li>Adobe Illustrator 中 <a href=\"https://helpx.adobe.com/cn/illustrator/using/line-character-spacing.html#kern_and_track\">kerning</a>（「字距微调」）和 <a href=\"https://helpx.adobe.com/cn/illustrator/using/formatting-asian-characters.html#set_asian_opentype_font_attributes\">proportional metrics</a>（「等比公制字」）相关的设置</li> <li>Adobe InDesign 中 kerning（「字偶间距」）和 proportional metrics（「等比量度」）<a href=\"https://helpx.adobe.com/cn/indesign/using/kerning-tracking.html\">相关的设置</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>欢迎加入 The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>，每月可通过会刊获得本节目更多图文扩展阅读，并享受礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2021/11/TypeChat165-sq.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2021/11/TypeChat165-sq.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

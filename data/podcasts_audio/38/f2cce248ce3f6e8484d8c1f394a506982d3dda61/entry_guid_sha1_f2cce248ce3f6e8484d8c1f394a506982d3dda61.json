@@ -1,0 +1,76 @@
+{
+    "title": "#84：论高清有码",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#84：论高清有码"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-084/"
+        },
+        {
+            "length": "63778909",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat084.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-084/",
+    "published": "Tue, 16 Oct 2018 06:23:16 +0800",
+    "published_parsed": [
+        2018,
+        10,
+        15,
+        22,
+        23,
+        16,
+        0,
+        288,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat084.mp3",
+    "guidislink": false,
+    "summary": "<p>伴随矢量字体的出现和应用，字形图像栅格化中的抗锯齿（anti-aliasing）技术也相应发展。次像素渲染，是针对 LCD 等显示设备的典型抗锯齿技术。今日我们小论此题，一窥该技术的概貌。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://mp.weixin.qq.com/s/GidicRC8Nqs1WvvSSy3xXA\">TypeSchool 周末班</a>开始招生</li> <li>ATypI 2018 Antwerp <a href=\"https://www.youtube.com/playlist?list=PL0oMAzSh5W9q64iHo9pMa0WdgUdz411hD\">会议视频列表</a></li> <li><a href=\"https://path.com/about\">Path 宣布关闭</a>，用户过往数据可供下载备份</li> <li>雷丁大学 2018 年字体设计硕士项目（MATD）<a href=\"http://typefacedesign.net/typefaces/year/2018/\">作品列表</a></li> <li><a href=\"https://type-competition.tdc.org/\">TDC65</a> 开始征稿</li> <li><a href=\"https://competition.morisawa.co.jp/en/\">2019 年森泽字体设计大赛</a>（MOTC19）开始征稿</li> <li><a href=\"http://star.hanyi.com.cn/fontstar/\">汉仪第四届字体之星设计大赛</a>开始征稿</li> <li>Monotype 发布「翔鹤黑」字体家族，包括<a href=\"https://www.myfonts.com/fonts/mti/m-xianghe-hei-sc-std/\">简体版</a>（M XiangHe Hei SC）与<a href=\"https://www.myfonts.com/fonts/mti/m-xianghe-hei-tc/\">繁体版</a>（M XiangHe Hei TC）；该字体家族另有日文版 <a href=\"https://www.myfonts.com/fonts/mti/tazugane-gothic/\">Tazugane Gothic</a> 和韩文版 <a href=\"https://www.myfonts.com/fonts/mti/seol-sans/\">Seol Sans</a></li> <li><a href=\"https://www.myfonts.com/fonts/mti/neue-frutiger-world/\">Neue Frutiger World</a>，Neue Frutiger 的多文种版本，Monotype 出品</li> <li>字体栅格化（<a href=\"https://en.wikipedia.org/wiki/Font_rasterization\">font rasterization</a>）</li> <li>次像素渲染（<a href=\"https://en.wikipedia.org/wiki/Subpixel_rendering\">subpixel rendering</a>）</li> <li>macOS Mojave 默认关闭了字体的次像素渲染；WWDC 2018 的 <a href=\"https://developer.apple.com/videos/play/wwdc2018/209/\">Session 209</a> 有所介绍</li> <li>吴涛曾撰文<a href=\"https://www.thetype.com/2010/06/2619/\">〈视觉分辨力与 Retina Display〉</a>介绍次像素渲染技术及 retina 显示屏相关的内容，刊于 Type is Beautiful</li> <li><a href=\"https://baike.baidu.com/item/%E6%B7%B7%E5%8F%A0\">混叠</a>（<a href=\"https://en.wikipedia.org/wiki/Aliasing\">aliasing</a>），信号处理领域的术语</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/truetype/hinting\">TrueType hinting</a></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/cleartype/\">ClearType</a>，Windows 系统搭载的次像素渲染技术</li> <li>Adobe Photoshop 内置的<a href=\"https://helpx.adobe.com/cn/photoshop/using/editing-text.html#apply_anti_aliasing_to_a_type_layer\">字体抗锯齿功能</a></li> <li>杨林青．<a href=\"https://book.douban.com/subject/27187144/\">《中文字体应用手册 I：方正字库（1986—2017）》</a>．广西师范大学出版社，2017 年．</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>伴随矢量字体的出现和应用，字形图像栅格化中的抗锯齿（anti-aliasing）技术也相应发展。次像素渲染，是针对 LCD 等显示设备的典型抗锯齿技术。今日我们小论此题，一窥该技术的概貌。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://mp.weixin.qq.com/s/GidicRC8Nqs1WvvSSy3xXA\">TypeSchool 周末班</a>开始招生</li> <li>ATypI 2018 Antwerp <a href=\"https://www.youtube.com/playlist?list=PL0oMAzSh5W9q64iHo9pMa0WdgUdz411hD\">会议视频列表</a></li> <li><a href=\"https://path.com/about\">Path 宣布关闭</a>，用户过往数据可供下载备份</li> <li>雷丁大学 2018 年字体设计硕士项目（MATD）<a href=\"http://typefacedesign.net/typefaces/year/2018/\">作品列表</a></li> <li><a href=\"https://type-competition.tdc.org/\">TDC65</a> 开始征稿</li> <li><a href=\"https://competition.morisawa.co.jp/en/\">2019 年森泽字体设计大赛</a>（MOTC19）开始征稿</li> <li><a href=\"http://star.hanyi.com.cn/fontstar/\">汉仪第四届字体之星设计大赛</a>开始征稿</li> <li>Monotype 发布「翔鹤黑」字体家族，包括<a href=\"https://www.myfonts.com/fonts/mti/m-xianghe-hei-sc-std/\">简体版</a>（M XiangHe Hei SC）与<a href=\"https://www.myfonts.com/fonts/mti/m-xianghe-hei-tc/\">繁体版</a>（M XiangHe Hei TC）；该字体家族另有日文版 <a href=\"https://www.myfonts.com/fonts/mti/tazugane-gothic/\">Tazugane Gothic</a> 和韩文版 <a href=\"https://www.myfonts.com/fonts/mti/seol-sans/\">Seol Sans</a></li> <li><a href=\"https://www.myfonts.com/fonts/mti/neue-frutiger-world/\">Neue Frutiger World</a>，Neue Frutiger 的多文种版本，Monotype 出品</li> <li>字体栅格化（<a href=\"https://en.wikipedia.org/wiki/Font_rasterization\">font rasterization</a>）</li> <li>次像素渲染（<a href=\"https://en.wikipedia.org/wiki/Subpixel_rendering\">subpixel rendering</a>）</li> <li>macOS Mojave 默认关闭了字体的次像素渲染；WWDC 2018 的 <a href=\"https://developer.apple.com/videos/play/wwdc2018/209/\">Session 209</a> 有所介绍</li> <li>吴涛曾撰文<a href=\"https://www.thetype.com/2010/06/2619/\">〈视觉分辨力与 Retina Display〉</a>介绍次像素渲染技术及 retina 显示屏相关的内容，刊于 Type is Beautiful</li> <li><a href=\"https://baike.baidu.com/item/%E6%B7%B7%E5%8F%A0\">混叠</a>（<a href=\"https://en.wikipedia.org/wiki/Aliasing\">aliasing</a>），信号处理领域的术语</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/truetype/hinting\">TrueType hinting</a></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/cleartype/\">ClearType</a>，Windows 系统搭载的次像素渲染技术</li> <li>Adobe Photoshop 内置的<a href=\"https://helpx.adobe.com/cn/photoshop/using/editing-text.html#apply_anti_aliasing_to_a_type_layer\">字体抗锯齿功能</a></li> <li>杨林青．<a href=\"https://book.douban.com/subject/27187144/\">《中文字体应用手册 I：方正字库（1986—2017）》</a>．广西师范大学出版社，2017 年．</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "1:28:28",
+    "subtitle": "小论次像素渲染技术",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "小论次像素渲染技术"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>伴随矢量字体的出现和应用，字形图像栅格化中的抗锯齿（anti-aliasing）技术也相应发展。次像素渲染，是针对 LCD 等显示设备的典型抗锯齿技术。今日我们小论此题，一窥该技术的概貌。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://mp.weixin.qq.com/s/GidicRC8Nqs1WvvSSy3xXA\">TypeSchool 周末班</a>开始招生</li> <li>ATypI 2018 Antwerp <a href=\"https://www.youtube.com/playlist?list=PL0oMAzSh5W9q64iHo9pMa0WdgUdz411hD\">会议视频列表</a></li> <li><a href=\"https://path.com/about\">Path 宣布关闭</a>，用户过往数据可供下载备份</li> <li>雷丁大学 2018 年字体设计硕士项目（MATD）<a href=\"http://typefacedesign.net/typefaces/year/2018/\">作品列表</a></li> <li><a href=\"https://type-competition.tdc.org/\">TDC65</a> 开始征稿</li> <li><a href=\"https://competition.morisawa.co.jp/en/\">2019 年森泽字体设计大赛</a>（MOTC19）开始征稿</li> <li><a href=\"http://star.hanyi.com.cn/fontstar/\">汉仪第四届字体之星设计大赛</a>开始征稿</li> <li>Monotype 发布「翔鹤黑」字体家族，包括<a href=\"https://www.myfonts.com/fonts/mti/m-xianghe-hei-sc-std/\">简体版</a>（M XiangHe Hei SC）与<a href=\"https://www.myfonts.com/fonts/mti/m-xianghe-hei-tc/\">繁体版</a>（M XiangHe Hei TC）；该字体家族另有日文版 <a href=\"https://www.myfonts.com/fonts/mti/tazugane-gothic/\">Tazugane Gothic</a> 和韩文版 <a href=\"https://www.myfonts.com/fonts/mti/seol-sans/\">Seol Sans</a></li> <li><a href=\"https://www.myfonts.com/fonts/mti/neue-frutiger-world/\">Neue Frutiger World</a>，Neue Frutiger 的多文种版本，Monotype 出品</li> <li>字体栅格化（<a href=\"https://en.wikipedia.org/wiki/Font_rasterization\">font rasterization</a>）</li> <li>次像素渲染（<a href=\"https://en.wikipedia.org/wiki/Subpixel_rendering\">subpixel rendering</a>）</li> <li>macOS Mojave 默认关闭了字体的次像素渲染；WWDC 2018 的 <a href=\"https://developer.apple.com/videos/play/wwdc2018/209/\">Session 209</a> 有所介绍</li> <li>吴涛曾撰文<a href=\"https://www.thetype.com/2010/06/2619/\">〈视觉分辨力与 Retina Display〉</a>介绍次像素渲染技术及 retina 显示屏相关的内容，刊于 Type is Beautiful</li> <li><a href=\"https://baike.baidu.com/item/%E6%B7%B7%E5%8F%A0\">混叠</a>（<a href=\"https://en.wikipedia.org/wiki/Aliasing\">aliasing</a>），信号处理领域的术语</li> <li><a href=\"https://docs.microsoft.com/en-us/typography/truetype/hinting\">TrueType hinting</a></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/cleartype/\">ClearType</a>，Windows 系统搭载的次像素渲染技术</li> <li>Adobe Photoshop 内置的<a href=\"https://helpx.adobe.com/cn/photoshop/using/editing-text.html#apply_anti_aliasing_to_a_type_layer\">字体抗锯齿功能</a></li> <li>杨林青．<a href=\"https://book.douban.com/subject/27187144/\">《中文字体应用手册 I：方正字库（1986—2017）》</a>．广西师范大学出版社，2017 年．</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

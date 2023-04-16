@@ -1,0 +1,24 @@
+{
+    "id": 40,
+    "enabled": true,
+    "title": "告别摄影",
+    "link": "https://byebye.photography/",
+    "feed_url": "https://byebyephotography.typlog.io/feed/audio.xml",
+    "summary": "像谈论一场电影一样谈论摄影。",
+    "language": "zh",
+    "saveweb": {
+        "created_timestamp": 1681310015,
+        "last_success_timestamp": 1681310859,
+        "last_checked_timestamp": 1681310859,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

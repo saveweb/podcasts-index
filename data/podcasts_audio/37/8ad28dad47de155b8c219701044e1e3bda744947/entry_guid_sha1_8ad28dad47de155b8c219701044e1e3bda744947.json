@@ -1,0 +1,81 @@
+{
+    "title": "#6 Airbnb 下篇：并不都是美好，但总归看到了更大的世界",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#6 Airbnb 下篇：并不都是美好，但总归看到了更大的世界"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/airbnb-a-big-world"
+        },
+        {
+            "length": "54024104",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/eda07194-f4f6-4d7a-9945-648539e34b03.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/airbnb-a-big-world",
+    "id": "http://audio.xmcdn.com/group22/M0A/9E/F2/wKgJLlhIUU6QplTJARPq7sSy6wU580.m4a",
+    "guidislink": false,
+    "published": "Thu, 08 Dec 2016 02:00:00 +0800",
+    "published_parsed": [
+        2016,
+        12,
+        7,
+        18,
+        0,
+        0,
+        2,
+        342,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "37:13",
+    "itunes_explicit": null,
+    "summary": "<p>未来的 Airbnb 能让你的旅行变得更奇妙，它不再仅仅是一张床，而是可以随你选择的各种体验。</p><p>Special Guest: 李蓉慧.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>未来的 Airbnb 能让你的旅行变得更奇妙，它不再仅仅是一张床，而是可以随你选择的各种体验。</p><p>Special Guest: 李蓉慧.</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>未来的 Airbnb 能让你的旅行变得更奇妙，它不再仅仅是一张床，而是可以随你选择的各种体验。</p><p>Special Guest: 李蓉慧.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+JKSADQ-A",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+JKSADQ-A\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "guest"
+    }
+}

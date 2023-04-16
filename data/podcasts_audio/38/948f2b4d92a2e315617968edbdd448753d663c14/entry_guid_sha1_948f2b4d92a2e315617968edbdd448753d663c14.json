@@ -1,0 +1,76 @@
+{
+    "title": "#44：Kerning Panic·字谈字串（四）峰回路转换行来↵",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#44：Kerning Panic·字谈字串（四）峰回路转换行来↵"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-044/"
+        },
+        {
+            "length": "48921142",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat044.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-044/",
+    "published": "Tue, 04 Apr 2017 06:22:04 +0800",
+    "published_parsed": [
+        2017,
+        4,
+        3,
+        22,
+        22,
+        4,
+        0,
+        93,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat044.mp3",
+    "guidislink": false,
+    "summary": "<p>一段无主题的闲聊后，我们开始「回车」——从打字机的历史出发，回顾「换行」这一文字排版现象在机械设备和数码环境中的存在方式及遗留问题。</p> <p>此外，今天也是一个好日子。</p> <h3>参考链接</h3> <ul> <li>2007 年 4 月 4 日，Rex 发布了 <a href=\"http://t.cn/RvcFkWr\">Type is Beautiful 现存最早的公开文章</a></li> <li><a href=\"https://youtu.be/9BaLTBTqHmw\">“Power of Emoji”</a>，Mariko Kosaka 在 <a href=\"https://2016.ffconf.org\">ffconf 2016</a> 上的演讲</li> <li>小狼毫，<a href=\"http://rime.im\">中州韵输入法（RIME）</a>的 Windows 版</li> <li><a href=\"http://t.cn/R5MtEuj\">Unicode Emoji 总表 5.0 版</a></li> <li>所指和能指（<a href=\"http://t.cn/R4wzgvQ\">signified &amp; signifier</a>）</li> <li>L. A. Gatys, A. S. Ecker, &amp; M. Bethge. <a href=\"https://arxiv.org/abs/1508.06576\">“A neural algorithm of artistic style”</a>. 2 September 2015 (last revised). arXiv:1508.06576（关于美术作品风格转移的研究）</li> <li>将 Gatys、Ecker、Bethge 等人的研究成果<a href=\"http://t.cn/RioOzJx\">运用到油画作品上的实验</a>；<a href=\"http://t.cn/R5GXakb\">GitHub 上另有一个风格转移算法的具体实现</a>，可供参考</li> <li>Erik Bernhardsson <a href=\"http://t.cn/RVFdaZC\">基于五万个字体训练了一组神经网络</a>，可用于生成新的字体</li> <li>Z. Lian, B. Zhao, &amp; J. Xiao. <a href=\"http://t.cn/R6RvDyv\">“Automatic generation of large-scale handwriting fonts via style learning”</a>. <cite>SIGGRAPH Asia 2016</cite>, Article No. 12, Technical Briefs</cite>, December 2016（<a href=\"http://t.cn/RI6fdAm\">基于风格学习生成中文手写字体的研究</a>）</li> <li><a href=\"http://t.cn/R6Rvsyg\">大芬村</a></li> <li><a href=\"http://t.cn/RGEYmAu\">Android O</a></li> <li>打字机（<a href=\"http://t.cn/zYosSzX\">typewriter</a>）</li> <li>中文打字机（<a href=\"http://t.cn/R6RPhKJ\">Chinese typewriter</a>）</li> <li>电传打字机（<a href=\"http://t.cn/RLrzCM3\">teletypewriter</a>）</li> <li>回车（<a href=\"http://t.cn/R6RPz1b\">carriage return</a>）</li> <li>换行（<a href=\"http://t.cn/R6RPwW7\">line feed</a>）</li> <li><a href=\"http://t.cn/R6RPAqE\">德文键盘上</a>，Home 键标为 Pos1 (Position eins)</li> <li>确认键（<a href=\"http://t.cn/R6RP26J\">Enter</a>），及其<a href=\"http://t.cn/R6RP2s3\">与 Return 的区别</a></li> <li>换行操作<a href=\"http://t.cn/R6RPLl3\">在不同环境中的控制符表示</a>，以及 <a href=\"http://t.cn/R6RPy5s\">CR+LF 控制符顺序的历史原因</a></li> <li>软回车和硬回车（<a href=\"http://t.cn/R6RPUbF\">soft return &amp; hard return</a>），「软回车」在部分文字处理软件中也被称作「强制换行」</li> <li>HTML <a href=\"http://t.cn/z81qBip\">&lt;br&gt;</a> 元素</li> <li>分段符（<a href=\"http://t.cn/R6ykyhP\">pilcrow</a>, ¶）</li> <li>Git 可配置纯文本文件的<a href=\"http://t.cn/R6RPbLa\">换行控制符风格及自动转换等</a></li> <li>早期版本的 Windows 记事本（Notepad），<a href=\"http://t.cn/R6RPbF1\">存在换行控制符的问题</a></li> <li><a href=\"https://coteditor.com\">CotEditor</a>，macOS 平台上开源的纯文本编辑器</li> <li><a href=\"http://t.cn/zOAGQXb\">TextEdit+</a>，Mac OS X 原生 TextEdit（文本编辑）的增强版，江疆（jjgod）开发</li> <li><a href=\"http://t.cn/R6RPqdv\">SFTP</a>、<a href=\"http://t.cn/R6RP5lA\">FTPS</a> 和 <a href=\"http://t.cn/R6RPtaw\">SCP</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》（Kernel Panic）</a>是由 IPN 出品、吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>一段无主题的闲聊后，我们开始「回车」——从打字机的历史出发，回顾「换行」这一文字排版现象在机械设备和数码环境中的存在方式及遗留问题。</p> <p>此外，今天也是一个好日子。</p> <h3>参考链接</h3> <ul> <li>2007 年 4 月 4 日，Rex 发布了 <a href=\"http://t.cn/RvcFkWr\">Type is Beautiful 现存最早的公开文章</a></li> <li><a href=\"https://youtu.be/9BaLTBTqHmw\">“Power of Emoji”</a>，Mariko Kosaka 在 <a href=\"https://2016.ffconf.org\">ffconf 2016</a> 上的演讲</li> <li>小狼毫，<a href=\"http://rime.im\">中州韵输入法（RIME）</a>的 Windows 版</li> <li><a href=\"http://t.cn/R5MtEuj\">Unicode Emoji 总表 5.0 版</a></li> <li>所指和能指（<a href=\"http://t.cn/R4wzgvQ\">signified &amp; signifier</a>）</li> <li>L. A. Gatys, A. S. Ecker, &amp; M. Bethge. <a href=\"https://arxiv.org/abs/1508.06576\">“A neural algorithm of artistic style”</a>. 2 September 2015 (last revised). arXiv:1508.06576（关于美术作品风格转移的研究）</li> <li>将 Gatys、Ecker、Bethge 等人的研究成果<a href=\"http://t.cn/RioOzJx\">运用到油画作品上的实验</a>；<a href=\"http://t.cn/R5GXakb\">GitHub 上另有一个风格转移算法的具体实现</a>，可供参考</li> <li>Erik Bernhardsson <a href=\"http://t.cn/RVFdaZC\">基于五万个字体训练了一组神经网络</a>，可用于生成新的字体</li> <li>Z. Lian, B. Zhao, &amp; J. Xiao. <a href=\"http://t.cn/R6RvDyv\">“Automatic generation of large-scale handwriting fonts via style learning”</a>. <cite>SIGGRAPH Asia 2016</cite>, Article No. 12, Technical Briefs</cite>, December 2016（<a href=\"http://t.cn/RI6fdAm\">基于风格学习生成中文手写字体的研究</a>）</li> <li><a href=\"http://t.cn/R6Rvsyg\">大芬村</a></li> <li><a href=\"http://t.cn/RGEYmAu\">Android O</a></li> <li>打字机（<a href=\"http://t.cn/zYosSzX\">typewriter</a>）</li> <li>中文打字机（<a href=\"http://t.cn/R6RPhKJ\">Chinese typewriter</a>）</li> <li>电传打字机（<a href=\"http://t.cn/RLrzCM3\">teletypewriter</a>）</li> <li>回车（<a href=\"http://t.cn/R6RPz1b\">carriage return</a>）</li> <li>换行（<a href=\"http://t.cn/R6RPwW7\">line feed</a>）</li> <li><a href=\"http://t.cn/R6RPAqE\">德文键盘上</a>，Home 键标为 Pos1 (Position eins)</li> <li>确认键（<a href=\"http://t.cn/R6RP26J\">Enter</a>），及其<a href=\"http://t.cn/R6RP2s3\">与 Return 的区别</a></li> <li>换行操作<a href=\"http://t.cn/R6RPLl3\">在不同环境中的控制符表示</a>，以及 <a href=\"http://t.cn/R6RPy5s\">CR+LF 控制符顺序的历史原因</a></li> <li>软回车和硬回车（<a href=\"http://t.cn/R6RPUbF\">soft return &amp; hard return</a>），「软回车」在部分文字处理软件中也被称作「强制换行」</li> <li>HTML <a href=\"http://t.cn/z81qBip\">&lt;br&gt;</a> 元素</li> <li>分段符（<a href=\"http://t.cn/R6ykyhP\">pilcrow</a>, ¶）</li> <li>Git 可配置纯文本文件的<a href=\"http://t.cn/R6RPbLa\">换行控制符风格及自动转换等</a></li> <li>早期版本的 Windows 记事本（Notepad），<a href=\"http://t.cn/R6RPbF1\">存在换行控制符的问题</a></li> <li><a href=\"https://coteditor.com\">CotEditor</a>，macOS 平台上开源的纯文本编辑器</li> <li><a href=\"http://t.cn/zOAGQXb\">TextEdit+</a>，Mac OS X 原生 TextEdit（文本编辑）的增强版，江疆（jjgod）开发</li> <li><a href=\"http://t.cn/R6RPqdv\">SFTP</a>、<a href=\"http://t.cn/R6RP5lA\">FTPS</a> 和 <a href=\"http://t.cn/R6RPtaw\">SCP</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》（Kernel Panic）</a>是由 IPN 出品、吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "1:41:36",
+    "subtitle": "今天是个好日子",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "今天是个好日子"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>一段无主题的闲聊后，我们开始「回车」——从打字机的历史出发，回顾「换行」这一文字排版现象在机械设备和数码环境中的存在方式及遗留问题。</p> <p>此外，今天也是一个好日子。</p> <h3>参考链接</h3> <ul> <li>2007 年 4 月 4 日，Rex 发布了 <a href=\"http://t.cn/RvcFkWr\">Type is Beautiful 现存最早的公开文章</a></li> <li><a href=\"https://youtu.be/9BaLTBTqHmw\">“Power of Emoji”</a>，Mariko Kosaka 在 <a href=\"https://2016.ffconf.org\">ffconf 2016</a> 上的演讲</li> <li>小狼毫，<a href=\"http://rime.im\">中州韵输入法（RIME）</a>的 Windows 版</li> <li><a href=\"http://t.cn/R5MtEuj\">Unicode Emoji 总表 5.0 版</a></li> <li>所指和能指（<a href=\"http://t.cn/R4wzgvQ\">signified &amp; signifier</a>）</li> <li>L. A. Gatys, A. S. Ecker, &amp; M. Bethge. <a href=\"https://arxiv.org/abs/1508.06576\">“A neural algorithm of artistic style”</a>. 2 September 2015 (last revised). arXiv:1508.06576（关于美术作品风格转移的研究）</li> <li>将 Gatys、Ecker、Bethge 等人的研究成果<a href=\"http://t.cn/RioOzJx\">运用到油画作品上的实验</a>；<a href=\"http://t.cn/R5GXakb\">GitHub 上另有一个风格转移算法的具体实现</a>，可供参考</li> <li>Erik Bernhardsson <a href=\"http://t.cn/RVFdaZC\">基于五万个字体训练了一组神经网络</a>，可用于生成新的字体</li> <li>Z. Lian, B. Zhao, &amp; J. Xiao. <a href=\"http://t.cn/R6RvDyv\">“Automatic generation of large-scale handwriting fonts via style learning”</a>. <cite>SIGGRAPH Asia 2016</cite>, Article No. 12, Technical Briefs</cite>, December 2016（<a href=\"http://t.cn/RI6fdAm\">基于风格学习生成中文手写字体的研究</a>）</li> <li><a href=\"http://t.cn/R6Rvsyg\">大芬村</a></li> <li><a href=\"http://t.cn/RGEYmAu\">Android O</a></li> <li>打字机（<a href=\"http://t.cn/zYosSzX\">typewriter</a>）</li> <li>中文打字机（<a href=\"http://t.cn/R6RPhKJ\">Chinese typewriter</a>）</li> <li>电传打字机（<a href=\"http://t.cn/RLrzCM3\">teletypewriter</a>）</li> <li>回车（<a href=\"http://t.cn/R6RPz1b\">carriage return</a>）</li> <li>换行（<a href=\"http://t.cn/R6RPwW7\">line feed</a>）</li> <li><a href=\"http://t.cn/R6RPAqE\">德文键盘上</a>，Home 键标为 Pos1 (Position eins)</li> <li>确认键（<a href=\"http://t.cn/R6RP26J\">Enter</a>），及其<a href=\"http://t.cn/R6RP2s3\">与 Return 的区别</a></li> <li>换行操作<a href=\"http://t.cn/R6RPLl3\">在不同环境中的控制符表示</a>，以及 <a href=\"http://t.cn/R6RPy5s\">CR+LF 控制符顺序的历史原因</a></li> <li>软回车和硬回车（<a href=\"http://t.cn/R6RPUbF\">soft return &amp; hard return</a>），「软回车」在部分文字处理软件中也被称作「强制换行」</li> <li>HTML <a href=\"http://t.cn/z81qBip\">&lt;br&gt;</a> 元素</li> <li>分段符（<a href=\"http://t.cn/R6ykyhP\">pilcrow</a>, ¶）</li> <li>Git 可配置纯文本文件的<a href=\"http://t.cn/R6RPbLa\">换行控制符风格及自动转换等</a></li> <li>早期版本的 Windows 记事本（Notepad），<a href=\"http://t.cn/R6RPbF1\">存在换行控制符的问题</a></li> <li><a href=\"https://coteditor.com\">CotEditor</a>，macOS 平台上开源的纯文本编辑器</li> <li><a href=\"http://t.cn/zOAGQXb\">TextEdit+</a>，Mac OS X 原生 TextEdit（文本编辑）的增强版，江疆（jjgod）开发</li> <li><a href=\"http://t.cn/R6RPqdv\">SFTP</a>、<a href=\"http://t.cn/R6RP5lA\">FTPS</a> 和 <a href=\"http://t.cn/R6RPtaw\">SCP</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：IPN 联合创始人，<a href=\"http://apple4us.com\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://ipn.li/crazycapital/\">《疯投圈》</a>及<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》（Kernel Panic）</a>是由 IPN 出品、吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, Rio, 吴涛"
+        }
+    ],
+    "author": "Eric, 蒸鱼, Rio, 吴涛",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, Rio, 吴涛"
+    },
+    "itunes_explicit": false
+}

@@ -1,0 +1,76 @@
+{
+    "title": "#196：全球字体新闻联播",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#196：全球字体新闻联播"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-196/"
+        },
+        {
+            "length": "52478336",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat196.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-196/",
+    "published": "Tue, 31 Jan 2023 07:24:40 +0800",
+    "published_parsed": [
+        2023,
+        1,
+        30,
+        23,
+        24,
+        40,
+        0,
+        30,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat196.mp3",
+    "guidislink": false,
+    "summary": "<p>听众朋友早上好，今天是 2023 年 1 月 31 日星期二，癸卯年正月初十，欢迎收听全球字体新闻联播。</p> <p>本期节目将回顾海内外字体排印领域的新闻，为大家播报值得关注的字体项目、竞赛作品及图书文献。时近初春，希望《字谈字畅》能继续成为你新年旅程中的陪伴。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://book.douban.com/subject/36140138/\">《从字体开始：设计改变的生活与社会》</a>，可通过 <a href=\"https://www.thetype.com/2022/10/24393/\">The Type 预售渠道</a>购买</li> <li>锦华明朝体字体<a href=\"https://zhongchou.modian.com/p/update_detail/122907/111974\">众筹已成功</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-176/\">字谈字畅 176</a>：茉莉芬芳沁锦华</li> <li>空明朝体 <a href=\"https://www.kowloontype.com/redemption/\">v1.1 发布</a></li> <li><a href=\"https://atypi.org/conferences-events/atypi-paris-2023/\">ATypI Paris 2023</a> 计划于 5 月 9 至 14 日举办，地点位于<a href=\"https://atypi.org/2023/01/16/atypi-2023-paris/\">索邦大学皮埃尔和玛丽·居里、朱西厄校区</a></li> <li>The Type<a href=\"https://www.thetype.com/atypi/\">「国际字体协会 ATypI 年会」</a>系列报道</li> <li>东京 TDC 2023 公布了<a href=\"https://tokyotypedirectorsclub.org/news/tdc2023-results/\">获奖名单及提名作品</a> <ul> <li>短篇动画<a href=\"https://www.youtube.com/watch?v=EvJd10R6jNs\">「ミニミニポッケの大きな庭で」</a>（In the Big Yard Inside the Teeny-Weeny Pocket）获全场大奖（Grand Prix），由<a href=\"https://www.yoko-yuki.com/\">幸洋子</a>主创</li> <li>像素风格字体<a href=\"https://www.zcool.com.cn/work/ZNjM2NDE0OTY=.html\">「15」</a>获字体设计奖，由褚俊尧设计</li> <li>西文字体<a href=\"https://twitter.com/zinnagao/status/1612762882655256577\">「YON YON」</a>获字体设计奖提名，由永尾仁设计</li> <li><a href=\"https://mp.weixin.qq.com/s/XLu8RUBs9yRDSJdc_8Oqeg\">「OpenType 草书字体设计研究 2022」</a>获字体设计奖提名，由张晁彬研究设计</li> <li>图书<a href=\"http://www.sdxjpc.com/main/newsdetail.cfm?iCntno=18077\">《肯特》</a>获 TDC 奖，由赵清设计</li> <li>图书 <a href=\"https://workbyworks.studio/work/Frankenstein-itself-book\"><i>Frankenstein Itself</i></a> 获 TDC 奖，由高晗设计</li> </ul> </li> <li><a href=\"https://typography.network/typographypapers/\"><i>Typography papers</i></a>，英国雷丁大学字体排印与图形传达系出版的学术期刊；其中第 <a href=\"http://typography.network/typographypapers5/\">5</a>、<a href=\"http://typography.network/typographypapers6/\">6</a>、<a href=\"http://typography.network/typographypapers7/\">7</a> 卷可直接下载</li> <li><a href=\"https://www.foundertype.com/index.php/News/newsdetails/id/111.html\">HONOR Sans</a>，荣耀与方正字库设计开发的可变字体家族，是荣耀的品牌字体及 MagicOS 的系统字体</li> <li><a href=\"https://mp.weixin.qq.com/s/neVgDvB75W9Hr5B76Yad5w\">汉字守护计划</a>，由腾讯搜狗输入法、汉仪字库及工信部电子工业标准化研究院联合发起；其中已完成的「汉仪中黑 TS」字体可覆盖 GB 18030—2022 第三级别</li> <li><a href=\"https://harfbuzz.github.io/\">HarfBuzz</a>，文字变形引擎（text shaping engine），<a href=\"https://github.com/harfbuzz/harfbuzz/releases/tag/5.0.0\">从 5.0.0 版本开始</a>可支持超过 65535 个字形的 <code>GDEF</code>、<code>GSUB</code> 和 <code>GPOS</code> 表</li> <li><a href=\"https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl\">钉钉进步体</a>，钉钉发布的斜体中文字体，可免费商用</li> <li>Erik Spiekermann 的知名著作 <i>Stop Stealing Sheep and find out how type works</i> 第四版<a href=\"https://design.google/library/catching-up-with-erik-spiekermann/\">通过 Google Fonts 项目免费公开</a>；该书第三版亦有中译本<a href=\"https://book.douban.com/subject/30244737/\">《字体的魔力》</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a class=\"autolink\" href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：<a class=\"autolink\" href=\"mailto:hello@thetype.com\">hello@thetype.com</a>&#8203;。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>听众朋友早上好，今天是 2023 年 1 月 31 日星期二，癸卯年正月初十，欢迎收听全球字体新闻联播。</p> <p>本期节目将回顾海内外字体排印领域的新闻，为大家播报值得关注的字体项目、竞赛作品及图书文献。时近初春，希望《字谈字畅》能继续成为你新年旅程中的陪伴。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://book.douban.com/subject/36140138/\">《从字体开始：设计改变的生活与社会》</a>，可通过 <a href=\"https://www.thetype.com/2022/10/24393/\">The Type 预售渠道</a>购买</li> <li>锦华明朝体字体<a href=\"https://zhongchou.modian.com/p/update_detail/122907/111974\">众筹已成功</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-176/\">字谈字畅 176</a>：茉莉芬芳沁锦华</li> <li>空明朝体 <a href=\"https://www.kowloontype.com/redemption/\">v1.1 发布</a></li> <li><a href=\"https://atypi.org/conferences-events/atypi-paris-2023/\">ATypI Paris 2023</a> 计划于 5 月 9 至 14 日举办，地点位于<a href=\"https://atypi.org/2023/01/16/atypi-2023-paris/\">索邦大学皮埃尔和玛丽·居里、朱西厄校区</a></li> <li>The Type<a href=\"https://www.thetype.com/atypi/\">「国际字体协会 ATypI 年会」</a>系列报道</li> <li>东京 TDC 2023 公布了<a href=\"https://tokyotypedirectorsclub.org/news/tdc2023-results/\">获奖名单及提名作品</a> <ul> <li>短篇动画<a href=\"https://www.youtube.com/watch?v=EvJd10R6jNs\">「ミニミニポッケの大きな庭で」</a>（In the Big Yard Inside the Teeny-Weeny Pocket）获全场大奖（Grand Prix），由<a href=\"https://www.yoko-yuki.com/\">幸洋子</a>主创</li> <li>像素风格字体<a href=\"https://www.zcool.com.cn/work/ZNjM2NDE0OTY=.html\">「15」</a>获字体设计奖，由褚俊尧设计</li> <li>西文字体<a href=\"https://twitter.com/zinnagao/status/1612762882655256577\">「YON YON」</a>获字体设计奖提名，由永尾仁设计</li> <li><a href=\"https://mp.weixin.qq.com/s/XLu8RUBs9yRDSJdc_8Oqeg\">「OpenType 草书字体设计研究 2022」</a>获字体设计奖提名，由张晁彬研究设计</li> <li>图书<a href=\"http://www.sdxjpc.com/main/newsdetail.cfm?iCntno=18077\">《肯特》</a>获 TDC 奖，由赵清设计</li> <li>图书 <a href=\"https://workbyworks.studio/work/Frankenstein-itself-book\"><i>Frankenstein Itself</i></a> 获 TDC 奖，由高晗设计</li> </ul> </li> <li><a href=\"https://typography.network/typographypapers/\"><i>Typography papers</i></a>，英国雷丁大学字体排印与图形传达系出版的学术期刊；其中第 <a href=\"http://typography.network/typographypapers5/\">5</a>、<a href=\"http://typography.network/typographypapers6/\">6</a>、<a href=\"http://typography.network/typographypapers7/\">7</a> 卷可直接下载</li> <li><a href=\"https://www.foundertype.com/index.php/News/newsdetails/id/111.html\">HONOR Sans</a>，荣耀与方正字库设计开发的可变字体家族，是荣耀的品牌字体及 MagicOS 的系统字体</li> <li><a href=\"https://mp.weixin.qq.com/s/neVgDvB75W9Hr5B76Yad5w\">汉字守护计划</a>，由腾讯搜狗输入法、汉仪字库及工信部电子工业标准化研究院联合发起；其中已完成的「汉仪中黑 TS」字体可覆盖 GB 18030—2022 第三级别</li> <li><a href=\"https://harfbuzz.github.io/\">HarfBuzz</a>，文字变形引擎（text shaping engine），<a href=\"https://github.com/harfbuzz/harfbuzz/releases/tag/5.0.0\">从 5.0.0 版本开始</a>可支持超过 65535 个字形的 <code>GDEF</code>、<code>GSUB</code> 和 <code>GPOS</code> 表</li> <li><a href=\"https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl\">钉钉进步体</a>，钉钉发布的斜体中文字体，可免费商用</li> <li>Erik Spiekermann 的知名著作 <i>Stop Stealing Sheep and find out how type works</i> 第四版<a href=\"https://design.google/library/catching-up-with-erik-spiekermann/\">通过 Google Fonts 项目免费公开</a>；该书第三版亦有中译本<a href=\"https://book.douban.com/subject/30244737/\">《字体的魔力》</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a class=\"autolink\" href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：<a class=\"autolink\" href=\"mailto:hello@thetype.com\">hello@thetype.com</a>&#8203;。</p>"
+    },
+    "itunes_duration": "01:09:54",
+    "subtitle": "二〇二三·字体之春",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "二〇二三·字体之春"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>听众朋友早上好，今天是 2023 年 1 月 31 日星期二，癸卯年正月初十，欢迎收听全球字体新闻联播。</p> <p>本期节目将回顾海内外字体排印领域的新闻，为大家播报值得关注的字体项目、竞赛作品及图书文献。时近初春，希望《字谈字畅》能继续成为你新年旅程中的陪伴。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://book.douban.com/subject/36140138/\">《从字体开始：设计改变的生活与社会》</a>，可通过 <a href=\"https://www.thetype.com/2022/10/24393/\">The Type 预售渠道</a>购买</li> <li>锦华明朝体字体<a href=\"https://zhongchou.modian.com/p/update_detail/122907/111974\">众筹已成功</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-176/\">字谈字畅 176</a>：茉莉芬芳沁锦华</li> <li>空明朝体 <a href=\"https://www.kowloontype.com/redemption/\">v1.1 发布</a></li> <li><a href=\"https://atypi.org/conferences-events/atypi-paris-2023/\">ATypI Paris 2023</a> 计划于 5 月 9 至 14 日举办，地点位于<a href=\"https://atypi.org/2023/01/16/atypi-2023-paris/\">索邦大学皮埃尔和玛丽·居里、朱西厄校区</a></li> <li>The Type<a href=\"https://www.thetype.com/atypi/\">「国际字体协会 ATypI 年会」</a>系列报道</li> <li>东京 TDC 2023 公布了<a href=\"https://tokyotypedirectorsclub.org/news/tdc2023-results/\">获奖名单及提名作品</a> <ul> <li>短篇动画<a href=\"https://www.youtube.com/watch?v=EvJd10R6jNs\">「ミニミニポッケの大きな庭で」</a>（In the Big Yard Inside the Teeny-Weeny Pocket）获全场大奖（Grand Prix），由<a href=\"https://www.yoko-yuki.com/\">幸洋子</a>主创</li> <li>像素风格字体<a href=\"https://www.zcool.com.cn/work/ZNjM2NDE0OTY=.html\">「15」</a>获字体设计奖，由褚俊尧设计</li> <li>西文字体<a href=\"https://twitter.com/zinnagao/status/1612762882655256577\">「YON YON」</a>获字体设计奖提名，由永尾仁设计</li> <li><a href=\"https://mp.weixin.qq.com/s/XLu8RUBs9yRDSJdc_8Oqeg\">「OpenType 草书字体设计研究 2022」</a>获字体设计奖提名，由张晁彬研究设计</li> <li>图书<a href=\"http://www.sdxjpc.com/main/newsdetail.cfm?iCntno=18077\">《肯特》</a>获 TDC 奖，由赵清设计</li> <li>图书 <a href=\"https://workbyworks.studio/work/Frankenstein-itself-book\"><i>Frankenstein Itself</i></a> 获 TDC 奖，由高晗设计</li> </ul> </li> <li><a href=\"https://typography.network/typographypapers/\"><i>Typography papers</i></a>，英国雷丁大学字体排印与图形传达系出版的学术期刊；其中第 <a href=\"http://typography.network/typographypapers5/\">5</a>、<a href=\"http://typography.network/typographypapers6/\">6</a>、<a href=\"http://typography.network/typographypapers7/\">7</a> 卷可直接下载</li> <li><a href=\"https://www.foundertype.com/index.php/News/newsdetails/id/111.html\">HONOR Sans</a>，荣耀与方正字库设计开发的可变字体家族，是荣耀的品牌字体及 MagicOS 的系统字体</li> <li><a href=\"https://mp.weixin.qq.com/s/neVgDvB75W9Hr5B76Yad5w\">汉字守护计划</a>，由腾讯搜狗输入法、汉仪字库及工信部电子工业标准化研究院联合发起；其中已完成的「汉仪中黑 TS」字体可覆盖 GB 18030—2022 第三级别</li> <li><a href=\"https://harfbuzz.github.io/\">HarfBuzz</a>，文字变形引擎（text shaping engine），<a href=\"https://github.com/harfbuzz/harfbuzz/releases/tag/5.0.0\">从 5.0.0 版本开始</a>可支持超过 65535 个字形的 <code>GDEF</code>、<code>GSUB</code> 和 <code>GPOS</code> 表</li> <li><a href=\"https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl\">钉钉进步体</a>，钉钉发布的斜体中文字体，可免费商用</li> <li>Erik Spiekermann 的知名著作 <i>Stop Stealing Sheep and find out how type works</i> 第四版<a href=\"https://design.google/library/catching-up-with-erik-spiekermann/\">通过 Google Fonts 项目免费公开</a>；该书第三版亦有中译本<a href=\"https://book.douban.com/subject/30244737/\">《字体的魔力》</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a class=\"autolink\" href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：<a class=\"autolink\" href=\"mailto:hello@thetype.com\">hello@thetype.com</a>&#8203;。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2023/01/TypeChat196-sq.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2023/01/TypeChat196-sq.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

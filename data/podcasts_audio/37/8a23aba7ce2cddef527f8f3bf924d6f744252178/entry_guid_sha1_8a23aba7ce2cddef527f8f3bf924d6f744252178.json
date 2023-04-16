@@ -1,0 +1,113 @@
+{
+    "title": "#86 中美主播辩论了一下，我们记者看出了什么端倪",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#86 中美主播辩论了一下，我们记者看出了什么端倪"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/media-and-trade-war"
+        },
+        {
+            "length": "38002439",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/141eaafd-0055-4eae-af11-b2945f303f23.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/media-and-trade-war",
+    "id": "141eaafd-0055-4eae-af11-b2945f303f23",
+    "guidislink": false,
+    "published": "Thu, 06 Jun 2019 23:00:00 +0800",
+    "published_parsed": [
+        2019,
+        6,
+        6,
+        15,
+        0,
+        0,
+        3,
+        157,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "39:34",
+    "itunes_explicit": null,
+    "summary": "<p>主播丨徐涛 兆音</p>\n\n<p>世上本无真相，真相在各种叙述中用各种角度折射出来。</p>\n\n<p>而我们这次，则是聊了聊中美媒体在叙述贸易战时，都自带了哪些棱镜。你会看到，那些叙述的方式、关注重点以及传递的信息，都与叙述者本身所在文化、环境和价值观有关。</p>\n\n<p>所以，说不定听完这一期，你对贸易战会有一些不一样的看法。</p>\n\n<p>很可惜最近太忙，感觉这次话题聊得并不是十分充分。大家有什么想法和建议也尽管丢给我们。</p>\n\n<p>Enjoy！</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>主播丨徐涛 兆音</p>\n\n<p>世上本无真相，真相在各种叙述中用各种角度折射出来。</p>\n\n<p>而我们这次，则是聊了聊中美媒体在叙述贸易战时，都自带了哪些棱镜。你会看到，那些叙述的方式、关注重点以及传递的信息，都与叙述者本身所在文化、环境和价值观有关。</p>\n\n<p>所以，说不定听完这一期，你对贸易战会有一些不一样的看法。</p>\n\n<p>很可惜最近太忙，感觉这次话题聊得并不是十分充分。大家有什么想法和建议也尽管丢给我们。</p>\n\n<p>Enjoy！</p>"
+    },
+    "tags": [
+        {
+            "term": "trade-war",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "media",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "china",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "us",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "Media Literacy",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "播客",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>主播丨徐涛 兆音</p>\n\n<p>世上本无真相，真相在各种叙述中用各种角度折射出来。</p>\n\n<p>而我们这次，则是聊了聊中美媒体在叙述贸易战时，都自带了哪些棱镜。你会看到，那些叙述的方式、关注重点以及传递的信息，都与叙述者本身所在文化、环境和价值观有关。</p>\n\n<p>所以，说不定听完这一期，你对贸易战会有一些不一样的看法。</p>\n\n<p>很可惜最近太忙，感觉这次话题聊得并不是十分充分。大家有什么想法和建议也尽管丢给我们。</p>\n\n<p>Enjoy！</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+xqGKkVrp",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+xqGKkVrp\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

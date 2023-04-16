@@ -1,0 +1,76 @@
+{
+    "title": "#93：此 UI 非彼 UI",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#93：此 UI 非彼 UI"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-093/"
+        },
+        {
+            "length": "85963183",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat093.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-093/",
+    "published": "Tue, 19 Feb 2019 06:24:35 +0800",
+    "published_parsed": [
+        2019,
+        2,
+        18,
+        22,
+        24,
+        35,
+        0,
+        49,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat093.mp3",
+    "guidislink": false,
+    "summary": "<p>IRG (Ideographic Rapporteur Group) 是一个我们多次提及的工作小组，而关于它的组织、成员与运作，听众或许知之甚少。今日本台有幸邀来 IRG 青年专家 Eiso，与大家分享 IRG 幕后的故事。同时，Eiso 也将进一步为我们介绍 CJK Unified Ideographs 相关的基本概念、历史信息以及工作进展的最前沿。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://appsrv.cse.cuhk.edu.hk/%7Eirg/\">ISO/IEC JTC1/SC2/WG2/IRG (Ideographic Rapporteur Group)</a>（国际标准化组织与国际电工委员会·第一联合技术委员会·第二分委员会·第二工作组·表意文字小组）</li> <li><a href=\"http://unicode.org/consortium/utc.html\">UTC（Unicode Technical Committee，Unicode 技术委员会）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Andrew_West_(linguist)\">魏安（Andrew C. West）博士</a>，英国语言学家、汉学家；开设有个人网站 <a href=\"http://www.babelstone.co.uk/\">BabalStone</a></li> <li><a href=\"https://twitter.com/tsengtsz\">井作恆（John H. Jenkins）</a> </li> <li><a href=\"http://linguistics.berkeley.edu/%7Erscook/html/writing.html\">曲理查（Richard Cook）博士</a></li> <li><a href=\"https://github.com/kenlunde\">小林劍?（Ken Lunde）博士</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Lee_Collins_(Unicode)\">康立论（Lee Collins）</a>，Unicode 创始人之一。</li> <li><a href=\"http://21dzk.l.u-tokyo.ac.jp/SAT/\">SAT 大正新修大藏经文本数据库（大正新脩大藏經テキストデータベース, The SAT Daizōkyō Text Database）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/ISO/IEC_2022\">ISO/IEC 2022</a>，使用七位或八位编码表示各种文字的通用技术规范，包括中国国标 GB 2312 在内的东亚各国文字编码均遵从此标准</li> <li><a href=\"https://en.wikipedia.org/wiki/Chinese_Character_Code_for_Information_Interchange\">中文资讯交换码（CCCII，Chinese Character Code for Information Interchange）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/CJK_Unified_Ideographs\">中日韩统一表意文字（CJK Unified Ideographs）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m\">Chữ Nôm（?喃）</a></li> <li><a href=\"https://www.unicode.org/reports/tr38/\">Unicode 标准附件第 38 号：Unihan 数据库</a></li> <li><a href=\"https://www.unicode.org/charts/unihan.html\">Unihan 数据库搜索站</a></li> <li><a href=\"https://mojikiban.ipa.go.jp/\">日本「文字情報基盤整備事業」</a></li> <li><a href=\"http://www.koreanhistory.or.kr/\">韩国历史信息统合系统（한국역사정보통합시스템）</a></li> <li><a href=\"https://www.unicode.org/reports/tr45/\">Unicode 标准附件第 45 号：U 源表意文字</a></li> <li><a href=\"https://blogs.adobe.com/CCJKType/2012/09/uro.html\">统一字汇及排序（URO，Unified Repertoire and Ordering）</a></li> <li><a href=\"https://unicode.org/wg2/docs/n5032-CD-2-SixthEdition-Delta-chart.pdf\">中日韩统一表意文字扩展 G 区草案</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%B7%A5%E5%B0%BA%E8%B0%B1\">工尺（chě）谱</a></li> <li><a href=\"http://unicode.org/ivd/\">表意文字异体字数据库（IVD，Ideographic Variation Database）</a></li> </ul> <h3>嘉宾</h3> <ul> <li><a href=\"https://github.com/eisoch/irg/issues\">陈永聪</a>（Eiso Chan）：国际标准化组织表意文字小组（ISO/IEC JTC1/SC2/WG2/IRG）青年专家，主要从事 Unicode 和 OpenType 东亚部分相关工作</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>IRG (Ideographic Rapporteur Group) 是一个我们多次提及的工作小组，而关于它的组织、成员与运作，听众或许知之甚少。今日本台有幸邀来 IRG 青年专家 Eiso，与大家分享 IRG 幕后的故事。同时，Eiso 也将进一步为我们介绍 CJK Unified Ideographs 相关的基本概念、历史信息以及工作进展的最前沿。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://appsrv.cse.cuhk.edu.hk/%7Eirg/\">ISO/IEC JTC1/SC2/WG2/IRG (Ideographic Rapporteur Group)</a>（国际标准化组织与国际电工委员会·第一联合技术委员会·第二分委员会·第二工作组·表意文字小组）</li> <li><a href=\"http://unicode.org/consortium/utc.html\">UTC（Unicode Technical Committee，Unicode 技术委员会）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Andrew_West_(linguist)\">魏安（Andrew C. West）博士</a>，英国语言学家、汉学家；开设有个人网站 <a href=\"http://www.babelstone.co.uk/\">BabalStone</a></li> <li><a href=\"https://twitter.com/tsengtsz\">井作恆（John H. Jenkins）</a> </li> <li><a href=\"http://linguistics.berkeley.edu/%7Erscook/html/writing.html\">曲理查（Richard Cook）博士</a></li> <li><a href=\"https://github.com/kenlunde\">小林劍?（Ken Lunde）博士</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Lee_Collins_(Unicode)\">康立论（Lee Collins）</a>，Unicode 创始人之一。</li> <li><a href=\"http://21dzk.l.u-tokyo.ac.jp/SAT/\">SAT 大正新修大藏经文本数据库（大正新脩大藏經テキストデータベース, The SAT Daizōkyō Text Database）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/ISO/IEC_2022\">ISO/IEC 2022</a>，使用七位或八位编码表示各种文字的通用技术规范，包括中国国标 GB 2312 在内的东亚各国文字编码均遵从此标准</li> <li><a href=\"https://en.wikipedia.org/wiki/Chinese_Character_Code_for_Information_Interchange\">中文资讯交换码（CCCII，Chinese Character Code for Information Interchange）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/CJK_Unified_Ideographs\">中日韩统一表意文字（CJK Unified Ideographs）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m\">Chữ Nôm（?喃）</a></li> <li><a href=\"https://www.unicode.org/reports/tr38/\">Unicode 标准附件第 38 号：Unihan 数据库</a></li> <li><a href=\"https://www.unicode.org/charts/unihan.html\">Unihan 数据库搜索站</a></li> <li><a href=\"https://mojikiban.ipa.go.jp/\">日本「文字情報基盤整備事業」</a></li> <li><a href=\"http://www.koreanhistory.or.kr/\">韩国历史信息统合系统（한국역사정보통합시스템）</a></li> <li><a href=\"https://www.unicode.org/reports/tr45/\">Unicode 标准附件第 45 号：U 源表意文字</a></li> <li><a href=\"https://blogs.adobe.com/CCJKType/2012/09/uro.html\">统一字汇及排序（URO，Unified Repertoire and Ordering）</a></li> <li><a href=\"https://unicode.org/wg2/docs/n5032-CD-2-SixthEdition-Delta-chart.pdf\">中日韩统一表意文字扩展 G 区草案</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%B7%A5%E5%B0%BA%E8%B0%B1\">工尺（chě）谱</a></li> <li><a href=\"http://unicode.org/ivd/\">表意文字异体字数据库（IVD，Ideographic Variation Database）</a></li> </ul> <h3>嘉宾</h3> <ul> <li><a href=\"https://github.com/eisoch/irg/issues\">陈永聪</a>（Eiso Chan）：国际标准化组织表意文字小组（ISO/IEC JTC1/SC2/WG2/IRG）青年专家，主要从事 Unicode 和 OpenType 东亚部分相关工作</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "1:59:17",
+    "subtitle": "IRG 和 CJK Unified Ideographs",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "IRG 和 CJK Unified Ideographs"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>IRG (Ideographic Rapporteur Group) 是一个我们多次提及的工作小组，而关于它的组织、成员与运作，听众或许知之甚少。今日本台有幸邀来 IRG 青年专家 Eiso，与大家分享 IRG 幕后的故事。同时，Eiso 也将进一步为我们介绍 CJK Unified Ideographs 相关的基本概念、历史信息以及工作进展的最前沿。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://appsrv.cse.cuhk.edu.hk/%7Eirg/\">ISO/IEC JTC1/SC2/WG2/IRG (Ideographic Rapporteur Group)</a>（国际标准化组织与国际电工委员会·第一联合技术委员会·第二分委员会·第二工作组·表意文字小组）</li> <li><a href=\"http://unicode.org/consortium/utc.html\">UTC（Unicode Technical Committee，Unicode 技术委员会）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Andrew_West_(linguist)\">魏安（Andrew C. West）博士</a>，英国语言学家、汉学家；开设有个人网站 <a href=\"http://www.babelstone.co.uk/\">BabalStone</a></li> <li><a href=\"https://twitter.com/tsengtsz\">井作恆（John H. Jenkins）</a> </li> <li><a href=\"http://linguistics.berkeley.edu/%7Erscook/html/writing.html\">曲理查（Richard Cook）博士</a></li> <li><a href=\"https://github.com/kenlunde\">小林劍?（Ken Lunde）博士</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Lee_Collins_(Unicode)\">康立论（Lee Collins）</a>，Unicode 创始人之一。</li> <li><a href=\"http://21dzk.l.u-tokyo.ac.jp/SAT/\">SAT 大正新修大藏经文本数据库（大正新脩大藏經テキストデータベース, The SAT Daizōkyō Text Database）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/ISO/IEC_2022\">ISO/IEC 2022</a>，使用七位或八位编码表示各种文字的通用技术规范，包括中国国标 GB 2312 在内的东亚各国文字编码均遵从此标准</li> <li><a href=\"https://en.wikipedia.org/wiki/Chinese_Character_Code_for_Information_Interchange\">中文资讯交换码（CCCII，Chinese Character Code for Information Interchange）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/CJK_Unified_Ideographs\">中日韩统一表意文字（CJK Unified Ideographs）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m\">Chữ Nôm（?喃）</a></li> <li><a href=\"https://www.unicode.org/reports/tr38/\">Unicode 标准附件第 38 号：Unihan 数据库</a></li> <li><a href=\"https://www.unicode.org/charts/unihan.html\">Unihan 数据库搜索站</a></li> <li><a href=\"https://mojikiban.ipa.go.jp/\">日本「文字情報基盤整備事業」</a></li> <li><a href=\"http://www.koreanhistory.or.kr/\">韩国历史信息统合系统（한국역사정보통합시스템）</a></li> <li><a href=\"https://www.unicode.org/reports/tr45/\">Unicode 标准附件第 45 号：U 源表意文字</a></li> <li><a href=\"https://blogs.adobe.com/CCJKType/2012/09/uro.html\">统一字汇及排序（URO，Unified Repertoire and Ordering）</a></li> <li><a href=\"https://unicode.org/wg2/docs/n5032-CD-2-SixthEdition-Delta-chart.pdf\">中日韩统一表意文字扩展 G 区草案</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%B7%A5%E5%B0%BA%E8%B0%B1\">工尺（chě）谱</a></li> <li><a href=\"http://unicode.org/ivd/\">表意文字异体字数据库（IVD，Ideographic Variation Database）</a></li> </ul> <h3>嘉宾</h3> <ul> <li><a href=\"https://github.com/eisoch/irg/issues\">陈永聪</a>（Eiso Chan）：国际标准化组织表意文字小组（ISO/IEC JTC1/SC2/WG2/IRG）青年专家，主要从事 Unicode 和 OpenType 东亚部分相关工作</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, 陈永聪"
+        }
+    ],
+    "author": "Eric, 蒸鱼, 陈永聪",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, 陈永聪"
+    },
+    "itunes_explicit": false
+}

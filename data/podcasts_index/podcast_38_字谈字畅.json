@@ -1,0 +1,24 @@
+{
+    "id": 38,
+    "enabled": true,
+    "title": "字谈字畅",
+    "link": "https://www.thetype.com/typechat/",
+    "feed_url": "https://www.thetype.com/typechat/feed/",
+    "summary": "《字谈字畅》是第一档用华语制作的字体排印主题播客节目，由 Eric Liu 与钱争予搭档主播。The Type 出品。",
+    "language": "zh-Hans",
+    "saveweb": {
+        "created_timestamp": 1681099472,
+        "last_success_timestamp": 1681293636,
+        "last_checked_timestamp": 1681293636,
+        "last_checked_status": "success"
+    },
+    "ids": {
+        "saveweb_box_id": null,
+        "moon.fm": null,
+        "pod.link": null,
+        "google_podcasts": null,
+        "apple_podcasts": null,
+        "spotify": null,
+        "xiaoyuzhoufm": null
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "title": "#66 MET00在中国",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#66 MET00在中国"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/2018-metoo-in-china"
+        },
+        {
+            "length": "59353256",
+            "type": "audio/mp3",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/b57ebd4d-31e9-409a-8f1b-a900a23c238b.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/2018-metoo-in-china",
+    "id": "b57ebd4d-31e9-409a-8f1b-a900a23c238b",
+    "guidislink": false,
+    "published": "Sun, 12 Aug 2018 09:00:00 +0800",
+    "published_parsed": [
+        2018,
+        8,
+        12,
+        1,
+        0,
+        0,
+        6,
+        224,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "41:12",
+    "itunes_explicit": null,
+    "summary": "<p>可能看到这个题目，你们大概知道这一期的聊天主题了。</p>\n\n<p>去年以来对哈维·韦恩斯坦的性骚扰与性侵犯指控受到全世界关注，但当时中国显得格外安静。如今这一刻的发生，不仅需要当事人的勇气，更需要社会舆论的有形和无形的支持，以及对于这一问题的基本共识。中国的“我也是”运动是今年早些时候在大学校园里开始的，此后十多位女性对著名记者、知识分子和公益领袖提出了性侵和性骚扰指控，开始像一场运动了。</p>\n\n<p>MeToo 为什么现在爆发？未来又会如何？</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>可能看到这个题目，你们大概知道这一期的聊天主题了。</p>\n\n<p>去年以来对哈维·韦恩斯坦的性骚扰与性侵犯指控受到全世界关注，但当时中国显得格外安静。如今这一刻的发生，不仅需要当事人的勇气，更需要社会舆论的有形和无形的支持，以及对于这一问题的基本共识。中国的“我也是”运动是今年早些时候在大学校园里开始的，此后十多位女性对著名记者、知识分子和公益领袖提出了性侵和性骚扰指控，开始像一场运动了。</p>\n\n<p>MeToo 为什么现在爆发？未来又会如何？</p>"
+    },
+    "tags": [
+        {
+            "term": "播客",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "伟大的孤独",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "Big Tech",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "The Circle",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "The Curse of Bignes",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>可能看到这个题目，你们大概知道这一期的聊天主题了。</p>\n\n<p>去年以来对哈维·韦恩斯坦的性骚扰与性侵犯指控受到全世界关注，但当时中国显得格外安静。如今这一刻的发生，不仅需要当事人的勇气，更需要社会舆论的有形和无形的支持，以及对于这一问题的基本共识。中国的“我也是”运动是今年早些时候在大学校园里开始的，此后十多位女性对著名记者、知识分子和公益领袖提出了性侵和性骚扰指控，开始像一场运动了。</p>\n\n<p>MeToo 为什么现在爆发？未来又会如何？</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+luuCPhJl",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+luuCPhJl\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

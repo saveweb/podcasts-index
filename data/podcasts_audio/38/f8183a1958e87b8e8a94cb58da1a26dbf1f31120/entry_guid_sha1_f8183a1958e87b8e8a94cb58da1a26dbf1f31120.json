@@ -1,0 +1,76 @@
+{
+    "title": "#113：全球字体新闻联播",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#113：全球字体新闻联播"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-113/"
+        },
+        {
+            "length": "63364062",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat113-update.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-113/",
+    "published": "Tue, 26 Nov 2019 06:57:36 +0800",
+    "published_parsed": [
+        2019,
+        11,
+        25,
+        22,
+        57,
+        36,
+        0,
+        329,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat113-update.mp3",
+    "guidislink": false,
+    "summary": "<p>听众朋友早上好，今天是 11 月 26 日又一个星期二，农历冬月初一，欢迎收听全球字体新闻联播。</p> <p>本期节目，首先回顾文字技术相关的消息、值得关注的字体设计竞赛以及海外知名厂商的动向；随后，我们将对比介绍国内手机品牌和操作系统的字体定制案例；最后，向大家推荐两份别具一格的出版物。</p> <p>另，本台微信小程序已上线，由<a href=\"https://qingmang.me/\">轻芒</a>提供技术支持。在微信中<a href=\"https://static.thetype.cloud/typechat/assets/typechat-weapp.jpg\">扫码即可打开</a>，也可搜索「字谈字畅」或「TypeChat」获取。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li>新中国第一代字体设计师徐学成先生<a href=\"https://www.thetype.com/2019/11/17392/\">于 2019 年 11 月 1 日逝世，享年 91 岁</a></li> <li>The Type 的<a href=\"https://www.thetype.com/category/shanghai-type/\">「上海活字」</a>栏目</li> <li>UTC #160 会议上，位于<a href=\"https://twitter.com/unicode/status/1154526880747286528\">扩展 G 区的 4939 个 CJK Unified Ideographs 字符</a>被确认收录至 Unicode 13</li> <li>IRG #25 会议上通过决议<a href=\"https://www.unicode.org/L2/L2019/19238-n5072r-irgn2390-unc-prop-13-chars.pdf\">补录 13 个中国科技用字</a></li> <li>Greg Hitchcock 撰文纪念 <a href=\"https://www.linkedin.com/pulse/thirty-years-truetype-fonts-greg-hitchcock/\">TrueType 技术发布三十周年</a></li> <li>Figma 官方博客撰文<a href=\"https://www.figma.com/blog/opentype-font-features/\">介绍部分 OpenType 特性及其在 Figma 软件中的应用</a></li> <li><a href=\"https://www.provlib.org/research-collections/historical-collections/updike-prize-student-type-design/\">Updike Prize for Student Type Design</a>（Updike 学生字体设计奖）</li> <li><a href=\"https://www.granshan.com/competition-winners-2019\">Granshan 2019 字体设计奖公布</a>；郭永祥的作品<a href=\"https://www.granshan.com/sites/default/files/Yongxiang_Guo_feng%20gu%20kai.pdf\">「风骨楷」</a>获三等奖，逄格会的<a href=\"https://www.granshan.com/sites/default/files/Pang%20Gehui_Yang%20Wei_REEJI%20Rolling%20Block%20Font.pdf\">「翻滚积木字库」</a>、厉致谦的<a href=\"https://www.granshan.com/sites/default/files/Zhiqian_Li_Xingkai_Next.pdf\">「行楷 Next」</a>获提名</li> <li>微软推出编程字体 <a href=\"https://devblogs.microsoft.com/commandline/cascadia-code/\">Cascadia Code</a>，<a href=\"https://github.com/microsoft/cascadia-code\">并在 GitHub 开源</a></li> <li>Typotheque 纪念 20 周年庆，<a href=\"https://twitter.com/typotheque/status/1174956550856663040\">全场五折</a></li> <li><a href=\"https://theblog.adobe.com/adobe-brings-fonts-to-ios-in-creative-cloud-mobile/\">Adobe Fonts 登陆 iOS 13</a></li> <li><a href=\"https://www.adobe.com/creativecloud/catalog/mobile.html\">Adobe Creative Cloud 旗下移动设备端 app 一览</a></li> <li><a href=\"https://helpx.adobe.com/indesign/using/whats-new/2020.html\">Adobe InDesign 2020 (v15.0) 版本新特性</a></li> <li><a href=\"https://zhuanlan.zhihu.com/p/86789083\">vivo 定制字体「vivo Type」发布</a>，由<a href=\"https://www.kontrapunkt.com\">丹麦设计机构 Kontrapunkt</a> 及<a href=\"https://www.foundertype.com/index.php/FontofMade/caseVivo.html\">方正字库</a>联合定制</li> <li><a href=\"https://www.logonews.cn/oppo-sans.html\">OPPO 定制字体「OPPO Sans」发布</a>，由<a href=\"https://www.pentagram.com/work/oppo/story\">美国设计机构 Pentagram</a> 及<a href=\"http://www.hanyi.com.cn/weixin/h5/CustomizedFont/OPPOSans.php\">汉仪字库</a>联合定制</li> <li>MIUI 11 发布「动态字体系统」，所用的字体家族「小米兰亭 Pro」由<a href=\"https://mp.weixin.qq.com/s/MkGEhncKAMzKBDZnIWGKAQ\">方正字库</a>定制</li> <li>「Smartisan T 黑」字体家族发布，<a href=\"https://mp.weixin.qq.com/s/bX60Bbj5Otie0rtRgd4Nkw\">基于方正悠黑家族定制</a></li> <li><a href=\"http://www.hanyi.com.cn/news-detail?id=209\">汉仪松阳体</a>，浙江丽水松阳「城市字体」，吴勇主创设计，汉仪字库出品</li> <li>阿根廷出版的西班牙语字体排印主题期刊 <cite>tipoGráfica</cite>，<a href=\"https://www.revistatipografica.com/category/revista/\">在网上免费公开过刊存档</a></li> <li><a href=\"https://goods.klim.co.nz/products/sincerity-irony-heldane-specimen\"><cite>Sincerity/Irony Heldane Specimen Book</cite></a>，Klim Type Foundry 出品的诗集兼字体样张</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>听众朋友早上好，今天是 11 月 26 日又一个星期二，农历冬月初一，欢迎收听全球字体新闻联播。</p> <p>本期节目，首先回顾文字技术相关的消息、值得关注的字体设计竞赛以及海外知名厂商的动向；随后，我们将对比介绍国内手机品牌和操作系统的字体定制案例；最后，向大家推荐两份别具一格的出版物。</p> <p>另，本台微信小程序已上线，由<a href=\"https://qingmang.me/\">轻芒</a>提供技术支持。在微信中<a href=\"https://static.thetype.cloud/typechat/assets/typechat-weapp.jpg\">扫码即可打开</a>，也可搜索「字谈字畅」或「TypeChat」获取。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li>新中国第一代字体设计师徐学成先生<a href=\"https://www.thetype.com/2019/11/17392/\">于 2019 年 11 月 1 日逝世，享年 91 岁</a></li> <li>The Type 的<a href=\"https://www.thetype.com/category/shanghai-type/\">「上海活字」</a>栏目</li> <li>UTC #160 会议上，位于<a href=\"https://twitter.com/unicode/status/1154526880747286528\">扩展 G 区的 4939 个 CJK Unified Ideographs 字符</a>被确认收录至 Unicode 13</li> <li>IRG #25 会议上通过决议<a href=\"https://www.unicode.org/L2/L2019/19238-n5072r-irgn2390-unc-prop-13-chars.pdf\">补录 13 个中国科技用字</a></li> <li>Greg Hitchcock 撰文纪念 <a href=\"https://www.linkedin.com/pulse/thirty-years-truetype-fonts-greg-hitchcock/\">TrueType 技术发布三十周年</a></li> <li>Figma 官方博客撰文<a href=\"https://www.figma.com/blog/opentype-font-features/\">介绍部分 OpenType 特性及其在 Figma 软件中的应用</a></li> <li><a href=\"https://www.provlib.org/research-collections/historical-collections/updike-prize-student-type-design/\">Updike Prize for Student Type Design</a>（Updike 学生字体设计奖）</li> <li><a href=\"https://www.granshan.com/competition-winners-2019\">Granshan 2019 字体设计奖公布</a>；郭永祥的作品<a href=\"https://www.granshan.com/sites/default/files/Yongxiang_Guo_feng%20gu%20kai.pdf\">「风骨楷」</a>获三等奖，逄格会的<a href=\"https://www.granshan.com/sites/default/files/Pang%20Gehui_Yang%20Wei_REEJI%20Rolling%20Block%20Font.pdf\">「翻滚积木字库」</a>、厉致谦的<a href=\"https://www.granshan.com/sites/default/files/Zhiqian_Li_Xingkai_Next.pdf\">「行楷 Next」</a>获提名</li> <li>微软推出编程字体 <a href=\"https://devblogs.microsoft.com/commandline/cascadia-code/\">Cascadia Code</a>，<a href=\"https://github.com/microsoft/cascadia-code\">并在 GitHub 开源</a></li> <li>Typotheque 纪念 20 周年庆，<a href=\"https://twitter.com/typotheque/status/1174956550856663040\">全场五折</a></li> <li><a href=\"https://theblog.adobe.com/adobe-brings-fonts-to-ios-in-creative-cloud-mobile/\">Adobe Fonts 登陆 iOS 13</a></li> <li><a href=\"https://www.adobe.com/creativecloud/catalog/mobile.html\">Adobe Creative Cloud 旗下移动设备端 app 一览</a></li> <li><a href=\"https://helpx.adobe.com/indesign/using/whats-new/2020.html\">Adobe InDesign 2020 (v15.0) 版本新特性</a></li> <li><a href=\"https://zhuanlan.zhihu.com/p/86789083\">vivo 定制字体「vivo Type」发布</a>，由<a href=\"https://www.kontrapunkt.com\">丹麦设计机构 Kontrapunkt</a> 及<a href=\"https://www.foundertype.com/index.php/FontofMade/caseVivo.html\">方正字库</a>联合定制</li> <li><a href=\"https://www.logonews.cn/oppo-sans.html\">OPPO 定制字体「OPPO Sans」发布</a>，由<a href=\"https://www.pentagram.com/work/oppo/story\">美国设计机构 Pentagram</a> 及<a href=\"http://www.hanyi.com.cn/weixin/h5/CustomizedFont/OPPOSans.php\">汉仪字库</a>联合定制</li> <li>MIUI 11 发布「动态字体系统」，所用的字体家族「小米兰亭 Pro」由<a href=\"https://mp.weixin.qq.com/s/MkGEhncKAMzKBDZnIWGKAQ\">方正字库</a>定制</li> <li>「Smartisan T 黑」字体家族发布，<a href=\"https://mp.weixin.qq.com/s/bX60Bbj5Otie0rtRgd4Nkw\">基于方正悠黑家族定制</a></li> <li><a href=\"http://www.hanyi.com.cn/news-detail?id=209\">汉仪松阳体</a>，浙江丽水松阳「城市字体」，吴勇主创设计，汉仪字库出品</li> <li>阿根廷出版的西班牙语字体排印主题期刊 <cite>tipoGráfica</cite>，<a href=\"https://www.revistatipografica.com/category/revista/\">在网上免费公开过刊存档</a></li> <li><a href=\"https://goods.klim.co.nz/products/sincerity-irony-heldane-specimen\"><cite>Sincerity/Irony Heldane Specimen Book</cite></a>，Klim Type Foundry 出品的诗集兼字体样张</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "01:27:42",
+    "subtitle": "2019 字体之秋",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "2019 字体之秋"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>听众朋友早上好，今天是 11 月 26 日又一个星期二，农历冬月初一，欢迎收听全球字体新闻联播。</p> <p>本期节目，首先回顾文字技术相关的消息、值得关注的字体设计竞赛以及海外知名厂商的动向；随后，我们将对比介绍国内手机品牌和操作系统的字体定制案例；最后，向大家推荐两份别具一格的出版物。</p> <p>另，本台微信小程序已上线，由<a href=\"https://qingmang.me/\">轻芒</a>提供技术支持。在微信中<a href=\"https://static.thetype.cloud/typechat/assets/typechat-weapp.jpg\">扫码即可打开</a>，也可搜索「字谈字畅」或「TypeChat」获取。</p> <p>下面是本期内容的详细报道。</p> <h3>参考链接</h3> <ul> <li>新中国第一代字体设计师徐学成先生<a href=\"https://www.thetype.com/2019/11/17392/\">于 2019 年 11 月 1 日逝世，享年 91 岁</a></li> <li>The Type 的<a href=\"https://www.thetype.com/category/shanghai-type/\">「上海活字」</a>栏目</li> <li>UTC #160 会议上，位于<a href=\"https://twitter.com/unicode/status/1154526880747286528\">扩展 G 区的 4939 个 CJK Unified Ideographs 字符</a>被确认收录至 Unicode 13</li> <li>IRG #25 会议上通过决议<a href=\"https://www.unicode.org/L2/L2019/19238-n5072r-irgn2390-unc-prop-13-chars.pdf\">补录 13 个中国科技用字</a></li> <li>Greg Hitchcock 撰文纪念 <a href=\"https://www.linkedin.com/pulse/thirty-years-truetype-fonts-greg-hitchcock/\">TrueType 技术发布三十周年</a></li> <li>Figma 官方博客撰文<a href=\"https://www.figma.com/blog/opentype-font-features/\">介绍部分 OpenType 特性及其在 Figma 软件中的应用</a></li> <li><a href=\"https://www.provlib.org/research-collections/historical-collections/updike-prize-student-type-design/\">Updike Prize for Student Type Design</a>（Updike 学生字体设计奖）</li> <li><a href=\"https://www.granshan.com/competition-winners-2019\">Granshan 2019 字体设计奖公布</a>；郭永祥的作品<a href=\"https://www.granshan.com/sites/default/files/Yongxiang_Guo_feng%20gu%20kai.pdf\">「风骨楷」</a>获三等奖，逄格会的<a href=\"https://www.granshan.com/sites/default/files/Pang%20Gehui_Yang%20Wei_REEJI%20Rolling%20Block%20Font.pdf\">「翻滚积木字库」</a>、厉致谦的<a href=\"https://www.granshan.com/sites/default/files/Zhiqian_Li_Xingkai_Next.pdf\">「行楷 Next」</a>获提名</li> <li>微软推出编程字体 <a href=\"https://devblogs.microsoft.com/commandline/cascadia-code/\">Cascadia Code</a>，<a href=\"https://github.com/microsoft/cascadia-code\">并在 GitHub 开源</a></li> <li>Typotheque 纪念 20 周年庆，<a href=\"https://twitter.com/typotheque/status/1174956550856663040\">全场五折</a></li> <li><a href=\"https://theblog.adobe.com/adobe-brings-fonts-to-ios-in-creative-cloud-mobile/\">Adobe Fonts 登陆 iOS 13</a></li> <li><a href=\"https://www.adobe.com/creativecloud/catalog/mobile.html\">Adobe Creative Cloud 旗下移动设备端 app 一览</a></li> <li><a href=\"https://helpx.adobe.com/indesign/using/whats-new/2020.html\">Adobe InDesign 2020 (v15.0) 版本新特性</a></li> <li><a href=\"https://zhuanlan.zhihu.com/p/86789083\">vivo 定制字体「vivo Type」发布</a>，由<a href=\"https://www.kontrapunkt.com\">丹麦设计机构 Kontrapunkt</a> 及<a href=\"https://www.foundertype.com/index.php/FontofMade/caseVivo.html\">方正字库</a>联合定制</li> <li><a href=\"https://www.logonews.cn/oppo-sans.html\">OPPO 定制字体「OPPO Sans」发布</a>，由<a href=\"https://www.pentagram.com/work/oppo/story\">美国设计机构 Pentagram</a> 及<a href=\"http://www.hanyi.com.cn/weixin/h5/CustomizedFont/OPPOSans.php\">汉仪字库</a>联合定制</li> <li>MIUI 11 发布「动态字体系统」，所用的字体家族「小米兰亭 Pro」由<a href=\"https://mp.weixin.qq.com/s/MkGEhncKAMzKBDZnIWGKAQ\">方正字库</a>定制</li> <li>「Smartisan T 黑」字体家族发布，<a href=\"https://mp.weixin.qq.com/s/bX60Bbj5Otie0rtRgd4Nkw\">基于方正悠黑家族定制</a></li> <li><a href=\"http://www.hanyi.com.cn/news-detail?id=209\">汉仪松阳体</a>，浙江丽水松阳「城市字体」，吴勇主创设计，汉仪字库出品</li> <li>阿根廷出版的西班牙语字体排印主题期刊 <cite>tipoGráfica</cite>，<a href=\"https://www.revistatipografica.com/category/revista/\">在网上免费公开过刊存档</a></li> <li><a href=\"https://goods.klim.co.nz/products/sincerity-irony-heldane-specimen\"><cite>Sincerity/Irony Heldane Specimen Book</cite></a>，Klim Type Foundry 出品的诗集兼字体样张</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://static.thetype.cloud/typechat/assets/typechat113/typechat113-poster.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://static.thetype.cloud/typechat/assets/typechat113/typechat113-poster.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

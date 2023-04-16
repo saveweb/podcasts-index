@@ -1,0 +1,76 @@
+{
+    "title": "#29：主播的日常",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#29：主播的日常"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-029/"
+        },
+        {
+            "length": "21254990",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat029.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-029/",
+    "published": "Tue, 06 Sep 2016 06:38:32 +0800",
+    "published_parsed": [
+        2016,
+        9,
+        5,
+        22,
+        38,
+        32,
+        0,
+        249,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat029.mp3",
+    "guidislink": false,
+    "summary": "<p>这是一期特别节目：同一物理空间中的两位主播，在某个日常的夜晚，就地取材，围绕字体排印展开了没有主题的闲聊。</p> <p>四十分钟，一份杂志，数页样章，几则旧闻，半部通史，以飨听众。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.leapleapleap.com/?lang=zh-hans\">《艺术界》（<cite>LEAP</cite>）</a>，关注中国当代艺术的中、法双语杂志，由杨林青设计</li> <li><a href=\"http://www.type-together.com/Adelle\">Adelle</a>，José Scaglione 及 Veronika Burian 设计，Type Together 出品</li> <li><a href=\"http://www.typography.com/fonts/archer/overview/\">Archer</a>， Tobias Frere-Jones 及 Jonathan Hoefler 设计，Hoefler &amp; Co. 出品</li> <li><a href=\"https://en.wikipedia.org/wiki/Text_figures\">Text figures</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Small_caps\">Small caps</a>（小型大写）</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip\">text-decoration-skip</a> 特性；赋值为「ink」时，可令下划线避让字符着墨的部分</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens\">hyphens</a> 特性</li> <li>Medium 设计师 Marcin Wichary 曾撰文介绍，<a href=\"https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9\">Medium 如何在网页上打磨字符下划线样式</a></li> <li>Medium 曾因自定义键盘快捷键，<a href=\"https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df\">导致波兰文中的「Ś」字符难以输入</a></li> <li>Medium 曾因在字体 fallback 列表的开头加入了「system」字体，<a href=\"https://medium.design/system-shock-6b1dc6d6596f\">触发了 Windows 平台上的一些意外情况</a></li> <li>錢穆．<a href=\"https://book.douban.com/subject/1046492/\">《國史大綱》</a>（上下册）．香港：商務印書館，2013 年</li> <li>双行<a href=\"http://baike.baidu.com/view/2973172.htm\">夹注</a>，古籍中注解排版的一种常用方式</li> <li>标点排版的「开明式」「推出 / 推入」等规则，<a href=\"https://helpx.adobe.com/tw/incopy/using/composing-cjk-characters.html\">可结合 Adobe InDesign 进行实践</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Monotype_System\">Monotype system</a>（Monotype 铸排系统）</li> <li><a href=\"https://en.wikipedia.org/wiki/Linotype_machine\">Linotype machine</a>（Linotype 铸排机）</li> <li><cite><a href=\"http://www.linotypefilm.com/\">Linotype: The Film</a></cite>，Douglas Wilson 等人执导并拍摄的纪录片</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>这是一期特别节目：同一物理空间中的两位主播，在某个日常的夜晚，就地取材，围绕字体排印展开了没有主题的闲聊。</p> <p>四十分钟，一份杂志，数页样章，几则旧闻，半部通史，以飨听众。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.leapleapleap.com/?lang=zh-hans\">《艺术界》（<cite>LEAP</cite>）</a>，关注中国当代艺术的中、法双语杂志，由杨林青设计</li> <li><a href=\"http://www.type-together.com/Adelle\">Adelle</a>，José Scaglione 及 Veronika Burian 设计，Type Together 出品</li> <li><a href=\"http://www.typography.com/fonts/archer/overview/\">Archer</a>， Tobias Frere-Jones 及 Jonathan Hoefler 设计，Hoefler &amp; Co. 出品</li> <li><a href=\"https://en.wikipedia.org/wiki/Text_figures\">Text figures</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Small_caps\">Small caps</a>（小型大写）</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip\">text-decoration-skip</a> 特性；赋值为「ink」时，可令下划线避让字符着墨的部分</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens\">hyphens</a> 特性</li> <li>Medium 设计师 Marcin Wichary 曾撰文介绍，<a href=\"https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9\">Medium 如何在网页上打磨字符下划线样式</a></li> <li>Medium 曾因自定义键盘快捷键，<a href=\"https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df\">导致波兰文中的「Ś」字符难以输入</a></li> <li>Medium 曾因在字体 fallback 列表的开头加入了「system」字体，<a href=\"https://medium.design/system-shock-6b1dc6d6596f\">触发了 Windows 平台上的一些意外情况</a></li> <li>錢穆．<a href=\"https://book.douban.com/subject/1046492/\">《國史大綱》</a>（上下册）．香港：商務印書館，2013 年</li> <li>双行<a href=\"http://baike.baidu.com/view/2973172.htm\">夹注</a>，古籍中注解排版的一种常用方式</li> <li>标点排版的「开明式」「推出 / 推入」等规则，<a href=\"https://helpx.adobe.com/tw/incopy/using/composing-cjk-characters.html\">可结合 Adobe InDesign 进行实践</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Monotype_System\">Monotype system</a>（Monotype 铸排系统）</li> <li><a href=\"https://en.wikipedia.org/wiki/Linotype_machine\">Linotype machine</a>（Linotype 铸排机）</li> <li><cite><a href=\"http://www.linotypefilm.com/\">Linotype: The Film</a></cite>，Douglas Wilson 等人执导并拍摄的纪录片</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "0:44:07",
+    "subtitle": "没有主题的闲聊",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "没有主题的闲聊"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>这是一期特别节目：同一物理空间中的两位主播，在某个日常的夜晚，就地取材，围绕字体排印展开了没有主题的闲聊。</p> <p>四十分钟，一份杂志，数页样章，几则旧闻，半部通史，以飨听众。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.leapleapleap.com/?lang=zh-hans\">《艺术界》（<cite>LEAP</cite>）</a>，关注中国当代艺术的中、法双语杂志，由杨林青设计</li> <li><a href=\"http://www.type-together.com/Adelle\">Adelle</a>，José Scaglione 及 Veronika Burian 设计，Type Together 出品</li> <li><a href=\"http://www.typography.com/fonts/archer/overview/\">Archer</a>， Tobias Frere-Jones 及 Jonathan Hoefler 设计，Hoefler &amp; Co. 出品</li> <li><a href=\"https://en.wikipedia.org/wiki/Text_figures\">Text figures</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Small_caps\">Small caps</a>（小型大写）</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip\">text-decoration-skip</a> 特性；赋值为「ink」时，可令下划线避让字符着墨的部分</li> <li>CSS 的 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens\">hyphens</a> 特性</li> <li>Medium 设计师 Marcin Wichary 曾撰文介绍，<a href=\"https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9\">Medium 如何在网页上打磨字符下划线样式</a></li> <li>Medium 曾因自定义键盘快捷键，<a href=\"https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df\">导致波兰文中的「Ś」字符难以输入</a></li> <li>Medium 曾因在字体 fallback 列表的开头加入了「system」字体，<a href=\"https://medium.design/system-shock-6b1dc6d6596f\">触发了 Windows 平台上的一些意外情况</a></li> <li>錢穆．<a href=\"https://book.douban.com/subject/1046492/\">《國史大綱》</a>（上下册）．香港：商務印書館，2013 年</li> <li>双行<a href=\"http://baike.baidu.com/view/2973172.htm\">夹注</a>，古籍中注解排版的一种常用方式</li> <li>标点排版的「开明式」「推出 / 推入」等规则，<a href=\"https://helpx.adobe.com/tw/incopy/using/composing-cjk-characters.html\">可结合 Adobe InDesign 进行实践</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Monotype_System\">Monotype system</a>（Monotype 铸排系统）</li> <li><a href=\"https://en.wikipedia.org/wiki/Linotype_machine\">Linotype machine</a>（Linotype 铸排机）</li> <li><cite><a href=\"http://www.linotypefilm.com/\">Linotype: The Film</a></cite>，Douglas Wilson 等人执导并拍摄的纪录片</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

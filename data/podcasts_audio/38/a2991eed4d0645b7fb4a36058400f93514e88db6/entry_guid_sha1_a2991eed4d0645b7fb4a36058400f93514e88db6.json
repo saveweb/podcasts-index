@@ -1,0 +1,76 @@
+{
+    "title": "#101：苹果字体极简史（续）「西有旧金山，东现纽约城」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#101：苹果字体极简史（续）「西有旧金山，东现纽约城」"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-101/"
+        },
+        {
+            "length": "72502051",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat101.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-101/",
+    "published": "Tue, 11 Jun 2019 06:20:18 +0800",
+    "published_parsed": [
+        2019,
+        6,
+        10,
+        22,
+        20,
+        18,
+        0,
+        161,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat101.mp3",
+    "guidislink": false,
+    "summary": "<p>WWDC 2019 召开，Apple 发布了一系列关于语言文字及字体排印的新特性。今天，我们就来继续聊聊<a href=\"https://www.thetype.com/2015/10/9609/\">「苹果字体极简史」</a>的又一新篇章。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.zcool.com.cn/special/typechat/\">《字谈字畅》上线站酷</a>，以合集形式编选发布往期节目</li> <li>《字谈字畅》音频开始支持章节功能，通过 <a href=\"http://id3.org/id3v2-chapters-1.0\">ID3 chapter frame</a> 实现</li> <li>美国联邦政府发布开源字体 <a href=\"https://public-sans.digital.gov/\">Public Sans</a>，该字体是 <a href=\"https://designsystem.digital.gov/\">USWDS</a>（United States Web Design System）项目的一部分；Public Sans 源文件在 <a href=\"https://github.com/uswds/public-sans\">GitHub</a> 公开，基于另一开源字体 <a href=\"https://github.com/impallari/Libre-Franklin\">Libre Franklin</a> 修改而来，其设计源于 <a href=\"https://en.wikipedia.org/wiki/Morris_Fuller_Benton\">Morris Fuller Benton</a> 的作品</li> <li>日本森泽公司推出<a href=\"https://en.morisawa.co.jp/about/news/4566\">西文字体家族 Role</a>，已发布的视觉字号、字重及样式变体共 200 款，由 Matthew Carter、岡野邦彦（Kunihiko Okano）与森泽的西文组联合设计</li> <li><a href=\"https://fontelier.com/\">Fontelier</a>，森泽公司针对美国市场开设的字体在线销售网站</li> <li>Matthew Carter 于 6 月 15 日在纽约 Typographics 2019 上发表演讲 <a href=\"https://2019.typographics.com/schedule/matthew-carter\">The Designer’s Role</a>，内容关于 Role 字体家族的设计</li> <li><a href=\"https://developer.apple.com/wwdc19/\">WWDC 2019</a> 于 6 月 3 至 7 日在美国加州圣何塞召开</li> <li><a href=\"https://www.apple.com/newsroom/2019/06/the-new-ipados-powers-unique-experiences-designed-for-ipad/\">在 iPadOS 的 App Store 中</a>，用户将可以购买来自 Adobe、华康、Monotype、森泽及方正出品的字体产品</li> <li><a href=\"https://www.thetype.com/2016/02/10095/\">〈字谈字畅 014：​□□␣□□〉</a>，关于中西文间空隙的讨论</li> <li>Apple 发布<a href=\"https://www.itsnicethat.com/news/apple-new-york-serif-typeface-graphic-design-040619\">衬线体家族 New York</a>，包含多种视觉字号、字重及样式变体，字体名称向 <a href=\"https://en.wikipedia.org/wiki/Susan_Kare\">Susan Kare</a> 设计的经典点阵字体致敬；现可通过 <a href=\"https://developer.apple.com/fonts/\">Apple 开发者网站</a>获取</li> <li>Monotype 字体设计师大曲都市在 Twitter 上提及了 <a href=\"https://twitter.com/Tosche_E/status/1135869517219999744\">New York 字体的设计细节</a></li> <li><a href=\"https://www.apple.com/macos/catalina-preview/\">macOS Catalina</a> 将搭载 <a href=\"https://www.apple.com/macos/catalina-preview/features/#sidecar\">Sidecar 特性</a>，支持用 iPad 扩展 Mac 的屏幕</li> <li>WWDC 2019 Session 227: <a href=\"https://developer.apple.com/videos/play/wwdc2019/227/\">Font Management and Text Scaling</a>《字体管理及字号缩放》</li> <li><a href=\"https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/\">SF Symbols</a>，Apple 发布的图标字体制作工具</li> <li>WWDC 2019 Session 206: <a href=\"https://developer.apple.com/videos/play/wwdc2019/206/\">Introducing SF Symbols</a>《介绍 SF Symbols》</li> </ul> <p>注：《字谈字畅》音频文件下载地址的域名已更换为 <code>static.thetype.cloud</code>，目录及文件名不变；如果在第三方网站遇到过期的下载链接，替换域名部分即可重新访问（例如 <code>thetype.b0.upaiyun.com/typechat/typechat000.mp3</code> → <code>static.thetype.cloud/typechat/typechat000.mp3</code>）。</p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>WWDC 2019 召开，Apple 发布了一系列关于语言文字及字体排印的新特性。今天，我们就来继续聊聊<a href=\"https://www.thetype.com/2015/10/9609/\">「苹果字体极简史」</a>的又一新篇章。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.zcool.com.cn/special/typechat/\">《字谈字畅》上线站酷</a>，以合集形式编选发布往期节目</li> <li>《字谈字畅》音频开始支持章节功能，通过 <a href=\"http://id3.org/id3v2-chapters-1.0\">ID3 chapter frame</a> 实现</li> <li>美国联邦政府发布开源字体 <a href=\"https://public-sans.digital.gov/\">Public Sans</a>，该字体是 <a href=\"https://designsystem.digital.gov/\">USWDS</a>（United States Web Design System）项目的一部分；Public Sans 源文件在 <a href=\"https://github.com/uswds/public-sans\">GitHub</a> 公开，基于另一开源字体 <a href=\"https://github.com/impallari/Libre-Franklin\">Libre Franklin</a> 修改而来，其设计源于 <a href=\"https://en.wikipedia.org/wiki/Morris_Fuller_Benton\">Morris Fuller Benton</a> 的作品</li> <li>日本森泽公司推出<a href=\"https://en.morisawa.co.jp/about/news/4566\">西文字体家族 Role</a>，已发布的视觉字号、字重及样式变体共 200 款，由 Matthew Carter、岡野邦彦（Kunihiko Okano）与森泽的西文组联合设计</li> <li><a href=\"https://fontelier.com/\">Fontelier</a>，森泽公司针对美国市场开设的字体在线销售网站</li> <li>Matthew Carter 于 6 月 15 日在纽约 Typographics 2019 上发表演讲 <a href=\"https://2019.typographics.com/schedule/matthew-carter\">The Designer’s Role</a>，内容关于 Role 字体家族的设计</li> <li><a href=\"https://developer.apple.com/wwdc19/\">WWDC 2019</a> 于 6 月 3 至 7 日在美国加州圣何塞召开</li> <li><a href=\"https://www.apple.com/newsroom/2019/06/the-new-ipados-powers-unique-experiences-designed-for-ipad/\">在 iPadOS 的 App Store 中</a>，用户将可以购买来自 Adobe、华康、Monotype、森泽及方正出品的字体产品</li> <li><a href=\"https://www.thetype.com/2016/02/10095/\">〈字谈字畅 014：​□□␣□□〉</a>，关于中西文间空隙的讨论</li> <li>Apple 发布<a href=\"https://www.itsnicethat.com/news/apple-new-york-serif-typeface-graphic-design-040619\">衬线体家族 New York</a>，包含多种视觉字号、字重及样式变体，字体名称向 <a href=\"https://en.wikipedia.org/wiki/Susan_Kare\">Susan Kare</a> 设计的经典点阵字体致敬；现可通过 <a href=\"https://developer.apple.com/fonts/\">Apple 开发者网站</a>获取</li> <li>Monotype 字体设计师大曲都市在 Twitter 上提及了 <a href=\"https://twitter.com/Tosche_E/status/1135869517219999744\">New York 字体的设计细节</a></li> <li><a href=\"https://www.apple.com/macos/catalina-preview/\">macOS Catalina</a> 将搭载 <a href=\"https://www.apple.com/macos/catalina-preview/features/#sidecar\">Sidecar 特性</a>，支持用 iPad 扩展 Mac 的屏幕</li> <li>WWDC 2019 Session 227: <a href=\"https://developer.apple.com/videos/play/wwdc2019/227/\">Font Management and Text Scaling</a>《字体管理及字号缩放》</li> <li><a href=\"https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/\">SF Symbols</a>，Apple 发布的图标字体制作工具</li> <li>WWDC 2019 Session 206: <a href=\"https://developer.apple.com/videos/play/wwdc2019/206/\">Introducing SF Symbols</a>《介绍 SF Symbols》</li> </ul> <p>注：《字谈字畅》音频文件下载地址的域名已更换为 <code>static.thetype.cloud</code>，目录及文件名不变；如果在第三方网站遇到过期的下载链接，替换域名部分即可重新访问（例如 <code>thetype.b0.upaiyun.com/typechat/typechat000.mp3</code> → <code>static.thetype.cloud/typechat/typechat000.mp3</code>）。</p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "1:40:35",
+    "subtitle": "WWDC 2019",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "WWDC 2019"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>WWDC 2019 召开，Apple 发布了一系列关于语言文字及字体排印的新特性。今天，我们就来继续聊聊<a href=\"https://www.thetype.com/2015/10/9609/\">「苹果字体极简史」</a>的又一新篇章。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.zcool.com.cn/special/typechat/\">《字谈字畅》上线站酷</a>，以合集形式编选发布往期节目</li> <li>《字谈字畅》音频开始支持章节功能，通过 <a href=\"http://id3.org/id3v2-chapters-1.0\">ID3 chapter frame</a> 实现</li> <li>美国联邦政府发布开源字体 <a href=\"https://public-sans.digital.gov/\">Public Sans</a>，该字体是 <a href=\"https://designsystem.digital.gov/\">USWDS</a>（United States Web Design System）项目的一部分；Public Sans 源文件在 <a href=\"https://github.com/uswds/public-sans\">GitHub</a> 公开，基于另一开源字体 <a href=\"https://github.com/impallari/Libre-Franklin\">Libre Franklin</a> 修改而来，其设计源于 <a href=\"https://en.wikipedia.org/wiki/Morris_Fuller_Benton\">Morris Fuller Benton</a> 的作品</li> <li>日本森泽公司推出<a href=\"https://en.morisawa.co.jp/about/news/4566\">西文字体家族 Role</a>，已发布的视觉字号、字重及样式变体共 200 款，由 Matthew Carter、岡野邦彦（Kunihiko Okano）与森泽的西文组联合设计</li> <li><a href=\"https://fontelier.com/\">Fontelier</a>，森泽公司针对美国市场开设的字体在线销售网站</li> <li>Matthew Carter 于 6 月 15 日在纽约 Typographics 2019 上发表演讲 <a href=\"https://2019.typographics.com/schedule/matthew-carter\">The Designer’s Role</a>，内容关于 Role 字体家族的设计</li> <li><a href=\"https://developer.apple.com/wwdc19/\">WWDC 2019</a> 于 6 月 3 至 7 日在美国加州圣何塞召开</li> <li><a href=\"https://www.apple.com/newsroom/2019/06/the-new-ipados-powers-unique-experiences-designed-for-ipad/\">在 iPadOS 的 App Store 中</a>，用户将可以购买来自 Adobe、华康、Monotype、森泽及方正出品的字体产品</li> <li><a href=\"https://www.thetype.com/2016/02/10095/\">〈字谈字畅 014：​□□␣□□〉</a>，关于中西文间空隙的讨论</li> <li>Apple 发布<a href=\"https://www.itsnicethat.com/news/apple-new-york-serif-typeface-graphic-design-040619\">衬线体家族 New York</a>，包含多种视觉字号、字重及样式变体，字体名称向 <a href=\"https://en.wikipedia.org/wiki/Susan_Kare\">Susan Kare</a> 设计的经典点阵字体致敬；现可通过 <a href=\"https://developer.apple.com/fonts/\">Apple 开发者网站</a>获取</li> <li>Monotype 字体设计师大曲都市在 Twitter 上提及了 <a href=\"https://twitter.com/Tosche_E/status/1135869517219999744\">New York 字体的设计细节</a></li> <li><a href=\"https://www.apple.com/macos/catalina-preview/\">macOS Catalina</a> 将搭载 <a href=\"https://www.apple.com/macos/catalina-preview/features/#sidecar\">Sidecar 特性</a>，支持用 iPad 扩展 Mac 的屏幕</li> <li>WWDC 2019 Session 227: <a href=\"https://developer.apple.com/videos/play/wwdc2019/227/\">Font Management and Text Scaling</a>《字体管理及字号缩放》</li> <li><a href=\"https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/\">SF Symbols</a>，Apple 发布的图标字体制作工具</li> <li>WWDC 2019 Session 206: <a href=\"https://developer.apple.com/videos/play/wwdc2019/206/\">Introducing SF Symbols</a>《介绍 SF Symbols》</li> </ul> <p>注：《字谈字畅》音频文件下载地址的域名已更换为 <code>static.thetype.cloud</code>，目录及文件名不变；如果在第三方网站遇到过期的下载链接，替换域名部分即可重新访问（例如 <code>thetype.b0.upaiyun.com/typechat/typechat000.mp3</code> → <code>static.thetype.cloud/typechat/typechat000.mp3</code>）。</p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

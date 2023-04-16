@@ -1,0 +1,76 @@
+{
+    "title": "#64：Kerning Panic·字谈字串（六）Emoji（再次）拯救世界",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#64：Kerning Panic·字谈字串（六）Emoji（再次）拯救世界"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-064/"
+        },
+        {
+            "length": "44403809",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat064.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-064/",
+    "published": "Tue, 09 Jan 2018 06:07:54 +0800",
+    "published_parsed": [
+        2018,
+        1,
+        8,
+        22,
+        7,
+        54,
+        0,
+        8,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat064.mp3",
+    "guidislink": false,
+    "summary": "<p>Emoji 自进入 Unicode 字符集，持续扩增着图标的数量，关注及争议随之而来。Emoji 的普及当然也离不开软件对其的支持。今天，我们与《内核恐慌》的两位主播久别重聚，从字符集、编码技术、字体、应用软件等多个视角，不中立、不全面、不深刻地（再次）闲聊绘文字。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://t.cn/RHsYl35\">Gudrun Zapf-von Hesse</a>（古德龙·察普夫-冯·哈塞）的经典作品 <a href=\"http://t.cn/RHsYjVg\">Hesse Antiqua</a> 发布数码版本，由 Gudrun Zapf 及 <a href=\"http://t.cn/RHsYYKn\">Ferdinand Ulrich</a> 合作设计，Monotpye 出品</li> <li>国际标准 <a href=\"http://t.cn/RHsYTFA\">ISO/IEC 10646:2017</a> 发布，与 Unicode 10.0 进行同步</li> <li><a href=\"http://t.cn/RHsYQui\">Kerning Panic·字谈字串（三）&#x1f399;&#x1f602;&#x1f913;&#x1f911;&#x1f60c;</a></li> <li><a href=\"http://t.cn/RHsYRp4\">UTF-16</a> 和 <a href=\"http://t.cn/RYf1IFH\">surrogates</a>；Unicode FAQ <a href=\"http://t.cn/RHsYmEJ\">关于 UTF-16 的其他释疑</a>，亦可供参考</li> <li><a href=\"http://t.cn/RHsY3ZE\">Wide character（宽字节）</a></li> <li>Unicode FAQ 关于 <a href=\"http://t.cn/RHsY1fn\">UTF-8</a> 和 <a href=\"http://t.cn/RHsYBp3\">UTF-32</a> 的释疑</li> <li><a href=\"http://t.cn/RHsYgbk\">Unicode plane（平面）</a></li> <li>Colin M. Ford 在 Medium 上撰文<a href=\"http://t.cn/RfT0iTm\">介绍 emoji 字体的常见格式及相关技术信息</a> <ul> <li>Google/FreeType 基于 OpenType 的 <a href=\"http://t.cn/RfT0XVb\">CBDT</a> 和 <a href=\"http://t.cn/RfT0Svn\">CBLC</a> 实现</li> <li>Apple 基于 TrueType 的私有扩展 <a href=\"http://t.cn/RfT0olr\">sbix</a> 实现</li> <li>Microsoft 基于 OpenType 的 <a href=\"http://t.cn/RfT0Ntn\">COLR</a> 和 <a href=\"http://t.cn/RfT00e7\">CPAL</a> 实现</li> <li>Adobe/Firefox 基于 OpenType 的 <a href=\"http://t.cn/RfT0lAd\">SVG</a> 实现</li> </ul> </li> <li>区分特定符号的文本形态和 emoji 形态 <ul> <li><a href=\"http://t.cn/RHsT7b6\">ISO 15924 四字母文种代码</a>定义了「Zsym」和「Zsye」</li> <li><a href=\"http://t.cn/RHsT7YH\">Unicode Emoji Locale Extension</a> 定义了「-em」扩展代码</li> <li><a href=\"http://t.cn/RHsTz7e\">Unicode Emoji Presentation Sequences</a> 定义了两个变体选择器 VS-15 (U+FE0E) 和 VS-16 (U+FE0F)</li> </ul> </li> <li>Unicode FAQ 关于 <a href=\"http://t.cn/RHsTzXN\">VS（变体序列）</a>及 <a href=\"http://t.cn/RHsTzBn\">IVS（表意字符变体序列）</a>的释疑</li> <li><a href=\"http://t.cn/RfT0ukO\">Unicode Emoji Sequences</a></li> <li><a href=\"http://t.cn/RHsTZdq\">UTS #52: Unicode Emoji Mechanisms</a>，其中包含 emoji tag sequence 的提案</li> <li><a href=\"http://t.cn/RHsTw0l\">UAX #29: Unicode Text Segmentation</a></li> <li>Twitter 在去年 9 月<a href=\"http://t.cn/R0pZkBp\">部分地升高了单条 tweet 的字符上限</a></li> <li><a href=\"http://t.cn/hC7PaB\">《洛杉矶时报》曾报道短信字符数上限值的来源</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：<a href=\"https://www.angruo.com/\">昂若资本</a>合伙人，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://crazy.capital/\">《疯投圈》</a>及<a href=\"https://kernelpanic.fm/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://kernelpanic.fm/\">《内核恐慌》（Kernel Panic）</a>是吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>Emoji 自进入 Unicode 字符集，持续扩增着图标的数量，关注及争议随之而来。Emoji 的普及当然也离不开软件对其的支持。今天，我们与《内核恐慌》的两位主播久别重聚，从字符集、编码技术、字体、应用软件等多个视角，不中立、不全面、不深刻地（再次）闲聊绘文字。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://t.cn/RHsYl35\">Gudrun Zapf-von Hesse</a>（古德龙·察普夫-冯·哈塞）的经典作品 <a href=\"http://t.cn/RHsYjVg\">Hesse Antiqua</a> 发布数码版本，由 Gudrun Zapf 及 <a href=\"http://t.cn/RHsYYKn\">Ferdinand Ulrich</a> 合作设计，Monotpye 出品</li> <li>国际标准 <a href=\"http://t.cn/RHsYTFA\">ISO/IEC 10646:2017</a> 发布，与 Unicode 10.0 进行同步</li> <li><a href=\"http://t.cn/RHsYQui\">Kerning Panic·字谈字串（三）&#x1f399;&#x1f602;&#x1f913;&#x1f911;&#x1f60c;</a></li> <li><a href=\"http://t.cn/RHsYRp4\">UTF-16</a> 和 <a href=\"http://t.cn/RYf1IFH\">surrogates</a>；Unicode FAQ <a href=\"http://t.cn/RHsYmEJ\">关于 UTF-16 的其他释疑</a>，亦可供参考</li> <li><a href=\"http://t.cn/RHsY3ZE\">Wide character（宽字节）</a></li> <li>Unicode FAQ 关于 <a href=\"http://t.cn/RHsY1fn\">UTF-8</a> 和 <a href=\"http://t.cn/RHsYBp3\">UTF-32</a> 的释疑</li> <li><a href=\"http://t.cn/RHsYgbk\">Unicode plane（平面）</a></li> <li>Colin M. Ford 在 Medium 上撰文<a href=\"http://t.cn/RfT0iTm\">介绍 emoji 字体的常见格式及相关技术信息</a> <ul> <li>Google/FreeType 基于 OpenType 的 <a href=\"http://t.cn/RfT0XVb\">CBDT</a> 和 <a href=\"http://t.cn/RfT0Svn\">CBLC</a> 实现</li> <li>Apple 基于 TrueType 的私有扩展 <a href=\"http://t.cn/RfT0olr\">sbix</a> 实现</li> <li>Microsoft 基于 OpenType 的 <a href=\"http://t.cn/RfT0Ntn\">COLR</a> 和 <a href=\"http://t.cn/RfT00e7\">CPAL</a> 实现</li> <li>Adobe/Firefox 基于 OpenType 的 <a href=\"http://t.cn/RfT0lAd\">SVG</a> 实现</li> </ul> </li> <li>区分特定符号的文本形态和 emoji 形态 <ul> <li><a href=\"http://t.cn/RHsT7b6\">ISO 15924 四字母文种代码</a>定义了「Zsym」和「Zsye」</li> <li><a href=\"http://t.cn/RHsT7YH\">Unicode Emoji Locale Extension</a> 定义了「-em」扩展代码</li> <li><a href=\"http://t.cn/RHsTz7e\">Unicode Emoji Presentation Sequences</a> 定义了两个变体选择器 VS-15 (U+FE0E) 和 VS-16 (U+FE0F)</li> </ul> </li> <li>Unicode FAQ 关于 <a href=\"http://t.cn/RHsTzXN\">VS（变体序列）</a>及 <a href=\"http://t.cn/RHsTzBn\">IVS（表意字符变体序列）</a>的释疑</li> <li><a href=\"http://t.cn/RfT0ukO\">Unicode Emoji Sequences</a></li> <li><a href=\"http://t.cn/RHsTZdq\">UTS #52: Unicode Emoji Mechanisms</a>，其中包含 emoji tag sequence 的提案</li> <li><a href=\"http://t.cn/RHsTw0l\">UAX #29: Unicode Text Segmentation</a></li> <li>Twitter 在去年 9 月<a href=\"http://t.cn/R0pZkBp\">部分地升高了单条 tweet 的字符上限</a></li> <li><a href=\"http://t.cn/hC7PaB\">《洛杉矶时报》曾报道短信字符数上限值的来源</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：<a href=\"https://www.angruo.com/\">昂若资本</a>合伙人，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://crazy.capital/\">《疯投圈》</a>及<a href=\"https://kernelpanic.fm/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://kernelpanic.fm/\">《内核恐慌》（Kernel Panic）</a>是吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "1:32:11",
+    "subtitle": "绘文字也是一整套技术问题",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "绘文字也是一整套技术问题"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>Emoji 自进入 Unicode 字符集，持续扩增着图标的数量，关注及争议随之而来。Emoji 的普及当然也离不开软件对其的支持。今天，我们与《内核恐慌》的两位主播久别重聚，从字符集、编码技术、字体、应用软件等多个视角，不中立、不全面、不深刻地（再次）闲聊绘文字。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://t.cn/RHsYl35\">Gudrun Zapf-von Hesse</a>（古德龙·察普夫-冯·哈塞）的经典作品 <a href=\"http://t.cn/RHsYjVg\">Hesse Antiqua</a> 发布数码版本，由 Gudrun Zapf 及 <a href=\"http://t.cn/RHsYYKn\">Ferdinand Ulrich</a> 合作设计，Monotpye 出品</li> <li>国际标准 <a href=\"http://t.cn/RHsYTFA\">ISO/IEC 10646:2017</a> 发布，与 Unicode 10.0 进行同步</li> <li><a href=\"http://t.cn/RHsYQui\">Kerning Panic·字谈字串（三）&#x1f399;&#x1f602;&#x1f913;&#x1f911;&#x1f60c;</a></li> <li><a href=\"http://t.cn/RHsYRp4\">UTF-16</a> 和 <a href=\"http://t.cn/RYf1IFH\">surrogates</a>；Unicode FAQ <a href=\"http://t.cn/RHsYmEJ\">关于 UTF-16 的其他释疑</a>，亦可供参考</li> <li><a href=\"http://t.cn/RHsY3ZE\">Wide character（宽字节）</a></li> <li>Unicode FAQ 关于 <a href=\"http://t.cn/RHsY1fn\">UTF-8</a> 和 <a href=\"http://t.cn/RHsYBp3\">UTF-32</a> 的释疑</li> <li><a href=\"http://t.cn/RHsYgbk\">Unicode plane（平面）</a></li> <li>Colin M. Ford 在 Medium 上撰文<a href=\"http://t.cn/RfT0iTm\">介绍 emoji 字体的常见格式及相关技术信息</a> <ul> <li>Google/FreeType 基于 OpenType 的 <a href=\"http://t.cn/RfT0XVb\">CBDT</a> 和 <a href=\"http://t.cn/RfT0Svn\">CBLC</a> 实现</li> <li>Apple 基于 TrueType 的私有扩展 <a href=\"http://t.cn/RfT0olr\">sbix</a> 实现</li> <li>Microsoft 基于 OpenType 的 <a href=\"http://t.cn/RfT0Ntn\">COLR</a> 和 <a href=\"http://t.cn/RfT00e7\">CPAL</a> 实现</li> <li>Adobe/Firefox 基于 OpenType 的 <a href=\"http://t.cn/RfT0lAd\">SVG</a> 实现</li> </ul> </li> <li>区分特定符号的文本形态和 emoji 形态 <ul> <li><a href=\"http://t.cn/RHsT7b6\">ISO 15924 四字母文种代码</a>定义了「Zsym」和「Zsye」</li> <li><a href=\"http://t.cn/RHsT7YH\">Unicode Emoji Locale Extension</a> 定义了「-em」扩展代码</li> <li><a href=\"http://t.cn/RHsTz7e\">Unicode Emoji Presentation Sequences</a> 定义了两个变体选择器 VS-15 (U+FE0E) 和 VS-16 (U+FE0F)</li> </ul> </li> <li>Unicode FAQ 关于 <a href=\"http://t.cn/RHsTzXN\">VS（变体序列）</a>及 <a href=\"http://t.cn/RHsTzBn\">IVS（表意字符变体序列）</a>的释疑</li> <li><a href=\"http://t.cn/RfT0ukO\">Unicode Emoji Sequences</a></li> <li><a href=\"http://t.cn/RHsTZdq\">UTS #52: Unicode Emoji Mechanisms</a>，其中包含 emoji tag sequence 的提案</li> <li><a href=\"http://t.cn/RHsTw0l\">UAX #29: Unicode Text Segmentation</a></li> <li>Twitter 在去年 9 月<a href=\"http://t.cn/R0pZkBp\">部分地升高了单条 tweet 的字符上限</a></li> <li><a href=\"http://t.cn/hC7PaB\">《洛杉矶时报》曾报道短信字符数上限值的来源</a></li> </ul> <h3>主播</h3> <ul> <li>Rio：<a href=\"https://www.angruo.com/\">昂若资本</a>合伙人，IPN 联合创始人，<a href=\"https://apple4us.com/\">Apple4us</a> 程序员，<a href=\"https://ipn.li/itgonglun/\">《IT 公论》</a><a href=\"https://crazy.capital/\">《疯投圈》</a>及<a href=\"https://kernelpanic.fm/\">《内核恐慌》</a>主播</li> <li>吴涛：<a href=\"https://www.thetype.com/author/foxwu/\">Type is Beautiful</a> 程序员，<a href=\"https://ipn.li/kernelpanic/\">《内核恐慌》</a>主播</li> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p><a href=\"https://kernelpanic.fm/\">《内核恐慌》（Kernel Panic）</a>是吴涛和 Rio 做的播客，首播于 2014 年 10 月。号称硬核，可也没什么干货。想听的人听，不想听的人就别听。</p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, Rio, 吴涛"
+        }
+    ],
+    "author": "Eric, 蒸鱼, Rio, 吴涛",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, Rio, 吴涛"
+    },
+    "itunes_explicit": false
+}

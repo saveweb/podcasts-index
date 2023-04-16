@@ -1,0 +1,76 @@
+{
+    "title": "#129：苹果字体极简史（再续）「当视觉字号遇见可变字体」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#129：苹果字体极简史（再续）「当视觉字号遇见可变字体」"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-129/"
+        },
+        {
+            "length": "46927708",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat129.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-129/",
+    "published": "Tue, 07 Jul 2020 06:25:04 +0800",
+    "published_parsed": [
+        2020,
+        7,
+        6,
+        22,
+        25,
+        4,
+        0,
+        188,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat129.mp3",
+    "guidislink": false,
+    "summary": "<p>WWDC 2020 召开，「苹果字体极简史」再续新篇。本期节目，我们侧重关注 UI 字体排印领域中 Apple 发布的新特性，及其设计原理和应用方式。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.atypi.org/conferences/all-over-2020\">ATypI 2020 All Over</a> 拟在 2020 年 10 月 27 至 31 日举办线上会议；<a href=\"https://atypi2020.dryfta.com/\">面向全球征集与会提案</a>，包括演讲、展示及工作坊等，截至 7 月 15 日</li> <li><a href=\"https://developer.apple.com/wwdc20/\">WWDC 2020</a> 于 6 月 22 日在线上召开</li> <li><a href=\"https://zh.wikipedia.org/wiki/Rosetta\">Rosetta</a>，Apple 开发的动态二进制翻译器，用于在 Intel 架构上运行 PowerPC 软件；WWDC 2020 发布的 macOS Big Sur 操作系统将搭载新版 Rosetta 2，<a href=\"https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment\">用于在 <code>arm64</code> 架构上运行 <code>x86_64</code> 软件</a></li> <li><cite>Human Interface Guidelines</cite> <a href=\"https://developer.apple.com/design/whats-new/\">最近更新</a></li> <li>WWDC 2020 讲座：<cite><a href=\"https://developer.apple.com/videos/play/wwdc2020/10175/\">The details of UI typography</a></cite>（UI 字体排印的细节）</li> <li><a href=\"https://developer.apple.com/fonts/\">Apple 系统字体</a></li> <li>视觉字号（<a href=\"https://en.wikipedia.org/wiki/Font#Optical_size\">optical size</a>）</li> <li><a href=\"https://www.fontshop.com/families/ff-clifford\">FF Clifford</a>，小林章于 1999 年设计的西文衬线体家族，FontFont 出品</li> <li><a href=\"https://fonts.adobe.com/fonts/arno\">Arno Pro</a>，Robert Slimbach 于 2006 年设计的西文衬线体家族，Adobe Originals 出品</li> <li>苹果提供了 <a href=\"https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/typography/\">macOS</a>、<a href=\"https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/\">iOS</a>、<a href=\"https://developer.apple.com/design/human-interface-guidelines/watchos/visual/typography/\">watchOS</a> 和 <a href=\"https://developer.apple.com/design/human-interface-guidelines/tvos/visual-design/typography/\">tvOS</a> 各平台中字体排印的信息，包括 UI 里各字号对应的字符间距调整（tracking）数值表、文本样式（text style）的名称及具体属性等</li> <li>CSS 属性值 <a href=\"https://caniuse.com/#feat=font-family-system-ui\"><code>system-ui</code> 当下的实现状况</a></li> <li><a href=\"https://developer.apple.com/sf-symbols/\">SF Symbols 2</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>WWDC 2020 召开，「苹果字体极简史」再续新篇。本期节目，我们侧重关注 UI 字体排印领域中 Apple 发布的新特性，及其设计原理和应用方式。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.atypi.org/conferences/all-over-2020\">ATypI 2020 All Over</a> 拟在 2020 年 10 月 27 至 31 日举办线上会议；<a href=\"https://atypi2020.dryfta.com/\">面向全球征集与会提案</a>，包括演讲、展示及工作坊等，截至 7 月 15 日</li> <li><a href=\"https://developer.apple.com/wwdc20/\">WWDC 2020</a> 于 6 月 22 日在线上召开</li> <li><a href=\"https://zh.wikipedia.org/wiki/Rosetta\">Rosetta</a>，Apple 开发的动态二进制翻译器，用于在 Intel 架构上运行 PowerPC 软件；WWDC 2020 发布的 macOS Big Sur 操作系统将搭载新版 Rosetta 2，<a href=\"https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment\">用于在 <code>arm64</code> 架构上运行 <code>x86_64</code> 软件</a></li> <li><cite>Human Interface Guidelines</cite> <a href=\"https://developer.apple.com/design/whats-new/\">最近更新</a></li> <li>WWDC 2020 讲座：<cite><a href=\"https://developer.apple.com/videos/play/wwdc2020/10175/\">The details of UI typography</a></cite>（UI 字体排印的细节）</li> <li><a href=\"https://developer.apple.com/fonts/\">Apple 系统字体</a></li> <li>视觉字号（<a href=\"https://en.wikipedia.org/wiki/Font#Optical_size\">optical size</a>）</li> <li><a href=\"https://www.fontshop.com/families/ff-clifford\">FF Clifford</a>，小林章于 1999 年设计的西文衬线体家族，FontFont 出品</li> <li><a href=\"https://fonts.adobe.com/fonts/arno\">Arno Pro</a>，Robert Slimbach 于 2006 年设计的西文衬线体家族，Adobe Originals 出品</li> <li>苹果提供了 <a href=\"https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/typography/\">macOS</a>、<a href=\"https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/\">iOS</a>、<a href=\"https://developer.apple.com/design/human-interface-guidelines/watchos/visual/typography/\">watchOS</a> 和 <a href=\"https://developer.apple.com/design/human-interface-guidelines/tvos/visual-design/typography/\">tvOS</a> 各平台中字体排印的信息，包括 UI 里各字号对应的字符间距调整（tracking）数值表、文本样式（text style）的名称及具体属性等</li> <li>CSS 属性值 <a href=\"https://caniuse.com/#feat=font-family-system-ui\"><code>system-ui</code> 当下的实现状况</a></li> <li><a href=\"https://developer.apple.com/sf-symbols/\">SF Symbols 2</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "01:05:04",
+    "subtitle": "WWDC20",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "WWDC20"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>WWDC 2020 召开，「苹果字体极简史」再续新篇。本期节目，我们侧重关注 UI 字体排印领域中 Apple 发布的新特性，及其设计原理和应用方式。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://www.atypi.org/conferences/all-over-2020\">ATypI 2020 All Over</a> 拟在 2020 年 10 月 27 至 31 日举办线上会议；<a href=\"https://atypi2020.dryfta.com/\">面向全球征集与会提案</a>，包括演讲、展示及工作坊等，截至 7 月 15 日</li> <li><a href=\"https://developer.apple.com/wwdc20/\">WWDC 2020</a> 于 6 月 22 日在线上召开</li> <li><a href=\"https://zh.wikipedia.org/wiki/Rosetta\">Rosetta</a>，Apple 开发的动态二进制翻译器，用于在 Intel 架构上运行 PowerPC 软件；WWDC 2020 发布的 macOS Big Sur 操作系统将搭载新版 Rosetta 2，<a href=\"https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment\">用于在 <code>arm64</code> 架构上运行 <code>x86_64</code> 软件</a></li> <li><cite>Human Interface Guidelines</cite> <a href=\"https://developer.apple.com/design/whats-new/\">最近更新</a></li> <li>WWDC 2020 讲座：<cite><a href=\"https://developer.apple.com/videos/play/wwdc2020/10175/\">The details of UI typography</a></cite>（UI 字体排印的细节）</li> <li><a href=\"https://developer.apple.com/fonts/\">Apple 系统字体</a></li> <li>视觉字号（<a href=\"https://en.wikipedia.org/wiki/Font#Optical_size\">optical size</a>）</li> <li><a href=\"https://www.fontshop.com/families/ff-clifford\">FF Clifford</a>，小林章于 1999 年设计的西文衬线体家族，FontFont 出品</li> <li><a href=\"https://fonts.adobe.com/fonts/arno\">Arno Pro</a>，Robert Slimbach 于 2006 年设计的西文衬线体家族，Adobe Originals 出品</li> <li>苹果提供了 <a href=\"https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/typography/\">macOS</a>、<a href=\"https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/\">iOS</a>、<a href=\"https://developer.apple.com/design/human-interface-guidelines/watchos/visual/typography/\">watchOS</a> 和 <a href=\"https://developer.apple.com/design/human-interface-guidelines/tvos/visual-design/typography/\">tvOS</a> 各平台中字体排印的信息，包括 UI 里各字号对应的字符间距调整（tracking）数值表、文本样式（text style）的名称及具体属性等</li> <li>CSS 属性值 <a href=\"https://caniuse.com/#feat=font-family-system-ui\"><code>system-ui</code> 当下的实现状况</a></li> <li><a href=\"https://developer.apple.com/sf-symbols/\">SF Symbols 2</a></li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2020/07/TypeChat129-sq.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2020/07/TypeChat129-sq.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

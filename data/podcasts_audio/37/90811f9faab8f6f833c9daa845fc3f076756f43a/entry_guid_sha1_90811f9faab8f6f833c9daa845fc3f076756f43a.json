@@ -1,0 +1,81 @@
+{
+    "title": "#31 谷大白话是谁？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#31 谷大白话是谁？"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/gudabaihua"
+        },
+        {
+            "length": "41874707",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/2c9f4504-6b19-40e9-b45f-19fd9dd02345.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/gudabaihua",
+    "id": "http://audio.xmcdn.com/group30/M05/87/89/wKgJXllyDH_T6Ms6AT6CEP0g0vU959.m4a",
+    "guidislink": false,
+    "published": "Fri, 21 Jul 2017 22:00:00 +0800",
+    "published_parsed": [
+        2017,
+        7,
+        21,
+        14,
+        0,
+        0,
+        4,
+        202,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "42:58",
+    "itunes_explicit": null,
+    "summary": "<p>和谷大白话聊天的第三期。月亮的真面目终于要揭晓了。我们聊到了迪士尼、搅动好莱坞的Netflix，BGM和KOL的说法都并非来自英语世界，以及谷大真的不是英语专业的，那他究竟是怎么做到的？ </p>\n\n<h3>节目中提到的一些信息：</h3>\n\n<p>谷大白话微博：<a href=\"https://weibo.com/ichthy?from=feed&amp;loc=at&amp;nick=%E8%B0%B7%E5%A4%A7%E7%99%BD%E8%AF%9D&amp;is_all=1\" rel=\"nofollow\">@谷大白话</a></p><p>Special Guest: 谷大白话.</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>和谷大白话聊天的第三期。月亮的真面目终于要揭晓了。我们聊到了迪士尼、搅动好莱坞的Netflix，BGM和KOL的说法都并非来自英语世界，以及谷大真的不是英语专业的，那他究竟是怎么做到的？ </p>\n\n<h3>节目中提到的一些信息：</h3>\n\n<p>谷大白话微博：<a href=\"https://weibo.com/ichthy?from=feed&amp;loc=at&amp;nick=%E8%B0%B7%E5%A4%A7%E7%99%BD%E8%AF%9D&amp;is_all=1\" rel=\"nofollow\">@谷大白话</a></p><p>Special Guest: 谷大白话.</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>和谷大白话聊天的第三期。月亮的真面目终于要揭晓了。我们聊到了迪士尼、搅动好莱坞的Netflix，BGM和KOL的说法都并非来自英语世界，以及谷大真的不是英语专业的，那他究竟是怎么做到的？ </p>\n\n<h3>节目中提到的一些信息：</h3>\n\n<p>谷大白话微博：<a href=\"https://weibo.com/ichthy?from=feed&amp;loc=at&amp;nick=%E8%B0%B7%E5%A4%A7%E7%99%BD%E8%AF%9D&amp;is_all=1\" rel=\"nofollow\">@谷大白话</a></p><p>Special Guest: 谷大白话.</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+8z0PHBLt",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+8z0PHBLt\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "http://weibo.com/ichthy",
+        "role": "guest"
+    }
+}

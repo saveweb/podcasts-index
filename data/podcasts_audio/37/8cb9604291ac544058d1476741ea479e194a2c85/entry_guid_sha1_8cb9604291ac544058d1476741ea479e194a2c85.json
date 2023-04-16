@@ -1,0 +1,81 @@
+{
+    "title": "#12 春节十天，美国发生了什么？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#12 春节十天，美国发生了什么？"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/trump-president"
+        },
+        {
+            "length": "61727891",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/368f5481-5351-4cce-8e35-38c0c4a55d8b.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/trump-president",
+    "id": "http://audio.xmcdn.com/group24/M05/5B/DC/wKgJNViWftzwUoCHATuQw2W9JB4153.m4a",
+    "guidislink": false,
+    "published": "Sun, 05 Feb 2017 09:00:00 +0800",
+    "published_parsed": [
+        2017,
+        2,
+        5,
+        1,
+        0,
+        0,
+        6,
+        36,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "42:34",
+    "itunes_explicit": null,
+    "summary": "<p>有一点是不用怀疑的，华盛顿肯定会继续成为这一年的新闻中心。每一天都有新的剧情更新，实在是难为了5月份要回归的《纸牌屋》。那本经久不息的《1984》如今销量也开始暴涨。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>有一点是不用怀疑的，华盛顿肯定会继续成为这一年的新闻中心。每一天都有新的剧情更新，实在是难为了5月份要回归的《纸牌屋》。那本经久不息的《1984》如今销量也开始暴涨。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>有一点是不用怀疑的，华盛顿肯定会继续成为这一年的新闻中心。每一天都有新的剧情更新，实在是难为了5月份要回归的《纸牌屋》。那本经久不息的《1984》如今销量也开始暴涨。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+qRfRnDzh",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+qRfRnDzh\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

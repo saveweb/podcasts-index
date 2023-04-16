@@ -1,0 +1,81 @@
+{
+    "title": "#3 硅谷大佬们为什么要忍辱吞声",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#3 硅谷大佬们为什么要忍辱吞声"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/silicon-valley-trump"
+        },
+        {
+            "length": "47960955",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/f52d8547-446c-405a-9d5b-7bd46583e6c3.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/silicon-valley-trump",
+    "id": "http://aod.ws.xmcdn.com/group21/M0B/D0/0A/wKgJKFhV4VaBhH4fAPKEPcGoVfY781.m4a",
+    "guidislink": false,
+    "published": "Sun, 18 Dec 2016 09:00:00 +0800",
+    "published_parsed": [
+        2016,
+        12,
+        18,
+        1,
+        0,
+        0,
+        6,
+        353,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "33:00",
+    "itunes_explicit": null,
+    "summary": "<p>这次我们聊的这个话题，是名符其实的美西硅谷大佬们被美东的未来总统敲打了一番。恩，蛮声东击西的。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>这次我们聊的这个话题，是名符其实的美西硅谷大佬们被美东的未来总统敲打了一番。恩，蛮声东击西的。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>这次我们聊的这个话题，是名符其实的美西硅谷大佬们被美东的未来总统敲打了一番。恩，蛮声东击西的。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+jNgOMj-l",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+jNgOMj-l\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

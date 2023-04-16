@@ -1,0 +1,76 @@
+{
+    "title": "#143：「中文电子书为什么还这么差？」",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#143：「中文电子书为什么还这么差？」"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-143/"
+        },
+        {
+            "length": "55487688",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat143.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-143/",
+    "published": "Tue, 19 Jan 2021 07:25:33 +0800",
+    "published_parsed": [
+        2021,
+        1,
+        18,
+        23,
+        25,
+        33,
+        0,
+        18,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat143.mp3",
+    "guidislink": false,
+    "summary": "<p>中文电子书的现状如何？其技术标准及设计实现有了哪些进步、存在哪些问题？时隔五年，我们又一次邀来数字出版专家 Bobby（董福兴）先生，为大家介绍关于中文电子书的字体排印，以及 EPUB 的历史和当下。</p> <h3>参考链接</h3> <ul> <li>空明朝体，许瀚文主创的字体项目，目前<a href=\"https://www.zeczec.com/projects/KuMincho\">正在众筹</a></li> <li><a href=\"https://www.duokan.com/\">多看阅读</a></li> <li><a href=\"https://read.douban.com/\">豆瓣阅读</a></li> <li><a href=\"https://weread.qq.com/\">微信读书</a></li> <li><a href=\"https://www.apple.com/apple-books/\">Apple Books（图书）</a></li> <li><a href=\"https://www.books.com.tw/web/ebook\">博客來電子書</a></li> <li><a href=\"https://readmoo.com/\">Readmoo 读墨</a></li> <li><a href=\"https://www.kobo.com/\">Rakuten Kobo</a>，乐天旗下的电子书平台</li> <li><a href=\"https://global.bookwalker.jp/\">Book Walker</a>，Kadokawa Group 的电子书平台</li> <li><a href=\"https://play.google.com/store/books\">Google Play Books</a></li> <li><a href=\"http://www.vmtype.com/index_e.html\">信黑体</a>，柯炽坚主创的黑体家族</li> <li>吴涛评测唐茶（字节社）出品的电子书<a href=\"https://www.thetype.com/2011/07/3478/\">《失控》</a>和<a href=\"https://www.thetype.com/2011/10/4469/\">《史蒂夫·乔布斯传》</a>，刊于 The Type</li> <li>Rex 对<a href=\"https://www.thetype.com/2011/07/4276/\">柯炽坚的访谈</a>，关于信黑体及电子书《失控》，刊于 The Type</li> <li><a href=\"https://en.wikipedia.org/wiki/EPUB\">EPUB</a></li> <li><a href=\"https://www.gutenberg.org/\">Project Gutenberg</a>，免费电子书库项目</li> <li><a href=\"https://en.wikipedia.org/wiki/Open_eBook\">OEBPS</a> (Open eBook Publication Structure)</li> <li><a href=\"https://en.wikipedia.org/wiki/Comparison_of_e-book_formats#Mobipocket\">Mobipocket</a> (.mobi)</li> <li><a href=\"https://en.wikipedia.org/wiki/Amazon_Fire_tablet\">Amazon Fire</a> (Kindle Fire)</li> <li><a href=\"http://idpf.org/\">IDPF</a> (International Digital Publishing Forum)</li> <li><a href=\"http://fantasai.inkedblade.net/\">Fantasai</a>，本名 Elika J. Etemad，伊朗裔美国人，W3C 特邀专家</li> <li>W3C 于 2021 年 1 月 12 日发布的 <a href=\"https://www.w3.org/TR/epub-33/\">EPUB 3.3</a> 工作草案</li> <li><a href=\"https://www.w3.org/TR/css-writing-modes-3/\"><cite>CSS Writing Modes Level 3</cite></a> （W3C 推荐标准）</li> <li><a href=\"https://baike.baidu.com/item/%E5%8D%A0%E8%A1%8C/7552515\">占行</a>（<a href=\"https://www.jfpi.or.jp/webyogo/index.php?term=662\">行取り</a>）</li> </ul> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：<a href=\"https://www.w3.org/Consortium/evangelists/list#bobbytung\">W3C 传道士</a> 、《<a href=\"https://w3c.github.io/clreq/\">中文排版需求</a>》编辑、数字出版专家</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>中文电子书的现状如何？其技术标准及设计实现有了哪些进步、存在哪些问题？时隔五年，我们又一次邀来数字出版专家 Bobby（董福兴）先生，为大家介绍关于中文电子书的字体排印，以及 EPUB 的历史和当下。</p> <h3>参考链接</h3> <ul> <li>空明朝体，许瀚文主创的字体项目，目前<a href=\"https://www.zeczec.com/projects/KuMincho\">正在众筹</a></li> <li><a href=\"https://www.duokan.com/\">多看阅读</a></li> <li><a href=\"https://read.douban.com/\">豆瓣阅读</a></li> <li><a href=\"https://weread.qq.com/\">微信读书</a></li> <li><a href=\"https://www.apple.com/apple-books/\">Apple Books（图书）</a></li> <li><a href=\"https://www.books.com.tw/web/ebook\">博客來電子書</a></li> <li><a href=\"https://readmoo.com/\">Readmoo 读墨</a></li> <li><a href=\"https://www.kobo.com/\">Rakuten Kobo</a>，乐天旗下的电子书平台</li> <li><a href=\"https://global.bookwalker.jp/\">Book Walker</a>，Kadokawa Group 的电子书平台</li> <li><a href=\"https://play.google.com/store/books\">Google Play Books</a></li> <li><a href=\"http://www.vmtype.com/index_e.html\">信黑体</a>，柯炽坚主创的黑体家族</li> <li>吴涛评测唐茶（字节社）出品的电子书<a href=\"https://www.thetype.com/2011/07/3478/\">《失控》</a>和<a href=\"https://www.thetype.com/2011/10/4469/\">《史蒂夫·乔布斯传》</a>，刊于 The Type</li> <li>Rex 对<a href=\"https://www.thetype.com/2011/07/4276/\">柯炽坚的访谈</a>，关于信黑体及电子书《失控》，刊于 The Type</li> <li><a href=\"https://en.wikipedia.org/wiki/EPUB\">EPUB</a></li> <li><a href=\"https://www.gutenberg.org/\">Project Gutenberg</a>，免费电子书库项目</li> <li><a href=\"https://en.wikipedia.org/wiki/Open_eBook\">OEBPS</a> (Open eBook Publication Structure)</li> <li><a href=\"https://en.wikipedia.org/wiki/Comparison_of_e-book_formats#Mobipocket\">Mobipocket</a> (.mobi)</li> <li><a href=\"https://en.wikipedia.org/wiki/Amazon_Fire_tablet\">Amazon Fire</a> (Kindle Fire)</li> <li><a href=\"http://idpf.org/\">IDPF</a> (International Digital Publishing Forum)</li> <li><a href=\"http://fantasai.inkedblade.net/\">Fantasai</a>，本名 Elika J. Etemad，伊朗裔美国人，W3C 特邀专家</li> <li>W3C 于 2021 年 1 月 12 日发布的 <a href=\"https://www.w3.org/TR/epub-33/\">EPUB 3.3</a> 工作草案</li> <li><a href=\"https://www.w3.org/TR/css-writing-modes-3/\"><cite>CSS Writing Modes Level 3</cite></a> （W3C 推荐标准）</li> <li><a href=\"https://baike.baidu.com/item/%E5%8D%A0%E8%A1%8C/7552515\">占行</a>（<a href=\"https://www.jfpi.or.jp/webyogo/index.php?term=662\">行取り</a>）</li> </ul> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：<a href=\"https://www.w3.org/Consortium/evangelists/list#bobbytung\">W3C 传道士</a> 、《<a href=\"https://w3c.github.io/clreq/\">中文排版需求</a>》编辑、数字出版专家</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "01:16:58",
+    "subtitle": "中文电子书的字体排印",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "中文电子书的字体排印"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>中文电子书的现状如何？其技术标准及设计实现有了哪些进步、存在哪些问题？时隔五年，我们又一次邀来数字出版专家 Bobby（董福兴）先生，为大家介绍关于中文电子书的字体排印，以及 EPUB 的历史和当下。</p> <h3>参考链接</h3> <ul> <li>空明朝体，许瀚文主创的字体项目，目前<a href=\"https://www.zeczec.com/projects/KuMincho\">正在众筹</a></li> <li><a href=\"https://www.duokan.com/\">多看阅读</a></li> <li><a href=\"https://read.douban.com/\">豆瓣阅读</a></li> <li><a href=\"https://weread.qq.com/\">微信读书</a></li> <li><a href=\"https://www.apple.com/apple-books/\">Apple Books（图书）</a></li> <li><a href=\"https://www.books.com.tw/web/ebook\">博客來電子書</a></li> <li><a href=\"https://readmoo.com/\">Readmoo 读墨</a></li> <li><a href=\"https://www.kobo.com/\">Rakuten Kobo</a>，乐天旗下的电子书平台</li> <li><a href=\"https://global.bookwalker.jp/\">Book Walker</a>，Kadokawa Group 的电子书平台</li> <li><a href=\"https://play.google.com/store/books\">Google Play Books</a></li> <li><a href=\"http://www.vmtype.com/index_e.html\">信黑体</a>，柯炽坚主创的黑体家族</li> <li>吴涛评测唐茶（字节社）出品的电子书<a href=\"https://www.thetype.com/2011/07/3478/\">《失控》</a>和<a href=\"https://www.thetype.com/2011/10/4469/\">《史蒂夫·乔布斯传》</a>，刊于 The Type</li> <li>Rex 对<a href=\"https://www.thetype.com/2011/07/4276/\">柯炽坚的访谈</a>，关于信黑体及电子书《失控》，刊于 The Type</li> <li><a href=\"https://en.wikipedia.org/wiki/EPUB\">EPUB</a></li> <li><a href=\"https://www.gutenberg.org/\">Project Gutenberg</a>，免费电子书库项目</li> <li><a href=\"https://en.wikipedia.org/wiki/Open_eBook\">OEBPS</a> (Open eBook Publication Structure)</li> <li><a href=\"https://en.wikipedia.org/wiki/Comparison_of_e-book_formats#Mobipocket\">Mobipocket</a> (.mobi)</li> <li><a href=\"https://en.wikipedia.org/wiki/Amazon_Fire_tablet\">Amazon Fire</a> (Kindle Fire)</li> <li><a href=\"http://idpf.org/\">IDPF</a> (International Digital Publishing Forum)</li> <li><a href=\"http://fantasai.inkedblade.net/\">Fantasai</a>，本名 Elika J. Etemad，伊朗裔美国人，W3C 特邀专家</li> <li>W3C 于 2021 年 1 月 12 日发布的 <a href=\"https://www.w3.org/TR/epub-33/\">EPUB 3.3</a> 工作草案</li> <li><a href=\"https://www.w3.org/TR/css-writing-modes-3/\"><cite>CSS Writing Modes Level 3</cite></a> （W3C 推荐标准）</li> <li><a href=\"https://baike.baidu.com/item/%E5%8D%A0%E8%A1%8C/7552515\">占行</a>（<a href=\"https://www.jfpi.or.jp/webyogo/index.php?term=662\">行取り</a>）</li> </ul> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：<a href=\"https://www.w3.org/Consortium/evangelists/list#bobbytung\">W3C 传道士</a> 、《<a href=\"https://w3c.github.io/clreq/\">中文排版需求</a>》编辑、数字出版专家</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2021/01/TypeChat143-sq.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2021/01/TypeChat143-sq.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, Bobby"
+        }
+    ],
+    "author": "Eric, 蒸鱼, Bobby",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, Bobby"
+    },
+    "itunes_explicit": false
+}

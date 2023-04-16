@@ -1,0 +1,76 @@
+{
+    "title": "#103：行高行距行行行（hángháng xíng）",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#103：行高行距行行行（hángháng xíng）"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-103/"
+        },
+        {
+            "length": "69203168",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat103.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-103/",
+    "published": "Tue, 09 Jul 2019 06:46:40 +0800",
+    "published_parsed": [
+        2019,
+        7,
+        8,
+        22,
+        46,
+        40,
+        0,
+        189,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat103.mp3",
+    "guidislink": false,
+    "summary": "<p>行高或行距是文字排版的基础参数，也是排版品质的先决要素之一。本期节目我们以这一基本概念为主题，侧重介绍它的定义，及其在当下常见设计工具中的度量模型，以便听众更全面地了解「行」的行为模式。</p> <p><a href=\"https://www.thetype.com/2019/07/16875/\">TypeTour London 2019 开始招募</a>，名额有限，欢迎报名。</p> <h3>参考链接</h3> <ul> <li>字体家族 Ping <a href=\"https://www.typotheque.com/blog/gold_european_design_award_for_ping\">获 2019 年欧洲设计奖（European Design Award）金奖</a></li> <li><a href=\"https://affinity.serif.com/en-gb/publisher/\">Affinity Publisher</a>，Serif 公司出品的排版设计软件</li> <li>2019 年森泽字体设计竞赛<a href=\"https://tw.morisawa.co.jp/about/news/4596\">评奖结果公布</a></li> <li><a href=\"http://typeji.com/\">廖恬敏</a>，独立平面设计师、字体设计师，现在纽约工作；曾在 Type is Beautiful 发表<a href=\"https://www.thetype.com/2017/10/13558/\">〈双语标准字：思路与实践〉</a></li> <li>第十届<a href=\"https://ztds.foundertype.com/\">「方正奖」</a>字体设计大赛启动</li> <li>Typographics 2019 <a href=\"https://2019.typographics.com/livestream?fbclid=IwAR2maCkSEfmSeAYsoFveAAETV2MkWb7yk8WR602iQ-x6cOWnzfU5UoV_6kA\">演讲视频</a></li> <li><a href=\"https://typeparis.com/\">Type@Paris 2019</a> 演讲视频<a href=\"https://www.youtube.com/results?search_query=%23tptalks19\">在 YouTube 陆续发布</a></li> <li>TypeMedia 2018 <a href=\"https://www.typemedia2018.com/\">学员作品发布</a>；<a href=\"https://www.typemedia2018.com/about\">TypeMedia</a> 是海牙皇家艺术学院（KABK）的硕士项目</li> <li><a href=\"https://www.voordekunst.nl/projecten/8890-reviving-type%E2%80%931\"><cite>Reviving Type</cite></a>，Nóra Békés 和 Céline Hurka 发起的图书众筹项目</li> <li><a href=\"https://www.figma.com\">Figma</a>，一款支持多人协作的用户界面及原型设计软件；Anyway.FM <a href=\"https://anyway.fm/figma-sketch-2/\">第 88 期</a>对该软件有较多分析及评价</li> <li>Figma 四月份更新了软件中行高设置的行为，同时<a href=\"https://www.figma.com/blog/line-height-changes/\">发文详细阐释了相关细节</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Leading\">Leading</a>，字面义为铅字排版所用的铅条，指代「行间距」，后也引申为「行高」</li> <li>Adobe InDesign 帮助文档中<a href=\"https://helpx.adobe.com/cn/indesign/using/leading.html\">关于「行距」（leading）的说明</a></li> <li><cite>Thinking with Type</cite>，Ellen Luption 所著的字体设计入门教材；<a href=\"http://thinkingwithtype.com/text/#line-spacing\">其中关于 line spacing (leading) 的定义</a></li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/hhea\">hhea</a> (Horizontal Header Table) 表内与字体默认行高相关的度量：ascender、descender、lineGap</li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2\">OS/2</a> (OS/2 and Windows Metrics Table) 表内与字体默认行高相关的度量： <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#sta\">sTypoAscender</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#stypodescender\">sTypoDescender</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#tlg\">sTypoLineGap</a></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#uswinascent\">usWinAscent</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#uswindescent\">usWinDescent</a></li> </ul> </li> <li>CSS 标准<a href=\"https://www.w3.org/TR/CSS2/visudet.html#leading\">关于「半行距」（half-leading）的定义</a></li> <li>MDN 文档中 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/line-height\">CSS <code>line-height</code> 属性相关的内容</a></li> <li>郭斯恆．<a href=\"https://www.jointpublishing.com/publishing/catalogue/macau-and-hong-kong/9789620443770.aspx\">《霓虹黯色——香港街道視覺文化記錄》</a>．三聯書店（香港）有限公司，2018．</li> <li>Xavier Dupré. <a href=\"http://www.zeug.fr/shop/11-xavier-dupr\"><cite>Itinéraire typographique</cite></a> (<cite>Typographical Itinerary</cite>). Zeug, 2017.</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>行高或行距是文字排版的基础参数，也是排版品质的先决要素之一。本期节目我们以这一基本概念为主题，侧重介绍它的定义，及其在当下常见设计工具中的度量模型，以便听众更全面地了解「行」的行为模式。</p> <p><a href=\"https://www.thetype.com/2019/07/16875/\">TypeTour London 2019 开始招募</a>，名额有限，欢迎报名。</p> <h3>参考链接</h3> <ul> <li>字体家族 Ping <a href=\"https://www.typotheque.com/blog/gold_european_design_award_for_ping\">获 2019 年欧洲设计奖（European Design Award）金奖</a></li> <li><a href=\"https://affinity.serif.com/en-gb/publisher/\">Affinity Publisher</a>，Serif 公司出品的排版设计软件</li> <li>2019 年森泽字体设计竞赛<a href=\"https://tw.morisawa.co.jp/about/news/4596\">评奖结果公布</a></li> <li><a href=\"http://typeji.com/\">廖恬敏</a>，独立平面设计师、字体设计师，现在纽约工作；曾在 Type is Beautiful 发表<a href=\"https://www.thetype.com/2017/10/13558/\">〈双语标准字：思路与实践〉</a></li> <li>第十届<a href=\"https://ztds.foundertype.com/\">「方正奖」</a>字体设计大赛启动</li> <li>Typographics 2019 <a href=\"https://2019.typographics.com/livestream?fbclid=IwAR2maCkSEfmSeAYsoFveAAETV2MkWb7yk8WR602iQ-x6cOWnzfU5UoV_6kA\">演讲视频</a></li> <li><a href=\"https://typeparis.com/\">Type@Paris 2019</a> 演讲视频<a href=\"https://www.youtube.com/results?search_query=%23tptalks19\">在 YouTube 陆续发布</a></li> <li>TypeMedia 2018 <a href=\"https://www.typemedia2018.com/\">学员作品发布</a>；<a href=\"https://www.typemedia2018.com/about\">TypeMedia</a> 是海牙皇家艺术学院（KABK）的硕士项目</li> <li><a href=\"https://www.voordekunst.nl/projecten/8890-reviving-type%E2%80%931\"><cite>Reviving Type</cite></a>，Nóra Békés 和 Céline Hurka 发起的图书众筹项目</li> <li><a href=\"https://www.figma.com\">Figma</a>，一款支持多人协作的用户界面及原型设计软件；Anyway.FM <a href=\"https://anyway.fm/figma-sketch-2/\">第 88 期</a>对该软件有较多分析及评价</li> <li>Figma 四月份更新了软件中行高设置的行为，同时<a href=\"https://www.figma.com/blog/line-height-changes/\">发文详细阐释了相关细节</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Leading\">Leading</a>，字面义为铅字排版所用的铅条，指代「行间距」，后也引申为「行高」</li> <li>Adobe InDesign 帮助文档中<a href=\"https://helpx.adobe.com/cn/indesign/using/leading.html\">关于「行距」（leading）的说明</a></li> <li><cite>Thinking with Type</cite>，Ellen Luption 所著的字体设计入门教材；<a href=\"http://thinkingwithtype.com/text/#line-spacing\">其中关于 line spacing (leading) 的定义</a></li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/hhea\">hhea</a> (Horizontal Header Table) 表内与字体默认行高相关的度量：ascender、descender、lineGap</li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2\">OS/2</a> (OS/2 and Windows Metrics Table) 表内与字体默认行高相关的度量： <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#sta\">sTypoAscender</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#stypodescender\">sTypoDescender</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#tlg\">sTypoLineGap</a></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#uswinascent\">usWinAscent</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#uswindescent\">usWinDescent</a></li> </ul> </li> <li>CSS 标准<a href=\"https://www.w3.org/TR/CSS2/visudet.html#leading\">关于「半行距」（half-leading）的定义</a></li> <li>MDN 文档中 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/line-height\">CSS <code>line-height</code> 属性相关的内容</a></li> <li>郭斯恆．<a href=\"https://www.jointpublishing.com/publishing/catalogue/macau-and-hong-kong/9789620443770.aspx\">《霓虹黯色——香港街道視覺文化記錄》</a>．三聯書店（香港）有限公司，2018．</li> <li>Xavier Dupré. <a href=\"http://www.zeug.fr/shop/11-xavier-dupr\"><cite>Itinéraire typographique</cite></a> (<cite>Typographical Itinerary</cite>). Zeug, 2017.</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "1:35:54",
+    "subtitle": "Leading",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "Leading"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>行高或行距是文字排版的基础参数，也是排版品质的先决要素之一。本期节目我们以这一基本概念为主题，侧重介绍它的定义，及其在当下常见设计工具中的度量模型，以便听众更全面地了解「行」的行为模式。</p> <p><a href=\"https://www.thetype.com/2019/07/16875/\">TypeTour London 2019 开始招募</a>，名额有限，欢迎报名。</p> <h3>参考链接</h3> <ul> <li>字体家族 Ping <a href=\"https://www.typotheque.com/blog/gold_european_design_award_for_ping\">获 2019 年欧洲设计奖（European Design Award）金奖</a></li> <li><a href=\"https://affinity.serif.com/en-gb/publisher/\">Affinity Publisher</a>，Serif 公司出品的排版设计软件</li> <li>2019 年森泽字体设计竞赛<a href=\"https://tw.morisawa.co.jp/about/news/4596\">评奖结果公布</a></li> <li><a href=\"http://typeji.com/\">廖恬敏</a>，独立平面设计师、字体设计师，现在纽约工作；曾在 Type is Beautiful 发表<a href=\"https://www.thetype.com/2017/10/13558/\">〈双语标准字：思路与实践〉</a></li> <li>第十届<a href=\"https://ztds.foundertype.com/\">「方正奖」</a>字体设计大赛启动</li> <li>Typographics 2019 <a href=\"https://2019.typographics.com/livestream?fbclid=IwAR2maCkSEfmSeAYsoFveAAETV2MkWb7yk8WR602iQ-x6cOWnzfU5UoV_6kA\">演讲视频</a></li> <li><a href=\"https://typeparis.com/\">Type@Paris 2019</a> 演讲视频<a href=\"https://www.youtube.com/results?search_query=%23tptalks19\">在 YouTube 陆续发布</a></li> <li>TypeMedia 2018 <a href=\"https://www.typemedia2018.com/\">学员作品发布</a>；<a href=\"https://www.typemedia2018.com/about\">TypeMedia</a> 是海牙皇家艺术学院（KABK）的硕士项目</li> <li><a href=\"https://www.voordekunst.nl/projecten/8890-reviving-type%E2%80%931\"><cite>Reviving Type</cite></a>，Nóra Békés 和 Céline Hurka 发起的图书众筹项目</li> <li><a href=\"https://www.figma.com\">Figma</a>，一款支持多人协作的用户界面及原型设计软件；Anyway.FM <a href=\"https://anyway.fm/figma-sketch-2/\">第 88 期</a>对该软件有较多分析及评价</li> <li>Figma 四月份更新了软件中行高设置的行为，同时<a href=\"https://www.figma.com/blog/line-height-changes/\">发文详细阐释了相关细节</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Leading\">Leading</a>，字面义为铅字排版所用的铅条，指代「行间距」，后也引申为「行高」</li> <li>Adobe InDesign 帮助文档中<a href=\"https://helpx.adobe.com/cn/indesign/using/leading.html\">关于「行距」（leading）的说明</a></li> <li><cite>Thinking with Type</cite>，Ellen Luption 所著的字体设计入门教材；<a href=\"http://thinkingwithtype.com/text/#line-spacing\">其中关于 line spacing (leading) 的定义</a></li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/hhea\">hhea</a> (Horizontal Header Table) 表内与字体默认行高相关的度量：ascender、descender、lineGap</li> <li>OpenType <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2\">OS/2</a> (OS/2 and Windows Metrics Table) 表内与字体默认行高相关的度量： <ul> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#sta\">sTypoAscender</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#stypodescender\">sTypoDescender</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#tlg\">sTypoLineGap</a></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#uswinascent\">usWinAscent</a>、<a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/os2#uswindescent\">usWinDescent</a></li> </ul> </li> <li>CSS 标准<a href=\"https://www.w3.org/TR/CSS2/visudet.html#leading\">关于「半行距」（half-leading）的定义</a></li> <li>MDN 文档中 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/line-height\">CSS <code>line-height</code> 属性相关的内容</a></li> <li>郭斯恆．<a href=\"https://www.jointpublishing.com/publishing/catalogue/macau-and-hong-kong/9789620443770.aspx\">《霓虹黯色——香港街道視覺文化記錄》</a>．三聯書店（香港）有限公司，2018．</li> <li>Xavier Dupré. <a href=\"http://www.zeug.fr/shop/11-xavier-dupr\"><cite>Itinéraire typographique</cite></a> (<cite>Typographical Itinerary</cite>). Zeug, 2017.</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>Type is Beautiful <a href=\"https://www.thetype.com/members/\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

@@ -1,0 +1,76 @@
+{
+    "title": "#7：「通缉」中文字体排印事业的贡献者",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#7：「通缉」中文字体排印事业的贡献者"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-007/"
+        },
+        {
+            "length": "55268505",
+            "type": "audio/mpeg",
+            "href": "http://static.thetype.cloud/typechat/typechat007.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-007/",
+    "published": "Tue, 17 Nov 2015 06:46:35 +0800",
+    "published_parsed": [
+        2015,
+        11,
+        16,
+        22,
+        46,
+        35,
+        0,
+        320,
+        0
+    ],
+    "id": "http://static.thetype.cloud/typechat/typechat007.mp3",
+    "guidislink": false,
+    "summary": "<p>嘉宾席再迎新客，我们有幸邀请到 W3C 中文文字布局需求特别任务组联席主席、Bobby（董福兴）先生。</p> <p>十月底，TPAC 2015 会议在日本札幌举办。参会归来，Bobby 带回了 W3C 相关工作组在中文排版方面的最新消息，以及部分浏览器厂商的实作进展。同时，本期节目也讨论了 WOFF 2.0 草案和 web font 在中文数字出版物内的应用，以及华语地区庞杂的字符集标准和字体业界参差的开发现状。</p> <p>欢迎通过 <a href=\"https://github.com/w3c/clreq\">GitHub</a> 参与《中文排版需求》编撰工作的讨论，更多信息亦可参阅 Bobby 前作<a href=\"https://www.thetype.com/2015/04/9171/\">〈从《中文排版需求》开始〉</a>。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.w3.org/2015/10/TPAC/\">TPAC 2015 (Technical Plenary / Advisory Committee)</a></li> <li><a href=\"http://www.w3.org/International/groups/chinese-layout/\">中文文字布局需求特别任务组（Chinese Text Layout Task Force）</a></li> <li><a href=\"https://www.upsuper.org/\">Xidorn Quan（权循真）</a>，供职于 Mozilla 澳洲团队，现从事 CJK 文字相关特性的开发工作；亦可通过 <a href=\"https://twitter.com/upsuperx\">Twitter</a> 与其交流</li> <li><a href=\"http://www.w3.org/TR/clreq/\">《中文排版需求》（<cite>Requirements for Chinese Text Layout</cite>）</a></li> <li><cite><a href=\"http://shop.oreilly.com/product/0636920031123.do\">CSS Secrets: Better Solutions to Everyday Web Design Problems</a></cite>（中译本正在筹备，<a href=\"https://github.com/cssmagic/CSS-Secrets\">可在 GitHub 上与译者交流</a>）</li> <li><a href=\"http://www.w3.org/TR/WOFF2/\">WOFF 2.0 工作草案</a>，以及<a href=\"http://caniuse.com/#feat=woff2\">各浏览器对 WOFF 2.0 的支持状况</a></li> <li><a href=\"http://blogs.adobe.com/CCJKType/2015/10/iuc39-presentation.html\">小林剑（Ken Lunde）在 IUC 39 讲演</a>，介绍 pan-CJK 字体开发的技术及技巧</li> <li><a href=\"http://w3c.github.io/tlreq/\">《藏文排版需求》（<cite>Requirements for Tibetan Text Layout and Typography</cite>）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC\">Big5（大五码）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E6%A8%99%E6%BA%96%E4%BA%A4%E6%8F%9B%E7%A2%BC\">CNS 11643（中文标准交换码）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_2312\">GB 2312（信息交换用汉字编码字符集·基本集）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83\">GBK（汉字内码扩展规范）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/GB_18030\">GB 18030</a>（先后发布有《GB 18030—2005 信息技术：中文编码字符集》和《GB 18030—2000 信息技术：信息交换用汉字编码字符集基本集的扩充》）</li> <li>《常用国字标准字体表》（简称「甲表」）和《次常用国字标准字体表》（简称「乙表」），见载于<a href=\"http://www.edu.tw/files/site_content/M0001/std/no1.htm\">〈标准字体的研定简史〉</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Supplementary_Character_Set\">香港增补字符集（HKSCS）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F\">注音符号（Bopomofo）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Ruby_character\">ルビ（ruby/rubi）</a></li> <li><a href=\"http://binb.tw/bopomofo/case03/\">注音符号排版测试范例</a>，Safari (Mac) 自 9.0 起可支持「ruby-position: inter-character」特性，并相对正确地排布声调符号</li> <li><a href=\"http://www.edu.tw/files/site_content/M0001/juyin/ppp.htm\">国字注音比例参考图</a></li> <li><a href=\"http://www.w3.org/TR/jlreq/#adjustments_of_ruby_with_length_longer_than_that_of_the_base_characters\">针对过长 ruby 的排版，《日文排版需求》描述过相关规则</a></li> <li><a href=\"https://www.moedict.tw\">萌典</a></li> <li><a href=\"https://www.microsoft.com/typography/otspec/\">OpenType Specification</a></li> <li><a href=\"https://blogs.adobe.com/CCJKType/2015/03/tombosp.html\">トンボ（Tombo）</a>，小林剑开发的技术示范性字体</li> </ul> <p></p> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：W3C 特邀专家，中文文字布局需求特别任务组联席主席</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>嘉宾席再迎新客，我们有幸邀请到 W3C 中文文字布局需求特别任务组联席主席、Bobby（董福兴）先生。</p> <p>十月底，TPAC 2015 会议在日本札幌举办。参会归来，Bobby 带回了 W3C 相关工作组在中文排版方面的最新消息，以及部分浏览器厂商的实作进展。同时，本期节目也讨论了 WOFF 2.0 草案和 web font 在中文数字出版物内的应用，以及华语地区庞杂的字符集标准和字体业界参差的开发现状。</p> <p>欢迎通过 <a href=\"https://github.com/w3c/clreq\">GitHub</a> 参与《中文排版需求》编撰工作的讨论，更多信息亦可参阅 Bobby 前作<a href=\"https://www.thetype.com/2015/04/9171/\">〈从《中文排版需求》开始〉</a>。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.w3.org/2015/10/TPAC/\">TPAC 2015 (Technical Plenary / Advisory Committee)</a></li> <li><a href=\"http://www.w3.org/International/groups/chinese-layout/\">中文文字布局需求特别任务组（Chinese Text Layout Task Force）</a></li> <li><a href=\"https://www.upsuper.org/\">Xidorn Quan（权循真）</a>，供职于 Mozilla 澳洲团队，现从事 CJK 文字相关特性的开发工作；亦可通过 <a href=\"https://twitter.com/upsuperx\">Twitter</a> 与其交流</li> <li><a href=\"http://www.w3.org/TR/clreq/\">《中文排版需求》（<cite>Requirements for Chinese Text Layout</cite>）</a></li> <li><cite><a href=\"http://shop.oreilly.com/product/0636920031123.do\">CSS Secrets: Better Solutions to Everyday Web Design Problems</a></cite>（中译本正在筹备，<a href=\"https://github.com/cssmagic/CSS-Secrets\">可在 GitHub 上与译者交流</a>）</li> <li><a href=\"http://www.w3.org/TR/WOFF2/\">WOFF 2.0 工作草案</a>，以及<a href=\"http://caniuse.com/#feat=woff2\">各浏览器对 WOFF 2.0 的支持状况</a></li> <li><a href=\"http://blogs.adobe.com/CCJKType/2015/10/iuc39-presentation.html\">小林剑（Ken Lunde）在 IUC 39 讲演</a>，介绍 pan-CJK 字体开发的技术及技巧</li> <li><a href=\"http://w3c.github.io/tlreq/\">《藏文排版需求》（<cite>Requirements for Tibetan Text Layout and Typography</cite>）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC\">Big5（大五码）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E6%A8%99%E6%BA%96%E4%BA%A4%E6%8F%9B%E7%A2%BC\">CNS 11643（中文标准交换码）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_2312\">GB 2312（信息交换用汉字编码字符集·基本集）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83\">GBK（汉字内码扩展规范）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/GB_18030\">GB 18030</a>（先后发布有《GB 18030—2005 信息技术：中文编码字符集》和《GB 18030—2000 信息技术：信息交换用汉字编码字符集基本集的扩充》）</li> <li>《常用国字标准字体表》（简称「甲表」）和《次常用国字标准字体表》（简称「乙表」），见载于<a href=\"http://www.edu.tw/files/site_content/M0001/std/no1.htm\">〈标准字体的研定简史〉</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Supplementary_Character_Set\">香港增补字符集（HKSCS）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F\">注音符号（Bopomofo）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Ruby_character\">ルビ（ruby/rubi）</a></li> <li><a href=\"http://binb.tw/bopomofo/case03/\">注音符号排版测试范例</a>，Safari (Mac) 自 9.0 起可支持「ruby-position: inter-character」特性，并相对正确地排布声调符号</li> <li><a href=\"http://www.edu.tw/files/site_content/M0001/juyin/ppp.htm\">国字注音比例参考图</a></li> <li><a href=\"http://www.w3.org/TR/jlreq/#adjustments_of_ruby_with_length_longer_than_that_of_the_base_characters\">针对过长 ruby 的排版，《日文排版需求》描述过相关规则</a></li> <li><a href=\"https://www.moedict.tw\">萌典</a></li> <li><a href=\"https://www.microsoft.com/typography/otspec/\">OpenType Specification</a></li> <li><a href=\"https://blogs.adobe.com/CCJKType/2015/03/tombosp.html\">トンボ（Tombo）</a>，小林剑开发的技术示范性字体</li> </ul> <p></p> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：W3C 特邀专家，中文文字布局需求特别任务组联席主席</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+    },
+    "itunes_duration": "1:54:58",
+    "subtitle": "当主席事实上是带了一群猫",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "当主席事实上是带了一群猫"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>嘉宾席再迎新客，我们有幸邀请到 W3C 中文文字布局需求特别任务组联席主席、Bobby（董福兴）先生。</p> <p>十月底，TPAC 2015 会议在日本札幌举办。参会归来，Bobby 带回了 W3C 相关工作组在中文排版方面的最新消息，以及部分浏览器厂商的实作进展。同时，本期节目也讨论了 WOFF 2.0 草案和 web font 在中文数字出版物内的应用，以及华语地区庞杂的字符集标准和字体业界参差的开发现状。</p> <p>欢迎通过 <a href=\"https://github.com/w3c/clreq\">GitHub</a> 参与《中文排版需求》编撰工作的讨论，更多信息亦可参阅 Bobby 前作<a href=\"https://www.thetype.com/2015/04/9171/\">〈从《中文排版需求》开始〉</a>。</p> <h3>参考链接</h3> <ul> <li><a href=\"http://www.w3.org/2015/10/TPAC/\">TPAC 2015 (Technical Plenary / Advisory Committee)</a></li> <li><a href=\"http://www.w3.org/International/groups/chinese-layout/\">中文文字布局需求特别任务组（Chinese Text Layout Task Force）</a></li> <li><a href=\"https://www.upsuper.org/\">Xidorn Quan（权循真）</a>，供职于 Mozilla 澳洲团队，现从事 CJK 文字相关特性的开发工作；亦可通过 <a href=\"https://twitter.com/upsuperx\">Twitter</a> 与其交流</li> <li><a href=\"http://www.w3.org/TR/clreq/\">《中文排版需求》（<cite>Requirements for Chinese Text Layout</cite>）</a></li> <li><cite><a href=\"http://shop.oreilly.com/product/0636920031123.do\">CSS Secrets: Better Solutions to Everyday Web Design Problems</a></cite>（中译本正在筹备，<a href=\"https://github.com/cssmagic/CSS-Secrets\">可在 GitHub 上与译者交流</a>）</li> <li><a href=\"http://www.w3.org/TR/WOFF2/\">WOFF 2.0 工作草案</a>，以及<a href=\"http://caniuse.com/#feat=woff2\">各浏览器对 WOFF 2.0 的支持状况</a></li> <li><a href=\"http://blogs.adobe.com/CCJKType/2015/10/iuc39-presentation.html\">小林剑（Ken Lunde）在 IUC 39 讲演</a>，介绍 pan-CJK 字体开发的技术及技巧</li> <li><a href=\"http://w3c.github.io/tlreq/\">《藏文排版需求》（<cite>Requirements for Tibetan Text Layout and Typography</cite>）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC\">Big5（大五码）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E6%A8%99%E6%BA%96%E4%BA%A4%E6%8F%9B%E7%A2%BC\">CNS 11643（中文标准交换码）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/GB_2312\">GB 2312（信息交换用汉字编码字符集·基本集）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83\">GBK（汉字内码扩展规范）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/GB_18030\">GB 18030</a>（先后发布有《GB 18030—2005 信息技术：中文编码字符集》和《GB 18030—2000 信息技术：信息交换用汉字编码字符集基本集的扩充》）</li> <li>《常用国字标准字体表》（简称「甲表」）和《次常用国字标准字体表》（简称「乙表」），见载于<a href=\"http://www.edu.tw/files/site_content/M0001/std/no1.htm\">〈标准字体的研定简史〉</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Hong_Kong_Supplementary_Character_Set\">香港增补字符集（HKSCS）</a></li> <li><a href=\"https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F\">注音符号（Bopomofo）</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Ruby_character\">ルビ（ruby/rubi）</a></li> <li><a href=\"http://binb.tw/bopomofo/case03/\">注音符号排版测试范例</a>，Safari (Mac) 自 9.0 起可支持「ruby-position: inter-character」特性，并相对正确地排布声调符号</li> <li><a href=\"http://www.edu.tw/files/site_content/M0001/juyin/ppp.htm\">国字注音比例参考图</a></li> <li><a href=\"http://www.w3.org/TR/jlreq/#adjustments_of_ruby_with_length_longer_than_that_of_the_base_characters\">针对过长 ruby 的排版，《日文排版需求》描述过相关规则</a></li> <li><a href=\"https://www.moedict.tw\">萌典</a></li> <li><a href=\"https://www.microsoft.com/typography/otspec/\">OpenType Specification</a></li> <li><a href=\"https://blogs.adobe.com/CCJKType/2015/03/tombosp.html\">トンボ（Tombo）</a>，小林剑开发的技术示范性字体</li> </ul> <p></p> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：W3C 特邀专家，中文文字布局需求特别任务组联席主席</li> </ul> <p></p> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，Type is Beautiful 编辑</li> <li>蒸鱼：设计师，Type is Beautiful 编辑</li> </ul> <p></p> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>。如果你喜爱本期节目，也欢迎用 PayPal 或支付宝向我们捐赠，账户与联络信箱一致：podcast@thetype.com。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2015/09/TypeChat-iTunesCoverArt-v1.0.0.jpg"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, Bobby"
+        }
+    ],
+    "author": "Eric, 蒸鱼, Bobby",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, Bobby"
+    },
+    "itunes_explicit": false
+}

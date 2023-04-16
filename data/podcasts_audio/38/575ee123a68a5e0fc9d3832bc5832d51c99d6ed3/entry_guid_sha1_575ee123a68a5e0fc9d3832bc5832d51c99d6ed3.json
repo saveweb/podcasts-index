@@ -1,0 +1,76 @@
+{
+    "title": "#144：CSS 中文排版的十年跬步",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#144：CSS 中文排版的十年跬步"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-144/"
+        },
+        {
+            "length": "74249741",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat144.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-144/",
+    "published": "Tue, 02 Feb 2021 06:44:33 +0800",
+    "published_parsed": [
+        2021,
+        2,
+        1,
+        22,
+        44,
+        33,
+        0,
+        32,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat144.mp3",
+    "guidislink": false,
+    "summary": "<p>延续两周前的话题，嘉宾 Bobby 将继续与我们进一步讨论与中文排版相关的 CSS 特性。此外，我们今天还有幸同时邀请到 Firefox 贡献者 Xidorn。</p> <p>本期节目将侧重介绍这些 CSS 标准的历史和进展，以及它们在浏览器中的实作状况。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Counter_Styles\">CSS Counter Styles</a>、<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Ruby\">CSS Ruby Layout</a>，Xidorn 曾为 Firefox 排版引擎实现的相关特性</li> <li>Adobe Fonts <a href=\"https://blog.adobe.com/en/2021/01/19/fresh-fonts-and-language-support-features-for-2021.html\">在 2021 年初扩展了多文种字体</a>，<a href=\"https://fonts.adobe.com/foundries/foundertype\">方正字库</a>和<a href=\"https://fonts.adobe.com/foundries/hellofont\">字由</a>入驻</li> <li>日本写研将与森泽<a href=\"https://www.morisawa.co.jp/about/news/5280\">共同开发 OpenType 格式字体</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-103/\">字谈字畅 103</a>：行高行距行行行（hángháng xíng）</li> <li><a href=\"https://www.w3.org/2020/Process-20200915/\">W3C Process Document</a></li> <li>CSS Writing Modes <a href=\"https://www.w3.org/TR/css-writing-modes-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-writing-modes-4/\">Level 4</a></li> <li>CSS Logical Properties and Values <a href=\"https://www.w3.org/TR/css-logical-1/\">Level 1</a></li> <li>CSS Fragmentation Module <a href=\"https://www.w3.org/TR/css-break-3/\">Level 3</a></li> <li>CSS Paged Media Module <a href=\"https://www.w3.org/TR/css-page-3/\">Level 3</a></li> <li>CSS Line Grid Module <a href=\"https://www.w3.org/TR/css-line-grid-1/\">Level 1</a></li> <li><a href=\"https://drafts.csswg.org/css-rhythm/\">CSS Rhythmic Sizing</a></li> <li>CSS Ruby Layout Module <a href=\"https://www.w3.org/TR/css-ruby-1/\">Level 1</a></li> <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93\">ルビ</a>（<a href=\"https://en.wikipedia.org/wiki/Ruby_character\">ruby</a>）</li> <li>CSS Text Decoration Module <a href=\"https://www.w3.org/TR/css-text-decor-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-text-decor-4/\">Level 4</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-122/\">字谈字畅 122</a>：上下左右下划线</li> <li>CSS Text Module <a href=\"https://www.w3.org/TR/css-text-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-text-4/\">Level 4</a></li> <li><a href=\"https://www.w3.org/TR/1999/WD-i18n-format-19990910/\">International Layout</a>（CSS Text Module 的前身）</li> <li>CSS 属性 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-last\"><code>text-align-last</code></a></li> <li>CSS Inline Layout Module <a href=\"https://www.w3.org/TR/css-inline-3/\">Level 3</a></li> <li>《中文排版需求》的<a href=\"https://www.w3.org/TR/clreq/\">发布版本</a>以及最新的<a href=\"https://w3c.github.io/clreq/\">编辑草案</a></li> </ul> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：<a href=\"https://www.w3.org/Consortium/evangelists/list#bobbytung\">W3C 传道士</a> 、《<a href=\"https://w3c.github.io/clreq/\">中文排版需求</a>》编辑、数字出版专家</li> <li><a href=\"https://www.upsuper.org/\">权循真</a>（Xidorn Quan）：软件工程师、Firefox 排版引擎贡献者</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>延续两周前的话题，嘉宾 Bobby 将继续与我们进一步讨论与中文排版相关的 CSS 特性。此外，我们今天还有幸同时邀请到 Firefox 贡献者 Xidorn。</p> <p>本期节目将侧重介绍这些 CSS 标准的历史和进展，以及它们在浏览器中的实作状况。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Counter_Styles\">CSS Counter Styles</a>、<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Ruby\">CSS Ruby Layout</a>，Xidorn 曾为 Firefox 排版引擎实现的相关特性</li> <li>Adobe Fonts <a href=\"https://blog.adobe.com/en/2021/01/19/fresh-fonts-and-language-support-features-for-2021.html\">在 2021 年初扩展了多文种字体</a>，<a href=\"https://fonts.adobe.com/foundries/foundertype\">方正字库</a>和<a href=\"https://fonts.adobe.com/foundries/hellofont\">字由</a>入驻</li> <li>日本写研将与森泽<a href=\"https://www.morisawa.co.jp/about/news/5280\">共同开发 OpenType 格式字体</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-103/\">字谈字畅 103</a>：行高行距行行行（hángháng xíng）</li> <li><a href=\"https://www.w3.org/2020/Process-20200915/\">W3C Process Document</a></li> <li>CSS Writing Modes <a href=\"https://www.w3.org/TR/css-writing-modes-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-writing-modes-4/\">Level 4</a></li> <li>CSS Logical Properties and Values <a href=\"https://www.w3.org/TR/css-logical-1/\">Level 1</a></li> <li>CSS Fragmentation Module <a href=\"https://www.w3.org/TR/css-break-3/\">Level 3</a></li> <li>CSS Paged Media Module <a href=\"https://www.w3.org/TR/css-page-3/\">Level 3</a></li> <li>CSS Line Grid Module <a href=\"https://www.w3.org/TR/css-line-grid-1/\">Level 1</a></li> <li><a href=\"https://drafts.csswg.org/css-rhythm/\">CSS Rhythmic Sizing</a></li> <li>CSS Ruby Layout Module <a href=\"https://www.w3.org/TR/css-ruby-1/\">Level 1</a></li> <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93\">ルビ</a>（<a href=\"https://en.wikipedia.org/wiki/Ruby_character\">ruby</a>）</li> <li>CSS Text Decoration Module <a href=\"https://www.w3.org/TR/css-text-decor-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-text-decor-4/\">Level 4</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-122/\">字谈字畅 122</a>：上下左右下划线</li> <li>CSS Text Module <a href=\"https://www.w3.org/TR/css-text-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-text-4/\">Level 4</a></li> <li><a href=\"https://www.w3.org/TR/1999/WD-i18n-format-19990910/\">International Layout</a>（CSS Text Module 的前身）</li> <li>CSS 属性 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-last\"><code>text-align-last</code></a></li> <li>CSS Inline Layout Module <a href=\"https://www.w3.org/TR/css-inline-3/\">Level 3</a></li> <li>《中文排版需求》的<a href=\"https://www.w3.org/TR/clreq/\">发布版本</a>以及最新的<a href=\"https://w3c.github.io/clreq/\">编辑草案</a></li> </ul> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：<a href=\"https://www.w3.org/Consortium/evangelists/list#bobbytung\">W3C 传道士</a> 、《<a href=\"https://w3c.github.io/clreq/\">中文排版需求</a>》编辑、数字出版专家</li> <li><a href=\"https://www.upsuper.org/\">权循真</a>（Xidorn Quan）：软件工程师、Firefox 排版引擎贡献者</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "01:43:01",
+    "subtitle": "CSS 中文排版的标准与实作、历史及现状",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "CSS 中文排版的标准与实作、历史及现状"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>延续两周前的话题，嘉宾 Bobby 将继续与我们进一步讨论与中文排版相关的 CSS 特性。此外，我们今天还有幸同时邀请到 Firefox 贡献者 Xidorn。</p> <p>本期节目将侧重介绍这些 CSS 标准的历史和进展，以及它们在浏览器中的实作状况。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Counter_Styles\">CSS Counter Styles</a>、<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Ruby\">CSS Ruby Layout</a>，Xidorn 曾为 Firefox 排版引擎实现的相关特性</li> <li>Adobe Fonts <a href=\"https://blog.adobe.com/en/2021/01/19/fresh-fonts-and-language-support-features-for-2021.html\">在 2021 年初扩展了多文种字体</a>，<a href=\"https://fonts.adobe.com/foundries/foundertype\">方正字库</a>和<a href=\"https://fonts.adobe.com/foundries/hellofont\">字由</a>入驻</li> <li>日本写研将与森泽<a href=\"https://www.morisawa.co.jp/about/news/5280\">共同开发 OpenType 格式字体</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-103/\">字谈字畅 103</a>：行高行距行行行（hángháng xíng）</li> <li><a href=\"https://www.w3.org/2020/Process-20200915/\">W3C Process Document</a></li> <li>CSS Writing Modes <a href=\"https://www.w3.org/TR/css-writing-modes-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-writing-modes-4/\">Level 4</a></li> <li>CSS Logical Properties and Values <a href=\"https://www.w3.org/TR/css-logical-1/\">Level 1</a></li> <li>CSS Fragmentation Module <a href=\"https://www.w3.org/TR/css-break-3/\">Level 3</a></li> <li>CSS Paged Media Module <a href=\"https://www.w3.org/TR/css-page-3/\">Level 3</a></li> <li>CSS Line Grid Module <a href=\"https://www.w3.org/TR/css-line-grid-1/\">Level 1</a></li> <li><a href=\"https://drafts.csswg.org/css-rhythm/\">CSS Rhythmic Sizing</a></li> <li>CSS Ruby Layout Module <a href=\"https://www.w3.org/TR/css-ruby-1/\">Level 1</a></li> <li><a href=\"https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93\">ルビ</a>（<a href=\"https://en.wikipedia.org/wiki/Ruby_character\">ruby</a>）</li> <li>CSS Text Decoration Module <a href=\"https://www.w3.org/TR/css-text-decor-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-text-decor-4/\">Level 4</a></li> <li><a href=\"https://www.thetype.com/typechat/ep-122/\">字谈字畅 122</a>：上下左右下划线</li> <li>CSS Text Module <a href=\"https://www.w3.org/TR/css-text-3/\">Level 3</a>, <a href=\"https://www.w3.org/TR/css-text-4/\">Level 4</a></li> <li><a href=\"https://www.w3.org/TR/1999/WD-i18n-format-19990910/\">International Layout</a>（CSS Text Module 的前身）</li> <li>CSS 属性 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-last\"><code>text-align-last</code></a></li> <li>CSS Inline Layout Module <a href=\"https://www.w3.org/TR/css-inline-3/\">Level 3</a></li> <li>《中文排版需求》的<a href=\"https://www.w3.org/TR/clreq/\">发布版本</a>以及最新的<a href=\"https://w3c.github.io/clreq/\">编辑草案</a></li> </ul> <h3>嘉宾</h3> <ul> <li>董福兴（Bobby Tung）：<a href=\"https://www.w3.org/Consortium/evangelists/list#bobbytung\">W3C 传道士</a> 、《<a href=\"https://w3c.github.io/clreq/\">中文排版需求</a>》编辑、数字出版专家</li> <li><a href=\"https://www.upsuper.org/\">权循真</a>（Xidorn Quan）：软件工程师、Firefox 排版引擎贡献者</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2021/02/TypeChat144-sq.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2021/02/TypeChat144-sq.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, Bobby, Xidorn"
+        }
+    ],
+    "author": "Eric, 蒸鱼, Bobby, Xidorn",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, Bobby, Xidorn"
+    },
+    "itunes_explicit": false
+}

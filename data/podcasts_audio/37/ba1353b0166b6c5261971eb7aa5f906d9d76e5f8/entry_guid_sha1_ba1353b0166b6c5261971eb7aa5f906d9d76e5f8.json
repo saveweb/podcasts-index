@@ -1,0 +1,81 @@
+{
+    "title": "#9 为什么要说 Happy Holidays",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#9 为什么要说 Happy Holidays"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/happy-holidays"
+        },
+        {
+            "length": "60479665",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/247a7e65-719c-4bea-aefc-5401c75c8c30.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/happy-holidays",
+    "id": "http://audio.xmcdn.com/group23/M02/11/BD/wKgJL1hlvjXRiGuDARzpcI4s4ro844.m4a",
+    "guidislink": false,
+    "published": "Fri, 30 Dec 2016 09:00:00 +0800",
+    "published_parsed": [
+        2016,
+        12,
+        30,
+        1,
+        0,
+        0,
+        4,
+        365,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "41:42",
+    "itunes_explicit": null,
+    "summary": "<p>在一个地方住久了，你可能对一些声音特别敏感，它是城市的标记，也是节日的符号，我们捕捉了一点圣诞之声，也在年末任性地聊了聊。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>在一个地方住久了，你可能对一些声音特别敏感，它是城市的标记，也是节日的符号，我们捕捉了一点圣诞之声，也在年末任性地聊了聊。</p>"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>在一个地方住久了，你可能对一些声音特别敏感，它是城市的标记，也是节日的符号，我们捕捉了一点圣诞之声，也在年末任性地聊了聊。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+D97zC9Je",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+D97zC9Je\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}

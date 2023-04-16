@@ -1,0 +1,76 @@
+{
+    "title": "#156：为啥这字体连句号都画不圆",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#156：为啥这字体连句号都画不圆"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-156/"
+        },
+        {
+            "length": "58947954",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat156.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-156/",
+    "published": "Tue, 20 Jul 2021 07:05:42 +0800",
+    "published_parsed": [
+        2021,
+        7,
+        19,
+        23,
+        5,
+        42,
+        0,
+        200,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat156.mp3",
+    "guidislink": false,
+    "summary": "<p>UPM (units per em) 是字体设计的基础量度。作为上期节目的补充及扩展，今天我们将从几个方面展开——基本概念、技术规范、社区讨论——以供听众了解 UPM 相关的历史遗留及最佳实践。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://mp.weixin.qq.com/s/PqtYbkwi8Lxs4W-SpWkSJg\">TypeSchool 西文字体课</a>将于 7 月 24 至 31 日在上海宝山区智慧湾开办，现在即可报名</li> <li><a href=\"https://mp.weixin.qq.com/s/w5sP9uvwGEi2LSE_Fqozrg\">TypeSchool 中文字体课</a>将于 8 月 18 至 29 日在上海印刷技术研究所开办，现在即可报名</li> <li><a href=\"https://mp.weixin.qq.com/s/9FeeHAqkIOxp3TByeHXfSQ\">「谈谈写写美术字」学习班</a>，将于 8 月在上海上海市徐汇区田林路 398 号开办，现在开始招生；上海 51 人项目（51 Personae）主办，The Type 协办</li> <li>I Love Typography 开设<a href=\"https://fonts.ilovetypography.com/\">在线商店</a>，销售字体</li> <li><a href=\"https://www.renaultgroup.com/en/\">雷诺集团</a>官网已经采用新定制字体 Renault Group</li> <li><a href=\"https://black-foundry.com/work/renaultread/\">READ</a>，Black[Foundry] 为<a href=\"https://www.renaultgroup.com/\">雷诺集团</a>定制的多文种字体</li> <li><a href=\"https://www.kutilek.de/sudo-font/\">Sudo</a>，Jens Kutílek 设计的编程字体，<a href=\"https://github.com/jenskutilek/sudo-font\">在 GitHub 开源</a>；自 <a href=\"https://github.com/jenskutilek/sudo-font/releases/tag/v0.53.0\">v0.53</a> 起，另增加了比例宽度的 Sudo UI</li> <li>「设计·宇宙」（<a href=\"https://collections.musabi.ac.jp/sugiura_kohei/\">デザイン・コスモス</a>），日本<a href=\"https://mauml.musabi.ac.jp/news/20159/\">武藏野美术大学美术馆·图书馆</a>为杉浦康平设计档案制作的特别网站，免费公开</li> <li><a href=\"https://www.thetype.com/typechat/ep-155/\">字谈字畅 155</a>：没有 face 的 interface 字体</li> <li>字体排印单位 <a href=\"https://en.wikipedia.org/wiki/Em_(typography)\">em</a></li> <li>在 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/head\">OpenType</a> 和 <a href=\"https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6head.html\">TrueType</a> 规范中，UPM 数值均记录于 UPM (units per em) 数值记录于 'head' 表的 <code>unitsPerEm</code></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/glyf\">'glyf'</a> 表的 <code>xCoordinates</code> 和 <code>yCoordinates</code> 的变量类型是可变的，由此可能通过改变 UPM 而实现字体文件体积的压缩；荷兰开发者 Roel Nieskens <a href=\"https://pixelambacht.nl/2016/font-awesome-fixed/#thing-one-reducing-the-unitsperem\">曾做过相关实验</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Zapfino\">Zapfino</a>，Hermann Zapf 设计的手写风格字体</li> <li>Rasmus Andersson 设计开发的 <a href=\"https://github.com/rsms/inter\">Inter</a>，UPM 为 <a href=\"https://github.com/rsms/inter#font-metrics\">2816</a></li> <li>John Hudson 设计开发的 <a href=\"https://github.com/TiroTypeworks/Slabo\">Slabo</a>，13px 视觉字号的 UPM 为 <a href=\"https://github.com/TiroTypeworks/Slabo/blob/master/UFOs/Slabo%2013px%20b004.ufo/fontinfo.plist#L100\">780</a>，27px 视觉字号的 UPM 为 <a href=\"https://github.com/TiroTypeworks/Slabo/blob/master/UFOs/Slabo%2027px%20b002.ufo/fontinfo.plist#L100\">810</a></li> <li>TypeDrawers 论坛曾<a href=\"https://typedrawers.com/discussion/2065/units-per-em\">围绕 UPM 的数值做了大量讨论</a></li> <li>Glyphs 开发者曾在 Glyphs 用户论坛上<a href=\"https://forum.glyphsapp.com/t/upm-value-for-otf-fonts/1858\">对 UPM 的数值范围</a>做了相关解释</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>UPM (units per em) 是字体设计的基础量度。作为上期节目的补充及扩展，今天我们将从几个方面展开——基本概念、技术规范、社区讨论——以供听众了解 UPM 相关的历史遗留及最佳实践。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://mp.weixin.qq.com/s/PqtYbkwi8Lxs4W-SpWkSJg\">TypeSchool 西文字体课</a>将于 7 月 24 至 31 日在上海宝山区智慧湾开办，现在即可报名</li> <li><a href=\"https://mp.weixin.qq.com/s/w5sP9uvwGEi2LSE_Fqozrg\">TypeSchool 中文字体课</a>将于 8 月 18 至 29 日在上海印刷技术研究所开办，现在即可报名</li> <li><a href=\"https://mp.weixin.qq.com/s/9FeeHAqkIOxp3TByeHXfSQ\">「谈谈写写美术字」学习班</a>，将于 8 月在上海上海市徐汇区田林路 398 号开办，现在开始招生；上海 51 人项目（51 Personae）主办，The Type 协办</li> <li>I Love Typography 开设<a href=\"https://fonts.ilovetypography.com/\">在线商店</a>，销售字体</li> <li><a href=\"https://www.renaultgroup.com/en/\">雷诺集团</a>官网已经采用新定制字体 Renault Group</li> <li><a href=\"https://black-foundry.com/work/renaultread/\">READ</a>，Black[Foundry] 为<a href=\"https://www.renaultgroup.com/\">雷诺集团</a>定制的多文种字体</li> <li><a href=\"https://www.kutilek.de/sudo-font/\">Sudo</a>，Jens Kutílek 设计的编程字体，<a href=\"https://github.com/jenskutilek/sudo-font\">在 GitHub 开源</a>；自 <a href=\"https://github.com/jenskutilek/sudo-font/releases/tag/v0.53.0\">v0.53</a> 起，另增加了比例宽度的 Sudo UI</li> <li>「设计·宇宙」（<a href=\"https://collections.musabi.ac.jp/sugiura_kohei/\">デザイン・コスモス</a>），日本<a href=\"https://mauml.musabi.ac.jp/news/20159/\">武藏野美术大学美术馆·图书馆</a>为杉浦康平设计档案制作的特别网站，免费公开</li> <li><a href=\"https://www.thetype.com/typechat/ep-155/\">字谈字畅 155</a>：没有 face 的 interface 字体</li> <li>字体排印单位 <a href=\"https://en.wikipedia.org/wiki/Em_(typography)\">em</a></li> <li>在 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/head\">OpenType</a> 和 <a href=\"https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6head.html\">TrueType</a> 规范中，UPM 数值均记录于 UPM (units per em) 数值记录于 'head' 表的 <code>unitsPerEm</code></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/glyf\">'glyf'</a> 表的 <code>xCoordinates</code> 和 <code>yCoordinates</code> 的变量类型是可变的，由此可能通过改变 UPM 而实现字体文件体积的压缩；荷兰开发者 Roel Nieskens <a href=\"https://pixelambacht.nl/2016/font-awesome-fixed/#thing-one-reducing-the-unitsperem\">曾做过相关实验</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Zapfino\">Zapfino</a>，Hermann Zapf 设计的手写风格字体</li> <li>Rasmus Andersson 设计开发的 <a href=\"https://github.com/rsms/inter\">Inter</a>，UPM 为 <a href=\"https://github.com/rsms/inter#font-metrics\">2816</a></li> <li>John Hudson 设计开发的 <a href=\"https://github.com/TiroTypeworks/Slabo\">Slabo</a>，13px 视觉字号的 UPM 为 <a href=\"https://github.com/TiroTypeworks/Slabo/blob/master/UFOs/Slabo%2013px%20b004.ufo/fontinfo.plist#L100\">780</a>，27px 视觉字号的 UPM 为 <a href=\"https://github.com/TiroTypeworks/Slabo/blob/master/UFOs/Slabo%2027px%20b002.ufo/fontinfo.plist#L100\">810</a></li> <li>TypeDrawers 论坛曾<a href=\"https://typedrawers.com/discussion/2065/units-per-em\">围绕 UPM 的数值做了大量讨论</a></li> <li>Glyphs 开发者曾在 Glyphs 用户论坛上<a href=\"https://forum.glyphsapp.com/t/upm-value-for-otf-fonts/1858\">对 UPM 的数值范围</a>做了相关解释</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "01:21:46",
+    "subtitle": "UPM",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "UPM"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>UPM (units per em) 是字体设计的基础量度。作为上期节目的补充及扩展，今天我们将从几个方面展开——基本概念、技术规范、社区讨论——以供听众了解 UPM 相关的历史遗留及最佳实践。</p> <h3>参考链接</h3> <ul> <li><a href=\"https://mp.weixin.qq.com/s/PqtYbkwi8Lxs4W-SpWkSJg\">TypeSchool 西文字体课</a>将于 7 月 24 至 31 日在上海宝山区智慧湾开办，现在即可报名</li> <li><a href=\"https://mp.weixin.qq.com/s/w5sP9uvwGEi2LSE_Fqozrg\">TypeSchool 中文字体课</a>将于 8 月 18 至 29 日在上海印刷技术研究所开办，现在即可报名</li> <li><a href=\"https://mp.weixin.qq.com/s/9FeeHAqkIOxp3TByeHXfSQ\">「谈谈写写美术字」学习班</a>，将于 8 月在上海上海市徐汇区田林路 398 号开办，现在开始招生；上海 51 人项目（51 Personae）主办，The Type 协办</li> <li>I Love Typography 开设<a href=\"https://fonts.ilovetypography.com/\">在线商店</a>，销售字体</li> <li><a href=\"https://www.renaultgroup.com/en/\">雷诺集团</a>官网已经采用新定制字体 Renault Group</li> <li><a href=\"https://black-foundry.com/work/renaultread/\">READ</a>，Black[Foundry] 为<a href=\"https://www.renaultgroup.com/\">雷诺集团</a>定制的多文种字体</li> <li><a href=\"https://www.kutilek.de/sudo-font/\">Sudo</a>，Jens Kutílek 设计的编程字体，<a href=\"https://github.com/jenskutilek/sudo-font\">在 GitHub 开源</a>；自 <a href=\"https://github.com/jenskutilek/sudo-font/releases/tag/v0.53.0\">v0.53</a> 起，另增加了比例宽度的 Sudo UI</li> <li>「设计·宇宙」（<a href=\"https://collections.musabi.ac.jp/sugiura_kohei/\">デザイン・コスモス</a>），日本<a href=\"https://mauml.musabi.ac.jp/news/20159/\">武藏野美术大学美术馆·图书馆</a>为杉浦康平设计档案制作的特别网站，免费公开</li> <li><a href=\"https://www.thetype.com/typechat/ep-155/\">字谈字畅 155</a>：没有 face 的 interface 字体</li> <li>字体排印单位 <a href=\"https://en.wikipedia.org/wiki/Em_(typography)\">em</a></li> <li>在 <a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/head\">OpenType</a> 和 <a href=\"https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6head.html\">TrueType</a> 规范中，UPM 数值均记录于 UPM (units per em) 数值记录于 'head' 表的 <code>unitsPerEm</code></li> <li><a href=\"https://docs.microsoft.com/en-us/typography/opentype/spec/glyf\">'glyf'</a> 表的 <code>xCoordinates</code> 和 <code>yCoordinates</code> 的变量类型是可变的，由此可能通过改变 UPM 而实现字体文件体积的压缩；荷兰开发者 Roel Nieskens <a href=\"https://pixelambacht.nl/2016/font-awesome-fixed/#thing-one-reducing-the-unitsperem\">曾做过相关实验</a></li> <li><a href=\"https://en.wikipedia.org/wiki/Zapfino\">Zapfino</a>，Hermann Zapf 设计的手写风格字体</li> <li>Rasmus Andersson 设计开发的 <a href=\"https://github.com/rsms/inter\">Inter</a>，UPM 为 <a href=\"https://github.com/rsms/inter#font-metrics\">2816</a></li> <li>John Hudson 设计开发的 <a href=\"https://github.com/TiroTypeworks/Slabo\">Slabo</a>，13px 视觉字号的 UPM 为 <a href=\"https://github.com/TiroTypeworks/Slabo/blob/master/UFOs/Slabo%2013px%20b004.ufo/fontinfo.plist#L100\">780</a>，27px 视觉字号的 UPM 为 <a href=\"https://github.com/TiroTypeworks/Slabo/blob/master/UFOs/Slabo%2027px%20b002.ufo/fontinfo.plist#L100\">810</a></li> <li>TypeDrawers 论坛曾<a href=\"https://typedrawers.com/discussion/2065/units-per-em\">围绕 UPM 的数值做了大量讨论</a></li> <li>Glyphs 开发者曾在 Glyphs 用户论坛上<a href=\"https://forum.glyphsapp.com/t/upm-value-for-otf-fonts/1858\">对 UPM 的数值范围</a>做了相关解释</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>&#8203;。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com&#8203;。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2021/07/TypeChat156-sq-fixed.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2021/07/TypeChat156-sq-fixed.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼"
+        }
+    ],
+    "author": "Eric, 蒸鱼",
+    "author_detail": {
+        "name": "Eric, 蒸鱼"
+    },
+    "itunes_explicit": false
+}

@@ -1,0 +1,76 @@
+{
+    "title": "#155：没有 face 的 interface 字体",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "#155：没有 face 的 interface 字体"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.thetype.com/typechat/ep-155/"
+        },
+        {
+            "length": "72375692",
+            "type": "audio/mpeg",
+            "href": "https://static.thetype.cloud/typechat/typechat155.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "https://www.thetype.com/typechat/ep-155/",
+    "published": "Tue, 06 Jul 2021 06:30:37 +0800",
+    "published_parsed": [
+        2021,
+        7,
+        5,
+        22,
+        30,
+        37,
+        0,
+        186,
+        0
+    ],
+    "id": "https://static.thetype.cloud/typechat/typechat155.mp3",
+    "guidislink": false,
+    "summary": "<p>应听众之请，本期节目将围绕界面字体 Inter 展开。为此，我们特别邀来 Anyway.FM 主播 JJ Ying 做客嘉宾，为大家深入介绍 Inter 字体的起源故事、特殊参数和丰富特性，以及设计师拉斯穆斯·安德松的相关事迹。</p> <h3>参考链接</h3> <ul> <li>拉斯穆斯·安德松（<a href=\"https://rsms.me/about/\">Rasmus Andersson</a>），瑞典设计师、开发者、摄影师，现居于美国旧金山</li> <li><a href=\"https://www.figma.com/\">Figma</a>，基于 web 的跨平台、可协作 UI 设计服务</li> <li><a href=\"https://rsms.me/inter/\">Inter</a>，拉斯穆斯·安德松设计开发的无衬线字体家族，<a href=\"https://github.com/rsms/inter/\">在 GitHub 开源</a></li> <li><a href=\"https://www.daltonmaag.com/library/interface\">InterFace</a>，Bruno Maag 和 Naïma Ben Ayed 设计的无衬线字体家族，Dalton Maag 出品</li> <li><a href=\"https://fonts.google.com/specimen/Roboto\">Roboto</a>，Christian Robertson 设计的开源无衬线字体家族，Android 的系统字体，Google 出品</li> <li>Inter 的 <a href=\"https://rsms.me/inter/#features\">OpenType 特性</a></li> <li><a href=\"https://help.fontlab.com/fontlab-vi/Font-Sizes-and-the-Coordinate-System/#the-em-and-the-upm-size\">UPM (units per em)</a>，字体设计的基础量度之一</li> <li><a href=\"https://ia.net/writer\">iA Writer</a>，一款基于 Markdown 的写作软件，其配套字体有<a href=\"https://ia.net/topics/in-search-of-the-perfect-writing-font\">特殊的字宽比例</a></li> <li>Slabo，<a href=\"https://fontsinuse.com/uses/24249/google-ads\">Google Ads 定制字体</a>，含 <a href=\"https://fonts.google.com/specimen/Slabo+13px\">13px</a> 和 <a href=\"https://fonts.google.com/specimen/Slabo+27px\">27px</a> 两款视觉字号，<a href=\"https://www.tiro.com/contact.html\">John Hudson</a> 设计开发，<a href=\"https://github.com/TiroTypeworks/Slabo\">在 GitHub 开源</a></li> <li><a href=\"https://github.com/JJYing/Anyway.12px\">Anyway.12px</a>，一款用矢量外形构建的 12px 像素风格字体，JJ Ying 设计，在 GitHub 开源</li> <li>Inter 通过「动态量度（<a href=\"https://rsms.me/inter/dynmetrics/\">dynamic metrics</a>）」提供字符间距调整量</li> <li>Apple《人机交互指南》（<cite>Human Interface Guidelines</cite>）提供了 SF Pro、SF Pro Rounded 和 New York 字体的<a href=\"https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/#tracking-values\">字号—字距对照表</a>，可供设计软件模拟系统排版的效果</li> <li>GitHub 的设计系统 <a href=\"https://primer.style/design/foundations/typography#typefaces\">Primer</a> 将 Inter 作为展示字体（display face）用于部分场景，构建信息的区分度和层级</li> <li><a href=\"https://mozilla.design/firefox/typography/\">Firefox 品牌系统</a>将 Inter 作为辅助字体（secondary typeface）用于段落文本及小号元素</li> </ul> <h3>嘉宾</h3> <ul> <li>JJ Ying：「苏州河旁小赤佬」，<a href=\"https://Anyway.FM\">Anyway.FM</a> 主播</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>​。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com​。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "<p>应听众之请，本期节目将围绕界面字体 Inter 展开。为此，我们特别邀来 Anyway.FM 主播 JJ Ying 做客嘉宾，为大家深入介绍 Inter 字体的起源故事、特殊参数和丰富特性，以及设计师拉斯穆斯·安德松的相关事迹。</p> <h3>参考链接</h3> <ul> <li>拉斯穆斯·安德松（<a href=\"https://rsms.me/about/\">Rasmus Andersson</a>），瑞典设计师、开发者、摄影师，现居于美国旧金山</li> <li><a href=\"https://www.figma.com/\">Figma</a>，基于 web 的跨平台、可协作 UI 设计服务</li> <li><a href=\"https://rsms.me/inter/\">Inter</a>，拉斯穆斯·安德松设计开发的无衬线字体家族，<a href=\"https://github.com/rsms/inter/\">在 GitHub 开源</a></li> <li><a href=\"https://www.daltonmaag.com/library/interface\">InterFace</a>，Bruno Maag 和 Naïma Ben Ayed 设计的无衬线字体家族，Dalton Maag 出品</li> <li><a href=\"https://fonts.google.com/specimen/Roboto\">Roboto</a>，Christian Robertson 设计的开源无衬线字体家族，Android 的系统字体，Google 出品</li> <li>Inter 的 <a href=\"https://rsms.me/inter/#features\">OpenType 特性</a></li> <li><a href=\"https://help.fontlab.com/fontlab-vi/Font-Sizes-and-the-Coordinate-System/#the-em-and-the-upm-size\">UPM (units per em)</a>，字体设计的基础量度之一</li> <li><a href=\"https://ia.net/writer\">iA Writer</a>，一款基于 Markdown 的写作软件，其配套字体有<a href=\"https://ia.net/topics/in-search-of-the-perfect-writing-font\">特殊的字宽比例</a></li> <li>Slabo，<a href=\"https://fontsinuse.com/uses/24249/google-ads\">Google Ads 定制字体</a>，含 <a href=\"https://fonts.google.com/specimen/Slabo+13px\">13px</a> 和 <a href=\"https://fonts.google.com/specimen/Slabo+27px\">27px</a> 两款视觉字号，<a href=\"https://www.tiro.com/contact.html\">John Hudson</a> 设计开发，<a href=\"https://github.com/TiroTypeworks/Slabo\">在 GitHub 开源</a></li> <li><a href=\"https://github.com/JJYing/Anyway.12px\">Anyway.12px</a>，一款用矢量外形构建的 12px 像素风格字体，JJ Ying 设计，在 GitHub 开源</li> <li>Inter 通过「动态量度（<a href=\"https://rsms.me/inter/dynmetrics/\">dynamic metrics</a>）」提供字符间距调整量</li> <li>Apple《人机交互指南》（<cite>Human Interface Guidelines</cite>）提供了 SF Pro、SF Pro Rounded 和 New York 字体的<a href=\"https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/#tracking-values\">字号—字距对照表</a>，可供设计软件模拟系统排版的效果</li> <li>GitHub 的设计系统 <a href=\"https://primer.style/design/foundations/typography#typefaces\">Primer</a> 将 Inter 作为展示字体（display face）用于部分场景，构建信息的区分度和层级</li> <li><a href=\"https://mozilla.design/firefox/typography/\">Firefox 品牌系统</a>将 Inter 作为辅助字体（secondary typeface）用于段落文本及小号元素</li> </ul> <h3>嘉宾</h3> <ul> <li>JJ Ying：「苏州河旁小赤佬」，<a href=\"https://Anyway.FM\">Anyway.FM</a> 主播</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>​。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com​。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+    },
+    "itunes_duration": "01:40:25",
+    "subtitle": "Inter",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.thetype.com/typechat/feed/",
+        "value": "Inter"
+    },
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://www.thetype.com/typechat/feed/",
+            "value": "<p>应听众之请，本期节目将围绕界面字体 Inter 展开。为此，我们特别邀来 Anyway.FM 主播 JJ Ying 做客嘉宾，为大家深入介绍 Inter 字体的起源故事、特殊参数和丰富特性，以及设计师拉斯穆斯·安德松的相关事迹。</p> <h3>参考链接</h3> <ul> <li>拉斯穆斯·安德松（<a href=\"https://rsms.me/about/\">Rasmus Andersson</a>），瑞典设计师、开发者、摄影师，现居于美国旧金山</li> <li><a href=\"https://www.figma.com/\">Figma</a>，基于 web 的跨平台、可协作 UI 设计服务</li> <li><a href=\"https://rsms.me/inter/\">Inter</a>，拉斯穆斯·安德松设计开发的无衬线字体家族，<a href=\"https://github.com/rsms/inter/\">在 GitHub 开源</a></li> <li><a href=\"https://www.daltonmaag.com/library/interface\">InterFace</a>，Bruno Maag 和 Naïma Ben Ayed 设计的无衬线字体家族，Dalton Maag 出品</li> <li><a href=\"https://fonts.google.com/specimen/Roboto\">Roboto</a>，Christian Robertson 设计的开源无衬线字体家族，Android 的系统字体，Google 出品</li> <li>Inter 的 <a href=\"https://rsms.me/inter/#features\">OpenType 特性</a></li> <li><a href=\"https://help.fontlab.com/fontlab-vi/Font-Sizes-and-the-Coordinate-System/#the-em-and-the-upm-size\">UPM (units per em)</a>，字体设计的基础量度之一</li> <li><a href=\"https://ia.net/writer\">iA Writer</a>，一款基于 Markdown 的写作软件，其配套字体有<a href=\"https://ia.net/topics/in-search-of-the-perfect-writing-font\">特殊的字宽比例</a></li> <li>Slabo，<a href=\"https://fontsinuse.com/uses/24249/google-ads\">Google Ads 定制字体</a>，含 <a href=\"https://fonts.google.com/specimen/Slabo+13px\">13px</a> 和 <a href=\"https://fonts.google.com/specimen/Slabo+27px\">27px</a> 两款视觉字号，<a href=\"https://www.tiro.com/contact.html\">John Hudson</a> 设计开发，<a href=\"https://github.com/TiroTypeworks/Slabo\">在 GitHub 开源</a></li> <li><a href=\"https://github.com/JJYing/Anyway.12px\">Anyway.12px</a>，一款用矢量外形构建的 12px 像素风格字体，JJ Ying 设计，在 GitHub 开源</li> <li>Inter 通过「动态量度（<a href=\"https://rsms.me/inter/dynmetrics/\">dynamic metrics</a>）」提供字符间距调整量</li> <li>Apple《人机交互指南》（<cite>Human Interface Guidelines</cite>）提供了 SF Pro、SF Pro Rounded 和 New York 字体的<a href=\"https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/#tracking-values\">字号—字距对照表</a>，可供设计软件模拟系统排版的效果</li> <li>GitHub 的设计系统 <a href=\"https://primer.style/design/foundations/typography#typefaces\">Primer</a> 将 Inter 作为展示字体（display face）用于部分场景，构建信息的区分度和层级</li> <li><a href=\"https://mozilla.design/firefox/typography/\">Firefox 品牌系统</a>将 Inter 作为辅助字体（secondary typeface）用于段落文本及小号元素</li> </ul> <h3>嘉宾</h3> <ul> <li>JJ Ying：「苏州河旁小赤佬」，<a href=\"https://Anyway.FM\">Anyway.FM</a> 主播</li> </ul> <h3>主播</h3> <ul> <li>Eric：字体排印研究者，译者，The Type 编辑</li> <li>蒸鱼：设计师，The Type 编辑</li> </ul> <p>欢迎与我们交流或反馈，来信请致 <a href=\"mailto:podcast@thetype.com\">podcast@thetype.com</a>​。如果你喜爱本期节目，也欢迎用支付宝向我们捐赠：hello@thetype.com​。</p> <p>The Type <a href=\"https://www.thetype.com/members/\" rel=\"payment\">会员计划</a>已上线，成为我们的会员，即可享受月刊通讯、礼品赠送、活动优惠以及购物折扣等权益。</p>"
+        }
+    ],
+    "image": {
+        "href": "https://www.thetype.com/wp-content/uploads/2021/07/TypeChat155-sq.png"
+    },
+    "rawvoice_poster": {
+        "url": "https://www.thetype.com/wp-content/uploads/2021/07/TypeChat155-sq.png"
+    },
+    "authors": [
+        {
+            "name": "Eric, 蒸鱼, JJ Ying"
+        }
+    ],
+    "author": "Eric, 蒸鱼, JJ Ying",
+    "author_detail": {
+        "name": "Eric, 蒸鱼, JJ Ying"
+    },
+    "itunes_explicit": false
+}

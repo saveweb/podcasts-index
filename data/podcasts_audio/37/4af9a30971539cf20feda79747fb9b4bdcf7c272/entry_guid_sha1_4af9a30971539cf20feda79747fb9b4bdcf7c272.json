@@ -1,0 +1,103 @@
+{
+    "title": "#11 为什么一夜之间这么多假新闻？",
+    "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "#11 为什么一夜之间这么多假新闻？"
+    },
+    "links": [
+        {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://etw.fm/fake-news-election"
+        },
+        {
+            "length": "39334067",
+            "type": "audio/mpeg",
+            "href": "https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/fcc36668-1ca2-4209-9a67-e912a2b068cf.mp3",
+            "rel": "enclosure"
+        }
+    ],
+    "link": "http://etw.fm/fake-news-election",
+    "id": "http://audio.xmcdn.com/group21/M03/73/9D/wKgJKFh2jRKA_X-nASaj6clO26o151.m4a",
+    "guidislink": false,
+    "published": "Thu, 12 Jan 2017 03:00:00 +0800",
+    "published_parsed": [
+        2017,
+        1,
+        11,
+        19,
+        0,
+        0,
+        2,
+        11,
+        0
+    ],
+    "authors": [
+        {
+            "name": "ETW Studio"
+        },
+        {
+            "name": "ETW Studio"
+        }
+    ],
+    "author": "ETW Studio",
+    "author_detail": {
+        "name": "ETW Studio"
+    },
+    "itunes_episodetype": "full",
+    "subtitle": "",
+    "subtitle_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": ""
+    },
+    "itunes_duration": "40:32",
+    "itunes_explicit": null,
+    "summary": "<p>过去几个月内，很多假新闻被转发了数百万次。它们大多来自欧洲小国马其顿的一个小岛，那些无所事事的年轻人借炮制这些假新闻，每月都能赚到上万美元，也蝴蝶效应一般地可能影响到了世界另一端的政治局面。新闻变得从来没有这样难以分辨。</p>",
+    "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+        "value": "<p>过去几个月内，很多假新闻被转发了数百万次。它们大多来自欧洲小国马其顿的一个小岛，那些无所事事的年轻人借炮制这些假新闻，每月都能赚到上万美元，也蝴蝶效应一般地可能影响到了世界另一端的政治局面。新闻变得从来没有这样难以分辨。</p>"
+    },
+    "tags": [
+        {
+            "term": "media literacy",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "文化",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "新闻",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        },
+        {
+            "term": "假新闻",
+            "scheme": "http://www.itunes.com/",
+            "label": null
+        }
+    ],
+    "content": [
+        {
+            "type": "text/html",
+            "language": null,
+            "base": "https://feeds.fireside.fm/shengdongjixi/rss",
+            "value": "<p>过去几个月内，很多假新闻被转发了数百万次。它们大多来自欧洲小国马其顿的一个小岛，那些无所事事的年轻人借炮制这些假新闻，每月都能赚到上万美元，也蝴蝶效应一般地可能影响到了世界另一端的政治局面。新闻变得从来没有这样难以分辨。</p>"
+        }
+    ],
+    "fireside_playerurl": "https://fireside.fm/player/v2/zS8AJ4Mi+JMX6DgEb",
+    "fireside_playerembedcode": "<iframe src=\"https://fireside.fm/player/v2/zS8AJ4Mi+JMX6DgEb\" width=\"740\" height=\"200\" frameborder=\"0\" scrolling=\"no\">",
+    "podcast_person": {
+        "email": "",
+        "href": "",
+        "role": "host"
+    }
+}
